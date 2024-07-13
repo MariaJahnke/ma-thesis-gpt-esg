@@ -1,0 +1,575 @@
+TO OUR REMUNERATION NON-FINANCIAL MANAGEMENT CONSOLIDATED FURTHER
+SHAREHOLDERS REPORT REPORT REPORT FINANCIAL STATEMENTS INFORMATION
+ABOUT THIS REPORT
+About this report
+Reporting principles information not contained in the NfR or the combined Group
+management report and management report of Brenntag SE,
+This combined separate non-financial report (NfR) for finan- and SASB and TCFD indices.
+cial year 2022 is the tenth report published by Brenntag on its
+sustainability activities since 2013. This year, the NfR has for The NfR has been audited by PricewaterhouseCoopers GmbH
+the first time been integrated into the Annual Report and will Wirtschaftsprüfungsgesellschaft (PwC) pursuant to ISAE 3000
+not therefore be published as a standalone sustainability (Revised) to obtain limited assurance. The Practitioner’s
+report. It is not part of the Group management report. Report can be found on pages 144 – 145. The NfR was also
+preliminarily analyzed and audited by the Supervisory Board’s
+This NfR is based on international standards for sustainability Audit Committee and subsequently by the entire Supervisory
+reporting and therefore takes into account the interests of Board.
+investors, customers, partners, suppliers, NGOs, employees
+and interested members of the public: Information on the business model can be found in the com-
+bined Group management report and management report of
+■ The Global Reporting Initiative (GRI, index on page 134), Brenntag SE on pages 147-148.
+■ The principles of the United Nations Global Compact
+(UNGC), In this NfR, correlations have been identified with amounts
+■ The standards issued by the Sustainability Accounting reported in the consolidated financial statements. Informa-
+Standards Board (SASB, SASB “Chemicals” standard and tion on environmental provisions amounting to EUR 108.9 mil-
+SASB “Road transportation” standard, index on page 141), lion for the clean-up of soil and groundwater at current and
+■ The standard issued by the Task Force on Climate- former, owned or leased sites can be found under note 25 to
+related Financial Disclosures (TCFD, index on page 139). the consolidated financial statements for financial year 2022.
+The TCFD looks at the financial risks that climate
+change poses to companies’ business performance. Identification of material content
+This NfR was prepared in accordance with Section 315c in The issues presented in the materiality matrix on page 99
+conjunction with Sections 289c to 289e of the German Com- form the basis for determining the NfR content. The matrix is
+mercial Code (HGB) and meets the legal requirements of the the result of a materiality analysis that was updated in 2022
+HGB. It also contains the mandatory disclosures in accordance in that the stakeholders included assessed the relevance and
+with Regulation (EU) 2020/852 of the European Parliament and the effects of the various topics. The materiality analysis was
+of the Council of 18 June 2020 on the establishment of a thus updated for the second time since it was first conducted
+framework to facilitate sustainable investment, and amend- in 2015. In order to determine the material topics for the NfR,
+ing Regulation (EU) 2019/2088 (EU Taxonomy Regulation). Brenntag adhered to the requirements of Section 289c, para.
+2 in conjunction with para. 3 of the German Commercial Code
+To provide a structured presentation of this content, Brenntag (HGB) and the Global Reporting Initiative standards. These
+has used the GRI standards as a framework. The description topics were assessed for the NfR using the following criteria:
+of the requirements under the HGB is based on the structure
+of the GRI management approaches. This structure is used in ■ Topics that are necessary to form an understanding
+the description of the materiality analysis as well as for man- of the business performance, the financial results, the
+agement approaches relating to “environmental matters”, company’s position and the effects of Brenntag’s
+“employee matters”, “respect for human rights”, “anti-corrup- activities on non-financial aspects (environmental,
+tion and bribery matters” and “responsibility in the supply social and employee matters, respect for human rights,
+chain” (GRI 3: Material Topics 2021). In addition, a GRI Content anti-corruption and bribery matters, responsibility
+Index contrasts the GRI indicators with the corresponding in the supply chain, and sustainable governance)
+passages in the report. This GRI Content Index is published ■ Topics rated between “high and very high” in at least one
+from page 134. The following disclosures are additional of the dimensions
+information and not part of this separate NfR and therefore ■ Topics that form part of Brenntag’s Group strategy and/
+not subject to the audit: the GRI Content Index, references to or its ESG strategy and the objectives contained in it.
+Annual Report 2022 Brenntag SE 92 TO OUR REMUNERATION NON-FINANCIAL MANAGEMENT CONSOLIDATED FURTHER
+SHAREHOLDERS REPORT REPORT REPORT FINANCIAL STATEMENTS INFORMATION
+ABOUT THIS REPORT
+In the reporting period, Brenntag looked closely at the mate- activities and employees’ involvement outside the NfR so that
+rial topics and updated the materiality analysis against the this important topic is addressed. In addition to the aspects
+background of the ESG strategy (please see page 99). Com- covered by the law, Brenntag has identified “Responsibility in
+pared with the previous year, there were both some linguistic the supply chain” and “Sustainable governance”. As the mar-
+changes and a revision of the scope of the list of topics. The ket leader in chemicals and ingredients distribution, Brenntag
+materiality analysis was submitted to and discussed and believes it has a responsibility to reduce negative effects with
+decided upon by the Board of Management. This materiality regard to non-financial aspects within the supply chain and
+process identified the following topics as being material to to strengthen positive effects. Among other things, Brenntag’s
+Brenntag within the meaning of the law: understanding of the topic of sustainable governance is
+that sustainability aspects are important decision criteria in
+Material topics pursuant to Section 289c, portfolio and investment decisions and on M&A projects.
+para. 2 in conjunction with para. 3 of the
+German Commercial Code Data basis and calculation
+This NfR covers Brenntag SE, which is included in the con-
+Aspects Issue and page reference
+solidated financial statements, as well as the consolidated
+subsidiaries, which are also included along with structured
+Safe handling of chemicals
+(page 107) entities. For information on the group of consolidated com-
+Combating climate change panies and consolidation method, see page 197 and page
+(page 116) 202, as well as the list of companies included in the consol-
+Waste and packaging idated financial statements, page 265. Any deviations from
+(page 121)
+these parameters are indicated in the relevant section of
+Environmental matters More sustainable products this NfR.
+(page 103)
+Circular business models
+The reporting period for this NfR covers the Brenntag Group’s
+(page 121)
+financial year 2022 (January 1, 2022 to December 31, 2022).
+Responsible use of water
+(resources) (page 122) Any deviations in the reporting periods for individual data and
+contents are noted separately.
+Climate resilience (page 104)
+Occupational health and safety
+(page 106) The contents and data provided in this report have been
+determined on the basis of internal processes. They derive
+People development and training
+Employee matters (page 111) from Brenntag’s existing management and data-recording
+Respectful and caring work systems and from company documents and have been
+environment (page 108) obtained from the operational units of Brenntag’s regions
+Compliance and corporate as well as the responsible corporate departments. The con-
+Respect for human rights governance (page 101, 112) tent of this report has been reviewed by employees with
+Anti-corruption and bribery Compliance and corporate the relevant specialist expertise.
+matters governance (page 101)
+(Not material within the meaning Boundaries of material topics pursuant to GRI
+Social matters of Section 289c, para. 3,
+sentence 1 HGB)
+The diagram on page 94 shows the boundaries of the mate-
+Responsibility Responsible supplier rial topics pursuant to the GRI. The relevant GRI standards cov-
+in the supply chain management (page 112)
+ered by each topic are also indicated. For topics that are not
+Integration of sustainability in
+Sustainable governance governance structures (page 103) covered by the GRI standards, we have referred directly to
+the corresponding management approaches in the NfR
+3.01 Material topics pursuant to Section 289c, para. 2 and, if necessary, to our website as an additional source of
+in conjunction with para. 3 of the German Commercial Code information.
+Based on the materiality analysis performed in 2022, the
+Social matters were identified as being immaterial to following overview shows an updated presentation of the
+Brenntag within the meaning of the law and were therefore material topics and boundaries.
+not included in the NfR. However, Brenntag will report on social
+Annual Report 2022 Brenntag SE 93 TO OUR REMUNERATION NON-FINANCIAL MANAGEMENT CONSOLIDATED FURTHER
+SHAREHOLDERS REPORT REPORT REPORT FINANCIAL STATEMENTS INFORMATION
+THE BUSINESS MODEL
+SUSTAINABILITY AT BRENNTAG
+The business model
+Brenntag is the global market leader in chemicals and ingre-
+dients distribution. The company plays a central role in con-
+necting customers and suppliers of the chemical industry. In
+the field of sustainability, Brenntag pursues specific goals
+and is committed to sustainable solutions in its own sector
+and the industries served. In doing so, we identify the sustain-
+ability needs of our numerous customer industries and work
+together with our suppliers to develop appropriate products
+and services. You can read more about the business model
+on page 147 of the Group management report.
+Sustainability at Brenntag
+Strategy Targets initiative (SBTi) in 2022, thereby committing to have
+its climate goals validated within the next two years. These
+As the global market leader in chemicals and ingredients are science-based, 1.5°C-aligned goals. In 2022, the company
+distribution, Brenntag aims to fulfill its responsibility and developed its sustainability vision Future Sustainable
+play a significant role in shaping the future of the industry. Brenntag and formulated an ESG strategy, from which clearly
+We support our partners in our networks and promote defined and ambitious medium- and long-term goals will be
+collaboration, excellence and shared success. derived along the value chain. Brenntag is thus taking the
+lead in shaping the sustainable future of global chemical dis-
+Sustainability has been an integral part of Brenntag’s corpo- tribution.
+rate strategy for many years now. Since as far back as 2014,
+the company has been a member of the UN Global Compact Focus areas
+and committed to its principles for human rights, labor stan-
+dards, environmental protection and fighting corruption. Through its new ESG strategy, Brenntag is paving the way to
+Since October 2014, Brenntag has been involved in Together achieve its long-term sustainability vision Future Sustainable
+for Sustainability (TfS), an initiative that works to enhance Brenntag. The strategy comprises the following six focus areas:
+sustainability in the chemical industry supply chain. In
+October 2016, Brenntag became the first chemical distributor ■ Management structures for business ethics
+to obtain full membership in TfS. ■ Portfolio and investment steering
+■ Fair and safe employer
+In 2020, the CEO signed the Global Compact Statement from ■ Responsible partner for suppliers and communities
+Business Leaders for Renewed Global Cooperation together ■ Climate protection and reduction of emissions
+with over 1,000 CEOs of companies from more than 100 coun- ■ Resource efficiency and circular economy
+tries. In 2021, Brenntag joined the global RE100 initiative,
+thereby pledging its commitment to the goal of sourcing All actions are guided by the United Nations Sustainable
+100% renewable power by 2025. Development Goals (SDGs). Brenntag has identified eight
+SDGs that are of most relevance to the company and to which
+In order to demonstrate its leading role on the journey to an it can make the greatest contribution. These eight SDGs are:
+eco-friendly and sustainable future and make an impactful good health and well-being; gender equality; affordable and
+contribution, Brenntag signed up to the Science Based clean energy; decent work and economic growth; industry,
+Annual Report 2022 Brenntag SE 95 TO OUR REMUNERATION NON-FINANCIAL MANAGEMENT CONSOLIDATED FURTHER
+SHAREHOLDERS REPORT REPORT REPORT FINANCIAL STATEMENTS INFORMATION
+GOVERNANCE
+Governance
+Management structures for In 2022, Brenntag further developed its corporate culture.
+business ethics Employees from all areas of the company were involved from
+the outset with a view to working out the core values together
+in workshops. Brenntag wishes to embed these values in day-
+to-day business and ensure that employees live the values.
+A range of digital and analog resources will be on offer in 2023
+and are intended to encourage employees to consciously
+engage with the values, discuss them within the team and use
+Values them to guide their own actions. This begins during the new
+employee recruitment process, which is shaped by the
+We at Brenntag are grateful for the trust that our business Brenntag values, continues during human resources develop-
+partners and other stakeholders place in us on a daily basis. ment and involves interaction both among employees and
+They quite rightly expect the highest level of quality, reliability with external partners.
+and efficient, innovative solutions. In order to meet these
+standards, Brenntag uses five central values to systemati- Compliance and integrity
+cally guide its actions. All business activities and business
+relationships are shaped by these values. Brenntag has traditionally attached great importance to re-
+sponsible, future-oriented and sustainable corporate gover-
+nance. In 2022, it continuously further developed its compli-
+Care ance processes in order to continue to ensure that the
+We take responsibility for each other, company and its employees comply consistently with the
+our partners and the world. laws, rules and guidelines of relevance to Brenntag. This fur-
+ther development took place, among other things through the
+organizational expansion of the compliance department, the
+Trust extension of the internal compliance reporting system and
+We build relationships through authenticity the complete redesign of the compliance intranet presence.
+and commitment. Internal audits are regularly conducted at all Group compa-
+nies to assess compliance with internal guidelines. Internal
+Audit Brenntag Group conducted a total of 28 audits in 2022.
+Clarity
+We work toward common goals with focus The Senior Vice President (SVP) Compliance Brenntag Group
+and determination. reports on a regular basis directly to the Board of Manage-
+ment, the Supervisory Board and the Audit Committee during
+the reporting period. The regionally appointed Regional Com-
+Excellence pliance Managers, who are assisted in their work by local
+We go beyond expectations through compliance contacts, regularly exchange information and
+excellence, innovation and collaboration. experience with the SVP Compliance Brenntag Group. In the
+reporting period, Compliance was further expanded both
+centrally and locally and the organizational structure was
+further developed.
+Safety
+We put safety first in everything we do.
+Brenntag attaches great importance to setting up safe and
+confidential points of contact for whistleblowers. Seventeen
+confirmed incidents were reported in the reporting period.
+3.06 Values of Brenntag SE
+Two reports of possible corrupt actions were submitted and
+Annual Report 2022 Brenntag SE 101 TO OUR REMUNERATION NON-FINANCIAL MANAGEMENT CONSOLIDATED FURTHER
+SHAREHOLDERS REPORT REPORT REPORT FINANCIAL STATEMENTS INFORMATION
+GOVERNANCE
+investigations launched. In one case, the suspicion was not Data protection
+confirmed at the end of the investigation. The investigation
+into the second report is still ongoing. Employees and third Group-wide data protection places particular requirements
+parties can access the relevant whistleblowing channels on Brenntag. Different statutory provisions have to be observed
+through the Brenntag website. at each of the Group’s international sites. At the same time, it
+is necessary to appropriately protect the interests of data
+As a global company, Brenntag is subject to a large number subjects everywhere and ensure that data protection regula-
+of local, national and international laws and regulations. It is tions are adhered to throughout the company. For this,
+the responsibility of all employees to comply with these rules the provisions of the General Data Protection Regulation and
+without exception. Examples of such internal regulations the requirements of numerous other data protection laws
+developed by Brenntag include the Code of Business Conduct (e.g. in Brazil, California [USA], China, South Africa, etc.) must
+and Ethics, the Anti-corruption Guideline and other Group be implemented and best brought into line. This requires com-
+guidelines based on the corporate values. prehensive and in particular local expertise, well-coordinated
+communication and a data protection management system
+Among other resources, the new Brenntag Compliance intra- that integrates all sites.
+net site is used to familiarize employees with relevant topics
+and provide extensive materials, guidelines and manuals. In As head of the Global Data Protection department, the Group
+addition, Brenntag offers regular training, for example, Data Protection Officer reports independently and directly to
+through the Group-wide e-learning platform in order to keep the Chief Executive Officer at regular meetings. As of this year,
+employees’ knowledge of compliance topics up to date. As an Global Data Protection falls within the area of responsibility
+example, the online training module on the Code of Business of the SVP Compliance Brenntag Group. Data protection
+Conduct and Ethics is mandatory for employees once a year. coordinators in the various regions support the Global Data
+This was completed by 94% of the relevant employees in the Protection department and report to the central unit. Data
+reporting period. In addition, employees who were designated protection recommendations and developments are regu-
+on the basis of their activity completed antitrust law training larly discussed with the departments.
+(completed by 92% of the relevant employees) and anti-
+corruption training (completed by 91% of the relevant Introduced in 2020, the global data privacy management sys-
+employees). tem (One Trust) supports and automates the documentation
+of all processing procedures worldwide, including the service
+providers involved and the corresponding risk analyses. Since
+the system was introduced, data and processes have been
+Trade compliance challenges as a result managed locally and controlled centrally. In 2022, the quality
+of the Russia-Ukraine war of documentation in One Trust was further improved and the
+data protection coordinators in the regions received training
+The war in Ukraine and its geopolitical and eco- in this regard. Further steps were taken in 2022 to drive the
+nomic consequences pose particular challenges for digitalization of data protection processes. Another point of
+Brenntag. As a distributor of chemical products and focus was providing support to the DiDEX initiatives, including
+ingredients with a global network, Brenntag has to the auditing of service providers. In addition, the project
+be mindful of a large number of rapidly changing teams involved received in-depth advice so that data protec-
+laws, embargo regulations and sanctions and tion requirements are also observed from the outset by the
+ensure that they are implemented. To enable it to teams being newly set up as Brenntag’s new data landscape
+respond to changing situations as efficiently as is developed.
+possible, Brenntag has put in place an internal crisis
+team for the Russia-Ukraine war, made up of mem-
+bers of various departments. To comply with the
+economic sanctions imposed on the Russian
+Federation, for example, Brenntag regularly reviews
+business partners with the help of a sanction
+checking system.
+Annual Report 2022 Brenntag SE 102 TO OUR REMUNERATION NON-FINANCIAL MANAGEMENT CONSOLIDATED FURTHER
+SHAREHOLDERS REPORT REPORT REPORT FINANCIAL STATEMENTS INFORMATION
+SOCIAL
+Responsible partner Measured by its total chemical spend (in EUR), Brenntag
+covered around 75% (2021: 75%) through such sustainability
+assessments or audits in the reporting period. On a particu-
+larly encouraging note, the company continues to see its
+suppliers making considerable advances in improving their
+sustainability performance. By the end of 2022, for example,
+it appeared that 69% of suppliers who underwent re-assess-
+Supply chain and human rights ment had improved their score compared with the previous
+year. This figure is particularly high in the group of suppliers
+As the global market leader in chemical and ingredients dis- that had a relatively low score of under 45 in the previous year.
+tribution, Brenntag takes its responsibility to uphold human As many as 73% of suppliers that underwent re-assessment
+rights very seriously. The company undertakes to respect and in 2022 managed to improve their score by at least one point
+defend human rights worldwide within its supply chains. compared with the previous assessment.
+These are among Brenntag’s top principles. Brenntag is a
+member of the UN Global Compact and committed to its ten Share of total chemical spend
+Share of total chemical spend in EUR (in %)
+principles for human rights, labor standards, fair remunera- in EUR (in %)
+tion, environmental protection and fighting corruption. World-
+wide, the company works to ensure fair working relationships
+25.3%
+and, as described in the ESG strategy, acts as a responsible previous year: 24.7
+partner to suppliers.
+In order to meet this aspiration, Brenntag has implemented
+numerous measures developed centrally by various depart-
+ments such as Sustainability and Compliance Brenntag 3.8%
+Group. Employees can report human rights violations via the 70.9% previous year: 4.8
+whistleblowing system. External third parties can also use this previous year: 70.6
+system. In the reporting period, Brenntag did not receive any
+reports of human rights violations within the company.
+no score score 1–44 score 45–100
+Brenntag minimizes the risk of human rights violations in its
+complex supply chains by communicating its expectations to
+3.11 Share of total chemical spend in EUR (in %)
+suppliers from the outset. In its Supplier Code of Conduct,
+Brenntag requests that they actively work to protect human
+rights within their organization. Of course, Brenntag itself also undergoes an EcoVadis as-
+sessment on a regular basis. In the most recent assessment
+Since 2016, Brenntag has been a member of the industry’s published in December 2022, the company improved on its
+Together for Sustainability (TfS) initiative. One core element previous score and achieved 77 points, the highest result in
+of the joint work within TfS involves audits or online assess- the company’s history. Brenntag was awarded the EcoVadis
+ments of companies in the chemical industry, for example. platinum medal for this result and thus ranks among the top
+The task here is always to create and leverage synergies. 1% of all companies rated by EcoVadis. On sustainable pro-
+The central idea behind the audits and assessments is that a curement, the company scores a particularly high 90 out of a
+supplier assessment can be used by all member companies, possible total of 100 points and is rated as outstanding.
+thereby reducing the cost and effort for suppliers. Here,
+Brenntag works together with EcoVadis, a leading provider of Brenntag obtains a more detailed picture of sustainability
+sustainability assessments that is well established in the performance by performing on-site supplier sustainability
+chemical industry. EcoVadis evaluates companies in terms of audits. In this case, the audits are based on a catalog of
+four categories: environment, labor and human rights, ethics requirements developed by TfS and cover sustainability
+and sustainable procurement. In doing so, it scores the com- management, the environment, health and safety, employee
+panies’ sustainability performance on a scale from 0 to 100. and human rights, and corporate governance. The results of
+In addition, each company receives a detailed overview of all audits are shared within TfS. Like the other TfS members,
+strengths and weaknesses as well as specific suggestions for Brenntag also accepts sustainability audits conducted in
+improvement.
+Annual Report 2022 Brenntag SE 112 TO OUR REMUNERATION NON-FINANCIAL MANAGEMENT CONSOLIDATED FURTHER
+SHAREHOLDERS REPORT REPORT REPORT FINANCIAL STATEMENTS INFORMATION
+SOCIAL
+accordance with SQAS (Safety and Quality Assessment
+System), SMETA (Sedex Members Ethical Trade Audit) and How Brenntag is implementing the Supply
+PSCI (Pharmaceutical Supply Chain Initiative) standards. Chain Due Diligence Act
+Brenntag reviews its suppliers’ audit results. If necessary, it
+agrees on corrective measures with the supplier and the The German Supply Chain Due Diligence Act requires
+auditor and follows up on their implementation. certain German companies to fulfill human rights
+and environmental due diligence obligations within
+In 2022, in preparation for the specific requirements of the their supply chain. Brenntag is required to apply this
+German Supply Chain Due Diligence Act, Brenntag started to act from 2024. Given that there are several thousand
+further develop its risk assessment regarding human rights suppliers and various Group companies, this pres-
+violations and environmental risks for all suppliers. In addition ents an enormous challenge, which Brenntag is fully
+to existing EcoVadis assessments or TfS audits, this will be committed to meeting. The act requires companies
+based on an innovative IT solution that works both with pub- to create maximum transparency in the supply chain
+licly accessible information (via media, for example) and with and their own area of business, carry out risk analyses
+artificial intelligence. The company has also appointed a and implement actions to prevent potential breaches
+human rights officer, who will monitor risk management, of due diligence obligations. In 2022, Brenntag
+review the effectiveness of preventive and corrective actions, set up an interdisciplinary team of experts from
+and regularly inform management about potential incidents the fields of QSHE, sustainability, compliance, legal
+in future. In the reporting period, 100% of relevant Brenntag and procurement, which deals explicitly with
+suppliers1) underwent the initial risk assessment process. In implementing the requirements.
+addition, the company will continue working to also train its
+suppliers with a greater focus on sustainability issues, to
+which end it will make greater use of the TfS Academy or
+e-learning resources, for example.
+Brenntag is continuously developing measures to further
+reduce potential risks within global supply chains. Going for-
+ward, the company will continue to constantly expand its
+commitment to respecting human rights across worldwide
+supply chains. Not least of all, Brenntag aims to have all
+suppliers covered by risk management.
+1) Brenntag defines this as suppliers with a chemical spend of more than
+EUR 1 million in a 12-month period.
+Annual Report 2022 Brenntag SE 113 TO OUR REMUNERATION NON-FINANCIAL MANAGEMENT CONSOLIDATED FURTHER
+SHAREHOLDERS REPORT REPORT REPORT FINANCIAL STATEMENTS INFORMATION
+SOCIAL
+Together for Sustainability (TfS)
+Together for Sustainability is a chemical industry initia- TfS also develops standards and guidelines for the
+tive. It wishes to make the sector more sustainable by industry, including the Product Carbon Footprint (PCF)
+gradually establishing a uniform global program for the Guideline (see Environment, page 120). This assists
+responsible procurement of goods and services in the manufacturers and suppliers in determining the envi-
+chemical industry. The aim of TfS is to increase trans- ronmental footprint of their products. Brenntag was
+parency over sustainability in the supply chain and im- involved in developing the Guideline. In addition, tai-
+prove environmental and social standards worldwide. lored learning and development courses are offered
+through the TfS Academy in order to train TfS member
+TfS was established in 2011 and currently has 40 mem- companies’ procurement teams and their suppliers in
+bers. In 2022, the member companies generated sustainability matters.
+combined revenues of over EUR 600 billion. The mem-
+bers regularly evaluate and review their suppliers by Through its involvement at TfS, Brenntag actively helps
+means of a standardized process using assessments to make the chemical industry more sustainable. The
+and audits. This information is shared confidentially interaction at workshops, the sharing of members’ best
+and used jointly within the network, which provides practices and the synergies from the EcoVadis assess-
+efficiency benefits for every member and creates ments and audits help the company to promote sustain-
+more transparency. ability across the board and worldwide.
+Annual Report 2022 Brenntag SE 114 TO OUR REMUNERATION NON-FINANCIAL MANAGEMENT CONSOLIDATED FURTHER
+SHAREHOLDERS REPORT REPORT REPORT FINANCIAL STATEMENTS INFORMATION
+ENVIRONMENT
+Training EU Taxonomy
+Brenntag delivered a series of training sessions on the circular Art. 8 EU Taxonomy Regulation
+economy in the reporting period. In rounds of discussions,
+product management and sales in the EMEA region exchange By adopting the Action Plan on Financing Sustainable Growth,
+information and ideas on the subject and seek further solu- the European Union took a decisive step to extend its commit-
+tions together. ment to climate protection and sustainable business practice
+on the financial markets. One tool in the action plan presented
+Water in March 2018 is the EU Taxonomy Regulation (EU Taxonomy).
+This uniform and legally binding classification system sets out
+Brenntag uses water in many areas of its business operations, which economic activities are regarded as environmentally
+for example to produce solutions, to clean pipe systems and sustainable and how they should be reported. The aim is to
+to cool or heat chemicals and tank facilities. The total amount steer financial flows toward green investments. Investors
+of water consumed here depends largely on the nature and should thus be able to decide whether they wish to contribute
+scope of the products handled and services provided. Water to the EU’s goals through their investments. All companies that
+consumption is therefore subject to fluctuations and differs are required to provide non-financial reporting according to
+from site to site. Section 315b et seq. of the German Commercial Code (HGB)
+have been obliged to disclose information on the implemen-
+Brenntag also consumes water in operating the buildings and tation of the EU Taxonomy since inancial year 2021.
+plants, for example in sanitary facilities or to clean surfaces,
+road tankers and buildings. The used water is treated in Against this background, in the following section, Brenntag as
+wastewater treatment facilities that purify it in line with a non-financial parent company presents the proportion of
+statutory regulations before being returned to the system. its consolidated turnover, capital expenditure (Capex) and op-
+Brenntag obtains water mainly from the public water supply erating expenditure (Opex) for the 2022 reporting period that
+network. Some sites also use other types of water supply, such is associated with Taxonomy-eligible and Taxonomy-aligned
+as rainwater or their own wells. Water consumption is not economic activities in relation to the first two environmental
+currently recorded and controlled on a Group-wide basis. objectives (climate change mitigation and climate change
+adaptation) pursuant to Art. 8 of the EU Taxonomy Regulation.
+Brenntag aims to minimize water consumption and be
+economical with water in all processes. The site in Zarate Organization of company activities
+(Argentina), for example, captures rainwater, treats it and uses
+it for industrial purposes and to extinguish fires at the site. A project team consisting of Corporate Accounting and
+In addition, Brenntag works together with non-governmental Sustainability Brenntag Group assumed responsibility for
+organizations such as Water for People with a view to imple- implementing the EU Taxonomy requirements at Brenntag.
+menting further water-saving measures. The project team analyzed all Taxonomy-eligible economic
+activities listed in the Climate Delegated Act with regard to
+In the reporting period, Brenntag prepared a risk analysis in applicability to Brenntag. The review to determine whether
+order to find out which sites could suffer water shortages as Taxonomy-eligible economic activities are also Taxonomy-
+climate change increases. aligned is carried out and documented in the Group consoli-
+dation system by the Accounting department of the respec-
+tive Group company. To ensure a uniform approach in
+reviewing alignment, the Reporting Guideline EU Taxonomy
+2022 is applied at all Brenntag Group companies.
+Annual Report 2022 Brenntag SE 122 TO OUR REMUNERATION NON-FINANCIAL MANAGEMENT CONSOLIDATED FURTHER
+SHAREHOLDERS REPORT REPORT REPORT FINANCIAL STATEMENTS INFORMATION
+ENVIRONMENT
+Key performance indicators
+Corresponding economic
+Description of the Brenntag
+activity in the EU Taxonomy
+The key performance indicators (KPIs) required to be reported activity (Annex I to the Delegated Act)
+under the EU Taxonomy include the turnover KPI, the Capex
+KPI and the Opex KPI. For the 2022 reporting period, the KPIs
+have to be disclosed in relation to Taxonomy-eligible eco- Motor vehicles
+nomic activities and Taxonomy-aligned economic activities.
+Purchase and leasing of 6.6. Freight transport services
+heavy goods vehicles for by road
+As a distributor, Brenntag generates external sales only in the freight transport
+context of one activity: the sale of chemicals and ingredients.
+Purchase, leasing, repair 3.6. Manufacture of other
+The review revealed that this economic activity is not covered and maintenance of low-carbon technologies
+by the Climate Delegated Act and is therefore not Taxonomy- industrial trucks
+eligible since trade-related activities have not been identi- Purchase and leasing of 6.5. Transport by motorbikes,
+fied by the EU as a major source of greenhouse gas emissions. passenger cars as com- passenger cars and light
+pany vehicles commercial vehicles
+In providing the service of transporting chemicals and ingre-
+Renewable energy technologies
+dients to customers, Brenntag does not generate external
+sales on a standalone basis. As a result, this is not included
+Purchase, leasing and 7.6 Installation, maintenance
+in the turnover KPI or reported as a Taxonomy-eligible activity. maintenance of renewable and repair of renewable
+The company therefore cannot present any Taxonomy- energy technologies for energy technologies
+electricity and heat
+eligible economic activities in relation to turnover. generation at Brenntag
+sites, e.g. solar panels, heat
+pumps and wind turbines
+However, Brenntag reports capital and operating expenditure
+related to the purchase of output from Taxonomy-eligible
+Buildings
+economic activities and individual measures to improve
+energy efficiency listed, which are listed in the Climate
+Construction of new 7.1. Construction of new
+Delegated Act, as Taxonomy-eligible. In addition, Taxonomy- buildings buildings
+eligible capital and operating expenditure is required to be
+presented as Taxonomy-aligned if the technical screening Acquisition and leasing of 7.7. Acquisition and ownership
+existing buildings of buildings
+criteria and minimum requirements regarding human rights,
+anti-corruption, taxation and fair competition are met pursu- Installation, maintenance 7.3. Installation, maintenance
+ant to the EU Taxonomy Regulation and the Delegated Act. and repair of energy and repair of energy
+efficiency equipment efficiency equipment
+Taxonomy-eligibility Installation and mainte- 7.4. Installation, maintenance
+nance of charging stations and repair of charging
+for electric vehicles stations for electric vehicles
+Brenntag discloses Capex and Opex related to the purchase in buildings (and parking
+spaces attached
+of output from Taxonomy-eligible and Taxonomy-aligned
+to buildings)
+economic activities and individual measures to improve
+energy efficiency listed in Annex I of the Climate Delegated 3.16 Taxonomy-eligibility
+Act (see table 3.16). In detail, on the basis of the overview of
+investment requests, the budget planning lists and the con-
+solidated reporting on Capex and Opex at Group level,
+Brenntag has identified the following purchased outputs and
+individual measures that correspond to Taxonomy-eligible
+economic activities pursuant to the EU Taxonomy and there-
+fore result in Taxonomy-eligible Capex/Opex:
+Annual Report 2022 Brenntag SE 123 TO OUR REMUNERATION NON-FINANCIAL MANAGEMENT CONSOLIDATED FURTHER
+SHAREHOLDERS REPORT REPORT REPORT FINANCIAL STATEMENTS INFORMATION
+ENVIRONMENT
+Taxonomy-alignment Avoiding significant harm and compliance with mini-
+mum requirements
+The review for Taxonomy-alignment consists of multiple steps
+that must be followed individually, with the results docu- For each economic activity that makes a substantial contri-
+mented by the Group companies. In addition to the economic bution to at least one of the environmental objectives, it is
+activity’s substantial contribution to one of the two climate- necessary to assess criteria on avoiding significant harm to
+related environmental objectives, the criteria on avoiding one or more of the six environmental objectives as well as
+significant harm to one or more of the six environmental compliance with the minimum requirements. According to the
+objectives, referred to as the ‘do no significant harm’ (DNSH) Final Report on Minimum Safeguards issued by the Platform
+criteria, and compliance with the minimum requirements on Sustainable Finance in October 2022, the latter relates to
+regarding human rights, anti-corruption, taxation and fair human rights, anti-corruption, taxation and fair competition.
+competition must also be checked. Brenntag considers all of
+its Taxonomy-eligible economic activities as purchase of out- The assessment is carried out by the department responsible
+put. Evidence in this regard is required from the supplier to at the respective Group company in cooperation with the sup-
+demonstrate that they are the result of a Taxonomy-aligned plier of the products purchased or the services received.
+activity. With regard to compliance with the minimum require-
+ments, the review must also be carried out for Brenntag SE Not all criteria for Taxonomy-alignment fulfilled
+without reference to a specific economic activity.
+As regards the purchase of output, no supplier was able to
+Substantial contribution provide information on and proof of fulfillment of all crite-
+ria for Taxonomy-alignment, i.e. substantial contribution,
+In the case of many of the economic activities relevant to avoidance of significant harm and compliance with the
+Brenntag under the Climate Delegated Act, the performance minimum requirements. As a result, it was not possible to
+of that activity already represents the substantial contribu- substantiate any Taxonomy-aligned Capex and Opex.
+tion, obviating the need for any further reviews. The installa-
+tion of solar panels or heat pumps can be given as an exam-
+ple. In the case of other economic activities, including the
+‘construction of new buildings’ or the ‘acquisition of existing
+buildings’, a more detailed review has to be carried out in
+accordance with the regulatory standard.
+Annual Report 2022 Brenntag SE 124 TO OUR REMUNERATION NON-FINANCIAL MANAGEMENT CONSOLIDATED FURTHER
+SHAREHOLDERS REPORT REPORT REPORT FINANCIAL STATEMENTS INFORMATION
+APPENDIX
+GRI standard and description References Comments and online resources
+2-20 Process to determine remuneration NfR, p. 108
+Remuneration Report, p. 49
+2-21 Annual total compensation ratio Remuneration Report, p. 49
+Strategy, policies and practices
+2-22 Statement on sustainable development NfR, pp. 90 – 91, 95, 97
+strategy
+2-23 Policy commitments NfR, p. 102
+2-24 Embedding policy commitments NfR, pp. 102 – 103
+2-25 Processes to remediate negative impacts NfR, pp. 101 – 102
+2-26 Mechanisms for seeking advice and raising NfR, p. 101
+concerns
+2-27 Compliance with laws and regulations NfR, pp. 101 – 102
+2-28 Membership associations NfR, pp. 95, 107, 111, 112, 116 Memberships | Brenntag
+Stakeholder engagement
+2-29 Approach to stakeholder engagement NfR, p. 98
+2-30 Collective bargaining agreements Due to its large number of international locations
+and the broad range of labor regulations applica-
+ble to these locations, Brenntag does not record
+this data in a consolidated Group-wide format.
+Material Topics
+GRI 3: Material Topics 2021
+3-1 Process to determine material topics NfR, pp. 93, 99
+3-2 List of material topics NfR, p. 94
+201: Economic Performance 2016
+3-3 Management of material topics Management Report, p. 152
+201-1 Direct economic value generated and distributed Key financial figures at a
+glance, p. 2, Consolidated
+Financial Statements, p. 185,
+Consolidated income
+statement, p. 186,
+Notes, p. 216
+201-3 Defined benefit plan obligations and other Consolidated Financial
+retirement plans Statements, p. 231
+204: Procurement Practices 2016
+3-3 Management of material topics NfR, pp. 112 – 114
+204-1 Proportion of spending on local suppliers Local and regional purchasing plays a role in the
+business model of a chemicals distributor, in
+particular in the area of commodities.
+205: Anti-corruption 2016
+3-3 Management of material topics NfR, pp. 101 – 102
+205-1 Operations assessed for risks related to corruption In internal audits, a total of 24 Brenntag compa-
+nies were, among other things, reviewed in
+relation to corruption risk in the reporting period.
+205-2 Communication and training about NfR, pp. 101 – 102
+anti-corruption policies and procedures
+205-3 Confirmed incidents of corruption and actions Brenntag has not received any reports on
+taken incidents for the reporting period.
+206: Anti-competitive Behavior 2016
+3-3 Management of material topics Voluntary reporting as anti-competitive behavior
+is not a material topic according to the 2022
+materiality analysis.
+206-1 Legal actions for anti-competitive behavior, Management Report,
+anti-trust, and monopoly practices p. 169, 178
+Annual Report 2022 Brenntag SE 135

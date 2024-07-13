@@ -1,0 +1,760 @@
+
+Deutsche Börse: 
+Relevance of ESG regulation on business risks
+The Group Risk Committee carries out a process to review the relevance of environmental, social and
+governance risks. The entries in the risk maps are labelled accordingly (E, S, G risk map items).
+In the field of ongoing environmental, social and governance regulation, combined with efforts to im-
+prove economic resilience, there are a number of potential risks for our data, derivatives and index busi-
+ness, particularly in view of the current geopolitical tension and economic volatility. If less ambitious
+sustainability policies lead to reduced investment in ESG products and to changes in investor prefer-
+ences, then demand for our range of ESG products and services could decline or shift. A proposal for Eu-
+ropean legislation to regulate ESG data and ratings providers is also expected in 2023. The latter could
+have an adverse impact on Institutional Shareholder Services, Inc. if the proposal includes a standardi-
+sation of methodologies for ESG ratings, and also affect other business units indirectly, such as our index
+business. In addition, if ESG regulation in the field of sustainability standards and labels is deficient or
+too prescriptive, this could cause problems and uncertainty concerning its legal status, as well as a loss
+of market confidence. A decline in confidence in such standards and labels may have an adverse impact
+on our ESG products across all business units, while an excessively prescriptive approach could inhibit
+innovation and growth in the ESG segment of our data, derivatives and index business, as well as in the
+market overall.
+If it is no longer possible to allocate capital efficiently to sustainable investments, or the calibration of
+sustainability policies and ESG regulation is not successful, this could impair the maturity, quality and
+liquidity of the market, the marketability and pricing of products, and risk management. Risks could also
+result from a lack of interoperability between European ESG regulation and global developments. Busi-
+ness risks could also be increased by far-reaching due-diligence obligations in supply and value chains,
+and so represent revenue risks.
+The Federal Financial Supervisory Authority (BaFin) regularly considers whether to classify Deutsche
+Börse AG as a financial holding company. It has currently come to the conclusion that Deutsche Börse
+AG is not a financial holding company. Classification as a financial holding company could have an im-
+pact on our capital requirements.
+Compliance – including measures against corruption and bribery
+Responsible business operations imply adherence to laws and regulations; they and are also based on
+the principle of integrity and ethically irreproachable conduct at all times. We have implemented a com-
+pliance management system (CMS) based on regulatory requirements, which aims to prevent miscon-
+duct and avoid liability and reputational risks for the Deutsche Börse Group, its legal representatives, ex-
+ecutives and staff. Beyond business-related and regulatory compliance requirements, the focus is on
+strengthening a uniform compliance culture throughout the Group, especially with a view to enhancing
+compliance awareness.
+79 
+Executive and Supervisory Boards
+Management report | Risk management
+Financial statements and notes
+Remuneration Report
+Further information
+Code of business conduct
+Our Group’s code of business conduct summarises the most important aspects with regard to corporate
+ethics and compliance as well as appropriate conduct. It is communicated to all employees in the Group
+and is available on the internet and intranet sites. Our code of business conduct summarises our core
+values and principles, which are intended to act as support for decision-making and enforce market in-
+tegrity, transparency, efficiency and security. Moreover, Group Compliance provides employees with com-
+pliance-relevant information via the corresponding intranet pages, unless this is not possible for particu-
+lar confidentiality reasons. For details regarding the principles of responsible corporate governance, see
+the section “Corporate governance statement”.
+As a member of the UN Global Compact we are committed to its principles, notably to support human
+and labour rights, to protect the environment and to work against corruption in all its forms, which in-
+cludes extortion and bribery. These principles are also an integral part of our code of business conduct,
+which also prohibits any involvement in corruption or any activities which may lead to the impression
+that the Group promises, arranges, provides, receives or asks for unlawful benefits. Bribery and facilita-
+tion payments are prohibited.
+Objectivity and integrity are the guiding principles for employees of Deutsche Börse Group. Our manage-
+ment is fully aware of their function as role models and the importance of the meaning “tone from the
+top”, which makes it possible to draw the attention of every individual employee towards managing
+compliance risks, both within the Group and among market participants. In order to sustainably anchor
+these guiding principles, and to prevent the Group and its staff from legal sanctions and reputational
+damage, Group Compliance has implemented risk-based compliance and preventive measures.
+Compliance management system
+The compliance management system – under the responsibility of, and promoted by, the Executive
+Board of Deutsche Börse AG – therefore constitutes an indispensable element of good corporate govern-
+ance with respect to compliance. Group Compliance manages the CMS as a second line of defence func-
+tion and ensures compliance with legislation, regulations and internal rules, and promotes best practice
+within the Group. In addition, Group Compliance monitors, verifies and implements compliance
+measures to mitigate risks with negative impacts (e.g. direct or indirect financial losses, regulatory pen-
+alties or reputational damage). Such a CMS provides the foundation for sustainable risk transparency;
+specifically, it facilitates the mitigation of compliance risks in the areas of money laundering/terrorism
+financing, criminal offences, data protection, corruption, market manipulation, conflicts of interest and
+insider trading, as well as monitoring of requirements concerning financial sanctions and embargoes.
+2)
+The CMS applies to Deutsche Börse AG and to the subsidiaries in Germany and abroad in which we
+hold a majority interest. Our Group-wide compliance approach is intended to ensure that our Group
+companies respect applicable legislation and regulatory requirements.
+
+The CMS is assessed at least once a year using relevant criteria to ensure it is appropriate and effective,
+and a report is presented to the Audit Committee of Deutsche Börse AG’s Supervisory Board. The criteria
+include i.a. the evaluation of compliance policies and frameworks, risk analyses, controls, training and
+the regular reporting. In addition, risk-based internal and external audits are performed to validate the
+CMS.
+To ensure that the CMS is appropriate and effective, and to reflect increasing complexity and growing
+regulatory demands, the CMS is regularly enhanced and improved. Our compliance measures enable us
+to identify, measure and manage compliance risks, particularly in the fields of money-laundering/ terror-
+ism financing, criminal offences, data protection, corruption, market manipulation, conflicts of interest,
+insider trading, financial sanctions and embargoes.
+When determining the focus and improvements of the CMS, we are guided by applicable prudential leg-
+islation and regulatory requirements, as well as by the recommendations of internationally accepted
+standards. Based on these standards, Group Compliance identifies fields of action and measures to con-
+tinuously adapt the CMS to changing requirements.
+Currently, Group Compliance is implementing the function of a Human Rights Officer to ensure that the
+requirements of the German Act on Corporate Due Diligence in Supply Chains are met.
+Compliance organisational structure
+The Group Chief Compliance Officer reports directly to the Executive Board of Deutsche Börse AG. Com-
+pliance reporting comprises the relevant compliance risks in the context of the compliance mandate, as
+well as other compliance-relevant information and activities. The Chief Compliance Officers from group
+companies that are covered by banking regulation have functional reporting lines to the Group Chief
+Compliance Officer. The same applies to the Chief Compliance Officers of Qontigo, ECC/EEX and 360T.
+ISS is regulated by the US Investment Advisers Act and has therefore set up a compliance function in
+accordance with the statutory requirements and designated a Chief Compliance Officer. In view of the
+decision to manage ISS at arm’s length, however, there is currently no functional reporting line to the
+Chief Compliance Officer of the Group. In the course of implementing a group-wide compliance ap-
+proach, the implementation of the compliance group standards is still being pursued at ISS.
+The Group Compliance Committee is an interdisciplinary committee at management level that aims to
+support and advise the respective Executive Boards and Compliance functions within Deutsche Börse
+Group on compliance topics. Committee members are the senior managers of the business units, the
+Chief Compliance Officers of group companies and representatives of the relevant control functions.
+Group Compliance also informs the committee about important compliance topics and incidents, as well
+as potential trends and regulatory developments.
+81 
+Executive and Supervisory Boards
+Management report | Risk management
+Financial statements and notes
+Remuneration Report
+Further information
+Compliance measures
+Compliance2)rules
+Group Compliance sets standards for the key compliance risks affecting all entities within the Group. In
+this context, Group Compliance devises risk-oriented measures in order to mitigate and manage identi-
+fied risks; communicates about risks and incidents as well as the effectiveness of the measures taken.
+Further Group Compliance ensures the continuous improvement of the CMS by regular adjustments to
+the relevant internal policies and processes.
+The group-wide applicable compliance policies have been implemented to ensure that the internal stake-
+holder groups and employees acting on behalf of the Group implement and follow its rules and require-
+ments. In this way, group-wide compliance violations shall be addressed preventively, detectively, and
+sanctionally. Group-wide communications via the intranet are geared towards providing employees (in-
+cluding members of the Executive Board and managers) with the necessary guidance for their daily work
+and ensuring compliance.
+Compliance training
+Regular compliance trainings are a fundamental instrument for promoting the compliance culture and
+compliance awareness across the Group. Our employees around the world are trained regularly on the
+relevant compliance topics. Our compliance trainings particularly cover the topics of money-laundering/
+terrorism financing, criminal offences, ethics, data protection, corruption, market manipulation, conflicts
+of interest, insider trading, financial sanctions and embargoes. Our management, that is exposed to a
+higher compliance risk by virtue of their work receive additional training as required. Participation in
+above mentioned trainings is mandatory for our employees, as well as for management.
+Whistleblowing2)system
+We support, by lived compliance awareness, an open approach towards managing misconduct. For this
+reason, employees are encouraged to address their concerns directly to the responsible line manager, HR
+or to Group Compliance. Deutsche Börse Group’s whistleblowing system (BKMS) offers an additional
+and anonymous channel for reporting potential or confirmed breaches of prudential or regulatory require-
+ment and ethical standards. Employees, service providers and third parties can submit reports via tele-
+phone or e-mail. The anonymity of whistleblowers is guaranteed at all times.
+Analysis of compliance risks
+In line with regulatory requirements, we carry out risk analyses regularly and, if needed, on an ad hoc
+basis in order to be able to understand and assess relevant compliance risks and to derive risk mitigating
+measures based on the results. Such risk analyses and assessments comprise the Group’s own business
+activities as well as business relationships, market participants, products and services.
+A Group-wide compliance risk assessment framework was implemented last year to standardise the pro-
+cess of identifying, analysing and assessing compliance risks within the Deutsche Börse Group. The de-
+veloped methodology is to be applied for the first time in 2023.
+82 
+Executive and Supervisory Boards
+Management report | Risk management
+Financial statements and notes
+Remuneration Report
+Further information
+In the context of the current geopolitical events in Ukraine and the resulting potential economic policy
+consequences, Group Compliance continues to analyse which risks could have an impact in the individ-
+ual business areas and which measures need to be taken and implemented. This concerns all risks for
+Group companies that have business relationships with companies based in the affected countries
+(Ukraine, Russia), hold assets or have other connections of both an economic and technical nature. The
+Group has implemented a robust and flexible system to manage any sanctions and embargo risks. Dedi-
+cated sanctions experts monitor current developments carefully and are in regular contact with stake-
+holders and the business areas of the Deutsche Börse Group in order to be able to react to restrictions in
+a timely manner.
+
+Number of justified customer complaints relating to data protection 0 0
+1) All employees of Deutsche Börse Group must repeat the web-based ABC training every two years. Since the update and completion of the training takes place in
+odd years, the number of completed trainings in the even year 2022 is significantly lower.
+Regulatory capital requirements and regulatory capital ratios
+Clearstream Banking S.A., Clearstream Banking AG and Eurex Clearing AG, in their capacity as credit
+institutions, are subject to solvency supervision by the German or Luxembourg banking supervisory au-
+thorities (Bundesanstalt für Finanzdienstleistungsaufsicht, BaFin, and Commission de Surveillance du
+Secteur Financier, CSSF, respectively). The same applies to the Clearstream Holding at a regulatory
+group level. Eurex Repo GmbH and 360 Treasury Systems AG are also subject to specific provisions ap-
+plicable to investment firms.
+Nodal Clear, LLC is a Derivatives Clearing Organisation (DCO) subject to regulation by the US Commod-
+ity Futures Trading Commission (CFTC).
+Crypto Finance (Brokerage) AG is authorised as securities firm according to Article 41 of the Swiss Fed-
+eral Act on Financial Institutions (FinIA) while Crypto Finance (Asset Management) AG is authorised as
+manager of collective investments according to the Swiss Collective Investment Schemes Act (CISA).
+Both are subject to the supervision by the Swiss Financial Market Supervisory Authority (FINMA).
+Market risk exposure only results from relatively small open foreign currency positions.
+The following table shows the regulatory own funds requirements per risk category which are derived
+from the risk exposure amount with a capital ratio of 8%.
+
+1) Clearstream Banking AG’s previous year’s figures were updated based on the previous-year’s audited financial statements.
+No capital contributions were made in 2022, but they are planned for the years ahead in order to
+strengthen the capital base. In February 2023, Clearstream Banking AG carried out a capital injection of
+€30.0 million. The reason for the strengthening of the capital base is primarily a change in the interpre-
+tation of capital requirements by the supervisory authorities.
+Regulatory capital ratios according to CRR
+
+1) Clearstream Banking AG’s previous year’s figures were updated based on the previous-year’s audited financial statements.
+2) According to Art. 26 Abs. 1 (a) CRR, capitel insturments must comply with the requirements pursuant to Art. 28 CRR. As of 31 December 2021, the profit and loss
+transfer agreement between Eurex Clearing AG and Eurex Frankfurt AG did not comply with the discretion under Art. 28 (3) (d) CRR. Therefore, the regulatory own funds
+were reduced subsequently as per 31 December 2021 to the amount of subscribed capital of €25.0 million. Furthermore, previous year’s own funds requirements were
+adjusted.
+Clearstream Banking AG’s capital requirements according to CSDR are currently significantly above CRR
+and CRD IV capital requirements. The capital requirements under Article 47 CSDR do not stipulate a
+specific ratio. Instead, the total of share capital and reserves is compared with the capital requirements
+and has to be at least the same.
+84 
+Executive and Supervisory Boards
+Management report | Risk management
+Financial statements and notes
+Remuneration Report
+Further information
+Capital adequacy requirements under CSDR
+
+
+1) As the annual financial statements of Deutsche Börse AG and Deutsche Börse Group are published prior to the finalization of Clearstream Banking S.A.'s and Clear-
+stream Banking AG's approved annual financial statements, the calculation of the other CSDR capital requirements have been based on the previous year’s ap-
+proved annual financial statements.
+Capital adequacy requirements under EMIR
+European Commodity Clearing
+
+1) Previous year adjusted
+The Investment Firm Regulation requires 360 Treasury Systems AG as an investment firm of category 2
+to hold own funds of the higher of a) 25 per cent of the fixed overheads, b) a fixed minimum initial capi-
+tal requirement of the entity or c) the capital requirements calculated based on the K factors. Eurex Repo
+GmbH determines its own funds requirements according to its classification as small and non-intercon-
+nected investment firm based on the higher of a) or b) as described above. The capital requirement for
+360T and also for the Eurex Repo currently corresponds to 25 per cent of the respective fixed overheads
+of the previous year.
+Composition of own funds/capital requirements
+
+1) According to Art. 26 Abs. 1 (a) CRR, capital instruments must comply with the requirements pursuant to Art. 28 CRR. As of 31 December 2021, the profit and loss
+transfer agreement between Eurex Clearing AG and Eurex Frankfurt AG did not comply with the discretion under Art. 28 (3) (d) CRR. Therefore, the regulatory own funds
+were reduced subsequently as per 31 December 2021 to the amount of subscribed capital of €25.0 million. Furthermore, previous year’s own funds requirements were
+adjusted.
+Compliance with own funds requirements
+
+The regulatory minimum requirements were complied with at all times by all companies during the re-
+porting period and in the period up to the preparation of the consolidated financial statements.2)2)
+86 
+Executive and Supervisory Boards
+Management report | Risk management
+Financial statements and notes
+Remuneration Report
+Further information
+Overall assessment of the risk situation by the Executive Board
+Summary
+The risk profile of Deutsche Börse Group did not change significantly in the 2022 financial year. All
+known impacts of the geopolitical and macroeconomic developments were actively managed within the
+Group and potential new risks were analysed on an ongoing basis. The aggregate total risk of Deutsche
+Börse Group comprising of all risk types (operational, financial, pension and business risk) was always
+matched by sufficient covered funds. As of 31 December 2022, Deutsche Börse Group’s required eco-
+nomic capital (REC) amounted to €1,754 million, an almost 4 per cent decline year on year (31 De-
+cember 2021: €1,827 million, measured with a 99.9 per cent confidence level). It is covered by a risk-
+bearing capacity of €7,742 million.
+No significant change in the risk situation of the Group is foreseeable for the Executive Board at the pre-
+sent time.
+Outlook
+Deutsche Börse Group continually assesses its risk situation. Based on the calculated REC in stress tests
+and based on the risk management system, Deutsche Börse AG’s Executive Board concludes that the
+available risk cover amount and the available liquidity are sufficient. There is currently no indication that
+the risk coverage amount has to be adjusted for 2023. Furthermore, it cannot identify any risk that
+would endanger the Group’s existence as a going concern.
+In 2023 we intend to continue strengthening and expanding its risk management and internal control
+system (ICS). This includes, for example, the expansion of information security management, ongoing
+methodological improvements in risk management and the ICS, and a closer coordination between con-
+trol functions, also by means of a Groupwide governance, risk and compliance tool.
+87 
+Executive and Supervisory Boards
+Management report | Report on expected developments
+Financial statements and notes
+Remuneration Report
+Further information
+In addition, on 9 February 2023, we announced a new strategic partnership with Google Cloud to en-
+hance, economize and concentrate Deutsche Börse Group’s cloud adoption. Google Cloud will become
+our preferred partner for the next ten years and help to further enhance the group’s cloud adoption and
+efficiency. Specifically, we will leverage Google Cloud’s secure infrastructure and leading data and analyt-
+ics capabilities to accelerate the development of our digital securities platform D7, innovate our digital
+asset market operations, and enhance our data distribution and data use cases in the cloud.
+As already stated, distributed ledger technology (DLT) represents another technological opportunity. It is
+considered a disruptive technology at times – but at present, the financial services sector is increasingly
+exploring its opportunities. Thanks to its decentralised nature, it facilitates direct interaction between par-
+ticipants, thus offering the potential for simplifying complex processes. Established market infrastructure
+providers such as Deutsche Börse Group, which covers the entire value creation chain from a single
+source, play an important role when it comes to tapping this potential – meeting existing industry stand-
+ards at the same time. Besides legal and regulatory requirements, this also involves adhering to security
+standards, as well as limiting risks and ensuring cost efficiency. This enables, e.g., the development of
+digital issuance of financial products via the D7 platform which shortens the extensive and multi-day is-
+suance process to just a few minutes. The enhancement of D7 platform with decentral capabilities, in
+line with the respective regulations and market interest, could complement the offer in further jurisdic-
+tions. Like this, the central securities depository is creating a fully digital alternative to conventional se-
+curities issuance. Kreditanstalt für Wiederaufbau (KfW) is the first issuer to have launched a digital fixed-
+income bond in the form of central register security based on the German Electronic Securities Act
+(eWpG) in December 2022.
+M&A growth opportunities2)
+Inorganic growth is an equally important part of Compass 2023. We focus on areas that are closely re-
+lated to our strategic growth areas, which include the data, index and analytics business, ESG, commod-
+ities, forex trading, fixed income trading and investment fund services. The aim is to accelerate growth in
+these areas by means of mergers and acquisitions and make our businesses even more scalable.
+11. Report on expected developments
+The forecast describes our expected performance in the 2023 financial year. It contains statements and
+information on events in the future and is based on the company’s expectations and assumptions at the
+time of publication of this corporate report. In turn, these are subject to known and unknown opportuni-
+ties, risks and uncertainties. Numerous factors, many of which are outside the company’s control, influ-
+ence the Group’s success, its business strategy and its financial results. Should opportunities, risks or
+uncertainties materialise, or should one of the assumptions made turn out to be incorrect, the Group’s
+actual performance could deviate either positively or negatively from the expectations and assumptions
+contained in the forward-looking statements and information contained in this report on expected devel-
+opments.
+91 
+Executive and Supervisory Boards
+Management report | Report on expected developments
+Financial statements and notes
+Remuneration Report
+Further information
+Developments in the operating environment
+Macroeconomic environment
+Economic growth slowed significantly over the course of 2022. This was due partly to the macroeco-
+nomic effects of Russia’s war of aggression against Ukraine. High inflation rates and risks to energy sup-
+plies also played a role. In the forecast period we expect a further deterioration in the conditions for eco-
+nomic growth. An end to the war in Ukraine, a sustainable solution for energy supplies or looser
+monetary policy by central banks as a result of lower inflation rates could have a positive impact on fu-
+ture economic performance, however.
+Future development of results of operations
+Given our diversified business model and multiple sources of revenue, and despite the tense macroeco-
+nomic environment, we believe we are very well positioned to further improve our earnings in the me-
+dium and long term. This expectation is based partly on the secular growth opportunities that we intend
+to exploit (for details, see the “Report on opportunities”), as well as on additional forecast inorganic
+growth.
+In line with our strategy, we assume that net revenue will increase by at least 5 per cent in the forecast
+period on the basis of secular growth opportunities. We are driving this growth through investment. By
+doing so, we aim to shift further market share from over-the-counter trading and clearing to the on-ex-
+change segment and to further expand our positions in existing asset classes by introducing new prod-
+ucts and functionalities and acquiring new customers. Thanks to the very good cyclical performance in
+2022, higher market volatility and rising interest rates, we assume that the cyclical net revenue contri-
+bution will either be only slightly positive or even negative in the forecast period. This depends largely on
+future changes in market volatility and interest rates, particularly with regard to net interest income from
+banking business. In total, we therefore anticipate net revenue in the €4.5–4.7 billion range for the fore-
+cast period.
+Within the context of our growth strategy, we pursue clearly defined principles for managing operating
+costs. We achieve the necessary flexibility largely by making continuous improvements to our operating
+processes. This enables us to manage operating costs partly in line with net revenue growth. In the fore-
+cast period, we expect earnings before interest, tax, depreciation and amortisation (EBITDA) to increase
+to €2.6–2.8 billion.
+Forecast for results of operations 2023
+Basis 2022 Forecast 2023
+€m €bn
+Net revenue 4,337.6 4.5–4.7
+Earnings before interest, tax, depreciation and amortisation (EBITDA) 2,525.6 2.6–2.8
+92 
+Executive and Supervisory Boards
+Management report | Report on expected developments
+Financial statements and notes
+Remuneration Report
+Further information
+Development of non-financial performance indicators
+Initiatives to promote the transparency and security of the markets will continue to be a key focus during
+the forecast period, ensuring that we add value for society. As far as the forecast development of non-
+financial performance indicators for 2023 is concerned, system availability (customer facing IT) was
+brought back into line with the high targets by means of additional back-up measures, which became
+part of everyday operations. We therefore expect that the system availability (customer facing IT) will re-
+main high in the forecast period.
+Being an attractive employer is important for our sustained success. We want to attract top talents and
+retain them for the long term. The measures described in the chapter “Our employees” put us in a good
+position and we are confident that we can maintain or improve on our employee satisfaction of more
+than 71.5 per cent.
+Deutsche Börse AG’s Executive Board has defined target quotas for women on the two management lev-
+els beneath the Executive Board, in accordance with section 76 (4) of the AktG, in each case referring to
+Deutsche Börse AG. By 31 December 2023, the proportion of women holding positions in the first and
+second management levels beneath the Executive Board is planned to reach 15 per cent and 27 per
+cent, respectively.
+Moreover, on a global group level the Executive Board adopted a voluntary commitment to increase the
+share of women holding upper management positions to 23 per cent by the end of 2023, and of women
+holding lower management positions to 33 per cent during the same period. We have extended the
+scope of our voluntary commitment over and above the legal requirements.
+The assessment of independent ESG rating agencies is an important benchmark for our ESG efforts. We
+continuously analyse our performance and take action accordingly. Over the forecast period we expect
+that we will be able to maintain our good position above the 90th percentile of the ESG ratings.
+Targets for non-financial key performance indicators 2023
+Basis 2022 Target 2023
+System availability (customer facing IT) >99.9% >99.5%
+Employee satisfaction 73% >71.5%
+Women in leadership positions1 23% >23%
+ESG ratings 98th percentile >90th percentile
+1) Group-wide target in senior management
+93 
+Executive and Supervisory Boards
+Management report | Report on post-balance sheet date events
+Financial statements and notes
+Remuneration Report
+Further information
+Development of the financial position
+We expect that cash flow from operating activities, which is our primary source of financing, will remain
+significantly positive in future. We expect that two significant factors will influence changes in liquidity:
+Firstly, we plan to invest around €300 million in intangible assets and property, plant and equipment at
+Group level. These investments will serve primarily to develop new products and services in our growth
+areas and to enhance existing ones. Secondly, we will propose a dividend of €3.60 per share to the An-
+nual General Meeting to be held in May 2023. This would represent a cash outflow of about
+€661,6 million. Apart from the above, we did not expect any other material factors to impact the
+Group’s liquidity at the time the combined management report was prepared. As in previous years, we
+assume that we will have a sound liquidity base in the forecast period due to positive cash flow from op-
+erating activities, adequate credit lines (for details see “note 25 to the consolidated financial state-
+ments”), and our flexible management and planning systems.
+We generally aim to distribute dividends equivalent to between 40 and 60 per cent of net profit for the
+period attributable to the shareholders of Deutsche Börse AG. Within this range, we manage the actual
+distribution ratio mainly in relation to our business performance and based on continuity considerations.
+In addition, we plan to invest the remaining available funds primarily in the continued inorganic develop-
+ment of the Group. Should we be unable to invest these funds, additional distributions, particularly
+share buy-backs, represent another opportunity for the use of funds. To maintain its strong credit ratings
+at Group level, we aim for a ratio of net debt to EBITDA of no more than 1.75, and a ratio of free funds
+from operations to net debt of at least 50 per cent.
+Overall assessment by the Executive Board
+We believe the Group remains very well positioned in terms of international competition, thanks to its
+broadly diversified offering along the securities trading value chain and its innovative strength. This being
+the case, we expect to see a positive trend in our results of operations over the long term. Measures
+taken as part of our growth strategy should further accelerate this growth. In this context, we aim to be-
+come more agile and effective and sharpen our client focus, in order to become the global market infra-
+structure provider of choice, with a top ranking in all our business areas. We endeavour to expand our
+structural growth areas further, and to increase their contribution to net revenue again by at least 5 per
+cent. Taking cyclical effects into account, we are planning an increase in net revenue to €4.5–4.7 billion
+in the forecast period. We expect EBITDA to go up to €2.6–2.8 billion in the forecast period. Overall, on
+this basis we assume that cash flow from operating activities will be clearly positive and that, as in pre-
+vious years, the liquidity base will be sound. The overall assessment by the Executive Board is valid as
+at the publication date for this combined management report.
+12. Report on post-balance sheet date events
+There are no material events to report.
+94 
+Executive and Supervisory Boards
+Management report | Corporate governance statement
+Financial statements and notes
+Remuneration Report
+Further information
+13. Corporate governance statement
+Deutsche Börse Group attaches great importance to the principles of good corporate governance and
+control. In this statement, we report on corporate governance at Deutsche Börse AG in accordance with
+principle 23 of the Deutscher Corporate Governance Kodex (the “Code”, German Corporate Governance
+Code). The statement contains the corporate governance statement pursuant to section 315d in conjunc-
+tion with section 289f of the Handelsgesetzbuch (HGB, German Commercial Code).
+Declaration of Conformity pursuant to section 161 Aktiengesetz (AktG, German Stock Corporation
+Act)
+On 7 December 2022, the Executive Board and Supervisory Board of Deutsche Börse AG issued the fol-
+lowing Declaration of Conformity:
+“Declaration by the Executive Board and the Supervisory Board of Deutsche Börse AG regarding the Ger-
+man Corporate Governance Code in accordance with section 161 of the German Stock Corporation Act
+All recommendations of the German Corporate Governance Code (GCGC) in the current version dated 28
+April 2022, which was published in the Federal Gazette on 27 June 2022, are currently complied with
+and shall continue to be complied with in the future.
+Since the last declaration of conformity was issued on 8 December 2021, all recommendations of the
+GCGC in the version dated 16 December 2019, which was published in the Federal Gazette on 20
+March 2020, have also been complied with.
+The annual declaration of conformity pursuant to section 161 of the AktG can also be found online at
+www.deutsche-boerse.com > Investor Relations > Corporate Governance > Declaration of Conformity.
+The declarations of conformity for the past five years are also available there.
+Disclosures on overriding statutory provisions
+The Executive Board and Supervisory Board of Deutsche Börse AG declare in accordance with recom-
+mendation F.4 GCGC that recommendation D.4 GCGC was not applicable to the company in 2022 be-
+cause of the overriding statutory requirement of section 4 b of the German Stock Exchange Act. Recom-
+mendation D.4 GCGC states that the Supervisory Board shall form a Nomination Committee composed
+exclusively of shareholder representatives. In accordance with section 4 b of the German Stock Exchange
+Act, however, the Nomination Committee also assists the Supervisory Board of Deutsche Börse AG in
+selecting candidates for the Executive Board. As this task shall not be performed exclusively by share-
+holder representatives of the Supervisory Board, and in line with the practice to date, the Nomination
+Committee also includes employee representatives.
+Disclosures on suggestions of the Code
+The GCGC consists of both recommendations (denoted in the text by the use of the word “shall”), which
+are reported in the Declaration of Conformity in accordance with section 161 of the AktG, and sugges-
+tions (denoted in the text by the use of the word “should”). Deutsche Börse AG fully complies with them.
+Publicly available information in accordance with section 289f (2) no. 1a of the HGB
+The current remuneration report and the auditors’ statement pursuant to section 162 of the AktG, the
+underlying remuneration system pursuant to section 87a (1) and (2) sentence 1 of the AktG as well as
+95 
+Executive and Supervisory Boards
+Management report | Corporate governance statement
+Financial statements and notes
+Remuneration Report
+Further information
+the latest resolution on remuneration pursuant to section 113 (3) of the AktG are available at
+www.deutsche-boerse.com > Investor Relations > Corporate Governance > Remuneration.
+Information on corporate governance practices
+Conduct policies
+Deutsche Börse Group’s global orientation means that binding policies and standards of conduct must
+apply at all of the Group’s locations around the world. Specifically, the main objectives of these princi-
+ples for collaboration are to ensure responsibility, respect and mutual esteem. The Group also adheres to
+these principles when implementing its business model. Communications with clients, investors, em-
+ployees and the general public are based on timely information and transparency. In addition to focusing
+on generating profit, Deutsche Börse Group’s business is managed sustainably in accordance with recog-
+nised legal, social and ethical standards.
+Code of business conduct
+Acting responsibly means having values that are shared by all employees throughout the Group.
+Deutsche Börse AG therefore has a code of business conduct that is reviewed every year. This docu-
+ment, which is adopted by the Executive Board and applies throughout the Group, defines the founda-
+tions of key ethical and legal standards, including – but not limited to – the following topics:
+3) Compliance with legislation and regulations; whistleblowing
+3) Confidentiality and the handling of sensitive information
+3) Conflicts of interest
+3) Prevention of insider trading and market manipulation; personal account dealings
+3) Prevention of corruption
+3) Risk management
+3) Environmental awareness
+3) Equal opportunities and protection against undesirable behaviour
+3) Corporate responsibility; human rights; ethical conduct
+The code of business conduct applies to members of the Executive Board, all other executives and all
+employees of Deutsche Börse Group. In addition to specifying concrete rules, the code of business con-
+duct provides general guidance as to how employees can contribute to implementing the defined values
+in their everyday working life. The goal of the code of business conduct is to provide guidance on work-
+ing together in the company on a day-to-day basis, to help resolve any conflicts and to resolve ethical
+and legal challenges. All newly hired employees receive the code of business conduct as part of their
+employment contract documentation. The code of business conduct is an integral part of the relationship
+between employer and employees at Deutsche Börse Group. Breaches may lead to disciplinary action.
+The document is available at www.deutsche-boerse.com > Responsibility > Sustainability > Our em-
+ployees > Guiding principles.
+Code of conduct for suppliers
+Deutsche Börse Group not only requires its management and staff to adhere to high standards – it de-
+mands the same from its suppliers and service providers. The code of conduct for suppliers requires
+them to respect human rights and environmental regulations and to comply with minimum standards in
+these areas. The minimum standards also incorporate the requirements of the German Lieferkettensorg-
+faltspflichtengesetz (Supply Chain Due Diligence Act) and the UK Modern Slavery Act. Service providers
+and suppliers must sign this code of conduct or enter into an equivalent voluntary commitment before
+96 
+Executive and Supervisory Boards
+Management report | Corporate governance statement
+Financial statements and notes
+Remuneration Report
+Further information
+they can do business with Deutsche Börse Group. The code of conduct for suppliers is reviewed regu-
+larly in the light of current developments and amended if necessary. It can be found at www.deutsche-
+boerse.com > Responsibility > Sustainability > Our social environment > Procurement.
+Sustainability and values
+Deutsche Börse Group’s business activities are based on the legal frameworks and ethical standards of
+the different countries in which the Group operates. A key way in which we underscore the values we
+consider important for the Deutsche Börse Group is by joining initiatives and organisations that advocate
+generally accepted ethical standards. Relevant memberships are as follows:
+United Nations Global Compact www.unglobalcompact.org: this voluntary business initiative estab-
+lished by the United Nations aims to achieve a more sustainable and more equitable global economy. At
+the heart of the compact are ten principles covering the areas of human rights, labour, environment pro-
+tection and anti-corruption. Deutsche Börse Group has submitted annual communications on progress
+(COPs) on its implementation of the UN Global Compact since 2009.
+Diversity Charter www.charta-der-vielfalt.de: as a signatory to the Diversity Charter, the company has
+committed to acknowledging, respecting and promoting the diversity of its workforce, customers and
+business associates – irrespective of their age, gender, disability, race, religion, nationality, ethnic back-
+ground, sexual orientation or identity.
+International Labour Organization www.ilo.org: this UN agency is the international organisation re-
+sponsible for drawing up and overseeing international labour standards; it brings together representatives
+of governments, employees and employers to promote the joint development of policies and pro-
+grammes. Deutsche Börse Group has signed up to the ILO’s labour standards and hence has agreed to
+abide by them.
+Sustainability in corporate governance
+Sustainability is of significant importance for the corporate strategy of Deutsche Börse Group. It is there-
+fore an essential element of corporate governance at the level of both the Executive Board and the Super-
+visory Board. The Executive Board of Deutsche Börse AG takes all strategic decisions concerning sus-
+tainability matters at Deutsche Börse Group. It is supported by the cross-functional Group Sustainability
+Board, which is chaired by the CFO. The Group Sustainability Board is the central management board
+for sustainability topics in the Deutsche Börse Group. It deals with company initiatives relating to envi-
+ronmental, social and governance topics (ESG). One of the Group Sustainability Board’s particular re-
+sponsibilities is to ensure that sustainability is incorporated into the company strategy. This includes ad-
+vising on and monitoring the integration of sustainability into corporate planning and controlling. The
+Group ESG Strategy team, which reports to the CEO, provides support by coordinating overarching ESG
+product initiatives, managing the ESG reporting and continuously monitoring the ESG profile and climate
+strategy of the Deutsche Börse Group.
+At the level of the Supervisory Board the responsibilities of the former Strategy Committee were ex-
+panded in 2021 to reflect the strategic importance of sustainability and it was renamed the Strategy and
+Sustainability Committee. In addition to embedding ESG in the work of the Supervisory Board in this
+way, it is particularly important for the board as a whole and in the other Supervisory Board committees,
+especially the Audit Committee, the Risk Committee and the Nomination Committee. Current, relevant
+sustainability aspects also form part of the training programme for the Executive Board and Supervisory
+Board and are dealt with in workshops and seminars.
+97 
+Executive and Supervisory Boards
+Management report | Corporate governance statement
+Financial statements and notes
+Remuneration Report
+Further information
+To promote the sustainable development of the Deutsche Börse Group, ESG targets are an integral part
+of the remuneration system for the Executive Board. Details of the Executive Board remuneration system
+can be found in the “Remuneration report”.
+Further information on this subject can be found online at www.deutsche-boerse.com > Responsibil-
+ity > Sustainability. More information about the Supervisory Board committee Strategy and Sustainability
+can be found in the chapter “Supervisory Board committees”. Details of the work carried out by the
+Strategy and Sustainability Committee are included in the “Supervisory Board Report”.
+Sector-specific policies
+Deutsche Börse Group’s pivotal role in the financial sector requires that it handles information – and es-
+pecially sensitive data and facts – responsibly. A number of rules are in force throughout the Group to
+ensure that employees comply with this. They comprise both statutory and internal rules that can be
+adapted specifically to individual industry segments. They include policies on whistleblowing, risk man-
+agement and the internal control system.
+Whistleblowing system
+Deutsche Börse Group plays an active role in the fight against breaches of rules and regulations. One
+example is Deutsche Börse Group’s whistleblowing system, which provides a channel to report non-
+compliant behaviour. Deutsche Börse Group uses the Business Keeper Monitoring System (BKMS®), an
+online application that enables employees, clients and third parties to report matters that could be crimi-
+nal offences and incidents of non-compliance by employees or third parties concerning the business of
+Deutsche Börse Group. Reports can be made in their own name or anonymously and can be made
+around the clock.
+Further information regarding the whistleblowing system can be found at www.deutsche-boerse.com >
+Our Company > Contact > Whistleblower system.
+Risk and control management policies and principles
+Functioning control systems are an important part of stable and sustainable business processes.
+Deutsche Börse Group’s enterprise-wide control systems are embedded in an overarching framework.
+This comprises, among other things, the legal requirements, the recommendations of the German Corpo-
+rate Governance Code, international regulations and recommendations and other company-specific poli-
+cies. The executives responsible for the different elements of the control system are in close contact with
+each other and with the Executive Board. Key aspects of its design and implementation are also reported
+regularly to the Supervisory Board or its committees. Equally, the Group has an enterprise-wide risk
+management system that covers and provides mandatory rules for functions, processes and responsibili-
+ties. The internal control system and risk management system also cover sustainability-related targets.
+Details of the internal control system and risk management at the Deutsche Börse Group can be found in
+the “Risk management” section.
+From its examination of the internal control and risk management system and the reports of the Internal
+Audit function regarding its risk-oriented and process-independent controls conducted, the Executive
+Board does not have any indications which would result in reservations regarding the appropriateness
+and efficacy of the systems.
+98 
+Executive and Supervisory Boards
+Management report | Corporate governance statement
+Financial statements and notes
+Remuneration Report
+Further information
+Working practices of the Executive Board and the Supervisory Board
+An important fundamental principle of the German Stock Corporation Act is the dual board system –
+which assigns separate, independent responsibilities to the Executive Board and the Supervisory Board.
+These responsibilities and their implementation at Deutsche Börse AG are set out in detail in the follow-
+ing paragraphs.
+Both boards perform their duties in the interests of the company and with the aim of achieving a sus-
+tainable, long-term increase in value. Their actions are based on the principle of responsible corporate
+governance. Therefore, Deutsche Börse AG’s Executive Board and Supervisory Board work closely to-
+gether in a spirit of mutual trust, with the Executive Board providing the Supervisory Board with compre-
+hensive information on the company’s and the Group’s position and the course of business in a regular
+and timely manner. In addition, the Executive Board regularly informs the Supervisory Board concerning
+issues relating to corporate planning, the risk situation and risk management, compliance and the com-
+pany’s control systems. The strategic orientation of the company is examined in detail and agreed upon
+with the Supervisory Board. Implementation of the relevant measures is discussed at regular intervals.
+The Chief Executive Officer reports to the Supervisory Board without undue delay, orally or in writing, on
+matters that are of special importance to the company.
+In addition, the CEO keeps the Chair of the Supervisory Board continuously and regularly informed of the
+current developments affecting the company’s business, significant transactions, upcoming decisions
+and the long-term outlook and discusses these issues with him or her. The Supervisory Board may also
+request reports from the Executive Board at any time, especially on matters and business transactions at
+Deutsche Börse AG and subsidiaries that have a significant impact on Deutsche Börse AG’s position. The
+Rules of Procedures for the Executive Board and Supervisory Board contain provisions on the corre-
+sponding information rights and obligations of the Executive Board and Supervisory Board exceeding
+statutory regulations.
+Deutsche Börse AG’s Executive Board
+The Executive Board manages Deutsche Börse AG and Deutsche Börse Group; it had six members dur-
+ing the reporting period. The main duties of the Executive Board include defining the Group’s corporate
+goals and sustainable strategic orientation, managing and monitoring the operating units, as well as es-
+tablishing and monitoring an efficient risk management system. The Executive Board is responsible for
+preparing the annual and consolidated financial statements of Deutsche Börse AG, as well as for produc-
+ing financial information during the course of the year. In addition, it must ensure the company’s compli-
+ance with legal requirements and official regulations.
+The members of the Executive Board are jointly responsible for all aspects of management. Irrespective
+of this collective responsibility, the individual members manage the company’s business areas assigned
+to them in the Executive Board’s schedule of responsibilities independently and are personally responsi-
+ble for them. In addition to the business areas, the functional areas of responsibility are that of the Chief
+Executive Officer (CEO), the Chief Financial Officer (CFO), the Chief Information Officer/Chief Operating
+Officer (CIO/COO) and Governance, People & Culture. The business areas cover the operating business
+units, such as the company’s cash market activities, the derivatives business, securities settlement and
+custody, fund distribution services as well as the market data, financial and sustainability information
+business. For details, see the “Deutsche Börse: Fundamental information about the Group” section and
+www.deutsche-boerse.com > Company > Deutsche Börse Group > Business areas.
+99 
+Executive and Supervisory Boards
+Management report | Corporate governance statement
+Financial statements and notes
+Remuneration Report
+Further information
+Further details of the Executive Board’s work are set out in the bylaws that the Supervisory Board has
+adopted for the Executive Board. Among other things, these list issues that are reserved for the entire Ex-
+ecutive Board, special measures requiring the approval of the Supervisory Board, other procedural de-
+tails and the arrangements for passing resolutions. The Executive Board holds regular meetings; these
+are convened by the CEO, who coordinates the Executive Board’s work. Any Executive Board member
+can require a meeting to be convened. In accordance with its bylaws, the entire Executive Board nor-
+mally takes decisions on the basis of resolutions passed by a simple majority of the members voting on
+them in each case. If a vote is tied, the CEO has the casting vote.
+More information on the Executive Board, its composition, members’ individual appointments and biog-
+raphies can be found at www.deutsche-boerse.com > Investor Relations > Corporate Governance > Ex-
+ecutive Board.
+Deutsche Börse AG’s Supervisory Board
+The Supervisory Board supervises and advises the Executive Board in its management of the company.
+This also covers sustainability matters. The Supervisory Board supports the Executive Board in signifi-
+cant business decisions and provides assistance on strategically important issues. In the Rules of Proce-
+dures for the Executive Board, the Supervisory Board has defined transactions of fundamental im-
+portance which require its approval. In addition, the Supervisory Board is responsible for appointing the
+members of the Executive Board, deciding on their total remuneration and examining Deutsche Börse
+AG’s annual and consolidated financial statements and the combined management report. Details of the
+Supervisory Board’s work during the 2022 financial year can be found in the “Report of the Supervisory
+Board”.
+The Supervisory Board consists of 16 members, made up of an equal number of shareholder representa-
+tives and employee representatives in line with the German Mitbestimmungsgesetz (MitbestG, German
+Co-determination Act). The term of office of the current members ends at the Annual General Meeting in
+2024. This also applies to an employee representative who was appointed by the court to the Supervi-
+sory Board of Deutsche Börse AG in 2022 after the early voluntary retirement of another employee rep-
+resentative.
+The Supervisory Board holds at least six regular meetings every year. In addition, extraordinary meetings
+are held as required. Executive Board members attend the meetings unless the Supervisory Board de-
+cides otherwise in any particular case. The Supervisory Board also meets regularly without the Executive
+Board. Exchanges also take place as necessary with the annual auditors. The committees also hold reg-
+ular meetings. Unless mandatory statutory provisions or the Articles of Associations call for a different
+procedure, the Supervisory Board passes its resolutions by a simple majority. If a vote is tied, the Chair
+has the casting vote. The work of the Supervisory Board and its Committees is defined by the Rules of
+Procedure for the Supervisory Board, which is available under www.deutsche-boerse.com > Investor Re-
+lations > Corporate Governance > Supervisory Board > Rules of procedure.
+100 
+Executive and Supervisory Boards
+Financial statements and notes
+Remuneration Report
+Further information
+The Supervisory Board reviews the knowledge, skill and experience of the Executive Board and Supervi-
+sory Board and their members regularly, at least once a year, and examines the structure, size, composi-
+tion and performance of the Executive Board and Supervisory Board. Its review is based on a catalogue
+of specific targets, including qualification requirements, which, in turn, are reviewed regularly by the Su-
+pervisory Board. The Supervisory Board also regularly, at least once a year, reviews the effectiveness of
+its work, discusses opportunities for improvement and decides on suitable measures if necessary. The
+concrete targets are described in the chapter “Targets for composition and qualification requirements of
+the Supervisory Board” and the annual effectiveness test is described in the chapter “Examination of the
+effectiveness of Supervisory Board work”.
+The Chair of the Supervisory Board Chair is in regular contact with the representatives of shareholders
+and employees on the Supervisory Board, in addition to the scheduled meetings, and arranges talks to
+prepare for the Supervisory Board meetings as necessary.
+
+The Supervisory Board’s goal in establishing committees is to improve the effectiveness of its work by
+examining complex matters in smaller groups that prepare them for the plenary meeting of the Supervi-
+sory Board. Additionally, the Supervisory Board has delegated individual decision-making powers to the
+committees, to the extent that this is legally permissible. The Supervisory Board had seven committees
+in the reporting period. The responsibilities of the existing Strategy Committee were expanded in 2021 to
+form a Strategy and Sustainability Committee. For details of the committees, please refer to the tables
+“Supervisory Board committees in the reporting year: composition and responsibilities”. Their individual
+responsibilities are governed by the Supervisory Board’s bylaws. The committees’ rules of procedure cor-
+respond to those for the plenary meeting of the Supervisory Board. Details of the current duties and
+members of the individual committees can be found online at www.deutsche-boerse.com > Corporate
+Governance > Investor Relations > Supervisory Board > Committees.
+The chairs of the individual committees report to the plenary meeting about the subjects addressed and
+resolutions passed in the committee meetings. Outside the meetings the Chair of the Audit Committee
+also reports regularly to the Audit Committee and the full Supervisory Board on her regular exchanges
+with the annual auditor. Information on the Supervisory Board’s concrete work and meetings during the
+reporting period can be found in the “Report of the Supervisory Board”.
+More information on the Supervisory Board and its committees, the individual members and their ap-
+pointments and biographies, can be found at: www.deutsche-boerse.com > Corporate Governance >
+Investor Relations > Supervisory Board.
+101 
+
+Targets for composition and qualification requirements of the Supervisory Board
+In accordance with recommendation C.1 GCGC, the Supervisory Board has adopted a catalogue of spe-
+cific targets concerning its composition that should serve, above all, as a basis for the nomination of fu-
+ture members. The targets include qualification requirements as well as diversity targets. Furthermore,
+members shall have sufficient time, as well as the personal integrity and suitability of character, to exer-
+cise their office. In addition, more than half the shareholder representatives on the Supervisory Board
+shall be independent. The targets, including the qualification requirements, are reviewed by the Supervi-
+sory Board regularly, at least annually, and modified as necessary. The status of implementation can be
+seen in the qualification matrix at the end of this statement.
+In the reporting year, the Supervisory Board, on the recommendation of the Nomination Committee, ex-
+panded the specific targets in the qualification requirements explained below to include expertise in sus-
+tainability matters, and moreover adapted them to changes in statutory and regulatory requirements. The
+Supervisory Board, supported by the Nomination Committee, also examined the targets for the overall
+board and for the individual members and confirmed that they had been met.
+105 
+Executive and Supervisory Boards
+Management report | Corporate governance statement
+Financial statements and notes
+Remuneration Report

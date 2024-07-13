@@ -1,0 +1,1073 @@
+The Management’s Report comprises the chapter of the
+same name on pages 16 to 167, as well as the disclosures
+required by takeover law and the Declaration of Corporate
+Governance. These are presented in the Corporate Gover-
+nance chapter. The Nonfinancial Statement (NFS) is inte-
+grated into the Management’s Report.
+NFS in accordance with sections 315b and 315c of the
+German Commercial Code (HGB)
+The NFS disclosures can be found in the relevant sections of the
+Management’s Report and have been prepared in accordance
+with the appropriate frameworks: the Global Reporting Initiative
+Standards and the reporting requirements of the U.N. Global
+Compact. The table on the following page shows the sections and
+subsections in which the individual disclosures can be found. In
+addition to a description of the business model, the NFS includes
+disclosures on the following matters, to the extent that they are
+required to understand the development and performance of the
+business, the Group’s position and the impact of business
+development on the following matters: environmental matters,
+employee-related matters, social matters, respect for human rights,
+anti-corruption and bribery matters.
+In accordance with the E.U. Taxonomy Regulation and the supple-
+mentary delegated acts, the NFS includes the proportion of the
+Group’s taxonomy-eligible and, for the first time, our Group-wide
+taxonomy-aligned turnover, capital expenditures (including acquisi-
+tions and excluding goodwill in accordance with the E.U. taxonomy)
+and operating expenditures for the 2022 business year. This
+applies to the environmental objectives of climate change mitigation
+and adaptation to climate change currently addressed in the E.U.
+taxonomy.
+Within the scope of the annual audit, KPMG checked pursuant to
+section 317(2) sentence 4 HGB that the NFS was presented in
+accordance with the statutory requirements. KPMG also conducted
+a limited assurance of the NFS. An assurance statement of the
+limited assurance can be found online at basf.com/nfs-audit-2022.
+The assurance was conducted in accordance with ISAE 3000
+(Assurance Engagements other than Audits or Reviews of Historical
+Financial Information) and ISAE 3410 (Assurance Engagements on
+Greenhouse Gas Statements), the relevant international assurance
+standards for sustainability reporting.
+Disclosures required by takeover law in accordance with
+section 315a HGB
+The disclosures required by takeover law in accordance with section
+315a of the German Commercial Code (HGB) can be found in the
+Corporate Governance chapter starting on page 168. They form
+part of the Management’s Report, which is audited as part of the
+annual audit.
+Compensation Report
+The Compensation Report in accordance with section 162 of the
+German Stock Corporation Act (AktG) is publicly available on the
+BASF website together with the assurance statement of the sub-
+stantive and formal audit issued by the auditor.
+The Compensation Report is available online at basf.com/compensationreport
+Declaration of Corporate Governance in accordance with
+section 315d HGB in connection with section 289f HGB
+The Consolidated Declaration of Corporate Governance in accor-
+dance with section 315d HGB in connection with section 289f HGB
+can be found in the Corporate Governance chapter from page 194
+onward and is a component of the Management’s Report. It comprises the Corporate Governance Report, including the
+description of the diversity concept for the composition of the Board
+of Executive Directors and the Supervisory Board (excluding the
+disclosures required by takeover law in accordance with section
+315a HGB), compliance reporting and the Declaration of Conformity
+pursuant to section 161 of the German Stock Corporation Act.
+Pursuant to section 317(2) sentence 6 HGB, the auditor checked
+that the disclosures according to section 315d HGB were made.
+Recommendations of the Task Force on Climate-related
+Financial Disclosures
+BASF supports the recommendations of the Task Force on Climate-
+related Financial Disclosures (TCFD). Disclosures recommended by
+the TCFD are presented in a number of places throughout this
+report. The table on page 19 shows the sections and subsections in
+which the relevant information can be found. The table is divided
+into four key areas in line with the TCFD recommendations: gover-
+nance, strategy, risk management, and metrics and targets.
+Symbols, captions and QR codes
+You can find more information in this report.
+You can find more information online. The content of these
+links are voluntary disclosures that were not audited by the
+auditor.
+The content of this section is not part of the statutory audit but
+has undergone a separate limited assurance by our auditor.
+The content of this section is voluntary, unaudited information,
+which was critically read by the auditor.
+Captions, links and the information contained on linked websites,
+and QR codes are not part of the audit.
+Together with our Code of Conduct and our global standards, our
+CORE values lay the foundation for responsible conduct and trust-
+based relationships with our stakeholders. They define how we want
+to work together – as a team, with our customers and our partners:
+– C – creative: We make great products and solutions for our
+customers. This is why we embrace bold ideas and give them
+space to grow. We act with optimism and inspire one another.
+– O – open: We value diversity, in people, opinions and experience.
+This is why we foster feedback based on honesty, respect and
+mutual trust. We learn from setbacks.
+– R – responsible: We value the health and safety of people above
+all else. We make sustainability part of every decision. We are
+committed to strict compliance and environmental standards.
+– E – entrepreneurial: We focus on our customers, as individuals
+and as a company. We seize opportunities and think ahead. We
+take ownership and embrace personal accountability.
+Our standards are based on, and in some cases, exceed existing
+laws and regulations and take internationally recognized principles
+into account. We respect and promote:
+– The Universal Declaration of Human Rights and the two U.N.
+Human Rights Covenants
+– The 10 principles of the U.N. Global Compact
+– The core labor standards of the ILO and the Tripartite Declaration
+of Principles Concerning Multinational Enterprises and Social
+Policy
+– The OECD Guidelines for Multinational Enterprises
+– The Responsible Care® Global Charter
+– The German Corporate Governance Code
+We stipulate binding rules for our employees with our standards and
+guidelines that apply throughout the Group. Our aim is to prevent
+compliance violations from the outset through compulsory training
+for all employees and special training for leaders. The Corporate
+Audit department continuously monitors compliance with require-
+ments. We regularly assess our performance in environmental
+protection, health and safety as part of our Responsible Care
+Management System. We realize our responsibility to behave in
+accordance with international and social standards largely in three
+ways: through our Compliance Program, including our Code of
+Conduct and compliance hotlines, through close dialog with stake-
+holders and through the global management process to respect
+international labor norms. We pursue sustainability-oriented supply
+chain management and expect our business partners to comply
+with prevailing laws, regulations and internationally recognized
+principles. Here, too, we have established appropriate monitoring
+systems.
+For more information on human and labor rights, see page 109 onward
+For more information on compliance, see page 179 onward
+For more information on responsible procurement and the German Supply Chain Due Diligence Act,
+see page 114 onward
+For more information on the Responsible Care Management System, see page 123 onward
+o other environmental objectives were reviewed in a three-step
+process. The first step involved a two-part analysis based on
+BASF’s internal product databases:
+– The manufacture of products is analyzed with respect to the
+use of critical substances in accordance with Annex C1 of the
+E.U. Commission’s Delegated Regulation 2021/2139 to ensure
+significant pollution prevention or control according to the E.U.
+taxonomy. This also includes use in the production process. An
+assessment of the “essential use” of the critical substances used
+in the sense of the opening clauses according to Annex C,
+letters f) and g) has not been performed. The E.U. Commission
+announced further regulations on this in 2023.
+– Plastics in primary form are analyzed with respect to the share of
+renewable raw materials in the product. They are only considered
+further if this share is at least 5% and thus potentially make a
+substantial contribution to climate change mitigation through
+partial or complete production from renewable raw materials.
+Shares allocated using mass balance approaches (see page 121)
+are not taken into account here because their acceptance under
+the E.U. taxonomy has not yet been definitively clarified. For this
+reason, BASF products based on chemically recycled raw mate-
+rials are not considered further in the assessment at present
+either. Mechanical recycling does not play any role for BASF here.
+In the second step, it was assessed whether the potentially tax-
+onomy-aligned products make a substantial contribution to climate
+change mitigation in accordance with the activity-specific criteria.
+Among other things, the greenhouse gas emissions of European
+and non-European plants to produce soda ash, organic basic
+chemicals and nitric acid were compared with the average values of
+the most efficient plants under the E.U. emissions trading system.
+For the production of hydrogen, chlorine, ammonia and plastics in
+primary form, the comparison was against activity-specific quantita-
+tive criteria, such as the energy or emission intensity of a product.
+This was based on a digital solution developed by BASF to deter-
+mine product-specific carbon emissions (see page 140).
+1 Generic criteria for DNSH to pollution prevention and control regarding use and presence of chemicals
+2 Protection of water and marine resources is taken as given at sites that do not use or treat water.
+3 A radius of 3 km around production sites was defined for the analysis of biodiversity-sensitive areas.
+Finally, in the third step of the process, it was assessed whether the
+products identified cause significant harm to the other environmental
+objectives. This included an analysis of risks arising from climate
+change using climate risk and vulnerability assessments. At sites
+with material climate risk, the existence of adaptation solutions was
+additionally analyzed and evaluated. The avoidance of significant
+harm to water and marine resources,2 biodiversity and ecosystems,3
+and pollution prevention and control were taken as given for produc-
+tion plants in Europe based on comprehensive and uniform regula-
+tory requirements and additionally ensured through data queries.
+The conformity of non-European plants was assessed on a case-
+by-case basis. This was based on joint assessments by local and
+central experts using the evidence of local production requirements
+submitted.
+The criteria for the minimum social safeguards as a further pillar
+of taxonomy alignment in accordance with Article 18 of the E.U.
+Taxonomy Regulation were reviewed for all activities across the
+BASF Group, independent of the step-by-step process for the
+“contribution to climate change mitigation” and “harm to other
+environmental objectives” criteria.
+The recommendations of the E.U. Platform on Sustainable Finance
+of October 2022 on the four core topics of human rights (including
+labor rights), corruption/bribery, taxation and fair competition were
+taken into account here. Minimum social safeguards are to be
+ensured by a systematic, integrated and risk-based approach
+to safeguarding our human rights due diligence obligations (see
+page 109), by global labor and social standards (see page 110), and
+by the Supplier Code of Conduct (see page 115), among other things.
+Taxonomy-aligned turnover accounted for 0.4% of the total sales
+revenue defined and reported in the BASF Group’s Consolidated
+Financial Statements in 2022. The “manufacture of organic basic
+chemicals” made the largest contribution (0.3%). Taxonomy-aligned
+capital expenditures (including acquisitions and excluding goodwill
+in accordance with the E.U. taxonomy) accounted for 0.5% of the
+96
+total investments reported in the Consolidated Financial Statements.
+The “manufacture of soda ash” contributed significantly here with
+0.3%. Taxonomy-aligned operating expenditures accounted for
+0.9% of total operating expenditures, with the largest contribution
+from the economic activity “manufacture of plastics in primary form”
+(0.5%). It is not possible to provide information on changes
+in taxonomy-aligned turnover, capital expenditures and operating
+expenditures as these are being reported for the first time in 2022.
+The taxonomy-aligned figure is significantly lower than the tax-
+onomy-eligible figure due to various factors. Only a small proportion
+of plastics in primary form contain a share of renewable raw materials
+above the threshold value. In many production processes, sub-
+stances that fall within Annex C1 are used to prevent or reduce
+pollution. As a result, these processes are no longer taxonomy-
+aligned, even if the substances are not released into the environment
+(for example, because they are exclusively used in a closed system
+in the production plant) and are used in accordance with existing
+chemicals legislation. This means, for example, that all production
+processes for the manufacture of battery materials must be
+assessed as not taxonomy-aligned. The proportion of taxonomy-
+aligned activities is also reduced by the fact that many plants
+exceed the benchmarks used by the E.U. taxonomy, such as the
+E.U. emissions trading scheme. In addition, plants that are not
+subject to emissions trading and thus cannot be assessed using the
+specified criteria were generally classified as not taxonomy-aligned.
+For more information on sales revenue, see Note 7 to the Consolidated Financial Statements from
+page 227 onward
+For more information on investments, see Notes 14 and 15 to the Consolidated Financial Statements
+from page 242 onward.
+GRI 2, 3, 406, 407, 408, 409, 411, 413
+SUPPLIERS BASF CUSTOMERS
+BASF acknowledges its responsibility to respect internationally recognized human rights. For many years
+now, we have engaged in constructive dialog on human rights with other companies, nongovernmental
+organizations, international organizations and multi-stakeholder initiatives to better understand different
+perspectives and address conflicting goals. BASF is a founding member of the U.N. Global Compact and
+a member of the Global Business Initiative on Human Rights (GBI)
+▪ Human rights due diligence as a Group-wide task
+▪ Systematic and extensive anchoring of human rights topics in
+company processes and culture
+▪ Commitment to respecting international labor and social
+standards enshrined in our global Code of Conduct
+▪ Chief Human Rights Officer appointed to oversee human rights
+risk management
+Strategy and organization
+We see human rights due diligence as an important, all-encom-
+passing task that we can only perform by working together as a
+team throughout the entire organization. That is why we have
+embedded our responsibility for human rights into our Code of re committed to complying with international labor and social
+standards.
+We rely on a systematic, integrated, risk-based approach and
+established monitoring and management systems. BASF is also
+active in initiatives such as Together for Sustainability (TfS) and
+Responsible Care®, which promote sustainability in the supply chain.
+Our measures and criteria for monitoring and respecting human
+rights are integrated into supplier assessment processes and our
+global monitoring systems for environmental protection, safety and
+security, health protection and product stewardship (see page 114).
+They are also part of the evaluation of investment, acquisition and
+divestiture projects, assessments along the entire product life cycle,
+and systems to monitor labor and social standards. In addition,
+aspects of human rights topics are part of the global qualification
+requirements for security personnel and are incorporated into
+standard agreements with contractors.
+and refine our approach to human rights governance. It includes employees from specialist departments - Corporate Compliance (coordination), Global Procurement, Corporate Legal, Corporate Human Resources, Environmental Protection, Health, Safety and Quality, Corporate Strategy & Sustainability, Corporate Security, Digital and Procurement Governance, Corporate Communications and Governmental Relations - and our operating divisions. The expert working group provides support and advice in challenging and critical situations, on the development of internal processes, and on the creation of information and training offerings, among other things. In this way, we want to ensure that we approach our human rights responsibility holistically and that we can continually improve our performance.
+nternational labor and social standards
+Our aim of acting responsibly toward our employees is embedded in
+our global Code of Conduct through our voluntary commitment to
+respecting international labor and social standards. This encom-
+passes internationally recognized labor norms as stipulated in the
+United Nations’ Universal Declaration of Human Rights, the OECD
+Guidelines for Multinational Enterprises, and the Tripartite Declara-
+tion of Principles Concerning Multinational Enterprises and Social
+Policy of the International Labour Organization (ILO). In order to
+meet the requirement to comply with these standards worldwide,
+we mainly approach our adherence to international labor and social
+standards using three elements: the Compliance Program (including
+compliance hotlines), close dialog with our stakeholders (such as
+with employee representatives or international organizations) and
+the BASF guideline on compliance with international labor norms,
+which applies Group-wide. This guideline concretizes the topics in
+our global Code of Conduct under “Human rights, labor and social
+standards” as these relate to our employees. In 2022, an additional
+guideline specified that these topics must also be considered and
+applied when working with temporary employees and freelancers.
+It forms the basis for our global, risk-based management process:
+We regularly monitor changes to the national law of all the countries.
+in which BASF operates and evaluate our adherence to international labor and social standards. If the national law contains no or lower requirements, action plans are drawn up to successively close these gaps in a reasonable time frame. If conflicts with national law or practices arise, we strive to act in accordance with our values and
+internationally recognized principles without violating the law of the country concerned. As part of the management process, we regularly follow up on and document the results of the comparison
+Cooperation along our value chains
+between national law and our guideline, as well as measures to implement the We monitor our voluntary commitment to international labor and are states that do not honor their obligation to protect human rights. social standards as part of our management process. As before,
+People are particularly at risk in such countries, and companies'
+individual elements of the guideline are also reviewed as part of ability to act is often very limited. Here, too, we are committed to our internal control processes such as Responsible Care audits at values and contribute to the respect of human rights.
+BASF Group companies. In addition to these quality assurance
+Good to know
+Human Rights Advisory Council
+We have trustful working relationships with our partners (customers, suppliers, joint venture partners, contractors), expect them to comply with internationally recognized human rights standards and to expect the same of their partners further along the value chain. We work to ensure that our partners meet their respective responsibilities.
+We established a Human Rights Advisory Council in 2020 to integrate external expertise. Its members include independent international human rights experts. The trust-based dialog on human rights topics helos us to better understand different perspectives and to deal more openly with critical situations.
+The meetings held in 2022, which were chaired by our Chief Compliance Officer. were attended by representatives from the Corporate Compliance and Corporate Strategv & Sustainability departments as well as other experts from the operating divisions or procurement as required. We maintained our dialog with the Human Rights Advisory Council in 2022, both with the body as a whole and in small groups. The Council provided an external perspective, for example, on the further development of our human rights position. on due diligence in challenaina circum-We can only achieve our goal of strengthening respect for human rights along our value chains if we work together. We have clearly defined our expectations in our Supplier Code of Conduct. We are in close contact with our business partners, especially in higher-risk areas and regions. and monitor the implementation of relevant standards and necessar measures for improvement. We use recognized assessments and audits to verify this. In 2022, we continued our work with our upstream supply chain, where we usually have no direct contractual relationships, less transparency and less influence. Here, we seek to increase our influence through collaboration with partners and stakeholders, and place importance on certifications such as the LBMA certificate for gold, the LPPM certificate for platinum group metals, and the Responsible Minerals Initiative's Responsible Minerals Assurance Process.
+e work together with partners, civil society and in cross-sector
+initiatives. These include the Global Battery Alliance and the Round-
+table on Sustainable Palm Oil. Projects often start on the ground to
+build specific expertise for sustainable and responsible supply
+chains. Examples include the Sustainable Castor Initiative – Pragati
+in India, the Responsible Lithium Partnership Initiative in Chile, the
+Responsible Mica Initiative in India and the Cobalt for Development
+pilot mining project in the Democratic Republic of Congo. In 2022,
+BASF, Syngenta and Arisa also worked together on a multi-stake-
+holder initiative in the vegetable seeds business in India. The initia-
+tive, WISH (Wage Improvements in Seed Hybrids), addresses the
+issue of child labor and compliance with minimum wage.
+For more information on standards in our supply chain, see page 114 onward
+For more information on raw materials, see page 117 onward
+Further development of our organization and processes
+We again initiated various measures to further strengthen our
+organization and processes in 2022. These measures are also
+important against the background of new regulations, especially the
+German Supply Chain Due Diligence Act (SCA). These include the
+appointment of BASF’s Chief Human Rights Officer and the further
+development of our Policy Statement on Human Rights, including
+further explanations of our approach to human rights due diligence
+and priority risks for our company. Both of these measures were
+approved by the Board of Executive Directors in November 2022.
+To strengthen due diligence in the supply chain, we have also
+enhanced and refined a range of measures, including supplier risk
+analysis as well as preventive measures such as the systematic
+business partner due diligence for new suppliers, our Supplier Code
+of Conduct, and the requirements to be embedded in suppliers’
+contracts. We continue to expect our suppliers to enforce our
+standards at their suppliers and subcontractors, too. Furthermore,
+the rights of third-party workers in high-risk countries will be even
+better protected in the future through additional due diligence steps.
+These include risk-based controls and measures that promote
+transparency and awareness of human rights issues.
+We have also been able to analyze and confirm BASF’s compliance
+with the specific environmental treaties covered by the SCA
+(Minamata, Stockholm, Basel) in countries that have not yet ratified
+these conventions. Promoting awareness of human rights was again a focus topic
+in 2022. Workshop programs on this were held in our operating
+divisions. In addition, employees in all regions were informed about
+and sensitized to human rights topics through presentations and
+discussion formats for specific target groups.
+Our grievance mechanisms, which we already improved in 2021
+with the introduction of a standardized global hotline and reporting
+system, were also used in 2022. A total of 151 human rights-related
+complaints were received by phone as well as by post and e-mail
+(2021: 206). All complaints were reviewed and forwarded to the
+relevant departments for in-depth investigation. If justified, appro-
+priate measures were taken. The 65 closed and justified cases were
+primarily harassment cases, followed by cases of discrimination.
+Our grievance channels did not identify any instances of child labor
+or forced labor.
+We report on our global targets, monitoring systems and measures
+to integrate human rights topics into our business activities in publi-
+cations such as this report and online.
+For more information on our production standards, see page 125 onward
+See basf.com/humanrights for more information on the Policy Statement on Human Rights and a
+comprehensive report on the implementation of due diligence in accordance with the requirements
+of the National Action Plan developed by the German government, and in accordance with the
+U.N. Guiding Principles on Business and Human Rights
+For more information on the Human Rights Advisory Council, see basf.com/human-rights-council
+We Source Responsibly
+As a global business, we have a responsibility to manage our supply chains carefully. We connect with our
+suppliers to source raw materials responsibly. Our partnerships with suppliers are based on mutual value
+creation, as well as a reliable supply of raw materials, technical goods and services at competitive prices.
+114
+In this section:
+Supplier Management
+Raw Materials
+Code of Conduct or the systematic risk-oriented assessment and
+auditing of suppliers, remain important elements and have been
+updated accordingly.
+Procurement guidelines and targets are set centrally by the
+responsible Corporate Center unit and are binding for all employees
+with procurement responsibility worldwide. We use a multi-stage
+control process to ensure compliance with these requirements.
+Our risk-based approach aims to identify and evaluate sustainability
+matters in our value chains as best possible to improve sustainability
+performance together with our suppliers. We regularly review and
+document progress based on the risk level. Procurement employees
+receive regular training in sustainability-oriented supplier manage-
+ment and responsible procurement. In 2022, around 1,400 employees
+received such training, covering the requirements arising from
+the SCA.
+Supplier Management
+GRI 2, 3, 204, 304, 308, 403, 407, 408, 409, 414
+SUPPLIERS BASF
+CUSTOMERS
+Strategy and governance
+Our procurement organization ensures a reliable supply of raw
+materials, energy, precursors, technical goods and services to
+BASF. Alongside economic and qualitative criteria, we also take
+environmental, social and ethical aspects into account in cooperating
+with our suppliers.2
+BASF sources many raw materials, precursors, technical
+goods and services. Our suppliers are an important part of
+our value chain. Our objective is to create competitive
+advantages through our professional procurement structures,
+to establish stable and reliable supply chains, and at the
+Our sustainability-oriented supply chain management is an integral
+same time, meet high ethical and environmental standards.
+part of our risk management. We have defined our standards in a
+Together with our suppliers, we want to improve sustainability
+global guideline. We are continually refining and optimizing this
+in the supply chain and minimize risks.
+guideline and our structures and processes in response to changing
+conditions, such as the new obligations arising from the German
+Supply Chain Due Diligence Act (SCA), which requires large
+€54 billion
+global procurement spend
+85%
+of relevant spend1 covered by
+sustainability evaluations
+companies to conduct due diligence on human rights and certain
+environmental standards in their supply chains from January 1,
+2023. In principle, this applies both to our own business operations
+and to direct and indirect suppliers. Based on a gap analysis of the
+new statutory due diligence obligations, we have further strengthened
+We depend on reliable and long-term supply relationships.
+existing structures and processes and summarized our human
+Our expectations of our suppliers are laid down in the global
+rights positions in a policy statement (see page 109). The head
+Supplier Code of Conduct. We support suppliers in improving their
+of the legal and compliance organization was appointed Chief
+sustainability performance, for example, through joint projects (see
+Human Rights Officer in 2022 and is responsible in this capacity
+page 119) or by helping them to address shortcomings. Another
+for overseeing the supply chain risk management system. Our
+example is our Supplier CO2 Management Program launched in
+established supply chain management tools, such as our Supplier
+2021, with which we aim to increase the transparency of upstream
+We carefully analyze the results of our assessments and document
+them in a central database. Over the past few years, we have
+identified some need for adjustment at our suppliers with respect
+to environmental, social and governance standards, for example
+in waste management, or deviations in occupational health and
+safety measures and standards under labor law. Follow-up audits
+performed in 2022 identified improvements in these areas. Again in
+2022, none of our audits identified any instances of forced labor,
+out at Nornickel’s site in Polar, Russia, in the fourth quarter of 2021.
+The results of these audits were discussed with Nornickel and
+follow-up measures were evaluated. Nornickel continues to seek
+membership in internationally recognized industry initiatives that
+provide third-party verification of mining and responsible procurement
+standards, such as IRMA or the International Council on Mining and
+Metals (ICMM). However, this is only possible to a limited extent in
+the current environment.
+Together for Sustainability (TfS)
+child labor or dangerous work and overtime performed by persons
+Supplier development
+BASF is a founding member of Together for Sustainability. The
+initiative was established in 2011 to improve sustainability in the
+supply chain. The focus is on the standardization, simplification
+and mutual recognition of supplier audits and assessments.
+Suppliers are evaluated by independent experts either in on-site
+audits or online assessments. The latter are conducted by
+EcoVadis, a ratings agency specialized in sustainability
+evaluations. At the end of 2022, TfS had 40 members with a
+combined procurement spend of around €400 billion. A total of
+378 audits and 8,386 online assessments were performed in
+2022. As a TfS member, BASF itself is assessed and in 2022
+was again ranked among the top 1% companies worldwide in
+the sustainable procurement category. BASF is involved in the
+further development of TfS, for example, in activities to standardize
+the calculation of Scope 3 greenhouse gas emissions in the
+supply chain (see page 139).
+under 18.
+We maintained close dialog with our South African platinum supplier
+Sibanye-Stillwater1 in 2022 on the results of the audit from 2020,
+the implementation of the resulting action plan, and other relevant
+topics. This includes working with stakeholders to take a unified
+approach to local community development. All the needs for
+adjustment identified in the 2020 audit had been addressed by the
+end of 2022. BASF and Sibanye-Stillwater have agreed that future
+audits will follow the Initiative for Responsible Mining Assurance
+(IRMA) mining standard. Sustainability topics are discussed on a
+quarterly basis. Sibanye-Stillwater is a member and supporter of the
+International Platinum Group Metals Association (IPA) sustainability
+initiative that was co-founded by BASF. Measures include conducting
+comprehensive sustainability audits and sharing factors for success.
+The regular dialog with stakeholders continued in 2022. In addition,
+Sibanye-Stillwater has directly involved relevant stakeholders in
+Germany and South Africa in its own stakeholder dialog.
+In 2022, the war of aggression in Ukraine also impacted the
+business relationship with our Russian raw materials supplier
+Nornickel. This could not be continued to the extent planned. We
+nevertheless maintain regular dialog with Nornickel, are monitoring
+the situation and events from a sustainability perspective, and are in
+contact with civil society groups. Topics addressed include the
+findings from the mining-specific TfS audits. TfS audits were carried
+If supplier assessments identify deviations from standards, we ask
+suppliers to develop and implement corrective measures within a
+reasonable time frame in a clearly defined follow-up process. We
+support them in their efforts. In South America, for example, over
+300 employees of suppliers participated in a webinar on compliance
+and human rights in the supply chain. Together with Mercedes-Benz,
+we also organized a workshop in the region focusing on gender
+equality, which was attended by 22 logistics service providers. An
+important part of supplier development in 2022 was also the
+sustainability webinars held by TfS together with EcoVadis in various
+languages, with a total of over 1,900 participants. In addition, the
+new TfS Academy online learning platform is aimed at buyers and
+suppliers. It covers the entire spectrum of ESG topics. There are
+currently over 335 courses available in 10 different languages.
+We review our suppliers’ progress according to a defined time frame
+based on the sustainability risk identified, or after five years at the
+latest. In the case of serious violations of the standards defined in
+our Supplier Code of Conduct or international principles, we reserve
+the right to impose commercial sanctions. These can go as far as
+termination of the business relationship. In 2022, this happened in
+one case.
+Good to know
+1 In 2012, an extended strike at a platinum mine in Marikana, South Africa, culminated in a violent confrontation between mine workers and armed South African police. Employees of the former mine operator, Lonmin, were among the fatalities. Ownership 
+Corporate Governance Report
+GRI 2,3,405
+Corporate governance refers to the entire system for managing and supervising a company. This includes its organization, values,
+corporate principles and guidelines as well as internal and external control and monitoring mechanisms. Effective and transparent
+corporate governance ensures that BASF is managed and supervised responsibly with a focus on value creation and sustainability.
+It fosters the confidence of our investors, the financial markets, our customers  and other business partners, employees, other
+groups affiliated with our company (stakeholders) as well as the public in BASF
+The fundamental elements of BAS SE's corporate governance system are: its two-tier management system, with a transparent and effective separation of company management and supervision between BASF's Board of Executive Directors and the Supervisory Board; the equal representation of shareholders and employee representatives on the Supervisory Board; and the shareholders' rights of co-administration and supervision at the Annual Shareholders' Meeting.
+Board of Executive Directors
+At a glance
+• Responsible for company management and represents
+BASF SE in business with third parties
+• Sets goals and strategic direction
+• Strictly separate from the Supervisory Board
+Direction and management by the Board of Executive
+Directors
+The Board of Executive Directors is responsible for managing the company and represents BASF SE in business undertakings with third parties. BAS's Board of Executive Directors is strictly separated from the Supervisory Board, which monitors the Board of Executive Directors' activities and decides on its composition. A member of the Board of Executive Directors cannot simultaneously
+be a member of the Supervisory Board. As the central duty of company management, the Board of Executive Directors defines the corporate goals and strategic direction of the BASF Group as well as its individual business areas, including the sustainability strategy. In doing so, the Board ensures that the risks and opportunities associated with social and environmental factors for our company as well as the ecological and societal impacts of BASF's activities are systematically identified and evaluated. In addition to long-term economic goals, the corporate strategy appropriately takes environmental and social objectives into account, too. The corporate planning defined on this basis comprises financial and sustainability-related goals.
+Furthermore, the Board of Executive Directors determines the company's internal organization and decides on the composition of management positions on the levels below the Board. It also manages and monitors BASF Group business by planning and setting the corporate budget, allocating resources and management capacities, monitoring and making decisions on significant individual measures, and supervising operational management.
+The Board's actions and decisions are geared toward the company's best interests. It is committed to the goal of sustainably increasing the company's value and developing the company over the long term, taking into account environmental and social goals as well as economic targets. The Board's responsibilities include the preparation of the Consolidated and Separate Financial Statements of BASF SE and reporting on the company's financial and nonfinancial performance as well as half-year and quarterly reporting. It must
+also ensure that the company's activities comply with the applicable legislation and regulatory requirements, as well as internal corporate directives (compliance). This includes the establishment of appropriate systems for control, compliance and risk management as well as embedding a company-wide compliance culture with undisputed standards.
+Decisions that are reserved for the Board as a whole by law, through the Board of Executive Directors' Rules of Procedure or through resolutions adopted by the Board, are made and all important matters of the company are discussed at regularly held Board meetings called by the chair of the Board of Executive Directors.
+Board decisions are based on detailed information and analyses provided by the business areas and specialist units, and, if deemed necessary, by external consultants. The chair of the Board of Executive Directors leads the Board meetings. Board decisions can generally be made via a simple majority. In the case of a tied vote, the chair of the Board of Executive Directors gives the casting vote.
+However, the chair of the Board of Executive Directors cannot enforce a decision against the Board of Executive Directors' majority vote. The chair of the Board also does not have the right to veto.
+Outside of matters that are assigned to the entire Board for consultation and decision-making, all members of the Board of Executive Directors are authorized to make decisions individually in their designated areas of responsibility.
+The Board of Executive Directors can set up Board committees to consult and decide on individual issues such as proposed material acquisition or divestiture prolects or to prepare decisions to be
+made by the entire Board. These must include at least three
+members of the Board of Executive Directors. For the preparation of
+important decisions, such as those on acquisitions, divestitures,
+investments and personnel, the Board has various commissions at
+the level below the Board. Independently of the affected business
+area, these committees thoroughly assess the planned measures
+and evaluate the associated opportunities and risks. Based on this
+information, they report and make recommendations to the Board.
+The Board of Executive Directors informs the Supervisory Board
+regularly, without delay and comprehensively, of all issues important
+to the company with regard to planning, business development, risk
+situation, risk management and compliance. Furthermore, the
+Board of Executive Directors coordinates the company’s strategic
+orientation with the Supervisory Board.
+The Statutes of BASF SE and the Supervisory Board have defined
+certain transactions that require the Board of Executive Directors to
+obtain the Supervisory Board’s approval prior to their conclusion.
+Such cases that require approval include the acquisition and
+disposal of enterprises and parts of enterprises, as well as the issue
+of bonds or comparable financial instruments. However, this is only
+necessary if the acquisition or disposal price or the amount of the
+issue in an individual case exceeds 3% of the equity reported in the
+most recent approved Consolidated Financial Statements of the
+BASF Group.
+Competence profile, diversity concept and succession
+planning for the Board of Executive Directors
+The Supervisory Board works hand in hand with the Board of
+Executive Directors to ensure long-term succession planning for the
+composition of the Board of Executive Directors. BASF aims to fill
+BASF SE’s two-tier management system
+Board of Executive Directors
+6 members
+appointed by the Supervisory Board
+Chair
+appointed by the Supervisory Board
+most Board positions with leaders from within the company. It is
+the task of the Board of Executive Directors to propose a sufficient
+number of suitable individuals to the Supervisory Board.
+BASF’s long-term succession planning is guided by the corporate
+strategy. It is based on systematic management development
+characterized by the following:
+– Early identification of suitable leaders of different professional
+backgrounds, nationalities and genders
+– Systematic development of leaders through the successful
+assumption of tasks with increasing responsibility, where possible
+in different business areas, regions and functions
+– Desire to shape strategic and operational decisions and proven
+success in doing so, as well as leadership skills, especially under
+challenging business conditions
+– Role model function in putting corporate values into practice
+The aim is to enable the Supervisory Board to ensure a reasonable
+level of diversity with respect to education and professional
+Supervisory Board
+12 members
+appoints the Board of Executive Directors
+monitors the Board of Executive Directors
+advises the Board of Executive Directors
+reports to Supervisory Board
+6 shareholder representatives elected by the
+Annual Shareholders’ Meeting and
+6 employee representatives
+Chair
+elected by the Supervisory Board
+experience, cultural background, international representation,
+gender and age when appointing members of the Board of Executive
+Directors. Irrespective of these individual criteria, a holistic approach
+will ultimately determine a person’s suitability for appointment to the
+Board of Executive Directors of BASF SE. Both systematic
+succession planning and the selection process aim to ensure that
+the Board of Executive Directors as a whole has the following profile,
+which serves as a diversity concept:
+– Many years of leadership experience in scientific, technical and
+commercial fields
+– International experience based on background and/or professional
+experience
+– At least one female Board member
+– A balanced age distribution to ensure the continuity of the Board’s
+work and enable seamless succession planning
+The first appointment of members of the Board of Executive
+Directors is for a term of no more than three years. The standard age
+limit for members of the Supervisory Board determines the number of members on the
+Executive Directors, a high level of autonomy is already structurally
+for the appointment and dismissal of members of the Board of
+Board of Executive Directors. It is guided by insights gained
+ensured with regard to the supervision of the Board of Executive
+Executive Directors by the Supervisory Board. Resolutions can, as
+by BASF as a company with an integrated leadership culture and
+Directors.
+needed, also be made in writing or through electronic communication
+is determined by the needs arising from cooperation within the
+outside of the meetings, as long as no Supervisory Board member
+Board of Executive Directors. The Supervisory Board considers
+In addition to the SE Regulation, the relevant legal basis for the size
+objects to this form of passing a resolution. The Supervisory Board
+six to be an appropriate number of Board members given the
+and composition of the Supervisory Board is provided by the
+meets regularly even without the Board of Executive Directors.
+current business composition, future responsibilities associated
+Statutes of BASF SE and the Agreement Concerning the Involvement
+with development and the fundamental organizational structure of
+of Employees in BASF SE (Employee Participation Agreement). The
+The Board of Executive Directors regularly informs the Supervisory
+the BASF Group.
+latter also includes the regulations applicable to BASF for
+Board about matters such as the course of business and expected
+implementing the statutory gender quota for the Supervisory Board.
+developments, the financial position and results of operations,
+The current composition of the Board of Executive Directors meets
+The German Codetermination Act does not apply to BASF SE as a
+corporate planning, the implementation of the corporate strategy,
+the competence profile and the requirements of the diversity concept
+European stock corporation (Societas Europaea, SE).
+including the sustainability strategy, business opportunities and
+in full.
+risks, as well as risk and compliance management. The Supervisory
+Supervisory Board
+▪ Appoints, monitors and advises Board of Executive Directors
+▪ Four Supervisory Board committees
+▪ Composition criteria: professional and personal qualifications,
+diversity, and independence
+The Supervisory Board of BASF SE comprises 12 members. Six
+Board has embedded the main reporting requirements in an
+members are elected by the shareholders at the Annual Shareholders’
+information policy. The chair of the Supervisory Board is in regular
+Meeting via a simple majority. Six members are elected by the BASF
+contact with the Board of Executive Directors, especially with its
+Europa Betriebsrat (BASF Works Council Europe), the European
+chair, outside of meetings as well.
+employee representation body of the BASF Group. In accordance
+with the resolution of the Annual Shareholders’ Meeting on June 18,
+2020, the period of appointment for newly elected members of the
+Supervisory Board was reduced from five to four years; and the
+Statutes were amended accordingly. This ensures that the maximum
+membership duration of 12 years up to which a Supervisory Board
+member can be classified as independent corresponds to a total of
+three election terms in accordance with the German Corporate
+A list of the members of BASF SE’s Supervisory Board indicating which members are shareholder or
+employee representatives and their appointments to the supervisory bodies of other companies can
+be found from page 183 onward.
+Compensation of the Supervisory Board is described in the Compensation Report at
+basf.com/compensationreport
+The Statutes of BASF SE and the Employee Participation Agreement can be found at basf.com/statutes
+and basf.com/en/corporategovernance
+Supervision of company management by the
+Governance Code.
+Personnel Committee
+Supervisory Board
+Meetings of the Supervisory Board and its four committees are
+Members
+The Supervisory Board appoints the members of the Board of
+called by their respective chairs and independently, at the request of
+Dr. Kurt Bock* (chair)
+Executive Directors and supervises and advises the Board of
+one of their members or the Board of Executive Directors. The
+Prof. Dr. Stefan Asenkerschbaumer* (since April 29, 2022)
+Executive Directors on management issues. It must also be involved
+shareholder and employee representatives of the Supervisory Board
+Franz Fehrenbach (until April 29, 2022)
+in making decisions that are of key importance for the company.
+prepare for Supervisory Board meetings in separate preliminary
+Sinischa Horvat*
+This also includes the Board of Executive Directors’ consideration of
+discussions in each case. Resolutions of the Supervisory Bord are
+Michael Vassiliadis
+sustainability issues with regard to corporate governance. The
+passed by a simple majority vote of the participating Supervisory
+Supervisory Board is also responsible for auditing BASF SE’s and
+Board members. In the event of a tie, the vote of the chair of the
+Duties
+the Group’s Annual Financial Statements. As members of the
+Supervisory Board, who must always be a shareholder representative,
+– Prepares the appointment of members to the Board of Executive
+Supervisory Board may not simultaneously be on the Board of
+shall be the casting vote. This resolution process is also applicable
+Directors by the Supervisory Board as well as the service contracts
+
+Directors
+– When making recommendations for appointments to the Board of
+Executive Directors, considers professional qualifications, inter-
+national experience and leadership skills as well as long-term
+succession planning, diversity, and especially the appropriate
+consideration of women
+– Prepares the resolutions made by the Supervisory Board with
+regard to the system and amount of compensation
+Audit Committee
+Members
+Dame Alison Carnwath DBE* (chair)
+Tatjana Diether*
+Alessandra Genco* (since April 29, 2022)
+Anke Schäferkordt* (until April 29, 2022)
+Michael Vassiliadis
+Duties
+– Prepares the negotiations and resolutions of the Supervisory
+Board for the approval of the Financial Statements, the Consoli-
+dated Financial Statements and the Management’s Reports,
+including the Nonfinancial Statements and sustainability reporting,
+and discusses the quarterly statements and the half-year financial
+report with the Board of Executive Directors prior to their
+publication
+– Deals with monitoring the accounting process, the annual audit,
+including sustainability reporting and its audit, the appropriateness
+and effectiveness of the internal control system, the risk manage-
+ment system, the internal auditing system and compliance
+management system as well as compliance issues
+– Is responsible for business relations with the company’s auditor:
+prepares the Supervisory Board’s proposal to the Annual Share-
+holders’ Meeting regarding the selection of an auditor, monitors
+the auditor’s independence, defines the focus areas of the audit
+together with the auditor, discusses the audit risk, audit strategy
+and audit plan with the auditor, negotiates auditing fees, evaluates
+the quality of the annual audit, and establishes the conditions for
+the provision of the auditor’s nonaudit services; the chair of the
+Audit Committee regularly discusses this with the auditor outside
+of meetings as well and reports to the Committee on such
+discussions; the Audit Committee regularly consults with the
+auditor, even without the Chief Financial Officer or another
+member of the Board of Executive Directors.
+– Deals with follow-up assessments of key acquisition and invest-
+ment projects
+– Is responsible for monitoring the internal process of identifying
+related party transactions and ensuring adherence to statutory
+approval and disclosure requirements; grants approval of related
+party transactions
+– Is authorized to request any information that it deems necessary
+from the auditor or from the Board of Executive Directors and has
+a direct right to information from the heads of central departments
+such as Corporate Audit or Compliance; can also view all of
+BASF’s business documents and examine these and all other
+assets belonging to BASF. The Audit Committee can also engage
+experts such as auditors or lawyers to carry out these inspections.
+Special expertise in the areas of the annual audit and
+accounting
+The Audit Committee is comprised of two members with special
+knowledge and experience within the meaning of the German
+Corporate Governance Code (special expertise) in the areas of
+accounting and the annual audit. The chair of the Audit Committee,
+Dame Alison Carnwath DBE, has special expertise in the field of
+auditing, including sustainability reporting, and accounting expertise
+due to her studies in economics, her professional activities as an
+auditor and many years of work on audit committees of publicly
+listed and non-listed companies. Alessandra Genco, who has been
+a member of the Audit Committee since April 29, 2022, has deep
+expertise in accounting, including sustainability reporting, due to her
+studies in economics, her professional experience working forauthorization of share buybacks, changes to the Statutes and the
+selection of the auditor.
+Each BASF SE share represents one vote. All of BASF SE’s shares
+are registered shares. Shareholders are obliged to have themselves
+entered with their shares into the company share register and to
+provide the information necessary for registration in the share regis-
+ter according to the German Stock Corporation Act. There are no
+registration restrictions and there is no limit to the number of shares
+that can be registered to one shareholder. Only the persons listed in
+the share register are entitled to vote as shareholders. Listed share-
+holders may exercise their voting rights at the Annual Shareholders’
+Meeting either personally, through a representative of their choice or
+through a company-appointed proxy authorized by the shareholders
+to vote according to their instructions. Individual instructions are only
+forwarded to the company on the morning of the day of the Annual
+Shareholders’ Meeting. Voting rights can be exercised according to
+shareholders’ instructions by company-appointed proxies until the
+beginning of the voting process during the Annual Shareholders’
+Meeting. There are neither voting caps to limit the number of votes
+a shareholder may cast nor special voting rights. BASF has fully
+implemented the principle of “one share, one vote.” All shareholders
+entered in the share register are entitled to participate in the Annual
+Shareholders’ Meetings, to have their say concerning any item on
+the agenda and to request information about company issues
+insofar as this is necessary to make an informed judgment about the
+item on the agenda under discussion. Registered shareholders are
+also entitled to file motions pertaining to proposals for resolutions
+made by the Board of Executive Directors and Supervisory Board at
+the Annual Shareholders’ Meeting and to contest resolutions of the
+Meeting and have them evaluated for their lawfulness in court.
+Shareholders who hold at least €500,000 of the company’s share
+capital, a quota corresponding to 390,625 shares, are furthermore
+entitled to request that additional items be added to the agenda of
+the Annual Shareholders’ Meeting.
+Given the particular circumstances of the COVID-19 pandemic, the
+2022 Annual Shareholders’ Meeting was again held as a virtual
+event without the physical presence of shareholders in accordance
+with the specific legal framework of the statutory provisions on
+the holding of a virtual Annual Shareholders’ Meeting pursuant to
+Article 2 Section 1(1) and (2) of the COVID-19 Act in the version
+amended by the Gesetz zur weiteren Verkürzung des Restschuld-
+befreiungsverfahrens und zur Anpassung pandemiebedingter
+Vorschriften im Gesellschafts-, Genossenschafts-, Vereins- und
+Stiftungsrecht sowie im Miet- und Pachtrecht [“Act to further shorten
+the residual debt discharge process and to adapt pandemic-related
+provisions in corporate, cooperative, association and foundation
+legislation as well as in tenancy and lease legislation”] of Decem-
+ber 22, 2020. To ensure legally compliant execution of this special
+Annual Shareholders’ Meeting format, whereby shareholders
+participated solely via electronic communication, some of the
+aforementioned shareholder rights and options for action were
+limited or handled in an exceptional manner at this virtual meeting.
+In contrast, the 2023 Annual Shareholders’ Meeting is planned to
+be held again as an in-person meeting, i.e., with the shareholders
+physically present at the meeting venue.
+Implementation of the German Corporate
+Governance Code (GCGC)
+BASF advocates responsible corporate governance that focuses on
+sustainably increasing the value of the company. BASF SE follows
+all of the recommendations of the German Corporate Governance
+Code in the version dated April 28, 2022 (Code 2022), the version in
+force at the time of submitting the Declaration of Conformity on
+December 15, 2022. Until then, BASF has complied with all recom-
+mendations of the German Corporate Governance Code in the
+version dated December 16, 2019 (Code 2020). In the same
+manner, BASF follows all of the nonobligatory suggestions of the
+German Corporate Governance Code.
+The joint Declaration of Conformity 2022 by the Board of Executive Directors and Supervisory Board of
+BASF SE is rendered on page 193
+For more information on the Declaration of Conformity 2022, the implementation of the Code’s
+suggestions and the German Corporate Governance Code, see basf.com/en/corporategovernance. Disclosures according to section 315a of the
+German Commercial Code (HGB) and explanatory
+report of the Board of Executive Directors
+according to section 176(1) sentence 1 of the
+German Stock Corporation Act (AktG)
+Share capital and shares
+As of December 31, 2022, BASF SE’s subscribed capital was
+€1,144,134,309.12 after the redemption of 24,623,765 repurchased
+own company shares in December 2022 (December 31, 2021:
+€1,175,652,728.23), divided into 893,854,929 registered shares
+with no par value (December 31, 2021: 918,478,694). Each share
+entitles the holder to one vote at the Annual Shareholders’ Meeting.
+Restrictions on the right to vote or transfer shares do not exist. The
+same rights and duties apply to all shares. According to the Statutes,
+shareholders are not entitled to receive share certificates (issuance
+of share certificates). There are neither different classes of shares
+nor shares with preferential voting rights.
+Appointment and dismissal of members of the Board of
+Executive Directors
+The appointment and dismissal of members of the Board of Execu-
+tive Directors is legally governed by the regulations in Article 39 of
+the SE Council Regulation, section 16 of the SE Implementation Act
+and sections 84 and 85 AktG as well as Article 7 of the Statutes of
+BASF SE. Accordingly, the Supervisory Board determines the
+number of members of the Board of Executive Directors (at least
+two), appoints the members of the Board of Executive Directors,
+and can nominate a chair, as well as one or more vice chairs. The
+members of the Board of Executive Directors are appointed for a
+maximum of five years. The maximum initial term of appointment is
+three years. Reappointments are permissible. The Supervisory
+Board can dismiss a member of the Board of Executive Directors if
+there is serious cause to do so. Serious cause includes, in particular,
+a gross breach of the duties pertaining to the Board of Executive
+Directors and a vote of no confidence by the Annual Shareholders’
+Meeting. The Supervisory Board decides on appointments and
+dismissals according to its own best judgment.
+Compliance culture at BASF
+For corporate compliance to be a success, there must be an active
+culture of living these values and commitments within the company.
+The principles embedded in our Code of Conduct are established
+and recognized in our day-to-day business. We expect all employees
+to act in line with these principles. Our leaders play a key role here –
+they serve as an example of and communicate our values and
+culture both internally and externally. That is why special workshops
+on integrity as a leadership task were again held in 2022 for newly
+appointed senior executives.
+Monitoring adherence to our compliance principles
+BASF’s Chief Compliance Officer (CCO) reports directly to the
+Chairman of the Board of Executive Directors and manages the
+further development of our global compliance organization and our
+Compliance Management System. The CCO is supported in this
+task by the Corporate Compliance department and more than
+100 compliance officers worldwide in the regions and countries as
+well as in the divisions, service units and in the Corporate Center.
+Material compliance topics are regularly discussed in the compliance
+committees established at global and regional level. The compliance
+organization reports to the Supervisory Board’s Audit Committee in
+at least one of its meetings each year on the status of the Compliance
+Program as well as any major developments. In the event of signifi-
+cant incidents, the Audit Committee is immediately informed by the
+Board of Executive Directors.
+We particularly encourage our employees to actively and promptly
+seek guidance if in doubt. They can consult their supervisors,
+specialist departments, such as the Legal department, and company
+compliance officers. The internal platform and the corresponding
+app also help employees to access advice by enabling direct
+contact. In addition, our employees can contact our compliance
+hotline – including anonymously – to report potential violations of
+laws or company guidelines. An independent external company has
+been contracted to manage this global hotline so that reported
+cases are recorded and processed worldwide through one system.
+The central point of contact is a website that informs all employees
+worldwide about the hotline and the grievance procedure in their
+national language. In addition to local phone numbers, the website
+also offers an online contact option, which is available via PC or
+smartphone. The website is also available to the public. Each
+concern is documented according to specific criteria, properly
+investigated in line with standard internal procedures and answered
+as quickly as possible. The outcome of the investigation as well as
+any measures taken are documented accordingly and included in
+internal reports.
+In 2022, 453 reports were received by our external hotlines (2021:
+277). The information received related to all categories of our Code
+of Conduct, including respect in the workplace, corruption, handling
+of company property and environmental, health and safety issues.
+We carefully investigated all cases of suspected misconduct that
+came to our attention and, when necessary, took countermeasures
+on a case-by-case basis. These included, for example, improved
+control mechanisms, additional informational and training measures,
+clarification and expansion of the relevant internal regulations, as
+well as disciplinary measures as appropriate. Most of the justified
+cases related to violations of our principles on respect in the work-
+place and personal misconduct in connection with the protection of
+company property or inappropriate handling of conflicts of interests.
+In such isolated cases, we took disciplinary measures in accordance
+with uniform internal standards and also pursued claims for damages
+where there were sufficient prospects of success. In 2022, violations
+of our Code of Conduct led to termination of employment in a total
+of 34 cases (2021: 32). This relates to diverse employee groups,
+including executives.
+BASF’s Corporate Audit department monitors adherence to
+compliance principles, covering all areas in which compliance
+violations could occur. They check that employees uphold regu-
+lations and make sure that the established processes, procedures
+and monitoring tools are appropriate and sufficient to minimize
+potential risks or preclude violations in the first place. In 2022,
+47 audits of this kind were performed Group-wide (2021: 77). Our
+180
+compliance management system itself is also regularly audited by
+the internal Corporate Audit department, most recently in December
+2022. Overall, the audit results speak for the effectiveness of the
+compliance management system. As part of the comprehensive
+action plan developed last year for the continuous, systematic
+optimization of our compliance management system, we worked on
+strengthening key processes in 2022 and described the principles,
+core processes and roles in our system in detail in a revised
+internal policy, Compliance Management System (CMS), which
+was approved by the Board of Executive Directors in August 2022.
+A particular focus of our compliance activities in 2022 was the
+further development of our internal systems and processes in light
+of changes to supply chain law, including the German Supply Chain
+Due Diligence Act (SCA) (see page 111).
+We monitor our business partners in sales for potential compliance
+risks based on the global Guideline on Business Partner Due
+Diligence using a checklist, a questionnaire and an internet-based
+analysis. The results are then documented. If business partners are
+not prepared to answer the questionnaire, we do not enter into a
+business relationship with them. A dedicated global Supplier Code
+of Conduct applies to our suppliers, which covers compliance with
+environmental, social and corporate governance standards, among
+other requirements. As part of our trade control processes, we also
+check whether persons, companies or organizations appear on
+sanction lists due to suspicious or illegal activities and whether there
+are business processes with business partners from or in countries
+under embargo. One focus of our activities in 2022 was on the
+continuous monitoring and implementation of the dynamically evolv-
+ing sanctions law requirements in light of the war in Ukraine.
+We support the United Nations’ Guiding Principles on Business and
+Human Rights and are constantly working to enhance our internal
+guidelines and processes in keeping with these principles. For
+example, there is an internal guideline to respect international
+labor and social standards that is applicable throughout the
+Group. Outside of our company, too, we support respect for human
+rights and the fight against corruption. We are a founding member
+of the United Nations Global Compact. As a member of Transparency
+BASF Report 2022 Corporate Governance – Compliance 181
+International Deutschland and the Partnering Against Corruption
+Initiative (PACI) of the World Economic Forum, we assist in the
+implementation of these organizations’ objectives.
+We are committed to adhering to uniformly high standards and
+integrity regarding tax-related issues, as embedded in BASF’s Code
+of Conduct and corporate values. To aid in the achievement of the
+U.N. SDGs and to meet our own standards for the creation of
+economic and social value, we contribute to public finances in
+accordance with legal requirements and our corporate values. In
+2020, we developed and published the BASF tax principles, which
+are binding for all Group entities.
+For more information on the Supplier Code of Conduct and supplier assessments,
+see page 114 onward
+For more information on the Code of Conduct, see basf.com/code-of-conduct
+For more information on human rights and labor and social standards, see
+basf.com/human_rights
+For more information on tax principles, see basf.com/en/corporategovernance
+BASF's Compliance Program is based on our corporate values and voluntary commitments, as well as international standards. It describes our commitment to responsible conduct and expectations around how all BAS employees interact with business partners, officials, coworkers and the community. At the core of our Compliance Program is the global, standardized Code of Conduct. All employees and leaders are obligated to adhere to its guidelines, which cover topics ranging from corruption and antitrust laws to human rights, labor and social standards, conflicts of interest and trade control, and protection of data privacy.
+The online version of our Code of Conduct is aimed at our emplovees and also offers user-friendly features such as case studies, FAQs and additional references. The internal online platform and the corresponding app provide our employees worldwide with up-to-date content such as videos and links to specialist units and guidelines as well as direct contact to subject specialists.
+Other binding governance documents (policies, corporate require-ments) are published on a digital platform that offers our employees an effective search function and context-based links to further information. The managing directors of BAS Group companies can find important information and assistance on ensuring compliance in their Group companies on an intranet page set up especially for them.
+Abiding by compliance standards is the foundation of responsible leadership. This has also been embedded in our values. We are convinced that compliance with these standards will play a key role in securing our company's long-term success. Our efforts are principally aimed at preventing violations from the outset.
+We perform a systematic risk assessment to identify the risk of compliance violations, including corruption risks. These are conducted at divisional and Group company level. The regular compliance audits performed by the Corporate Audit department are another source of information for the systematic identification of risks. These risks are documented in the relevant risk or audit report.
+The same applies to specific risk minimization measures as well as the time frame for their implementation.
+One key element in violation prevention is compulsory training and workshops held as classroom or online courses. All employees are required within a prescribed time frame to take part in basic training, refresher courses and special tutorials dealing with, for example, antitrust legislation, taxes or trade control regulations. Newly appointed senior executives also receive special training on leading with integrity. Course materials and formats are constantly updated, taking into account the specific risks of individual target groups and business areas. In total, more than 30,000 participants worldwide received over 50,000 hours of compliance training in 2022.
+The image is an infographic titled "Compliance," which describes the company's Compliance Program and Code of Conduct. Here is a detailed breakdown of the content:
+
+### Compliance
+The main aim of the Group-wide Compliance Program is to ensure adherence to legal regulations, the company’s internal guidelines, and ethical business practices. The Code of Conduct embeds these mandatory standards into employees’ day-to-day business. Members of the Board of Executive Directors are expressly obligated to follow these principles.
+
+#### At a Glance
+- **>30,000 participants in compliance training**
+- **47 internal audits on adherence to our compliance standards**
+
+#### Key Components
+- **Code of Conduct:** Central to the Compliance Program
+- **Systematic development:** Continuous improvement of the compliance management system
+
+#### Compliance Focus Areas
+
+1. **We Care**
+   - Our Code of Conduct
+   - How We Make Decisions
+   - We Always Speak Up
+   - We Lead Integrity
+
+2. **We Earn Trust**
+   - Anti-Corruption
+   - Trade Control
+   - Anti-Money Laundering
+
+3. **We Play Fair**
+   - Antitrust Laws
+   - Gifts and Entertainment
+   - Conflicts of Interest
+
+4. **We Respect**
+   - Human Rights, Labor and Social Standards
+   - Environmental Protection, Health and Safety
+
+5. **We Protect**
+   - Sensitive Company Information
+   - Personal Data
+   - Digital Responsibility
+   - Company Property
+   - Accurate Books and Records
+
+The infographic emphasizes the company's commitment to maintaining high standards of compliance through extensive training, regular audits, and a robust Code of Conduct. Each focus area is designed to ensure the integrity, trustworthiness, fairness, respect, and protection of all company stakeholders and assets.

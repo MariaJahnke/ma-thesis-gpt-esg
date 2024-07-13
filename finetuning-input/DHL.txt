@@ -1,0 +1,556 @@
+The image displays a detailed table from the nonfinancial statement section of a report, summarizing various aspects of a global logistics company's performance, including environmental, social, and governance (ESG) metrics. Here's an overview of the information:
+
+### HGB Aspects and Concepts
+- **General Information**: Describes the business model as a global logistics company.
+- **Environment**: Focuses on climate change and environmental protection with specific emphasis on logistics-related greenhouse gas (GHG) emissions. Targets and results for realized decarbonization effects are provided.
+- **Employee Matters**: Addresses employee engagement, management diversity, and workplace safety. For example, the target for the share of women in middle and upper management and lost time injury frequency rate (LTIFR) are specified.
+- **Social Responsibility**: Includes employee satisfaction and implementation of human rights standards in the workforce and supply chain.
+- **Corporate Governance Anti-corruption and Bribery Matters**: Looks at compliance with laws and the percentage of valid compliance training certificates.
+- **Respect for Human Rights**: Details actions like internal audits and on-site reviews concerning human rights.
+- **Cybersecurity**: Notes the company's efforts to guarantee IT systems and data security, providing a cybersecurity rating.
+- **Voluntary Disclosures**: Mentions efforts to avoid corporate structures for tax optimization.
+
+### Performance Indicators and Targets
+- Specific metrics are listed next to each aspect, such as:
+  - **Realized Decarbonization Effects**: Measured in million tons of CO2 equivalent with targets and results provided.
+  - **Employee Engagement**: Quantified by survey approval rates.
+  - **Share of Women in Management**: Current results and targets are mentioned to show progress or lack thereof towards gender diversity.
+  - **Cybersecurity Ratings and Targets**: Reflect the focus on IT and data protection.
+
+### Miscellaneous
+- The table includes several footnotes that explain the context of reporting, methods used for calculations, or adjustments made to the figures, ensuring clarity and transparency in reporting.
+
+This table is a comprehensive overview of the company's nonfinancial performance across a variety of ESG concerns, showing both the current status and specific future targets, which helps stakeholders understand the company’s progress and commitment to these areas.
+
+Corporate governance
+Role model for responsible corporate governance
+We intend to serve both as a role model for responsible corporate governance in our sector and as a trustworthy company.
+Ensuring our interactions with business partners, employees, the capital market and the general public are conducted with
+integrity and within the bounds of the law is vital to maintaining our reputation and is the basis for sustainable business success.
+We take steps to guarantee an honest and transparent business practice in compliance with the law by focusing on training
+managers in compliance-relevant content, building cybersecurity skills, shaping sustainable and stable relationships with business
+partners and fully integrating ESG metrics into management processes and incentive systems.
+The rules for ethical conduct included in our Code of Conduct are further specified in our Human Rights Policy Statement as well as
+our Anti-Corruption and Business Ethics Standards Policy. Our focus at all times is on preventing potential violations of statutory
+requirements and internal guidelines.
+Corporate Internal Audit evaluates the effectiveness of our risk management system, control mechanisms, management and
+monitoring processes and compliance with Group policies, contributing to their improvement. It does this by performing
+independent regular and ad hoc audits at all Group companies and at corporate headquarters with the authority of the Board of
+Management. The audit teams discuss the audit findings and agree on measures for improvement with the audited organizational
+units and their management. The Board of Management is regularly informed of the findings. The Supervisory Board is provided
+with a summary once a year.
+The image presents a table detailing corporate governance-related metrics for a company, focusing on cybersecurity, compliance, and human rights aspects. It provides performance indicators, actual results for 2022 and 2023, and target goals for 2024. Here's a breakdown of the information:
+
+### Material Topics and Performance Indicators
+- **Cybersecurity**: 
+  - **External Rating**: Measured in points. The score was 700 in 2022, increased to 750 in 2023, and the target for 2024 is at least 690.
+- **Compliance**: 
+  - **Share of Valid Compliance Training Certificates**: Percentage of employees in middle and upper management who received valid compliance training. It was 98.1% in 2022, increased to 98.6% in 2023, and the target for 2024 is set at 98%.
+- **Respecting Human Rights**: 
+  - **Internal Audits by Corporate Internal Audit**: Number of audits conducted. There were 33 in 2022 and 53 in 2023. No target is specified for 2024.
+  - **On-Site Reviews**: Indicates the number of countries where these were carried out, consistent at 10 for both years.
+  - **Share of Valid Training Certificates in Middle and Upper Management**: Percentage increased from 98.4% in 2022 to 99.5% in 2023.
+- **Supply Chain Standards**:
+  - **Supplier Spend Covered by an Accepted Supplier Code of Conduct**: Financial commitment in billions to suppliers adhering to accepted codes of conduct, rising from over 27 billion in 2022 to over 35 billion in 2023.
+  - **Potential High-Risk Suppliers Assessed**: The number of suppliers assessed for high risks increased significantly from over 2,700 in 2022 to over 4,000 in 2023.
+
+### Footnotes
+- Several footnotes provide additional context:
+  1. Performance indicators are steering-relevant and have assigned target values.
+  2. Indicators are relevant for the fiscal year.
+  3. Some indicators are tied to remuneration.
+  4. Specifically mentions that these metrics pertain to middle and upper management.
+
+This table is a succinct yet detailed portrayal of the company’s efforts in maintaining robust governance through proactive measures in cybersecurity, compliance, and human rights within their operations and supply chain. It highlights the company's commitment to improving and sustaining high standards of governance practices across different domains.
+
+Trusted business partner thanks to compliance culture
+We render all of our services in compliance with current legislation as well as our corporate values as defined in our Group policies.
+One important aspect of compliance is the legal requirements relating to preventing corruption and bribery. We observe all
+applicable international anti-corruption standards and statutes and are a member of the Partnering Against Corruption initiative of
+the World Economic Forum.
+Ensuring legally compliant conduct in our business activities and in our interactions with employees is an essential task of all Group
+management bodies. Our compliance management system (CMS) has been implemented Group-wide. Responsibility for designing
+the CMS lies with the Chief Compliance Officer, who reports directly to the CFO. This establishes uniform minimum standards to
+ensure compliance with applicable law, for example anti-corruption legislation, and relevant internal guidelines such as the Anti-
+Corruption and Business Ethics Policy (Anti-Corruption Policy). The divisional compliance officers are tasked with the
+implementation of the CMS within the divisions.
+78 DHL Group – 2023 Annual Report The Company Consolidated Financial Statements
+Combined Management Report Further Information
+With our Code of Conduct and Anti-Corruption Policy, along with training on these topics, we provide clear guidance and help
+employees identify situations in which the integrity of the company could be called into question.
+Participation of executives in middle and upper management, as well as of employees in certain functions, in various types of
+relevant compliance training is mandatory. In this way, we raise our employees’ awareness for potential compliance risks and
+enable them to mitigate such risks in an appropriate manner. The compliance training courses comprise our Core Compliance
+Curriculum (anti-corruption, competition compliance, Code of Conduct) and training on data protection. All employees in the target
+group are required to repeat the training courses every two years. We use the share of valid training certificates among executives
+in middle and upper management as a steering-relevant KPI.
+Potential violations can be reported 24/7 – if legally permitted, anonymously – via our compliance incident reporting system
+(whistleblower hotline). In addition, potential violations can also be reported by telephone. Third parties can also use the system to
+report potential violations. Reports are reviewed and investigated internally for potential violations as part of a standardized
+process. Key figures on compliance notifications and issues are recorded throughout the Group via the compliance reporting tool
+(BKMS Dashboard). Information on relevant violations is collected and included in the regular compliance reports made to the
+Board of Management and to the Supervisory Board’s Finance and Audit Committee.
+The importance and value that compliance has for the Group was once again emphasized for employees by means of a campaign –
+Compliance Awareness Week – which was rounded out by measures tailored to the specific divisions and regions. The campaign
+was accompanied by statements from the Board of Management members (“tone from the top”) and supported by panel
+discussions with managers. To strengthen the internal dialogue, our workforce was made aware of and informed about compliance
+aspects on an ongoing basis by means of further communication measures and via the compliance channels.
+The compliance training certification rate was 98.6% in middle and upper management in the year under review (previous year:
+98.1%), meaning we exceeded our target of 98% in the year under review. In the context of its 219 audits, Corporate Internal Audit
+also reviewed compliance management system processes and the implementation of agreed-upon follow-up measures. Findings
+from the regular audits facilitate the identification of other compliance risks and the refinement of the compliance program.
+Respecting human rights
+Our commitment to respect for human rights includes adherence to the principles of the UN Global Compact and the International
+Labor Organization (ILO), which we have embedded in our Code of Conduct and outlined in greater detail in our Human Rights
+Policy Statement. These stipulate clear responsibilities and requirements for our employees and managers as well as our suppliers
+and subcontractors and contribute to the general understanding and implementation of the principles of the UN Global Compact.
+Our human rights activities focus on the prevention of child and forced labor, decent working conditions (working hours,
+occupational health and safety, remuneration), equal opportunities, data protection and the right to freedom of association. With
+the Supplier Code of Conduct, we obligate suppliers and subcontractors to comply with our ethical, social and environmental
+principles and implement them in their own supply chains.
+With our measures for respecting human rights in the workforce and in the supply chain, we are in compliance with the
+requirements of the Supply Chain Due Diligence Act (Lieferkettensorgfaltspflichtengesetz – LkSG). Implementation of the
+measures is monitored by the LkSG Council. The board is made up of executives in upper management from the Group functions
+Human Resources, Corporate Development, Corporate Public Affairs, Legal Services and Global Compliance, Corporate
+Procurement and Corporate Internal Audit.
+As part of its audits, Corporate Internal Audit also conducted reviews relating to respect for human rights and verified that the
+agreed-upon follow-up measures had been implemented. In the reporting year, 53 such reviews took place.
+79 DHL Group – 2023 Annual Report The Company Consolidated Financial Statements
+Combined Management Report Further Information
+Human rights in the workforce
+With our internal management system, we ensure that our Human Rights Policy Statement is implemented among our workforce.
+In addition, it ensures that we adhere to due diligence requirements. Our management system is comprised of annual as well as ad
+hoc assessments of human rights risks, measures to raise awareness among employees and managers, annual reporting on Group-
+wide fulfillment of due diligence requirements and the professional compliance incident reporting system.
+We carry out both an abstract and a concrete risk analysis to determine human rights risks. First, the risk is analyzed using external
+data (Verisk Maplecroft). Then, it is substantiated by evaluating questionnaires completed by our country organizations on the
+basis of their specific risk profile.
+Targeted on-site reviews are carried out based on the risk assessments. These reviews are conducted by specially trained and
+externally SMETA-certified (Sedex Members Ethical Trade Audit) professionals from our divisions and corporate headquarters. The
+countries are selected based on the results of weighting and prioritization of the identified risks, including – among other factors –
+the findings from the questionnaires, the number of employees, the assessments of relevant Group committees and responsible
+experts and recommendations from international trade union confederations. If there are violations identified at locations, these
+are then immediately addressed as part of a structured action plan. In the year under review, on-site reviews under the leadership
+of the HR department were carried out at more than 30 subsidiaries in ten countries, including in Asia, Latin America, Africa and
+Europe.
+We encourage our employees to participate in the training courses for raising awareness for respect for human rights. Participation
+is mandatory, however, for executives in middle and upper management; the certification rate was 99.5% in the reporting period
+(previous year: 98.4%).
+Standards in the supply chain
+Corporate Procurement selects suppliers that meet our ethical, social and environmental standards. This selection process is based
+on a standardized assessment process that also takes aspects such as diversity and respect for human rights into account, as well
+as external criteria such as those from Transparency International (Corruption Perceptions Index) and Verisk Maplecroft. In the year
+under review, the supplier assessment was supplemented with additional internal measures and expanded with external audits
+(including in accordance with the SMETA method). In the event of findings, remedial measures are discussed and plans for
+corrective measures are agreed upon.
+Procurement employees are regularly trained to identify potential supplier-related risks early on. We convey our expectations to
+our suppliers and subcontractors via our Supplier Portal and introduce our selection processes. Suppliers can also use our portal to
+familiarize themselves with our Supplier Code of Conduct, which we make available in numerous languages along with the
+corresponding training module. From there, they can also access our professional compliance whistleblower system that they can
+use to report potential violations of the Code or statutory provisions as well as cybersecurity incidents.
+In the year under review, we continued developing the Group-wide risk management system for supplier assessments. We
+calculate the potential for risk of suppliers at the level of purchase categories (material groups). The risk assessment is influenced
+by 46 types of risk within eight risk domains (ESG, economic, technical, legal and political risks, as well as cybersecurity) that are
+evaluated for each individual purchasing category. The ultimate classification of the risk potential is based on the evaluation of the
+probability and the possible impact. More than 4,000 potential high-risk suppliers were assessed in the year under review
+(previous year: >2,700).
+We use supplier spend covered by an accepted Supplier Code of Conduct to measure the successful implementation of our
+standards in the supply chain. We record progress regarding the key figure via the central financial systems, report to management
+on a monthly basis and discuss developments with the CEO and the CFO. In the year under review, supplier spend covered by an
+accepted Supplier Code of Conduct rose to more than €35 billion (previous year: >€27 billion).
+80 DHL Group – 2023 Annual Report The Company Consolidated Financial Statements
+Combined Management Report Further Information
+Cybersecurity
+Our cybersecurity management activities protect the information of the Group, our business partners and our employees as well as
+IT systems from unauthorized access or manipulation and data misuse. In addition, this ensures uninterrupted availability and
+enables reliable operations. Our internal guidelines and processes are based on ISO 27002 and our data centers are certified in
+accordance with ISO 27001.
+Since January 1, 2024, the Group Chief Information Security Officer (Group CISO) has reported directly to the CEO (previous year:
+Corporate Board Member for Global Business Services). The IT Board determines the cybersecurity strategy and defines and
+manages Group-wide measures for cybersecurity, for protecting systems and data and for digitalization processes. The Information
+Security Committee is made up of the central functions of Group CISO, IT Audit, Human Resources, Legal Services, Data Protection
+and Corporate Security, as well as the divisional CISOs. The committee assesses potential threats on an ongoing basis, evaluates
+the potential of new risks and monitors compliance with our security standards.
+We limit access to our systems and data such that employees can only access the data they need to perform their duties. All
+systems and data are backed up on a regular basis, and critical data are replicated across data centers. Additionally, by performing
+continuous software updates, we can fix potential security vulnerabilities and protect system functionality.
+A variety of communication measures and training sessions help our workforce become more aware of possible cybersecurity risks.
+All employees and managers with a corporate email address are continuously made aware of risks via phishing simulations. We
+also draw attention to current risks using IT crisis simulations. Participation in Information Security Awareness training is
+mandatory for all employees with a computer workstation. All participants who have already completed their training must update
+their certification every two years.
+Our cybersecurity undergoes independent assessment by the external rating agency BitSight. This rating is based on the technical
+analysis of any weak points and brings potential security risks to the attention of the rated company; this is carried out by an
+automated service on a daily basis. Unlike with a self-assessment, a cybersecurity rating offers greater transparency and enables
+comparison with other companies thanks to standardization. We compare our performance with DAX 40 companies as well as with
+major customers and logistics companies that are not covered by the DAX 40. The target amount is determined by the aspiration to
+be within the upper quarter of this comparison group.
+The cybersecurity rating has been remuneration-relevant since this reporting period. This performance indicator makes up 10% of
+the annual bonus calculation for the Board of Management. As announced, the rating scale for the cybersecurity rating in the year
+under review has changed due to adjustments to the method of the rating agency. In line with the change, we adjusted our target
+for the 2023 fiscal year from 710 to 690 points. The rating amounted to 750 of 820 achievable points as of the end of the year
+under review (previous year: 700 points). The target for the year under review was thus exceeded.
+Tax strategy as a standard adhered to worldwide
+Our tax strategy is aligned with our Group strategy and must be adhered to throughout the Group. The overarching approach
+applied by the Group is that taxes are always incidental to and follow business needs.
+We do not undertake aggressive tax planning or enter into artificial arrangements with the goal of avoiding taxes. Our Group
+maintains locations in more than 220 countries and territories, including some with lower tax rates than those in Germany. These
+locations are necessary for carrying out our operational business in those regions. None of our companies was established with the
+purpose of obtaining tax benefits or is currently used to pursue aggressive tax structuring.
+In interpreting and applying tax legislation, we follow the letter of the law; in case of ambiguity, we follow the law’s spirit and
+intended purpose. As a globally active group of companies, our activities necessarily include operations in countries where
+uncertainty is high. In order to mitigate this uncertainty and obtain the greatest possible degree of legal certainty, we are in
+continual dialogue with tax authorities and tax advisers. This allows us to meet tax compliance requirements in the countries in
+which we operate. Our Group risk management system incorporates a tax risk management framework that enables us to monitor
+tax risks and respective countermeasures.
+Pursuant to Article 8 of Regulation 2020/852 of the European Parliament and of the Council as well as Delegated Regulations
+2021/2178 and 2023/2486 of the European Commission.
+Contribution to the climate and environmental objectives of the European Union
+We report our contribution to the European Union’s (EU) six environmental objectives according to the guidelines laid down in the
+EU Taxonomy regulation and report the taxonomy-aligned (aligned) and taxonomy-eligible shares of revenue, capital expenditure
+(capex) and operating expenditure (opex).
+Taxonomy-eligible economic activities (activities) are considered environmentally sustainable and therefore aligned if they make a
+substantial contribution to one of the six EU environmental objectives and are not associated with significant harm to one or more
+other environmental objectives (do-no-significant-harm (DNSH) criteria). In addition, for all activities, the Group complies with
+required frameworks for minimum safeguards that relate to respecting human rights and social and labor standards, as well as
+anti-corruption fair competition and taxation.
+Aligned activities exclusively make a substantial contribution to EU environmental objective 1. No aligned activities were identified
+in conjunction with EU environmental objective 2 that make a substantial contribution to risk avoidance or the reduction of the risk
+of adverse effects of the current and projected climate on the activity itself or on people, nature or assets without increasing the
+risk of adverse effects on people, nature or assets. The activities in the area of construction and real estate make no substantial
+contribution to EU environmental objective 4.
+SIX EU ENVIRONMENTAL OBJECTIVES
+1 Climate change mitigation
+2 Climate change adaptation
+3 Sustainable use and protection of water and marine resources
+4 Transition to a circular economy
+5 Pollution prevention and control
+6 Protection and restoration of biodiversity and ecosystems
+The requirements of the EU Taxonomy were expanded in the year under review: new activities in the air freight sector were added
+to the first EU environmental objective, and further activities were added to the EU environmental objectives 3 to 6. The taxonomy
+eligibility was determined and reported for these new activities. In accordance with this, we primarily carry out activities in EU
+environmental objectives 1 and 2; with regard to EU environmental objective 4, two activities fall under the area of construction
+and real estate.
+The Group policy for implementing the requirements of the EU Taxonomy includes the guidelines for determining the aligned
+shares of revenue, capex and opex. The data is collected accordingly in the Group-wide finance and controlling systems. In the year
+under review, the Group policy and the Group-wide finance and controlling systems were adapted with regard to the additional
+requirements. For the first time, we can now report the taxonomy-eligible shares of our air freight operations.
+Development of the Taxonomy KPIs
+The taxonomy-eligible and -aligned shares increased compared with the previous year. The expansion of the taxonomy
+requirements in the area of air freight in particular played a significant role in the increase in taxonomy eligibility. The increase in
+taxonomy alignment results from our decarbonization measures in the pickup and delivery fleet and the improved identification of
+taxonomy-aligned activities.
+
+The EU Taxonomy still does not take into account all economic activities that are relevant for our business. Revenue from operating
+warehouses (Supply Chain division) in particular is therefore not reported as taxonomy-eligible.
+Capex generated by the addition of assets can be assigned directly to individual activities, while revenue and opex can generally not
+be directly assigned. In these cases, we primarily use a cost-based allocation logic that reflects the business models of the divisions.
+We avoid double counting by assigning revenue, capex and opex to only one activity respectively and taking intra-Group
+relationships into account on a consolidated basis. Property, plant and equipment from business combinations were primarily
+allocated to the "Construction and real estate" and "Transport" sectors; intangible assets from business combinations were
+classified as (cid:81)(cid:82)(cid:87)(cid:3)(cid:87)(cid:68)(cid:91)(cid:82)(cid:81)(cid:82)(cid:80)(cid:92)(cid:16)(cid:72)(cid:79)(cid:76)(cid:74)(cid:76)(cid:69)(cid:79)(cid:72).
+84 DHL Group – 2023 Annual Report The Company Consolidated Financial Statements
+Combined Management Report Further Information
+Determining taxonomy alignment
+All taxonomy-eligible activities were reviewed with regard to their alignment in the year under review. The following statements
+are in regard to the aligned assets per activity and the associated shares of revenue, capex and opex.
+APPLIED EVALUATION METHOD
+Technical evaluation criterion Method
+Substantial contribution to climate change mitigation: Does no Carried out on the basis of individual assets or groups of assets, provided that the
+significant harm (DNSH) to the EU environmental objectives of the evaluation of the criteria is possible on a superordinate level by means of uniform
+sustainable use and protection of water and marine resources Group processes and within the framework of applicable national or EU regulations.
+(DNSH 3), the transition to a circular economy (DNSH 4), pollution These values were assessed as not aligned in all other cases. Various technical
+prevention and control (DNSH 5), the protection and restoration of screening criteria relate to requirements from applicable EU legislation. If no equivalent
+biodiversity and ecosystems (DNSH 6) requirements apply in non-EU countries, no alignment can be demonstrated
+accordingly.
+Does no significant harm (DNSH) to the EU environmental objective The climate-change-related risk assessment was carried out based on the TCFD
+of climate change adaptation (DNSH 2) analysis, which we supplemented with adjustment solutions for physical climate risks.
+EU minimum safeguards for the respect for human rights and the Ensured with our Code of Conduct, the Group policies on anti-corruption and standards
+preserving of employees’ rights, as well as regarding anti-corruption, for business ethics, the environment and energy, the Competition Compliance Policy,
+fair competition and taxation the Human Rights Policy Statement, the corresponding processes and management
+systems, the regular audits carried out by Corporate Internal Audit and the Group Tax
+Strategy. Ensured in the supply chain with our Supplier Code of Conduct, the
+procurement processes and supplier management, as well as the implementation of
+the requirements under the LkSG. At the time this report was prepared, there were no
+relevant legal proceedings ongoing in this context.
+We generate a significant portion of our revenue from transport services (transport sector) in collaboration with suppliers and
+subcontractors, who render their services on an independent basis from a legal perspective. As a result, these activities and the
+assets associated with them must be evaluated there with regard to alignment with the EU Taxonomy. At the time this report was
+prepared, we largely did not have any information on the meeting of technical criteria for these activities and assets, so we are
+reporting them as not taxonomy-aligned, in particular in the activities 6.2, 6.5, 6.6 and 6.10. Even suppliers and subcontractors
+who report pursuant to the EU Taxonomy were unable to confirm to us the alignment of their underlying activities. If shares of
+revenue and opex cannot be directly assigned to aligned activities, we apply specific allocation keys – such as the percentage of
+taxonomy-aligned vehicles in the entire fleet – that also take individual characteristics of the divisions into account.
+85 DHL Group – 2023 Annual Report The Company Consolidated Financial Statements
+Combined Management Report Further Information
+the performance of the world economy and global economic output. Unless otherwise specified, a low relevance is attached to the
+individual opportunities and risks within the respective categories. The opportunities and risks generally apply to all divisions,
+unless indicated otherwise.
+
+1 Material opportunities and risks are referenced based on the corresponding figures in the following descriptions of individual categories.
+Both the material as well as the immaterial opportunities and risks from the overview are specified in the following. Unless
+otherwise explicitly labeled, these are considered immaterial.
+Opportunities and risks arising from corporate strategy
+Over the past few years, the Group has ensured that its business activities are well positioned in the world’s fastest-growing
+regions and markets. We are also constantly working to create efficient structures in all areas to enable us to flexibly adapt
+capacities and costs to demand, which is a condition for lasting, profitable business success. With respect to our strategic
+orientation, we are focusing on our core competencies in the logistics and letter mail businesses. Our earnings projections regularly
+take account of development opportunities arising from our strategic orientation.
+We take action early to counter potential strategic risks. In doing so, it helps that our portfolio of customers and supplier companies
+is as broad as possible and that we focus on profitable sectors and products, regularly review customer and product performance,
+practice strict cost management and add surcharges whenever necessary.
+100 DHL Group – 2023 Annual Report The Company Consolidated Financial Statements
+Combined Management Report Further Information
+In the Express division, our future success depends, above all, upon general factors such as trends in the competitive environment,
+costs and quantities transported. In addition, market capacities could restrict our pricing leeway due to market pressure from
+customers and competitors, which represents a risk of medium significance for us (1). We plan to keep growing our international
+business and expect a further increase in shipment volumes over the medium and long term. Based upon this assumption, we are
+investing in our network, our services, our employees and the DHL brand.
+In the Global Forwarding, Freight division, we purchase transport services for customers from airlines, shipping companies and
+freight carriers rather than providing them ourselves. In the best case, we are able to outsource transport services at such a low
+rate that we can generate a margin. In the worst-case scenario, we bear the risk of not being able to pass on all price increases to
+our customers. The extent of our opportunities and risks essentially depends on trends in the supply, demand and pricing of
+transport services as well as the duration of our contracts. Comprehensive knowledge in the area of brokering transport services
+helps us to capitalize on opportunities and minimize risk.
+In the Supply Chain division, our success is highly dependent on our customers’ business performance. Since we offer companies a
+widely diversified range of products in different sectors all over the world, we are able to diversify our risk portfolio and thus
+counteract the incumbent risks. Our future success moreover depends on our ability to continuously improve our existing business,
+seamlessly integrate new business and grow in our most important markets and segments.
+The eCommerce division is responsible for domestic and international non-time-definite standard parcel delivery services in
+various countries around the globe. It predominantly serves customers in the fast-growing e-commerce sector. Our goal is to
+leverage our international resources and services to build a cross-border solutions platform that can be connected to the most
+cost-efficient networks for last-mile delivery. We want to grow profitably in all sectors and segments. To counteract the
+fundamental risk of rising cost pressure, we took measures with which we intend to improve network efficiency and cost flexibility.
+Whether e-commerce merchants invest in the establishment and operation of delivery organizations in addition to other market
+participants results in opportunities and risks for the eCommerce division, as well as for the parcel business in Germany. In this
+regard, it can be observed that this type of investing activity currently appears to be in decline among e-commerce merchants.
+In the German mail and parcel business, we are responding to the challenges posed by the structural shift from a physical to a
+digital business and the continual decline in letter mail occurring parallel to the steady increase in volumes of parcels and
+merchandise mail items. We are counteracting the risk arising from changing demand by expanding our range of services. Due to
+the rise in e-commerce, we expect our parcel business to continue growing in the coming years and are therefore expanding our
+network of Pack- and Poststations. We are also expanding our range of electronic communications services, securing our standing
+as a quality leader and, where possible, making our transport and delivery costs more flexible. We follow developments in the
+market very closely and take them into account in our earnings projections.
+We currently do not see any further specific corporate strategy opportunities or risks of material significance, either for the Group
+or individual divisions.
+Legal and compliance-related opportunities and risks
+Legal disputes may arise in the case of noncompliance with national or international laws and regulations as well as agreements.
+Examples are violations of antitrust and competition law. Investigations of any such violations may result in considerable costs,
+penalties and damage to our company’s reputation, which could have a disadvantageous impact on the business activities of the
+Group.
+Compliance with laws, regulations and agreements is a clearly formulated obligation of all employees of the Group, and ensuring
+this is one of the fundamental tasks of our managers. To support our employees and managers, we have established a corporate
+compliance unit differentiated according to relevant topics that, on the basis of our risk management system, monitors compliance
+with Group-wide standards at both Group and divisional level with respect to typical compliance risks. Thus, in addition to our
+compliance initiative aimed at preventing fraud and fighting corruption and violations of cartel and competition law, we have
+introduced initiatives in all divisions intended to ensure compliance with data protection laws – for example, to ensure adherence to
+the provisions of the European Union’s General Data Protection Regulation (GDPR). A similar, Group-wide compliance initiative
+101 DHL Group – 2023 Annual Report The Company Consolidated Financial Statements
+Combined Management Report Further Information
+aims to ensure adherence to international and national export controls and embargo regulations. Moreover, our compliance unit
+supports, coordinates and monitors the observance of human rights and the fundamental environmental standards in our own
+operations as well as in our external supply chain.
+At present, we do not see any specific legal or compliance-related opportunities or risks of material significance.
+Opportunities and risks arising from capital expenditure and projects
+The Group invests in maintaining and growing its network, in buildings and technical equipment, in IT solutions and in its fleet of
+vehicles and freight aircraft. The objective of the investment projects is to strengthen the positioning of our divisions in
+consideration of aspects related to economic efficiency and ESG.
+The risks associated with the investments relate primarily to deviations in costs and timelines as well as to the complexity of the
+projects and the availability of resources. This can lead to adverse effects on the economic efficiency, continuity and quality of our
+services.
+The aforementioned risks are monitored via ongoing project management and investment controlling so that targeted
+countermeasures can be taken at an early stage. The status of investment projects is documented on a regular basis and reported
+to the Group Board of Management and, for larger projects, to the Supervisory Board. Moreover, the Group Board of Management
+is informed promptly of any critical projects.
+We do not currently see any specific opportunities or risks of significance in the area of investment projects.
+Operational opportunities and risks
+Logistics services are generally provided in bulk and require a complex operational and external infrastructure with high quality
+standards. Any weaknesses with regard to the tendering, sorting, transport, warehousing, customs clearance or delivery of
+shipments could seriously compromise our competitive position. In particular, the impairment of significant infrastructure such as
+central transport hubs can have negative effects. To consistently guarantee reliability and punctual delivery, processes must be
+organized so as to proceed smoothly with no technical or personnel-related glitches. We counteract potential operational risks, for
+example through efficient workflows and structures. We also take out insurance policies to guard against potential losses.
+Most recently, the war in Ukraine and the conflict in the Middle East, as well as the global pandemic in recent years, have revealed
+how external factors can restrict our transport routes and means or reduce the availability of our employees, and hence potentially
+impair our operating performance. For information on the measures we are taking to protect our employees, please refer to the
+categories titled “Human resources” and “Environment, catastrophes and epidemics.”
+A large number of internal processes must be aligned so that we can render our services. These include – in addition to our
+fundamental operating processes – supporting functions such as sales and purchasing. The extent to which we succeed in aligning
+our internal processes to meet customer needs while simultaneously lowering costs correlates with potential positive deviations
+from the current projections. Our earnings projections already incorporate the expected cost savings.
+Increased restrictions imposed by law to combat climate change can be expected in the coming years, including limits on air
+transport or access to city centers. In certain cases, this may also affect our business models. The resulting risk represents a risk of
+medium significance for us currently (2).
+At this time, we do not see any additional specific operational opportunities or risks of material significance.
+102 DHL Group – 2023 Annual Report The Company Consolidated Financial Statements
+Combined Management Report Further Information
+Opportunities and risks arising from human resources
+Qualified, dedicated and motivated employees are a prerequisite for sustainable success. Demographic change and a tense labor
+market situation across all job types in some regions represent a challenge for recruiting workers on a local level. To address this
+adequately and to avoid labor shortages, we place particular emphasis on our recruiting activities. In addition, we prevent staff
+shortages through recruiting measures abroad, by using skilled labor migration and by hiring refugees.
+For our business success and a low level of staff turnover, it is important to provide our employees with development opportunities
+and foster their long-term loyalty to the company. In this context, we value the professional development of our executives, with
+our Group-wide Leadership Attributes serving as a guide for action. Furthermore, we ensure that our employees are able to
+continuously improve their skills in line with their needs through on-the-job learning opportunities as well as off-the-job training
+courses.
+The health and safety of our employees are of central importance for DHL Group. We therefore place a high value on health and
+occupational safety measures. With respect to occupational health, we make use of initiatives tailored to local requirements and
+cooperate across divisions in the management of healthcare initiatives. This is supplemented with health and exercise programs
+and targeted checkup offers on-site. In addition, we address risks in the area of mental health using prevention, including by means
+of a continuously refined system for assessing risks associated with mental stresses and as part of our Certified programs for staff
+development.
+As a globally active company with approximately 590,000 employees (headcount as of December 31, 2023) in over 220 countries
+and territories, upholding human rights is a top priority for us. We account for this responsibility through our Human Rights Policy
+Statement. If infringements are reported, we will take appropriate measures for clarification.
+The development of staff costs is a key factor for us due to the large number of employees. This factor is also being driven by the
+currently high levels of inflation. The current collective bargaining agreement of Deutsche Post AG is valid for 2023 and 2024. The
+development of staff costs is no longer a risk of material significance for us at this time.
+Overall, we do not currently see any personnel-related opportunities or risks of material significance.
+Opportunities and risks arising from information technology
+The security of our information systems is particularly important to us. The goal is to ensure continuous IT system operation and
+prevent unauthorized access to our systems and databases. To this end, we have defined guidelines, standards and procedures
+based upon ISO 27001, the international standard for information security management. In addition, IT risks are monitored and
+assessed on an ongoing basis by Group Risk Management, Corporate Internal Audit, Data Protection and Corporate Security.
+For our business processes to run smoothly at all times, the essential IT systems must be continuously available. We have therefore
+designed our systems to protect against complete system failure. Our software is monitored and updated regularly to address
+potential bugs, close gaps in security and increase functionality. We employ a patch management process – a defined procedure for
+managing software upgrades – to control risks that could arise from outdated software or from software upgrades. In this context,
+we use structured processes to collect and check the devices and software versions used in our IT network, the goal being to
+achieve the highest possible level of coverage.
+We limit access to our systems and data such that employees can generally only access the data they need to perform their duties.
+Systems and data are backed up on a regular basis, and critical data are replicated across data centers. We make use of outsourced
+data centers of established providers and operate central data centers in the Czech Republic, Malaysia and the United States. Our
+systems are thus geographically separate and, in addition, are replicated at local disaster recovery locations.
+103 DHL Group – 2023 Annual Report The Company Consolidated Financial Statements
+Combined Management Report Further Information
+GOVERNANCE
+Annual Corporate Governance Statement
+pursuant to Sections 289f and 315d HGB with respect to Deutsche Post(cid:3)AG and DHL Group.
+Declaration of Conformity with the German Corporate Governance Code
+Deutsche Post(cid:3)AG complied with the suggestions and recommendations of the German Corporate Governance Code in the year
+under review. The Board of Management and Supervisory Board intend to comply with all suggestions and recommendations in
+the future as well. In December(cid:3)2023, they issued the following Declaration of Conformity:
+The Board of Management and the Supervisory Board of Deutsche Post(cid:3)AG declare that, since the issue of the Declaration of
+Conformity in December 2022, all recommendations of the Government Commission German Corporate Governance Code, as
+amended on April 28, 2022, and published in the (cid:291)(cid:336)(cid:329)(cid:319)(cid:320)(cid:334)(cid:316)(cid:329)(cid:341)(cid:320)(cid:324)(cid:322)(cid:320)(cid:333) (Federal Gazette) on June 27, 2022, have been complied with,
+and that all recommendations are to be complied with going forward.
+You can view the current Declaration of Conformity and the Annual Corporate Governance Statement along with the Declarations
+of Conformity for the past five years on the company’s website.
+Corporate governance principles and shared values
+Our business relationships and activities are based upon responsible business practices that comply with applicable laws,
+international guidelines and ethical standards, and this also forms part of the Group’s strategy. Equally, we require our suppliers to
+act in this way. We encourage relationships with our employees, customers and other stakeholders, as well as the shareholders,
+whose decisions to select DHL Group as an employer, supplier or investment are increasingly also based upon the requirement that
+we apply good corporate governance criteria.
+With the Code of Conduct, we have laid out the requirements of the conduct of our employees. It is applicable across all divisions and
+regions. In the Code of Conduct, we commit ourselves in particular to the principles set out in the United Nations (UN) Global
+Compact, comply with the principles of the Universal Declaration of Human Rights and follow additional recognized legal
+standards, including the applicable anti-corruption legislation and agreements. In addition, we take the International Labour
+Organization (ILO) Declaration on Fundamental Principles and Rights at Work and the OECD Guidelines for Multinational
+Enterprises into account. In addition, we support various sustainability initiatives, for example to promote the development of
+sustainable fuels and technologies, and are working with transport partners on reducing fuel consumption and the emission of
+greenhouse gases. As a long-standing partner of the United Nations, we support the UN’s Sustainable Development Goals (SDGs).
+In 2023, DHL Group became a member of Transparency International Germany.
+The Code of Conduct also describes our understanding of diversity and inclusion. This understanding and mutual respect promote
+cooperation within the Group and thus contribute to economic success. The criteria for the recruitment and professional
+development of our employees are exclusively their skills and qualifications. The members of the Board of Management and the
+Supervisory Board support the diversity measures, with a particular focus on the Group’s goal of increasing the number of women
+in management. Doing business includes using our expertise as a service provider in the mail services and logistics sector for the
+benefit of society and the environment, and we motivate our employees to engage personally in this regard.
+Ensuring that our interactions with business partners, shareholders and the public are conducted with integrity and within the
+bounds of the law is vital to maintaining our reputation. This is also the foundation of DHL Group’s lasting business success. Our
+compliance management system (CMS) is designed to promote legally compliant conduct as well as to prevent corruption and
+anticompetitive conduct in particular. Insights gained from compliance audits and reported violations are also used to continually
+improve and upgrade the CMS system. To this end, the enhanced compliance reporting tool (BKMS Dashboard) offers Group-wide,
+112 DHL Group – 2023 Annual Report The Company Consolidated Financial Statements
+Combined Management Report Further Information
+centralized and systematic collection of all key figures related to compliance notifications and the clarification of issues. In addition,
+further measures were taken to promote the culture of compliance and compliance reporting was established.
+Cooperation between the Board of Management and the Supervisory Board, remuneration, retirement ages
+As a listed German public limited company, Deutsche Post(cid:3)AG has a two-tier board structure comprising the Board of Management
+and the Supervisory Board.
+Members of the Board of Management are responsible for the management of the company. They manage their Board
+departments independently, except where decisions of particular significance and consequence for the company or the Group
+require a resolution by all members of the Board of Management. Each member of the Board of Management is obligated to
+subordinate the interests of their individual Board departments to the collective interests of the company and to inform the Board
+of Management about significant developments in their departments. The Board of Management ensures compliance with
+statutory provisions and internal guidelines within the company (compliance). The internal control system and the risk
+management system comprise a CMS aligned with the risk situation of the company and also include targets related to
+sustainability.
+The CEO conducts Board of Management business, aligns Board department activities with the company’s collective goals and
+plans, and ensures that corporate policy is carried out. When making decisions, members of the Board of Management may not act
+in their own personal interest or exploit corporate business opportunities for their own benefit. Any conflicts of interest must be
+disclosed to the chairs of the Supervisory Board and the Board of Management without delay; the other Board of Management
+members must also be informed. The Supervisory Board has determined that appointments to the Board of Management should
+generally end by the time the member turns 65.
+The members of the Supervisory Board appoint, advise and oversee the Board of Management. They propose the remuneration
+system for Board of Management members to the Annual General Meeting, and – together with the Board of Management – are
+jointly responsible for the long-term succession planning for the Board of Management. Furthermore, the statutory obligations of
+the Supervisory Board include the review and approval of the annual and consolidated financial statements, the review of the
+proposal for the appropriation of the net retained profit and the recommendation of the auditor to the Annual General Meeting.
+For proposals for the election of Supervisory Board members, the Supervisory Board will ensure that their term of office ends no
+later than the close of the next Annual General Meeting to be held after the Supervisory Board member turns 72. As a general rule,
+Supervisory Board members should not serve more than three terms of office.
+The company’s D & O (directors and officers) insurance for the members of the Board of Management provides for a deductible as
+set out in the AktG.
+The principles governing the Supervisory Board’s internal organization, a catalog of Board of Management transactions requiring
+approval and the work of the Supervisory Board committees are governed by the rules of procedure, which are available on the
+company’s website. The Chair, elected by the members of the Supervisory Board from their ranks, coordinates the work of the
+Supervisory Board and represents the Supervisory Board publicly. The Chair holds talks with investors on topics relevant to the
+Supervisory Board. The Supervisory Board represents the company in respect of the Board of Management members. Members of
+the Supervisory Board receive a fixed annual remuneration of €100,000. The remuneration for each of the chairs (plenary and
+committees) increases by 100%, for the Deputy Chair of the Supervisory Board and for committee members by 50%. This does not
+apply to the Mediation or Nomination Committees. The report on remuneration of Board of Management and Supervisory Board
+members can be accessed along with the auditor’s report pursuant to Section 162(3) AktG on the company’s website. There are no
+contracts between the company and Supervisory Board members, with the exception of the employment contracts with the
+employee representatives.
+The Supervisory Board meets at least twice each half year, regularly also without the Board of Management present. Extraordinary
+meetings are held as required. In the 2023 fiscal year, Supervisory Board members held four plenary meetings, 21 committee
+meetings and one closed meeting. The meetings took place in person, with a few exceptions for the committee meetings. Individual
+113 DHL Group – 2023 Annual Report The Company Consolidated Financial Statements
+Combined Management Report Further Information
+members joined via videoconference. In cases where individual members were unable to participate, they submitted their votes in
+writing in advance of the meeting and thus ensured that the decisions made were based on the decisions of all responsible
+members. The overall attendance rate of 95% is broken down by member in the report of the Supervisory Board.
+Supervisory Board decisions are prepared in advance in separate meetings of the shareholder representatives and the employee
+representatives, and by the relevant committees. During the plenary meetings, the committee chairs inform the other members
+about the work and decisions of the committees. Supervisory Board members are personally responsible for ensuring they receive
+training and professional development measures. They receive appropriate support from the company in the process. In 2023, the
+Directors’ Days took place in May and September. The topics covered included the regulation of the postal market, ESG key
+performance indicators as a basis for corporate governance and Board of Management remuneration, as well as updates on supply
+chain legislation, Corporate Sustainability Reporting and the EU Taxonomy.
+Succession planning for the Board of Management
+Together with the Board of Management, the Supervisory Board is jointly responsible for the long-term succession planning for the
+Board of Management. To this end, in particular the Chair of the Supervisory Board and the Chief Executive Officer regularly discuss
+candidates with the potential to take on positions on the Board of Management. Within the Supervisory Board, the search for
+suitable Board of Management members is primarily the responsibility of the Executive Committee. In the event of an upcoming
+vacancy, the Executive Committee selects suitable candidates for personal interviews, taking into account specific requirements for
+experience and qualifications to be met by the members and the composition of the Board of Management as a whole and, after
+discussing this list of candidates, submits it to the Supervisory Board.
+Independent of specific upcoming vacancies, potential successors from within the Group are given the opportunity to give a
+presentation on topics from their own areas of responsibility before the Supervisory Board. In this way, the Supervisory Board
+maintains an overview of the potential of Group executives who could be considered for a position on the Board of Management.
+When appointing new members to the Board of Management, the Supervisory Board ensures that the different skills and
+experiences of the members supplement the Board of Management and that its membership is thus diverse. International
+experience is of particular importance, in addition to industry experience. The initial term of service for members of the Board of
+Management generally runs for three years.
+Independence of shareholder representatives on the Supervisory Board
+All Supervisory Board members are independent within the meaning of the German Corporate Governance Code. This exceeds the
+target for the Supervisory Board of filling at least 60% of mandates on the shareholder side with independent members.
+As of December 31, 2023, the largest shareholder in the company, KfW Bankengruppe, holds 20.49% of the shares in Deutsche
+Post(cid:3)AG and therefore does not exercise control, nor does the German federal government, which is an indirect shareholder via the
+KfW. Accordingly, Luise Hölscher and Stefan B. Wintels are also independent. On February 7, 2024, KfW Bankengruppe reduced its
+shareholding in Deutsche Post AG to 16.45%.
+Stefan Schulte, who is resigning from the Supervisory Board after the Annual General Meeting scheduled for May 3, 2024, has
+contributed his comprehensive expertise and experience to the benefit of the company throughout his term of office and, as the
+Chair of the Financial and Audit Committee, engaged the Board of Management in differentiated and critical discussions. His
+independence was therefore not in question at any time for the Supervisory Board. The Supervisory Board will recommend two
+new independent Supervisory Board members to the Annual General Meeting to succeed Stefan Schulte and Simone Menne, who
+is also stepping down from the Finance and Audit Committee. More detailed information on the candidates can be found in the
+report of the Supervisory Board.
+Lawrence Rosen’s responsibility for the Board department Finance ended more than seven years ago and therefore does not impair
+his independence. At the same time, his profound knowledge of the company and the industry make it possible for him to support
+the Board of Management as an experienced and expert adviser and to perform the monitoring duties of the Supervisory Board in
+particular.
+114 DHL Group – 2023 Annual Report

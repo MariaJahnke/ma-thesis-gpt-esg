@@ -1,0 +1,351 @@
+
+Sustainability governance
+The Nomination & ESG Committee, a dedicated Supervisory Board Committee, oversees the strategy development and performance measurements of our sustainability initiatives. This Committee reviews the operational activities of the Corporate ESG Committee, a cross-functional team with representatives from across the Company. The Corporate ESG Committee is led by our Head of ESG Strategy under the direction of the Executive Committee. The ESG Committee is responsible for developing and gaining approval for our sustainability strategy and driving the implementation. The Executive Committee is provided updates on a quarterly basis while the Supervisory Board is informed at least twice a year.
+To anchor sustainability further in the organization, a mandatory ESG Foundational Course was launched in 2022 for all employees. The course provides an overview of ESG initiatives and helps employees understand their role in making the company—and ultimately the world—a better place. Refer to information in the chapter on employee training for additional insight. This training is followed by an “ESG deep dive” class that helps QIAGEN management understand the following objectives:
+• To create more sustainable economic value, organizations should strive to make a reasonable profit taking all stakeholders into consideration;
+• To create more environmental value, organizations need to think about their greenhouse gas (GHG) footprint and other environmental impacts and work to address these issues profitably; and
+• To create more social value, companies should consider the communities and cultures in which they operate as important stakeholders whose health and well-being should be protected.
+Stakeholder engagement
+We regard dialogue with our stakeholders as a central element in the development of our company and the achievement of our long-term vision. We are aware that the shift toward a more sustainable economy and society requires intensive dialogue and cooperation between various stakeholder groups.
+We proactively engage with our stakeholders around the world, in particular with our investors and shareholders, financial authorities and regulators. Our engagement also involves other important stakeholders including our employees, customers, suppliers and regulators. We welcome this engagement and see these discussions as a way to identify important trends and developments in society and in our business fields. We take the outcomes of these discussions into account when shaping our business strategy as well as our sustainability agenda and objectives.
+
+Environmental, Social and Governance
+Our Approach to Sustainability Environmental Responsibility Invest in People
+Serving Societies
+Business with Integrity
+EU Taxonomy
+ESG performance at a glance Detailed Tax Disclosure
+GRI Content Index
+SASB Index
+TCFD Index
+Stakeholder group
+Employees Customers
+Shareholders and the financial community
+Suppliers
+General society and local communities Banks and financial institutions
+Reporting Scope
+Formats of engagement
+ESG and employee trainings, regular one-on-one review sessions, 180° feedback process, surveys (e.g., sustainability, diversity & inclusion)
+Surveys (e.g., on sustainability, customer satisfaction), web chat, service portal with 24/7 follow-up, conferences, trade fairs, bilateral engagement, production tours, VIP days in our facilities, questionnaires (e.g., EcoVadis)
+Quarterly reports and quarterly earnings calls, Annual Report, live broadcast of all parts of the Annual General Meeting with access to appointed proxies in advance of the meeting, regular roadshows and calls, investor relations website
+Strategic reviews, supplier days, workshops, bilateral engagement, initiatives, video conferences including employees
+Industry-specific forums and conferences, proactive communication with local and national press, local engagement, engagement in more than 50 joint healthcare projects in more than 30 countries.
+Mandatory reporting and information (e.g., Annual Report, non-financial reporting), bilateral meetings
+Topics we engage on
+Health & safety, culture, inclusion & diversity, innovation, employee development, company strategy and organizational topics
+ESG strategy and targets, decarbonization, minimizing plastics, quality, and product safety
+ESG strategy and targets, access to healthcare, and corporate governance topics
+Sustainability performance, quality and product safety, responsible sourcing standards
+Access to healthcare, business support
+Sustainability performance, ESG-linked financing
+NONFINANCIAL STATEMENT 2022 7
+                       The basis for the non-financial reporting in the Report by the Managing Board is Book 2 of the Dutch Civil Code. Non-financial reporting requirements are further defined in the EU Non-financial Reporting Directive (2014) and the EU Corporate Sustainability Reporting Directive (in effect as of 2024), including the EU Taxonomy (partially in effect as of 2022) and the proposed EU Sustainability Reporting Standards (in effect as of 2024).
+Materiality analysis
+In 2022, we conducted a materiality analysis to identify sustainability topics of relevance to our business, society and the environment. Our first step was to create a long-list of potential material topics by reviewing internal data such as last year’s materiality analysis. We analyzed the sector-specific regulations and standards of the draft of the European Sustainability Reporting Standards (ESRS), the reporting standards provided by Global Reporting Initiative (GRI), the relevant guidance issued by Sustainability Accounting Standards Board (SASB) as well as ratings and rankings. We further considered feedback from our investors, partners, suppliers, and customers as well as results from a comprehensive ESG-benchmark assessment we conducted in the reporting year. The long-list was then refined to a final short-list of twenty-one topics.
+Next, we evaluated each topic in terms of two perspectives: i) the impact of our business activity on a particular topic (inside-out perspective) and ii) the impact of the topic on assets, financial and the profitability of QIAGEN (outside-in perspective). This involved conducting interviews with each manager familiar with sustainability issues at QIAGEN. Thereafter, we considered the results of ratings and analyses. The results were then discussed, validated, and partially adapted by the Executive Committee and the Supervisory Board.
+Through this process, we derived a total of eleven topics that can be classified as material regarding both our impact on the environment and society and in terms of their relevance to our business. Each topic is attributed to one of the four missions “Environmental Responsibility,” “Invest in People,” “Serving Societies,” or “Business with Integrity.” Listed below are our material topics with a selection of opportunities and risks for QIAGEN.
+
+NONFINANCIAL STATEMENT 2022 8
+   Possible risks (selection)
+ Loss of revenue due to reputational loss and de- listing as supplier if other suppliers can deliver with less plastic.
+ Increasing costs due to regulations and dependencies on third parties as well as decreasing revenue due to reputational loss.
+ Staff absenteeism due to illness leads to production stops or delays, and reputation loss.
+ Increased costs and decreased revenue due to high employee attrition, drop in job performance and lower productivity.
+ Higher costs and less revenue due to less qualified staff, repetitive recruitment and trainings and less productivity and innovation.
+ Lower revenue due to loss in market position, low reputation and employee retention.
+ Decreasing revenue due to decreasing customer loyalty and trust, lower standing and less access to talented workforce.
+ Increased costs and loss of revenue due to regulatory requirements and decreased trustworthiness.
+ Negative impact on workers, decreasing revenue and increased costs due to fines and penalties, loss of reputation and drop out of suppliers.
+ Increased costs and loss of capital due to reputational damage and compliance issues.
+ Loss of revenue due to disruptive cyber events and loss of crucial data, market share and legal fines.
+ Environmental, Social and Governance
+
+Reduce, recycle and replace plastic
+Minimize Carbon Footprint
+Occupational Health & Safety
+Diversity & Inclusion
+Employee Attraction & Development
+Access to Healthcare
+Customer Satisfaction
+Quality and Product Safety
+Anti-Corruption and Anti-Trust
+Governance, Risk and Controls
+Data and Cyber Security
+Connection to European Sustainability Reporting Standards (ESRS)
+E5: Resource Use and Circular
+E1: Climate Change
+S1: Own Workforce S1: Own Workforce
+S1: Own Workforce
+S2: Workers in the value chain S3: Affected communities
+S4: Consumers and End-Users G1: Business Conduct
+S4: Consumers and End-Users S4: Consumers and End-Users G1: Business Conduct
+G1: Business Conduct
+S1: Own Workforce
+S4: Consumers and End-Users
+Possible opportunities (selection)
+Improved reputation and increasing revenue opportunities due to higher demand for products without plastic.
+Secure and stable energy supply due to regenerative energy sources and sustainable contract conditions as well as protection of the climate and of ecosystems.
+Good employee health leads to increased efficiency, a higher external recognition and less insurance and litigation costs.
+Increased level of creativity as well as high employee motivation and satisfaction which has a positive impact on innovation potential, reputation and market development.
+Being an attractive Employer Brand leads to attraction of highly skilled workers and increased revenue due to higher efficiency and skill level.
+Improved health and well-being of populations in line with UN SDG goals and higher revenue due to ESG Ratings and good reputation.
+Increasing customer loyalty leads to financial success and allows for innovation and business extension.
+Contribution to global health and increased revenue due to brand image and positive recognition by our customers.
+Good governance simplifies access to capital from banks and investors and stabilizes revenue due to a good reputation as a business partner.
+Effective decision making due to diverse management composition.
+Higher revenue due to resilient products and establishing high confidence as a quality leader, protection of (sensitive) data.
+    Economy
+                    Serving Societies
+Business with Integrity
+                 The results of the materiality analysis led us to adapt the structure of our Corporate ESG Committee to enable better coordination of the individual topics. In subsequent workshops, specialist departments carried out a detailed analysis of the maturity levels of each material topic to develop concrete roadmaps and action plans for achieving our goals.
+
+NONFINANCIAL STATEMENT 2022 18
+  Environmental, Social and Governance
+Our Approach to Sustainability Environmental Responsibility Invest in People
+Serving Societies
+Business with Integrity
+EU Taxonomy
+ESG performance at a glance Detailed Tax Disclosure
+GRI Content Index
+SASB Index
+TCFD Index
+policies which aim to incorporate our culture and values into all our internal and external relationships. These policies are communicated to all employees when they first join QIAGEN, and are reviewed for any necessary updates on an annual basis. Employees may access these policies at any time via the company intranet.
+• QIAGEN's Corporate Code of Conduct and Ethics provides our employees with a clear understanding of the principles of business conduct and ethics that are expected of them.
+• QIAGEN's Ethical Standards Policy defines our cultural norms and values as defined in our mission, vision, and identity. Our values form the basis of our business success and every employee is expected to treat everyone in an open, honest, and respectful manner.
+
+                              In 2021, we introduced an initiative to foster inclusive networks and inspire a culture of empowerment. We call this initiative EMPOWER and it was launched by more than 100 voluntary ambassadors who facilitated approximately 300 workshops with close to 3,500 employees participating globally. The workshops were structured to anchor the EMPOWER principles into our day-to-day activities and discussions were focused around both our strengths as well as key areas to improve. As a result of the workshops, approximately 400 team action items were targeted with approximately 97% completed in 2022. Key practices in human resources have been updated to embed this culture of empowerment into the development of our employees, including within our 360° feedback process, called QIAlead, our Pulse Check questionnaires and across all leadership programs.
+Employee development and training
+We seek to inspire our people to grow, so they have the right mindset, behaviors and skills to thrive and achieve organizational goals and objectives. With our focus on performance management, employee, career and leadership development we foster individual and organizational effectiveness to support achieving QIAGEN’s commitment. Our formal coaching guidelines to EMPOWER every employee and encourage them taking responsibility for their own learning, growth and career development.
+As part of our talent and succession management, we have established transparent career paths with the QIAGEN Profile Navigator. It defines jobs, core competencies and approaches to advancement across the global organization. In addition, our global Performance Enhancement System creates a clear framework of regular one-on-one review sessions for each employee and their manager to discuss career development. These include discussions of goals and achievement levels, assessment of relevant competencies, as well as training needs and career planning steps. They are held on a mandatory basis at least once a year.
+We consider high-quality training and career development to be an integral part of our success. We offer various training opportunities via our global e-learning platform QIAlearn as well as in person trainings or trainings offered in a hybrid format. Training focuses on job-specific skills, compliance, competencies, and leadership development. Most trainings continue to be conducted virtually. During 2022, employees completed more than 40,000 virtual instructor-led and e-learning courses.
+
+As part of the professional development, we also offered in 2022 a Mentorship Exchange program to support QIAGENers in their development journey. The Mentorship Exchange program is a powerful, evidence-based internal mentorship program that pairs employees across the organization. In 2022, we had 256 participants.
+Our success is based on having leaders with the capability to lead in an ever-changing work environment. We need to ensure that we remain competitive, innovative and prepared for the future so that we not only adapt to a world that is changing rapidly, but proactively anticipate and drive the changes ourselves. As part of our continued leadership development, in 2022 we launched our newly designed, interactive and blended training journey program called “Cultivate” for new Managers in EMEA and the U.S. There is a strong focus on self-directed learning, online and in-person workshops and discussion groups to build leadership and management networks across the organization.
+As part of the feedback mechanism for continuous improvement to individual leadership competencies, an annual 180° feedback process provides the opportunity for employees and supervisors to give anonymized feedback to managers. In case of unsatisfying feedback, a formal process is in place to follow up with specific solutions. In 2022, we rolled out a pilot for 360° feedback, which we are currently developing further.
+In addition, in 2022 on our online learning platform, QIAlearn, we launched a global online new hire onboarding portal for new employees joining the company as well as anyone new to a managerial role. The path contains several e-learnings which employees can work through at their own pace.
+Diversity
+Diverse teams strengthen our organization through the variety of ideas, perspectives and approaches they bring to our business. Our teams perform best when they are composed of individuals with the widest possible range of personalities, backgrounds, and traits. At QIAGEN, we are committed to creating an environment that is rich in diversity and empowers all employees. We actively work to ensure we provide an environment where all individuals have the equal opportunity to grow and contribute, regardless of their age, educational background, sex, sexual orientation, gender identity, gender expression, nationality, ethnicity, veteran status, physical abilities, or religion. Our diversity is a strength and makes QIAGEN a great place to work. We leverage this strength through our Executive Council of Equal Opportunity (ECEO), our diversity council that oversees our diversity and inclusion (D&I) initiatives.
+The ECEO strives to ensure QIAGEN policies, practices and procedures are conducive to recruiting, retaining, educating, and developing a diverse, high-performing workforce that draws from all segments of society. It values fairness, diversity, and inclusion, and aims to foster an environment that attracts the best talent, values diversity of life experiences and perspectives, and encourages innovation. The ECEO is comprised of volunteers from across the company: executives, management, and individual contributors. The cross-functional approach to membership allows multiple perspectives and experiences to be included in the overall advancement of QIAGEN’s diversity goals. The council consists of a minimum of six advisory board members and a minimum of four council members with a co-chair leadership structure that reports to an Executive Committee Sponsor. Globally agreed, cross-functional objectives are tied directly to our corporate goals on D&I and the ECEO drives and communicates initiatives within each organizational area and sponsors our D&I ambassador program and the QIAGEN Communities, our employee resource groups.
+Our diversity ambassadors are comprised of employee volunteers who champion D&I across our global sites through various activities such as hosting site and region- specific speakers and presentations, and organizing trainings, workshops, and events to educate the community within QIAGEN and beyond. In 2022, the ambassadors hosted events to educate and celebrate Juneteenth in the U.S., promote awareness on anxiety and depression, and support the LGBTQIA+ community through participation in local Pride parades and engaging in conversations about allyship.
+
+In May 2022, following a series of discussions, surveys, and focus groups, we introduced QIAGEN communities, our employee resource groups. These four groups are all volunteer-led and focus on: (1) disability, mental health, and well-being through Thrive@QIAGEN, (2) parents and caregivers through QIAGEN Parents and Caregivers Community (QPACC), (3) LGBTQIA+ through Pride@QIAGEN and (4) women through QIAwomen.
+In 2018, we started our strategic initiative on gender diversity with a focus on improving the number of women in management. The participation of women in management roles increased from approximately 28% in 2018 to 35% in 2022 (2021: 34%) because of strategic initiatives to drive awareness, engagement, and development of better gender representation among our management team. We continue to work towards gender parity and are targeting a 2023 goal of 36% or more women in management roles and it is our goal to achieve at least 40% of women in management in the mid-term in accordance with our Gender Diversity Policy. More information about the policy on diversifying the Management Board and the Supervisory Board can be found in the Corporate Governance Report.
+In 2022, QIAwomen hosted events featuring both internal and external speakers to share experiences and promote discussion. These included on-site events in support of the UN’s campaign to end violence against women. These gave participants the opportunity to exchange resources and, in the US, support a local charity for survivors of domestic violence. Launched in July 2022, QIAwomen has grown to more than 300 members. For the second consecutive year, QIAGEN has been listed on the Bloomberg Gender Equality Index (GEI), which provides an opportunity for companies to assess progress towards parity, benchmark against peers and highlight a commitment to gender equality. QIAGEN also endorses the Women’s Empowerment Principles, as expressed between the UN Global Compact and UN Women. These principles emphasize the business case for corporate action to promote gender equality and women’s empowerment.
+Our commitment to diversity extends beyond cultural and gender diversity. In 2021 we made a targeted review of all our policies and guidelines and updated them to ensure clarity and confirmation of our commitment to equality for LGBTQ+ workers and their families, including joining the Business Coalition for the Equality Act. As a result of these updates, as well as of other initiatives focused on the LGBTQ+ community during the year, our U.S. subsidiary received a perfect score of 100 on the Human Rights Campaign (HRC) Foundation’s 2022 Corporate Equality Index (CEI). We aim to continue our participation in this program and have been actively assessing the new criteria being introduced for the 2023 CEI. The Pride@QIAGEN community was launched in June 2022 over 150 members. The community hosted virtual and in-person events in support of pride month activities in the U.S., Poland, Germany, Mexico, and the U.K., and held several virtual discussions to engage outside of pride month and share ways to support the LGBTQIA+ community throughout the year. QIAGEN also endorses the Standards of Conduct for Business: Tackling Discrimination against Lesbian, Gay, Bi, Trans, & Intersex People which builds on the UN Guiding Principles of Business and Human Rights.
+During 2022, we further focused on disability and assessed which targeted areas we could identify for improvement through a project team assembled as part of our leadership training program. The project team identified key areas to review such as hiring and retention strategies for onboarding differently-abled candidates, improving information accessibility and visibility within QIAGEN and extending our outreach in our local communities. Our Thrive@QIAGEN employee resource group has grown to almost 200 members since it launched in July 2022 and hosted an event championing well-being and inclusion in the workplace. In 2022, we participated for the first time in the Global Diversity Equality Index (GDEI) and will use the results as a scorecard and benchmark to identify and implement specific actions to better support our differently-abled employees.
+
+Support for local initiatives
+We support a broad range of activities in communities where our businesses are based. Our expanded Global Donation and Sponsorship Policy and new Global Donation Committee was successfully implemented at the beginning of 2022 to streamline and scale-up our activities and to routinely track our level of sponsorships and donations across the organization. Our activities include sponsorship of science education, disease awareness campaigns, the installation of school laboratories and promotion of biology in school curricula. Our local engagement goes beyond financial support, and we collaborate with the local Rotary Club to help integrate refugees from Syria, Ukraine (see below) and other war-torn countries through a program that includes language training and cultural orientation, assessment centers, and internships at QIAGEN.
+Our Hilden site also works with Hephata, a local institution for citizens with disabilities, who undertake a broad range of operational tasks for the company, including certain packaging and production responsibilities.
+In North America, our employees are granted eight hours of paid community service time per year, and contributed volunteer time to meeting community needs. Our Community Service Committee mobilizes volunteers and provides company funds for projects that improve the lives of people locally and nationally.
+~6,200 passionate QIAGENers around the world
+People from all functions working together to achieve our vision: Making improvements in life possible
+       
+
+When Ukraine was invaded in February 2022, QIAGEN immediately mobilized to provide healthcare and humanitarian support for the affected population as well as for refugees fleeing to neighboring countries. This included organizing a company-wide donation effort channeling resources to local institutions and global ones including Project Hope and the International Red Cross and Red Crescent Movement.
+Additionally, local teams based in Poland organized near weekly supplies delivered first to Ukraine and then to refugees who left all behind. Many of our colleagues drove almost ten hours to the border to bring refugees to a safe place and often hosted them at home.
+Finally, members of the QIAGEN GPHTF met with representatives of the Ukraine Ministry of Health, Public Health Centre, and the Global Fund, to discuss product-based donations for human ID and forensic equipment in support of identifying missing persons and war crimes investigation, TB control, and mitigating the spread of other diseases such as cholera and polio as a result to the disruption in healthcare services brought about by the invasion.
+Business with Integrity
+Business Ethics and Anti-corruption
+In conducting responsible business, we are consistently mindful of the ethical foundations of QIAGEN in our day-to-day business operations. This means, in particular, the respect for human rights and legally compliant business behavior.
+Ethics in clinical studies
+Clinical studies are essential to evaluate the performance and clinical value of our regulated clinical diagnostic tests. This information is required by regulatory authorities to gain marketing approval. More importantly we are committed to bringing high performance products to the market, and this can only be achieved by establishing the performance characteristics of a potential product according to its intended use. Therefore, we and our partners conduct clinical studies for our diagnostics tests that are to be approved for use as in vitro diagnostics in a patient care pathway. In the conduct of these studies, we commit to ensuring the well-being, safety, ethical concerns, and legal rights of the study volunteers.
+In light of this, we have built global procedures for the conduct of clinical studies which abide by the following principles:
+• the Declaration of Helsinki: this is a statement of ethical principles that was developed by the World Medical Association to guide medical research WMA Declaration of Helsinki – Ethical Principles for Medical Research Involving Human Subjects – WMA – The World Medical Association
+• the International Conference on Harmonization and national Good Clinical Practice (GCP) guidelines
+• ISO 20916: In vitro diagnostic medical devices — Clinical performance studies using specimens from human subjects —Good study practice
+All investigators and staff involved in QIAGEN studies must be suitably qualified for their role and have a current GCP certificate, which aims to prepare research staff in the conduct of clinical trials with human participants and is renewed biannually. Hence, laboratories are only accessible to employees that are qualified and trained to enter using an access card entry system. Eligible studies must be approved by ethics committees or the Institutional Review Board prior to starting, and if required, have the appropriate regulatory approvals from authorities in the country in which the study is being conducted. We use residual (left-over) patient samples whenever possible, minimizing the need to actively collect samples from patients. Where active participation by volunteers in studies is needed, we obtain informed consent by providing volunteers, in accordance with best practice, with a comprehensive overview of the study including its risks and benefits and alternative options for the patient.
+
+NONFINANCIAL STATEMENT 2022 34
+  Environmental, Social and Governance
+Our Approach to Sustainability Environmental Responsibility Invest in People
+Serving Societies
+Business with Integrity
+EU Taxonomy
+ESG performance at a glance Detailed Tax Disclosure
+GRI Content Index
+SASB Index
+TCFD Index
+Appropriate guidelines, such as ISO20916, Clinical and Laboratory Standards Institute guidelines and direct feedback and guidance documents from regulatory authorities, are followed when designing QIAGEN clinical studies. This is to ensure the integrity of study design, adherence to sound scientific principles and that high quality data is generated, while the risk to volunteers is minimized.
+We convene a monthly Medical Safety Committee, chaired by the Chief Medical Officer, to oversee study and patient risk, and to assess any adverse event or device event reports, which are then appropriately reviewed and reported to authorities (e.g., FDA, European Competent Authorities, dependent on study location) when required.
+Personally identifiable data that we collect during the conduct of QIAGEN studies is kept confidential in accordance with all applicable laws and regulations. We issue all volunteers with unique subject identification numbers to de-identify patient data, ensuring we meet the requirement for data privacy. For transparency and accessibility of clinical performance data of QIAGEN clinical diagnostic tests, QIAGEN undertakes to:
+• register relevant studies on www.clinicaltrials.gov., a resource provided by the U.S. National Library of Medicine; • publish studies in peer-reviewed publications in an anonymized fashion.
+Ethical use of genetic editing
+Genome editing tools such as CRISPR-Cas9 are revolutionizing life science research and have the potential to prevent and treat many diseases. QIAGEN’s solutions are used in almost every laboratory conducting CRISPR and other gene modification. While such technologies can enable major advances in life science research, we truly appreciate the complex ethical considerations of using such technology as well as the need for clear guidelines and policies.
+At QIAGEN, we fully support the careful development of guidelines by scientific and societal leaders, with involvement and transparency for diverse elements of society with a stake in the issue. Tight regulations and ethical rules about the use of genome editing are necessary to prevent misconduct and avoid harm to people and the ecosystem in which we live. We endorse the principles and proposals of scientific organizations and advisory groups – such as the American Society of Human Genetics and the European Society of Human Genetics - that have issued cautionary guidelines.
+In 2019, leading scientists and ethicists from seven countries called for an international moratorium on all clinical uses of human germline editing to produce genetically modified children. These leaders are asking for a fixed-period ban on changing heritable human DNA (in sperm, eggs or embryos) to make genetically modified offspring. QIAGEN strongly agrees with the moratorium and requires compliance according to our Human Rights Policy. All employees who become aware or have suspicions of customers using our products in a non-compliant manner in this field are required to notify our Head of Legal and Compliance in accordance with our policy on Ethical Issues in Gene Typing.
+Ethical product use
+We endorse the application of our products, our services, and our operations in compliance with human rights principles and codes such as the U.N. Guiding Principles on Business and Human Rights. Many of our products, such as DNA or RNA extraction kits, have an intended use for a broad range of research and diagnostic applications, including COVID-19, oncology testing and forensics. None of them are designed for population screening, but we acknowledge that it is technically possible to operate our products for this purpose. As per our Human Rights Policy, we do not tolerate the misuse of our products for purposes such as mass screening and surveillance of ethnic minorities, and we will block customers involved in such practices from further sales should this become known to us. However, as we operate via distributors in many countries, we have no means of monitoring the identity of all our customers or control the use of our products by end-customers.
+
+NONFINANCIAL STATEMENT 2022 38
+  Environmental, Social and Governance
+Our Approach to Sustainability Environmental Responsibility Invest in People
+Serving Societies
+Business with Integrity
+EU Taxonomy
+ESG performance at a glance Detailed Tax Disclosure
+GRI Content Index
+SASB Index
+TCFD Index
+Our compliance program includes a broad range of policies including, but not limited to, aspects such as conflicts of interest, insider trading, revenue recognition, confidentiality, and social media. Policies regarding interactions with healthcare professionals are fully compliant with the AdvaMed Code of Ethics and are described in detail in our Global Sales and Marketing Policy that includes guidelines on samples, gifts etc. Moreover, we do not make or receive any payments to or from political parties or political action committees. Such actions have been prohibited without exception by our Code of Conduct since its establishment in 1996. QIAGEN is a member of a number of industry trade associations such as AdvaMedDx (U.S.) and MedTech (Europe) which work to advance important healthcare related initiatives with governmental and non-governmental organizations. We also collaborate with global health policy institutions such as the World Health Organization and regional consortia such as the African Society for Laboratory Medicine to improve affordable access to testing solutions for neglected diseases in low-resource settings. Besides our engagement in industry associations, we are not active in any direct lobbying activities.
+We pay special attention to antitrust and anti-corruption laws. Our specific antitrust and anti-corruption policies support our commitment to ensure that we abide by the antitrust and anti-corruption laws of the countries in which we operate. Our policies on anti-trust and anti-corruption can be found on our Compliance webpage under Investor Relations. We extend our Compliance Program not only to our management and employees, but also to third-party intermediaries such as distributors or agents. Our third-party due diligence program, which is administered by our Global Compliance Manager, focuses on our local distributors and agents and contains the following six elements:
+(1) pre-screening, anti-corruption questionnaire and certification for new distributors, resellers, and agents;
+(2) annual risk assessment of selected third parties based on a calculated risk score, which factors in location of business and Corruption Perceptions Index;
+(3) annual audits of the anti-corruption program and third-party risk management conducted by internal and external auditors;
+(4) training for third-party distributors;
+(5) contractual obligation to comply with applicable laws (including anti-corruption laws) and QIAGEN's Code of Conduct and Anti-Corruption Policy as well as compliance certification; and
+(6) due diligence in the form of annual background checks of random selection of third parties and ongoing monitoring.
+All our compliance policies are available to employees through the intranet. Each policy includes a contact address and the invitation to comment or to ask questions. Our employees' awareness of compliance is increased by regular in-person trainings, which are held by external as well as in-house legal and regulatory experts. We also offer an online training program focusing on topics such as antitrust and competition, bribery and corruption, conflicts of interest, data protection, gifts and entertainment, harassment, insider trading, reporting as well as respectful communication.
+Online training is provided to all employees with offerings in multiple languages and supported by multiple communication resources. All new employees are required to take online training on our Corporate Code of Conduct and Ethics and to confirm that they have read and understood the Code. Additional training customized to the specific area of responsibility is mandatory. Employees in sales and marketing as well as upper management are required to complete training on anti-corruption and antitrust laws. These basic trainings are followed by regular refresher courses (depending on the course, from quarterly to every three years). In 2022, our employees completed more than 15,000 compliance course enrollments. In addition, employees are informed through our intranet and regular updates on compliance topics via our internal communication platform Yammer and our quarterly Compliance Newsletter. During 2022, each employee was offered the opportunity to take cyber security, master data governance, and health & safety near miss prevention trainings as required.
+
+NONFINANCIAL STATEMENT 2022 39
+  Environmental, Social and Governance
+Our Approach to Sustainability Environmental Responsibility Invest in People
+Serving Societies
+Business with Integrity
+EU Taxonomy
+ESG performance at a glance Detailed Tax Disclosure
+GRI Content Index
+SASB Index
+TCFD Index
+We provide a hotline for reporting accounting-related concerns anonymously and in good faith. In accordance with the U.S. Sarbanes-Oxley Act and the listing standards of the NYSE, we follow a strict non-retaliation policy. We will diligently investigate all such complaints and will protect the anonymity of the complainant to ensure protection from retaliation as well as to secure the employment status of the complainant. We also offer a direct email and telephone hotline for employees to address questions or make suggestions for our Compliance Program.
+Data and cyber security
+In the light of the external threat landscape, that evolved further during the COVID-19 pandemic, the war in the Ukraine, the new realities of a remote workforce and an increasingly hostile cyber space, managing cyber security risk remains a priority. We are committed to and continue to make considerable investments to enhance the cyber resilience of our organization, products and services, and to preserve the trust of our customers, partners and employees.
+Our data and cyber security-related processes are based on the ISO 27001 standard as well as on the "Standard of Good Practice for Information Security 2020", which is used to improve resilience against the ever-changing threat landscape. Global cyber security and privacy requirements are actively monitored for and discussed as part of our Cyber Security Council as well as during Data Protection committee meetings, both held quarterly. Cyber security risks are managed as part of our Enterprise Risk Management and regularly reported to the Audit Committee. Refer to further discussion in our Management Report under Risk Management.
+Our cyber security program ensures that data and cyber security efforts and initiatives reflect evolving business requirements, regulatory guidance, and emerging threats. We have supporting privacy and cyber security policies and guidelines in place, which are reviewed and approved as part of QIAGEN’s Cyber Security Council and Compliance Committee procedures. These documents are available to all employees on QIAGEN’s intranet, and we offer further mandatory trainings on a regularly basis, during which we carry out knowledge checks to ensure that the content was understood by the trainees. We also conduct regular 'phishing' simulations, awareness webinars and workshops on important security topics, as well as role specific trainings. In addition, the Cyber Security team regularly conducts incident response exercises to evaluate the organizations established procedures, including an analysis of each applicable incident response stage.
+We are working with the Council for Registered Ethical Security Testers (CREST) certified partners to conduct regular, at least annual, security assessments of our infrastructure. To facilitate information and knowledge exchange, QIAGEN has joined well-known industry and governmental cyber security communities like the Information Security Forum (ISF), Allianz fuer CyberSicherheit and Health-ISAC.
+Our Cyber Security team pro-actively monitors for exposed weaknesses in the organization's systems and services. QIAGEN’s threat and vulnerability management program covers our global networks, digital workplaces, and cloud environments with state-of-the-art security controls. To our knowledge, we did not experience any material cyber security incidents or material breaches of customer data privacy, cases of data theft or data loss related to customer data in 2022. We also did not record any well-founded privacy complaints with Data Protection Authorities.
+Sustainable supply chain management
+We strive to ensure that our quality standards, compliance with laws and regulations as well as environmental and social standards are maintained along the entire value chain of suppliers and partners. We demand the same high standards from our business partners. Our supplier policy includes specific requirements for corporate governance, environmental and social standards, to which we expect our suppliers to adhere as minimum standards. Among other issues, it includes obligations to reduce the use of substances of concern, to ensure collective bargaining and freedom of association among employees, fair wages, and regulations concerning maximum working time. The supplier policy, which is our external policy for our supply base, is available online on our website under sustainability.
+
+Integrating sustainability throughout the value chain
+NONFINANCIAL STATEMENT 2022 40
+  Environmental, Social and Governance
+Our Approach to Sustainability Environmental Responsibility Invest in People
+Serving Societies
+Business with Integrity
+EU Taxonomy
+ESG performance at a glance Detailed Tax Disclosure
+GRI Content Index
+SASB Index
+TCFD Index
+In alignment with our policies, chief among which is our Corporate Code of Conduct and Ethics, every employee is required to conduct themselves honestly, fairly, and objectively in all business relationships with suppliers and all others with whom QIAGEN maintains business relationships. Our compliance training program ensures that employees in the procurement organization understand our guidelines and comply with them. The training is mandatory, and in 2022, 78% of new hires completed the training. Our procurement policy, which is our internal policy, is available on our website under sustainability.
+              Resources
+Supplier
+Transport
+Manufacturing
+Transport
+Customer
+Disposal
+Examples of sustainability in product design
+•Avoiding materials that cause a lot of damage when they are mined, cannot be recycled or do not decompose •Improving repairability, longevity, and allowing for reuse
+•Designing products to use less energy and produce less waste for customers
+•Optimizing recycling by making it easy to separate materials
+Structure of our supply chain
+We operate in more than 35 locations worldwide, and our sites are supported by a global supplier network that includes approximately 6,500 (2021: 8,300) suppliers in 71 (2021: 70) countries, supplying resources such as chemicals and bioreagents, plastics, packaging materials, as well as other materials and services essential to our business. In 2022, 95% (2021: 75%) of our overall purchasing volume came from OECD countries.
+
+
+To minimize compliance, environmental and social risks in our supply chain, we apply a multi-stage vendor selection process. Suppliers are subjected to a risk analysis regarding environmental and social criteria based on their geographic location. These criteria were supported by information from the MVO Netherlands platform financed by the Dutch Foreign Ministry, as well as the Bertelsmann Stiftung’s Sustainable Development Goals Index in 2020. This analysis identified no suppliers for whom potential risks exist due to geographic location and sales to QIAGEN.
+In 2022, we shared our new supplier policy with all our suppliers, and it is included in our terms and conditions. In 2022, suppliers representing 95% of our purchasing volume have signed our supplier policy as a mandatory part of the contracting process. Beginning in 2023, all suppliers that accept our purchase orders agree to comply with our supplier policy. The policy contains requirements regarding legal compliance, anti-bribery and corruption, labor rights, free speech, right of assembly, non- discrimination and fair treatment, health, and safety as well as environmental protection and conservation. We provide an anonymous whistleblower hotline which can be used by all employees. The contact details can be found on our website within our Anti-corruption Policy. In addition, as part of our quality agreements with the suppliers, first-tier suppliers must confirm REACH, RoHS and conflict mineral compliance as appropriate.
+As part of our supplier selection process, we conduct additional assessments. Some suppliers are analyzed with a supplier risk assessment. This includes all strategic suppliers with a high critical impact on QIAGEN’s security of supply. The analysis is based on the following criteria, among others: quality management, financial stability, embargoes, risks of natural disaster. This process is currently in evaluation against further criteria in context with evolving compliance, environmental and social standards. The relevant data for the assessment is either submitted via a questionnaire, or the suppliers are assessed on site during a visit. Though it has not yet occurred, if a supplier does not fulfil all criteria, next steps would be decided on an individual basis.
+Quality audits are conducted on site at least every three years for all “A”-categorized suppliers. We document all audits and share the results with the audited suppliers. The majority of our audits result in minor, rarely major findings, in the quality processes of our suppliers. In case of non-conformity with respect to quality processes, corrective actions are delivered to the supplier and followed up until effective implementation.
+Our subsidiary in Hilden, Germany will be subject to the German Supply Chain Due Diligence Act (Lieferkettensorgfaltspflichtgesetz) effective as of January 1, 2024. The new law will impose due diligence requirements on our supply chain. To effectively address the wide-ranging challenges of a sustainable supply chain and to meet the legal requirements as well as our own ambitions, we plan to realize a number of measures in 2023, such as the publication of our human rights strategy on our corporate website, or the refinement of our risk analysis and prevention measures. In our approach, we not only focus on assessments and audits, but also on a partnership approach that includes, for example, training courses and events with our suppliers. We are also currently preparing to implement a leading cloud-based tool to automate and optimize our due diligence processes and to enable continuous documentation in the supply chain beyond human rights topics. Our requirements of the software were defined during
+
+     
+Environmental, Social and Governance
+Our Approach to Sustainability Environmental Responsibility Invest in People
+Serving Societies
+Business with Integrity
+
+Non-Financial Statement 2022: Employees, Occupational safety and health protection Non-Financial Statement 2022: Occupational safety and health protection
+The functions of occupational health services vary between sites. Employees are involved in OHS management through the joint management-worker Health and Safety Committee (meets
+quarterly), regular safety inspections including interviews with employees, and two-way communication through the official EHS email address.
+OHS training is managed on a regional basis. This information exists and will be reported by 2024. Non-Financial Statement 2022: Employees, Occupational safety and health protection, Measures to fight COVID-19
+Non-Financial Statement 2022: Sustainable supply chain management Non-Financial Statement 2022: Occupational safety and health protection
+Content / Report / Location
+Non-Financial Statement 2022: Materiality analysis, Employee development and training Non-Financial Statement 2022: Employee development and training
+The image provides a structured table that categorizes various aspects of business integrity and their impact on a company, split into three main sections: "Business with Integrity," "Governance, Risk and Controls," and "Data and Cyber Security." Each section is further detailed with specific focuses, governance standards, and their respective impacts on business success and risks. Here's the breakdown:
+
+### Business with Integrity
+- **Focus**: Anti-Corruption and Anti-Trust
+- **Governance Standard**: G1: Business Conduct
+- **Positive Impact**: Good governance simplifies access to capital from banks and investors and stabilizes revenue due to a good reputation as a business partner.
+- **Negative Impact**: Negative impact on workers, decreasing revenue and increased costs due to fines and penalties, loss of reputation, and drop out of suppliers.
+
+### Governance, Risk and Controls
+- **Focus**: Governance, Risk and Controls
+- **Governance Standard**: G1: Business Conduct
+- **Positive Impact**: Effective decision making due to diverse management composition.
+- **Negative Impact**: Increased costs and loss of capital due to reputational damage and compliance issues.
+
+### Data and Cyber Security
+- **Focus**: Data and Cyber Security
+- **Governance Standard**: S1: Own Workforce, S4: Consumers and End-Users
+- **Positive Impact**: Higher revenue due to resilient products and establishing high confidence as a quality leader, protection of (sensitive) data.
+- **Negative Impact**: Loss of revenue due to disruptive cyber events and loss of crucial data, market share, and legal fines.
+
+### Analysis
+- **Central Theme**: Each section discusses how adherence to integrity and robust governance not only enhances business operations and trust with stakeholders but also protects against significant risks and losses.
+- **Importance of Governance**: The table highlights the critical role that good governance, compliance, and data security play in maintaining a company’s financial health, reputation, and operational stability.
+- **Risk Management**: It also underscores the potential financial and reputational damage from failing to maintain high standards in these areas, illustrating the direct impact on the company's bottom line and market position.
+
+Overall, the table serves as a concise summary of how key elements of integrity and compliance are integrated into business practices, reflecting their importance for sustainable business success and risk management.
+ The image features a detailed table that outlines how a company engages with various stakeholder groups through different formats and focuses on specific topics. Here’s a breakdown of the table contents:
+
+### Stakeholder Groups
+- **Employees**
+- **Customers**
+- **Shareholders and the Financial Community**
+- **Suppliers**
+- **General Society and Local Communities**
+- **Banks and Financial Institutions**
+
+### Formats of Engagement
+- **Employees**: Engagement includes ESG and employee trainings, regular one-on-one review sessions, a 180° feedback process, and surveys on topics like sustainability, diversity, and inclusion.
+- **Customers**: Engagement methods include surveys, web chats, service portals with 24/7 follow-up, conferences, trade fairs, production tours, and questionnaires.
+- **Shareholders and the Financial Community**: Engagement is conducted through quarterly reports and earnings calls, annual reports, general meetings with proxy access, and regular roadshows and calls.
+- **Suppliers**: Engagement formats include strategic reviews, supplier days, workshops, bilateral engagement, and initiatives.
+- **General Society and Local Communities**: Methods include participation in industry-specific forums and conferences, proactive communication with the press, and involvement in joint healthcare projects across multiple countries.
+- **Banks and Financial Institutions**: Engagement involves mandatory reporting, annual reports, non-financial reporting, and bilateral meetings.
+
+### Topics of Engagement
+- **Employees**: Topics include health & safety, culture, inclusion & diversity, innovation, employee development, and organizational strategy.
+- **Customers**: The focus is on ESG strategy and targets, decarbonization, minimizing plastics, product quality, and safety.
+- **Shareholders and the Financial Community**: Engagement topics are ESG strategy and targets, access to healthcare, and corporate governance.
+- **Suppliers**: Topics include sustainability performance, product safety, and responsible sourcing standards.
+- **General Society and Local Communities**: Focus on access to healthcare and business support.
+- **Banks and Financial Institutions**: Topics revolve around sustainability performance and ESG-linked financing.
+
+### Analysis
+This table provides a comprehensive overview of the company’s stakeholder engagement strategies, highlighting the diverse methods and topics tailored to each group’s specific interests and concerns. This structured approach ensures that all relevant stakeholders are kept informed and involved in the company’s operations and strategic initiatives, fostering transparency, accountability, and community involvement. The focus on ESG topics across different stakeholder groups reflects the company's commitment to sustainability and responsible business practices.
+ The image outlines various governance aspects of a company, detailing commitments and actions in areas like human rights, ethics in research and development (R&D), compliance, data security, income tax, quality and product safety, and sustainable supply chain management. Here’s a breakdown of each section:
+
+### Human Rights
+- **Human Rights Policy**: Provides guidance on the company's relationships with customers, product use, employees, and supply chain interactions. This demonstrates the company's commitment to ethical business practices and human rights considerations across its operations.
+
+### Ethics in R&D
+- **Global Procedures**: The company has established global procedures for clinical studies, adhering to standards such as the Declaration of Helsinki, Good Clinical Practice (GCP), and ISO 20916. This indicates a rigorous framework for conducting research ethically and responsibly.
+
+### Compliance
+- **Online Training Modules**: More than 15,000 online training modules have been completed, highlighting the company's emphasis on compliance training to ensure employees are knowledgeable about regulatory and company standards.
+
+### Data Security
+- **ISO 27001**: Processes are based on ISO 27001, indicating that the company adheres to internationally recognized standards for information security management.
+- **Cyber Incidents**: No material cyber incidents reported, suggesting effective data security measures and systems are in place.
+
+### Income Tax
+- **Income Tax Paid**: The company paid $98.6 million in income tax in the reported year, compared to $102.1 million the previous year. This provides a transparent account of the company's financial obligations and contributions to public finances.
+
+### Quality and Product Safety
+- **Customer Experience Indicator**: A score of 94.5 out of 100 indicates high customer satisfaction and commitment to product quality.
+- **Product Recalls**: Only 0.09% of products were affected by recalls, showcasing an effective quality control system.
+
+### Sustainable Supply Chain Management
+- **Supplier Diversity**: The company works with approximately 6,500 suppliers across more than 70 countries, demonstrating its global reach and operational complexity.
+- **Purchasing Volume**: 95% of purchasing volume is sourced from OECD countries, indicating a preference for suppliers from economically developed regions.
+- **Conflict Minerals**: Conflict mineral inquiries are made for all direct suppliers, underscoring the company's commitment to ethical sourcing and compliance with global standards.
+
+Overall, the image conveys a comprehensive view of the company’s governance practices, illustrating a strong commitment to ethical operations, global compliance, data security, and sustainability.
+                                  
+
+   

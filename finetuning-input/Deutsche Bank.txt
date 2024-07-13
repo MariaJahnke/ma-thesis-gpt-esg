@@ -1,0 +1,553 @@
+Deutsche Bank Transition toward a sustainable and climate-neutral economy
+Non-Financial Report 2022 Human rights
+Human rights
+– Enhancing the bank’s governance process on human rights
+– Updating the Statement on Human Rights
+– Preparing implementation of the German Supply Chain Due Diligence Act
+GRI 2-23/24/25/29, 3-3, FS3
+While it remains the governments’ legal obligation to protect against human rights abuses by persons, including businesses,
+through appropriate policies, legislation, and adjudication, Deutsche Bank acknowledges its corporate responsibility pursuant
+to the “Protect, Respect and Remedy” framework of the UN Guiding Principles on Business and Human Rights.
+Deutsche Bank’s commitment to respecting human rights is anchored in the bank’s Code of Conduct (*), which was approved
+by the Management Board. The bank is guided by international standards and guidelines, such as:
+– UN Guiding Principles on Business and Human Rights (*)
+– International Labor Organization Declaration on Fundamental Principles and Rights at Work (*)
+including the International Labor Organization Core Labor Standards (*)
+– UN Global Compact (*)
+– OECD Guidelines for Multinational Enterprises (*)
+The core principle of the bank’s approach is to not engage in business activities where Deutsche Bank has substantiated
+evidence of material adverse human rights impacts and it is determined through Deutsche Bank’s internal processes that such
+adverse human rights impacts cannot be avoided or appropriately mitigated.
+Deutsche Bank’s Statement on Human Rights (*) describes its commitment and management approach in greater detail. The
+bank worked on a review of the Statement, which was published in March 2023, also to reflect the increased public and
+regulatory focus on the topic, including in context of the German Supply Chain Due Diligence Act, effective from January 2023.
+The bank’s approach encompasses all dimensions of its business, from client transactions and interactions with vendors and
+service providers to the treatment of its employees. Deutsche Bank assesses its sectoral and geographical risk exposure to
+human rights violations regularly and undertakes due diligence to identify and assess the nature of the actual and potential
+adverse human rights impacts with which it may be directly or indirectly linked. Deutsche Bank also annually publishes a
+Modern Slavery and Human Trafficking Statement (*).
+The following subchapters address the bank’s human rights governance structure and the governance and mitigation
+measures, it has undertaken for the different stakeholder groups, particularly for clients, suppliers, and employees.
+Governance
+GRI 2-12/13/16/25/26, 3-3
+In 2022, building on the former Human Rights Working Group, the Human Rights Forum was established to ensure oversight
+of Deutsche Bank’s human rights management. This Forum consists of senior representatives of the following functions and
+business divisions: Procurement, Anti-Financial Crime, Chief Sustainability Office, Human Resources, Legal, Non-Financial
+Risk Management, Governance as well as Corporate Bank, Investment Bank, and Private Bank. DWS is involved ad hoc as
+appropriate. The Human Rights Forum is co-chaired by the Chief Sustainability Officer and the Head of Group Sustainability
+and reports to the Sustainability Committee.
+Via the Human Rights Forum, which meets bimonthly, the members monitor trends, collect and share learnings from within
+Deutsche Bank, liaise with external experts and initiate strategic projects relevant for human rights management.
+In 2022, the Human Rights Forum served as an interface for both strategic and operational actions related to Human Rights.
+As a specific activity within the Forum, the members evaluated the implications of the draft EU Corporate Sustainability Due
+Diligence Directive. In addition, the Forum supported the implementation of the German Supply Chain Due Diligence Act,
+which came into force in January 2023. The members of the Human Rights Forum also engaged in preparing the
+aforementioned Modern Slavery and Human Trafficking Statement (*) as well as the updated Human Rights Statement (*) for
+publication. The updated human rights governance was presented to the Supervisory Board; and the revised Statement on
+Human Rights and the Modern Slavery and Human Trafficking Statement have been signed off by the Management Board.
+57 Deutsche Bank Transition toward a sustainable and climate-neutral economy
+Non-Financial Report 2022 Human rights
+Alongside the Human Rights Forum, the above-named functions established working groups to address function specific
+human rights issues, e.g., the Anti-Financial Crime human rights working group which is dedicated to combatting modern
+slavery and human trafficking in the clients’ business and on which further details are available below in the “Clients” section
+of this chapter.
+Meeting the requirements of the German Supply Chain Due Diligence Act, Deutsche Bank further enhanced and strengthened
+its procurement related human rights management processes. Further details can be found in the “Supply chain” section of
+this chapter.
+Deutsche Bank has processes and channels in place to evaluate the effectiveness of its management approach to human
+rights. The bank draws on insights from the integrity hotline to assess whether the management approach with regard to
+employees is effective or in need of further refinement. The bank evaluates effectiveness with regard to clients using a range
+of sources including transaction reviews for clients, in-house research, media reports, dialog with individual clients, and
+exchange on general trends and developments with peers. The approach to vendors is similar, consisting of information from
+the vendor screening process supplemented by in-house research, media reports, and discussions with peers. Further details
+on the bank’s stakeholder engagement may be found in the chapter “Stakeholder engagement and thought leadership”.
+Deutsche Bank’s human rights governance benefits from the exchange of ideas and experiences afforded by its membership
+in the Thun Group of Banks, which Deutsche Bank joined in 2012. In 2022, the bank continued to participate in the Thun
+Group’s meetings and activities relating to human rights in banking and, in particular, the United Nations Guiding Principles
+on Business and Human Rights.
+Key topics in 2022
+Clients
+GRI 2-23/24/25/29, 3-3, 404-2, FS1, FS3, FS4, FS5
+Human rights due diligence is integral to Deutsche Bank’s Environmental and Social Policy Framework. In order to identify,
+prevent and mitigate adverse human rights impacts, the bank has integrated human rights considerations in the environmental
+and social due diligence process, e.g., land rights and cultural heritage, labor and child rights, health and safety of workers
+and communities, and the rights of indigenous people. The chapter entitled “Environmental and social due diligence”, including
+the table “Main positions and minimum standards of environmental and social due diligence” therein, contains more
+information on the related process and the principles Deutsche Bank applies.
+While human rights due diligence is a cross-sectoral issue, some sectors and activities have an inherently higher risk of
+negatively impacting human rights. Thus, the Environmental and Social Policy Framework includes specific human rights-
+related expectations and requirements that apply to the sectors in scope of the Framework. Special attention will be paid to
+cases involving resettlement; cases where the bank identifies potential negative impacts on indigenous peoples; and cases
+where clients use security forces for site protection.
+If Deutsche Bank has concerns about a client with regards to human rights, it consults with relevant stakeholders. This might
+include direct engagement with the client as well as with civil society representatives that are familiar with the situation. Where
+appropriate, the bank obtains the advice of independent experts. Based on all available information and its assessment of the
+risks that have been identified, the bank decides on the further course of action, which may include termination of a business
+relationship.
+The implementation of the Equator Principles (*), which the bank officially adopted in 2020, further underscores its human
+rights risk assessments for eligible projects and its commitment to human rights preservation for transactions outside the
+scope of the Equator Principles. In 2022, the bank continued to conduct comprehensive trainings to ensure that relevant
+business areas have an in-depth understanding of the Equator Principles as well as the requirements for assessing the impacts
+on potential rights holders in the various projects that it finances.
+The bank-wide framework for the prevention of Financial Crime contributes to preventing, deterring and detecting client
+activities that might be linked to potential human rights violations. Being a global financial institution that provides a broad
+range of products and services exposes Deutsche Bank to diverse financial crime risks, including modern slavery and human
+trafficking. The Principles for the Management of Financial Crime Risks outline the responsibilities and accountabilities of the
+Anti-Financial Crime Function and of all employees at Deutsche Bank Group and describe the essential organizational
+requirements and relevant processes for the management of financial crime risks across the 1st and 2nd Line of Defense
+(‘LoD’). Global Anti-Financial Crime policies define minimum standards for managing financial crime risks, including those with
+implications for human rights. These bank-wide polices are supplemented by country-specific policies and procedures that
+reflect national laws and regulations.
+58 Deutsche Bank Transition toward a sustainable and climate-neutral economy
+Non-Financial Report 2022 Human rights
+The Anti-Financial Crime human rights working group, which is part of the above-described bank-wide Human Rights Forum,
+was established in 2021 to develop and pursue concrete measures and initiatives within the Anti-Financial Crime function to
+fight modern slavery and human trafficking. As a practical example of the progress made in 2022, modern slavery and human
+trafficking related key risk drivers were incorporated within Deutsche Bank’s Non-Financial Risk Taxonomy. This is going to
+further support the enhancement of Deutsche Bank’s control framework.
+Independent of the working group the Anti-Financial Crime department pro-actively contributed to initiatives within several
+Public Private Partnerships. Deutsche Bank is currently leading the workstream “Financial Flows of Human Trafficking” within
+the German Public Privat Partnership Anti-Financial Crime Alliance (AFCA) and is part of a taskforce covering among other
+topics human trafficking in the Europol Financial Intelligence Public Private Partnership (EFIPPP). In October 2022 the bank
+hosted an event organized by the Finance Against Slavery and Trafficking (FAST) initiative.
+To reinforce employees’ awareness of activities linked to potential human rights violations the bank conducts periodic trainings.
+One specific example is a 45-minute mandatory online course on anti-money laundering (AML) and the prevention of terrorist
+and proliferation financing - topics that have potential connections to human rights violation. Every Deutsche Bank employee
+worldwide must complete the module once every year. Around 99% of staff (including in-scope contingent workers) did so in
+2022.
+Mandatory Risk Awareness training is also deployed to all staff every other year. This online training now includes a specific
+case on modern slavery in the private banking business and includes a question for learners on typical risk indicators. This
+updated course was launched in the fourth quarter of 2022 to English speaking staff and is going to be rolled out as translated
+versions in non-English speaking locations at the beginning of the second quarter 2023.
+Supply chain
+GRI 2-6/25, 3-3
+The products and services that Deutsche Bank buys, who it buys from, and how it consumes has a significant influence on its
+sustainability footprint. For this reason, sourcing and procurement activities play a key role in the bank’s ambitions to respect
+and improve human rights.
+While the divisions are accountable for the suppliers they use, the Global Procurement function leads on the vast majority of
+sourcing and procurement decisions. In support of this, globally consistent processes and procedures are in place to govern
+the sourcing and procurement of goods and services, onboarding of suppliers and the ongoing management of supplier
+performance. Suppliers are required to meet a range of requirements including financial health, anti-fraud and corruption, and
+compliance checks to engage with Deutsche Bank.
+Supplier Code of Conduct
+The intention of the Supplier Code of Conduct (“Code”) is that suppliers understand the core values and standards of behavior
+that Deutsche Bank expects its suppliers to conform to when providing goods and services. The Code is acknowledged by
+the supplier responding to a request for proposal and on starting an engagement with Deutsche Bank, suppliers are expected
+to provide a copy of this Code to its personnel who will be involved in the supply of the goods and services.
+The Code contains sections on Compliance with Law, Human Rights, Diversity and Inclusion, Sustainability, and Corporate
+Social Responsibility. The Code is available on Deutsche Bank’s public supplier portal (*).
+Screening of the bank’s vendors for adequate social and environmental standards
+The bank undertakes the assessment of prospective vendors’ environmental and social standards starting with a questionnaire
+analyzing the significance of potential social or environmental impacts related to a vendor’s service delivery. Conditional on
+the results of this analysis, the vendor risk management process may further scrutinize the potential for sustainability risks.
+For vendors, with which Deutsche Bank spend more than € 500,000 annually vendor balanced scorecards were launched.
+These scorecards evaluate vendors across a holistic set of key performance indicators. This evaluation includes a
+sustainability performance indicator which is either the rating score provided by EcoVadis or the vendor can use an equivalent
+reputable sustainability rating agency. From July 2022, the prerequisite for every new or prolonged contract worth more than
+€ 500,000 a year is that the vendor has an external sustainability rating from EcoVadis or other rating agencies (*). To that
+end, the bank maintains a registration website (*) where vendors can obtain relevant information and start their assessments
+with the sustainability rating agency, EcoVadis.
+59 Deutsche Bank Transition toward a sustainable and climate-neutral economy
+Non-Financial Report 2022 Human rights
+Meeting the requirements of the German Supply Chain Due Diligence Act, Deutsche Bank further enhanced and strengthened
+its procurement related human rights management processes. Based on a respective risk analysis, the bank adopted a risk
+management system targeted at minimizing human rights adverse impacts across its supply chain. In addition to the above
+requirements with regards to the submission of an external ESG rating, the bank enhanced preventive measures, including
+vendor due diligence, contract clauses according to vendors’ risk profile and standardized processes for remedial action in
+case of actual human rights incidents in the bank’s supply chain. The process for remedial actions is triggered by a variety of
+observations: incidents being flagged in Deutsche Bank’s risk review cycles, reported incidents through internal and external
+complaints channels, incidents being identified in adverse media monitoring and allegations directly reported to Deutsche
+Bank, e.g., by NGOs or media. In such cases, the incidents will be further investigated and appropriate measures to remedy
+the adverse effects will be agreed with the vendor and monitored over time. The brand DWS is not covered by the management
+approach related to the German Supply Chain Due Diligence Act described in this section.
+Employees
+GRI 3-3, FS4
+Deutsche Bank aims to be an ‘employer of choice’ for existing and future employees. The bank strives to create a workplace
+that is both diverse and supportive and which is always welcoming of different views. The bank encourages high standards of
+conduct and work performance and is committed to providing a working environment free from harassment, discrimination
+and retaliation.
+Given the activities it undertakes and the geographies in which it operates, Deutsche Bank’s own operations have only limited
+exposure to adverse impacts from human rights violations. The bank aims to continue to monitor the safeguarding of human
+rights using a risk-based approach and focusing on those geographies where human rights issues are most likely to occur
+and where the bank has a material presence.
+Deutsche Bank is guided by the International Labour Organization Declaration on Fundamental Principles and Rights at Work
+as well as applicable labor laws in the different jurisdictions in which it operates. This includes sovereign state legislation on
+collective agreements, bargaining and freedom of association. In countries where internationally recognized standards may
+not be fully implemented, the bank aims to honor the principles of internationally recognized human rights.
+The bank expects all employees to understand their responsibilities and to act in accordance with its policies, procedures, and
+initiatives regarding human rights. The bank reinforces this awareness through bank-wide training. For example, 86.8% of
+employees completed trainings on compliance and ethics that also include aspects of human rights in 2022 (2021 excluding
+Postbank: 93.3%). The bank investigated all employee grievances reported to the integrity hotline in 2022. If violations were
+identified, they were reported to the appropriate functions, and the necessary steps were taken.
+60 Deutsche Bank Governance and operations
+Non-Financial Report 2022 Public policy and regulation
+Public policy and regulation
+– Continuing political dialogue
+– Clear rules for engagement with politicians and regulators
+– Sustainable finance, Basel III and digitalization of particular importance
+GRI 3-3
+The banking industry is subject to extensive, complex, and frequently reviewed policies and regulations. This exposes the
+bank to significant regulatory risks. Deutsche Bank systematically prioritizes these risks and assigns clear accountability for
+identifying regulatory changes, assessing their impact, and taking the steps necessary to ensure compliance.
+Governance
+GRI 2-13, 3-3, FS3
+Deutsche Bank has a clearly structured framework for managing the risk of regulatory change and enhancing its profile in
+policy and regulatory debates. The framework enables Deutsche Bank to engage with relevant regulatory and political
+stakeholders. It also ensures informed strategic decision-making and provides oversight and control over how key regulatory
+initiatives are implemented. Amid greater regulatory activity worldwide, advocacy has become even more important for the
+bank.
+The Political Affairs function is responsible for conducting transparent and constructive government and regulatory advocacy
+on behalf of the bank. The function’s aim is for this advocacy to support not only the bank but also the governments and
+regulators, as well as all Deutsche Bank’s stakeholders: employees, clients, investors, and the countries where the bank
+operates. The Political Affairs function also monitors emerging policymaking and regulatory developments that may impact
+the bank and develops and coordinates the bank’s position on them. In addition, it advises senior management and clients on
+global political trends and geopolitical risk. Effective September 2022, this function is assigned from the Chief Executive Officer
+to the Global Head of Corporate Affairs & Strategy, who reports to the Chief Executive Officer. All other responsibilities and
+setup did not change.
+The global Political Affairs team is led by the Global Head of Political Affairs, who reports directly to the Global Head of
+Corporate Affairs & Strategy. The team consists of around 20 employees (Full Time Equivalent, FTE) in key business and
+political hubs: Frankfurt, London, New York, Berlin, Brussels, and Washington.
+The Political Affairs function works closely with the Regulatory Affairs function. The latter is the principal point of contact for
+key supervisors and is responsible for managing the bank’s relationships and collaboration with them. It also supports senior
+management’s interactions with these supervisors. The Regulatory Affairs function provides insights into emerging supervisory
+priorities so that the bank can respond swiftly and appropriately, and ensures continual focus on ongoing matters, such as
+onsite visits as well as findings and commitments. The function is led by the Global Head of Regulatory Affairs, who reports
+directly to the Chief Administrative Officer.
+Employee-stakeholder interaction
+GRI 2-12/23, FS1
+Deutsche Bank sets clear rules and procedures for interactions between employees and policy and regulatory stakeholders.
+The Supervisory Authorities Engagement Policy governs interactions with core regulators in the United States, Europe, Hong
+Kong, and Singapore. It requires all such interactions to be logged and minuted by the relevant Regulatory Management
+Group. In addition, interactions with the German Federal Government and the German Parliament as well as with the EU
+institutions must comply with the bank’s policy on Representation of Interests. This policy sets the standards for interactions
+with representatives of the German Federal Government and the German Parliament as well as of the EU institutions. It
+provides a centralized clearance of the contacts with representatives of these institutions in so far, they are carried out with
+the aim of directly or indirectly influencing the decision-making process and especially the formulation or implementation of
+policy or legislation. Deutsche Bank also has policies regarding its U.S. lobbying activities and employees’ political
+contributions to Deutsche Bank Americas’ Political Action Committee (for more information, see “Group policy does not permit
+donations to political parties” below).
+81 Deutsche Bank Governance and operations
+Non-Financial Report 2022 Public policy and regulation
+In addition, Deutsche Bank has a global policy in place to ensure that its communications with supervisory authorities are
+consistent. Regarding engagements in political dialogue, all employees must adhere to the bank’s global Anti-Bribery and
+Corruption Policy. This policy lays out rules for the offering and acceptance of gifts by Deutsche Bank employees, employees’
+participation in events organized by third parties, and the associated record keeping.
+Financial transparency
+GRI 415-1
+The bank is a signatory to the EU Transparency Register (*), which requires it to comply with the register’s code of conduct
+and to disclose an estimation of expenditures for advocacy toward EU institutions. In 2022, the bank had three employees
+(full time equivalent) focused on political engagement in the EU. Annual estimated costs related to activities covered by the
+Register were € 1,750,000 to € 1,999,999. These costs consisted of, among other things, expenses for the bank‘s Brussels
+offices, including staff there as well as staff outside of Brussels and a percentage of membership fees in associations active
+at the EU level.
+In addition, Deutsche Bank is a signatory to the Federal German Lobbying Register, which requires to comply with a code of
+conduct and to disclose, among others, an estimation of expenditures for advocacy toward the Federal German Government
+and German Parliament. Annual estimated costs, based on the provision of law and related to activities covered by the
+Register, were € 3,570,001 to € 3,580,000. In addition, Deutsche Bank is also reported in the respective Lobbying Registers
+in the States of Bavaria and Baden-Württemberg. Those registers improve the transparency of Deutsche Bank’s political
+engagement in Germany.
+Group policy does not permit donations to political parties
+GRI 2-23, FS1
+Pursuant to the bank’s Group Policy on Donations, Memberships & Sponsorships, the Group does not permit direct or indirect
+donations to political parties. The bank’s Anti-Bribery and Corruption function must pre-approve donations to organizations
+affiliated with political parties or activities relating to governments and/or political parties.
+Employees who are U.S. Citizens or green card holders living in the United States may make voluntary donations to the
+Deutsche Bank Americas’ Political Action Committee (PAC). The PAC is regulated by the U.S. Federal Election Commission;
+the PAC makes monthly public filings to the Federal Election Commission as required by law. Corporate contributions to
+federal elections are prohibited. U.S. law therefore prohibits contributions by the bank to the PAC, although the bank may pay
+the PAC’s administrative costs.
+Memberships in trade associations
+GRI 2-28, 415-1
+Deutsche Bank is a member of a number of trade associations globally. Deutsche Bank engages with trade associations and
+brings in inhouse experts into their relevant working groups, supports their work on consultation processes and filters back
+feedback on their positions where Deutsche Bank considers this relevant or can leverage inhouse expertise. The Chief
+Executive Officer Christian Sewing is president of the Associations of German Banks (Bundesverband deutscher Banken,
+BdB) and designated president of the European Banking Federation (EBF – starting March 2023), he has highlighted the
+relevance of the banking sector to shape the transformation to a digital and sustainable economy.
+82 Deutsche Bank Governance and operations
+Non-Financial Report 2022 Anti-financial crime
+Anti-financial crime
+– Preventing, deterring, detecting and reporting financial crime
+– Maintaining a regular dialogue with supervisory control functions
+– Continuing to increase investments in financial crime controls
+Vision and mission
+GRI 2-12/23/24, 3-3
+Financial crime has a detrimental impact on society and can have severe consequences for individuals. Organized crime
+engages in fraud, bribery, corruption, money laundering, terrorist financing as well as human, drug and arms trafficking. The
+outcome harms individuals, institutions, and the integrity of the financial system.
+Criminals use complex schemes including targeted placement and layering across different borders in their attempt to integrate
+the proceeds of their crimes back into the global financial system.
+Deutsche Bank is targeted directly by criminal organizations who want to exploit the bank’s global financial products and
+services to support their illegal activities. Effective anti-financial crime controls are critical components of Deutsche Bank’s
+strategy to prevent, detect, and report these illegal activities. This includes in-depth knowledge about Deutsche Bank’s
+customers, their source of funds, and their source of wealth. If criminals find a way around these control measures, individuals
+or institutions can be harmed and Deutsche Bank can suffer reputational damage as well as severe financial penalties.
+Fighting financial crime is an integral part of the bank’s business activities and continuous improvements to the Group’s
+capabilities in fighting financial crime are a critical priority. The Management Board, and all employees, are required to adhere
+to the highest standards of conduct to fight financial crime. Every employee is responsible for the management of financial
+crime risk. This includes: (i) The prevention of financial crime by observing obligations, policies and procedures. All financial
+crime risk policies are available in a dedicated policy portal, reviewed annually and changes are communicated to all
+employees. Familiarity is reinforced through mandatory training and failure to comply can lead to disciplinary action. (ii) The
+detection of unusual or suspicious behavior or patterns including the use of transaction monitoring systems which generate
+alerts that are reviewed by dedicated and trained teams of employees and (iii) The reporting of customers, third parties and/or
+transactions that appear unusual.
+Governance
+
+The ultimate decision and authority regarding financial crime risks lies with the Group Anti-Money Laundering Officer, who is,
+at the same time, the Head of Deutsche Bank’s Anti-Financial Crime function (AFC) and reports to the Chief Administration
+Officer. The Group Anti-Money Laundering Officer is a delegated authority from the Management Board authorized to establish
+a financial crime risk management framework and take any measures necessary to manage financial crime risks appropriately
+and in consideration of applicable legal requirements. AFC acts as an independent function, setting policies and standards for
+the management and mitigation of financial crime risks at Deutsche Bank. Deutsche Bank’s business divisions are responsible
+and accountable for the implementation and operationalization of these policies and standards. The Management Board
+ensures that AFC can execute its tasks independently and effectively.
+The Supervisory Board of Deutsche Bank is informed about the status of financial crime risk management on a regular basis
+by the Management Board and the Group Anti-Money Laundering Officer according to German law. For example, the Group
+Anti-Money Laundering Officer and the responsible Management Board member provided quarterly updates to the
+Supervisory Board’s Audit Committee.
+The Supervisory Board and Management Board execute strong engagement and tone from the top with focus on compliance
+and financial crime risk matters in key committees. The Supervisory Board is well staffed and equipped to oversee the bank’s
+efforts in this regard. Since 2020, the Supervisory Board has set-up a dedicated Financial Crime Risk Working Group to
+conduct additional monitoring and to provide holistic advice to the Management Board for the purpose of remedying
+shortcomings in the Anti-Money Laundering function. In 2022, the Regulatory Oversight Committee has been established,
+which is mandated to provide central oversight across regulatory engagement and remediation across the bank.
+85 Deutsche Bank Governance and operations
+Non-Financial Report 2022 Anti-financial crime
+Key topics in 2022
+GRI 3-3
+Resources and transformation execution
+There are dedicated employees within AFC, the business divisions, and Deutsche Bank’s technology function whose main
+task is to manage financial crime risks. In 2022, AFC initiated a hiring strategy to strengthen execution and leadership
+capabilities, which led to a substantial increase of AFC’s headcount. The AFC leadership team was enhanced with a number
+of senior hires including heads for the regions Americas, United Kingdom and Ireland, and a Head of Financial Crime Data &
+Risk Intelligence. At year end 2022, AFC had 1,932 employees (Full Time Equivalent, FTE), which is an increase of 343 FTE
+as compared to 2021. At year end 2022, AFC was also supported by 192 contingent workers.
+Beyond hiring, Deutsche Bank continued to execute core change initiatives focused on remediating internally and externally
+identified issues and proactively enhancing controls for financial crime risks. The oversight of the central financial crime risk
+remediation program now falls under the additional oversight of Deutsche Bank’s Chief Transformation Office for consistency
+and to support the integration across remediation plans. This central program is expected to move Deutsche Bank into a
+sustainable environment, including robust Know Your Client (KYC) checks by business divisions for client adoption, ongoing
+monitoring by control functions, dynamic risk assessments, risk appetite matching and independent audits by a specialized
+audit team.
+Partnerships
+The fight against financial crime requires an exchange of knowledge and experiences to improve and further develop an
+effective management of financial crime risks. In 2022, Deutsche Bank deepened its existing industry engagements by
+strengthening its ties with its associations, such as the Wolfsberg Group of Banks, but also its involvement in public private
+partnerships (collaborations between the public and private sector), such as (1) the German Anti Financial Crime Alliance
+(AFCA) which is composed of representatives from both the financial and non-financial sector, as well as the public authorities
+including Germany’s Financial Intelligence Unit, German Federal Financial Supervisory Authority (Bundesanstalt für
+Finanzdienstleistungsaufsicht, BaFin) and the German Federal Criminal Police Office (Bundeskriminalamt, BKA) and where
+Deutsche Bank’s Management Board member Stefan Simon became part of the AFCA Board; (2) Europol’s Financial
+Intelligence Public Private Partnership (EFIPPP) where the deputy Head of AFC became part of EFIPPP’s Steering Group
+and (3) the UK Joint Money Laundering Intelligence Taskforce. Furthermore, Deutsche Bank and Visa announced a
+collaboration on the prevention of online retail frauds with an automated fraud detection system, Cybersource, owned by Visa.
+Russian sanctions
+The Russian invasion of Ukraine led to a significant increase in sanctions against Russian state entities, companies and
+individuals linked to Russia. Deutsche Bank manages these sanctions with enhanced communications, guidance, and
+operational support led by AFC’s Sanctions & Embargoes team.
+Orders and fines related to financial crime risk
+On September 28, 2022, BaFin ordered Deutsche Bank AG to take specific measures aimed at preventing money laundering
+and terrorist financing in order to implement the orders that BaFin issued on September 21, 2018, and February 15, 2019.
+In July 2022 the bank accepted a fine of € 7 million for the administrative offence of delayed filing of two Suspicious Activity
+Reports (SAR) in a historic matter thereby ending the Frankfurt public prosecutor’s investigation into this matter, in relation to
+which a search took place at Deutsche Bank’s headquarters on April 29, 2022.
+Risk exposure and controls
+GRI 2-23/24/25/26, 3-3, 205-1/2/3, FS1, FS3
+Deutsche Bank’s inherent exposure to financial crime risks is influenced by its clients’ footprint and transaction behavior, the
+geographies in which it operates, the products and services offered, and the sales channels used. The exposure to various
+financial crime risks is subsumed under money laundering, terrorist financing, sanctions and embargoes, internal and external
+fraud and bribery and corruption.
+86 Deutsche Bank Governance and operations
+Non-Financial Report 2022 Anti-financial crime
+Money laundering and terrorist financing
+Money laundering and terrorist financing are significant risks to Deutsche Bank, e.g., in the Corporate Bank which provides
+banking facilities to correspondent banks and their customers. To control these risks, minimum control standards are defined
+including, among others, risk-based client due diligence, the monitoring of transactions, name list screening, investigation of
+alerts and the filing of suspicious activity reports to authorities. These Suspicious Activity Reports can be triggered by alerts
+from Transaction Monitoring, internal referrals from employees, enquiries of law enforcement or referrals from other banks.
+Further measures include assessing the risk exposure in the client population and reducing the exposure through, for example,
+terminating relevant client relationships and liquidating or reducing risk in relevant and associated positions. The Anti-Money
+Laundering Policy contains the minimum control requirements and is updated regularly in line with regulatory developments
+and supplemented with internal safeguarding measures.
+Sanctions and embargos
+Deutsche Bank is committed to complying with sanctions imposed by the United Nations, European Union, and Germany
+globally as well as sanctions applicable in the jurisdictions in which it operates, especially the United States and United
+Kingdom. To control this risk, transactions are filtered, client and counterparty data is screened, trade in sanctioned financial
+instruments is restricted, and further measures such as rejecting or freezing a transaction, restricting client activities, or exiting
+a client relationship are taken. The Sanctions Policy – Deutsche Bank Group sets out the requirements and standards that
+apply globally within the bank.
+Anti-fraud, bribery and corruption
+Deutsche Bank has no tolerance for its employees, or third parties acting on its behalf, to engage in bribery or corruption and
+is committed to compliance with anti-bribery and corruption laws in the jurisdictions in which it operates. On an annual basis
+the Bank undertakes an assessment of inherent bribery and corruption risks and corresponding controls across all of its
+businesses. All Bank employees, including board members, are required to complete mandatory online anti-bribery and
+corruption training. Employees who do not complete their training are subject to potential disciplinary action. The bank has
+policies, procedures, and controls to mitigate the risk of bribery and corruption across key risk areas such as gifts and
+entertainment, hiring practices, use of third-party intermediaries, and participation in joint ventures as well as in strategic
+investments. These controls include the escalation of approvals, enhanced due diligence, contractual limitations, and ongoing
+monitoring to identify behaviors that could be indicative of bribery and corruption. As with all AFC policies, changes to the anti-
+corruption policies are communicated to all employees. The Bank has continued to reduce its exposure to areas that present
+a higher inherent risk of bribery and corruption, such as use of Business Development Consultants. Finally, potential instances
+of bribery or corruption would be investigated, and any employee determined to be engaged in such behavior would be subject
+to disciplinary action up to and including termination of employment.
+The Bank has implemented a holistic Fraud Risk Management Framework across all Lines of Defense, defining governance
+and minimum standards, and establishing key controls to mitigate the risk of fraud, such as Mandatory Time Away and Fraud
+Transaction Monitoring.
+Targets and measures
+GRI 2-24/26, 3-3, 205-2, 404-2, FS4
+At Deutsche Bank, AFC defines the uniform strategy for the prevention of financial crime, including the preparation of group-
+wide policies and overseeing the implementation. The accountability for the definition and regular review of the risks controlled
+by AFC lies with the Group Anti-Money Laundering Officer. In order to be able to understand the required measures, it is
+important to capture, identify and weigh the financial crime risk Deutsche Bank is faced with. AFC regularly conducts an
+analysis of the financial crime risks and prepares a risk assessment for Deutsche Bank Group, as well as relevant subsidiaries
+to the extent required by applicable legal requirements. The risk analysis is reviewed annually and approved by the responsible
+Management Board member. Changes within the organization, but also the offering of new products can have an impact on
+the bank’s risk exposure.
+AFC is involved in structural divisional changes such as new products, new lines of business, expansions to new countries or
+new client categories to ensure the changes are within the Bank’s risk appetite and that effective risk assessment, monitoring
+and controls are defined before their launch. In order to adjust the strategy in a timely way to an ever-changing legal
+environment, AFC monitors requirements and advises and supports the Management Board and employees in the business
+divisions on changed requirements and their implementation into relevant policies.
+87 Deutsche Bank Governance and operations
+Non-Financial Report 2022 Anti-financial crime
+Deutsche Bank’s most critical asset against financial crime risks are its employees. Deutsche Bank promotes a risk culture
+that encourages employees to speak-up and a thorough awareness for financial crime risks. Deutsche Bank has carefully
+nurtured a culture of compliance and integrity in the bank, including the fight against financial crime. Tone from the top is
+extremely important and senior management is highly committed to drive cultural change through behavioral changes and
+reinforcing the change. Culture initiatives are driven both on group and divisional level across Deutsche Bank and a culture
+review framework is in place to identify areas that may be exhibiting poor culture to act through targeted culture reviews.
+Special focus is put on speak-up, which is subject of wide-ranging training efforts and communication campaigns.
+Regular (at least annual) training for all employees is conducted covering all financial crime risks and testing their policy
+knowledge. There is a mandatory curriculum accompanied by other additional facultative training offerings. The training
+modules highlight the importance of identifying financial crime risks and raising concerns or suspicions including the use of
+the anonymous whistle-blower hotline. Modules articulate personal, professional, financial, regulatory, and societal
+consequences of failing to manage financial crime risks. A completion rate of 99,96% has been achieved for the learners
+required to complete the mandatory anti-financial crime training by year end 2022. Learners who have not completed the
+training within the final due date are reported to the Compliance red flag team for investigation and may receive a red flag, if
+eligible. Management Board members receive ongoing periodic online training about financial crime topics as well as in-person
+tailored training and briefings on topics such as the risks of cryptocurrency.
+Deutsche Bank discloses ESG related reports and events under its Investor Relations website ESG – Deutsche Bank (*) which
+includes both certifications and documentations and discloses on AML, Know Your Customer (KYC) and the U.S. Patriot Act
+KYC/AML/Patriot Act – Deutsche Bank (*).
+88 Deutsche Bank Appendix
+Non-Financial Report 2022 GRI Content Index and UN Global Compact
+GRI Content Index and UN Global Compact
+GRI 1 Foundation in 2021
+Deutsche Bank’s Non-Financial Report provides a comprehensive disclosure of the material topics for its non-financial
+performance. Information on financial data are available in Deutsche Bank’s Annual Report 2022. Disclosures included in the
+report were selected based on a materiality analysis conducted in 2022.
+In order to give a better overview for the Non-Financial Report 2022, Deutsche Bank has reported in accordance with the GRI
+standards for the period January 1, 2022, to December 31, 2022, including the specific Sector Disclosures for the financial
+service sector. Information can either be found in the Non-Financial Report, via links to other Reports (e.g., Annual Report
+[AR] or Human Capital Report [HCR], or directly in this table. The information outside the Non-Financial Report, for instance
+information in the 2022 Human Capital Report, is not part of the external limited assurance.
+Furthermore, the Non-Financial Report also serves as the bank’s Communication on Progress for the UN Global Compact
+(UNGC), references are made in the index as well. By participating in the UNGC, the bank is committed to preserving
+internationally recognized human rights, creating socially acceptable working conditions, protecting the environment, and
+fighting corruption.
+SDG and
+GRI Standards and Disclosures Non-Financial Report and/or Link to Source Remarks/Omissions UNGC Reference
+GRI 2: General Disclosures 2021
+The organization and its reporting practices
+2-1 Organizational details AR – Consolidated Financial Statements – Deutsche Bank Aktiengesellschaft,
+Additional Notes – Note 43 “Country by country Frankfurt/Main, Germany
+reporting"
+About Deutsche Bank
+2-2 Entities included in the organization’s AR – Consolidated Financial Statements –
+sustainability reporting Additional Notes – Note 37 “Information on
+Subsidiaries”
+AR – Consolidated Financial Statements –
+Additional Notes – Note 38 “Structured Entities”
+AR – Consolidated Financial Statements –
+Additional Notes – Note 44 “Shareholdings” –
+Subsidiaries
+AR – Consolidated Financial Statements –
+Additional Notes – Note 44 “Shareholdings” –
+Consolidated Structured Entities
+2-3 Reporting period, frequency and contact point About this report Publication date: March 17, 2023
+Imprint/Publications
+2-4 Restatements of information In-house ecology – Targets and measures –
+Offsetting residual CO2 emissions
+In-house ecology – Key topics 2022 – Energy
+and renewable electricity
+In-house ecology – Greenhouse gas emissions
+2-5 External assurance Reports of the independent auditor The information contained in this report is
+subject to additional external assurance.
+Information presented in the PRB Index as
+well as the additional Human Capital
+Report are not part of the external
+assurance.
+Activities and workers
+2-6 Activities, value chain and other business AR – Deutsche Bank Group – Strategy
+relationships AR – Combined Management Report –
+Operating and Financial Review – Deutsche
+Bank Group
+AR – Consolidated Financial Statements –
+Notes to the consolidated financial statements –
+Note 3 “Acquisitions and dispositions”
+AR – Consolidated Financial Statements –
+Additional Notes – Note 43 “Country by country
+reporting”
+Human rights – Key topics in 2022 – Supply
+chain
+Employment and employability - Workforce
+management - Workforce development
+2-7 Employees AR – Combined Management Report – Information incomplete/unavailable. The SDG 8
+Employees break-down by gender and by region for UNGC 6
+part-time employees and non-guaranteed
+132 Deutsche Bank Appendix
+Non-Financial Report 2022 GRI Content Index and UN Global Compact
+SDG and
+GRI Standards and Disclosures Non-Financial Report and/or Link to Source Remarks/Omissions UNGC Reference
+reports with regards to business areas that
+are assessed for corruption risks.
+205-2 Communication and training about anti- Anti-financial crime – Risk exposure and Information incomplete/unavailable.
+corruption policies and procedures controls Deutsche Bank tracks the combined
+Anti-financial crime – Targets and measures number and percentage of in scope
+employees trained on anti-fraud, bribery
+and corruption instead of anti-corruption
+specific figures. Deutsche Bank does not
+report the number of governance body
+members that took anti-corruption training
+separately. Deutsche Bank does not
+report the total number and percentage of
+business partners that Deutsche Bank’s
+anti-corruption policies and procedures
+have been communicated to.
+205-3 Confirmed incidents of corruption and actions Anti-financial crime – Risk exposure and Information incomplete/unavailable.
+taken controls Due to confidentiality reasons the number
+and nature of incidents of corruption are
+not disclosed. Significant and confirmed
+incidents are reported in the AR Note 27
+“Provisions“.
+GRI 206: Anti-competitive Behavior 2016
+206-1 Legal actions for anti-competitive AR – Consolidated Financial Statements – Information incomplete/unavailable.
+behavior, anti-trust, and monopoly practices Notes to the consolidated balance sheet – Number of legal actions pending or
+27 “Provisions” completed is not reported because this is
+not how the topic is managed.
+SDG and
+GRI Standards and Disclosures Non-Financial Report and/or Link to Source Remarks/Omissions UNGC Reference
+GRI 207: Tax 2019
+3-3 Management of material topics Materiality assessment http://www.db.com/ir/en/tax-strategy.htm
+Tax
+Tax – Governance
+
+The image displays a table from a report which outlines compliance-related data with reference to the GRI (Global Reporting Initiative) standards and specific disclosures. The table is organized to show how information about anti-corruption efforts and incidents is disclosed and what remarks or omissions are noted regarding the completeness of this information.
+
+Here's the breakdown of the table:
+
+1. **GRI Standards and Disclosures**:
+   - **205-2**: Focuses on communication and training about anti-corruption policies and procedures.
+   - **205-3**: Pertains to confirmed incidents of corruption and actions taken.
+
+2. **Non-Financial Report and/or Link to Source**:
+   - For both 205-2 and 205-3, this column lists sections from an anti-financial crime report discussing risk exposure and controls, and targets and measures.
+
+3. **Remarks/Omissions**:
+   - **205-2**: Information is described as incomplete or unavailable. It notes that Deutsche Bank tracks combined numbers and percentages of employees trained on anti-fraud, bribery, and corruption. However, it does not report specific figures, nor does it detail the number of governance body members or business partners who received training on these policies.
+   - **205-3**: Also noted as incomplete or unavailable. Confidentiality reasons are cited for not disclosing specific numbers and nature of corruption incidents. Significant incidents are reported in another document (AR Note 27), which suggests that only major confirmed incidents are detailed elsewhere.
+
+4. **UNGC Reference**:
+   - This column likely ties the discussed practices and data to principles outlined by the United Nations Global Compact, though specifics are not visible in the image.
+
+The table effectively communicates where the company stands in terms of transparency about its anti-corruption training and incident reporting, highlighting areas where information is lacking or not publicly detailed due to confidentiality. This kind of reporting is crucial for stakeholders assessing a company's commitment to compliance and ethical business practices.

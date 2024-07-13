@@ -1,0 +1,831 @@
+144
+Combined Management Report ___ Non-Financial Statement ___ Anti-corruption and anti-bribery
+Anti-corruption and anti-bribery
+Compliance management
+As a global company, we have stringent requirements for effective compliance management. Importantly, we
+seek to emphasize compliance by acting in line with our company values and believe that profitable business
+operations should go hand in hand with the highest ethical standards.
+Roles and responsibilities
+Our Group Compliance function is responsible for the framework of the following core topics: the Merck Code of
+Conduct, anti-corruption and anti-bribery (including healthcare compliance, third-party due diligence,
+transparency reporting), anti-money laundering, antitrust, and conflicts of interest.
+To cover these topics, we have Group-wide policies, standards and procedures in place that ensure our business
+activities comply with the relevant laws, regulations and international ethical standards. Other compliance-
+related issues, including the respective internal regulations and guidelines, such as Pharmacovigilance, Export
+and Import Controls, and Environment, Health, Safety, Security, Quality, are managed by the responsible
+functions.
+Our Group Compliance function is responsible for our compliance portfolio, which consists of the following
+elements:
+• Risk Assessment: Identifying internal and external critical risks in regular business operations
+• Policies & Procedures: Global policies, procedures and standards to mitigate identified risks
+• Compliance Committee/Forums: Platform for compliance-related discussion and decision-making, including
+relevant key functions
+• Training & Awareness: Appropriate training and additional measures to educate and keep awareness high
+• Programs & Tools: Comprehensive compliance programs and supporting tools contributing to internal
+controls and overall governance
+• Monitoring & Reporting: Tracking of compliance-related data; perform internal and external reporting
+• Case Management: Timely response to reports of misconduct and implementation of corrective actions
+• Continuous Improvement: Based on and applying to all compliance program elements
+Our Chief Compliance Officer reports on the status of our compliance activities, potential risks and serious
+compliance violations to the Executive Board and Supervisory Board twice a year at a minimum. As part of our
+regular reporting processes, we compile a comprehensive compliance and data privacy report annually for the
+Executive Board. This includes the status of our compliance program, continuous improvement initiatives and
+key figures on compliance and data privacy cases. Additionally, we prepare a mid-year update to highlight
+ongoing developments and the status of relevant projects and initiatives.
+Our Chief Compliance Officer oversees all Compliance departments and the underlying Compliance Officers and
+Compliance experts around the world. The Compliance Officers implement our compliance program within their
+respective areas of responsibility (adapting to local regulations) and receive guidance from our Group
+Compliance Center of Expertise. This is a centralized body that drives the design and evolution of our
+compliance program across all business sectors and Group functions. 145
+Combined Management Report ___ Non-Financial Statement ___ Anti-corruption and anti-bribery
+Our commitment: Guidelines and standards
+Our compliance program builds on our company values and integrates these into our compliance framework,
+which consists of Group-wide policies, standards and procedures for entrepreneurial conduct. The following are
+mandatory for all our employees:
+• Merck Code of Conduct
+• Human Rights Charter
+• Anti-Corruption Standard
+• Anti-Money Laundering Group Standard
+• Conflict of Interest Policy
+• Antitrust and Competition Law Policy
+• Compliance Reporting and Investigation Policy
+• Dawn Raid Policy
+• Standard on Local Compliance Standards
+• Supplier Code of Conduct (formerly Responsible Sourcing Principles)
+Risk assessment
+Proper compliance risk management is crucial to identify undetected risks and ensure our company remains
+protected. For this purpose, we are implementing a compliance risk identification process. We started this
+initiative by launching a global compliance risk process for all our business sectors to improve objectivity and
+enable a more data-driven risk approach. In addition, we established a comprehensive risk matrix that focuses
+on bribery and corruption risks, illustrated through in-depth risk categorization and risk scenarios. As a next
+step, in 2022, we started conducting country-based risk assessments. This approach considers gross and net
+risks while looking at tangible risk scenarios for the respective business. During this process, Group Compliance
+works closely with the businesses to enhance their risk awareness and create a better understanding of
+compliance risks. The first round of this process includes high-risk countries. By 2022, we rolled out a risk
+identification process to get a better risk overview on bribery and corruption related risks.
+Conflicts of interest
+We take all potential conflicts of interest seriously. Employees must avoid situations where their professional
+judgment may come into conflict with their personal interests. They must also disclose every potential conflict
+of interest to their supervisor and document the disclosure. Such issues are typically resolved directly between
+the employee and the supervisor but can also be routed to Human Resources, Legal, Compliance, or other
+relevant functions.
+Management and requirements of third parties
+For compliance management to be effective, it must not be restricted to the boundaries of our own company.
+While our supplier management processes focus on vendor compliance with our standards, our global Third
+Party Risk Management process governs interactions with sales parties, such as commercial agents, distributors
+and dealers. We expect our third parties worldwide to adhere to our compliance principles. We collaborate only
+with parties who pledge to comply with relevant laws, reject all forms of bribery, and adhere to environmental,
+health and safety guidelines. 146
+Combined Management Report ___ Non-Financial Statement ___ Anti-corruption and anti-bribery
+We apply a risk-based approach to select the third parties with whom we do business. The greater the
+estimated risk regarding a particular country, region, or type of service, the more in-depth we examine the
+third party before entering into a business relationship. We also explore background information from various
+databases and information reported by third parties.
+If we encounter compliance concerns, we further analyze and verify the relevant information. Based on the
+outcome, we decide whether to reject the potential third party, impose conditions to mitigate identified risks or
+terminate the existing relationship. By end of 2023, we plan that all subsidiaries of our company will have a
+new Third Party Risk Management process and tool, for due diligence of all high risk third parties – to conduct
+business only with those that are legally compliant.
+Compliance training
+We provide regular compliance classroom and online training courses on our Code of Conduct, anti-corruption,
+antitrust, data privacy, anti-money laundering, and healthcare compliance standards. We require employees to
+take these courses based on their exposure to risk. Some courses also apply to independent contractors and
+supervised workers, such as temporary employees.
+We introduced a new Conflicts of Interest e-learning module that explains what conflicts of interests are and
+how these should be managed within our company. The course is available in nine languages. Furthermore, we
+launched a new e-learning course to provide an overview of our Third-Party Risk Management and to
+emphasize the importance of Third-Party Risk Assessments.
+Anti-money laundering
+We have implemented a global anti-money laundering (AML) program consisting of a global Anti-Money
+Laundering Group Standard, training and a dedicated process to report and investigate red flags as well as any
+high-risk transactions. Suspicious transactions are reported to the German Financial Intelligence Unit or other
+authorities as required.
+We aim to continuously improve our AML program. Following a worldwide risk assessment in 2021 to identify
+jurisdictions imposing the strictest legal and regulatory frameworks applicable to our businesses, we initiated
+in-depth AML risk assessments for higher-risk jurisdictions. Based on these assessments and constant review of
+changes in the legal environment, we are implementing stricter local AML programs where required.
+Reporting potential compliance violations
+We encourage all employees worldwide to report potential compliance violations to their supervisors, Legal, HR
+or other relevant departments. Globally, they can also use our central whistleblowing compliance hotline free of
+charge and anonymously to report violations in their local language by telephone or via a web-based
+application. Reports of potential compliance violations that we receive via our compliance hotline are reviewed
+by the Compliance Investigations and Case Management team.
+Cases with a certain risk profile are presented to the Compliance Case Committee, which comprises senior
+representatives from our Compliance, Corporate Security, Data Privacy, Human Resources, Internal Auditing,
+and Legal departments. The Committee’s duties include assessing and classifying certain compliance issues,
+investigating their background, and addressing these issues using appropriate measures.
+Based on the investigation outcome and recommendations from the compliance investigation team or the
+Compliance Case Committee, appropriate disciplinary action may be taken against employees who have
+committed a compliance violation. If, during the investigation, a root cause is identified that could lead to the
+risk of further compliance violations, we take preventive and corrective actions.
+The compliance hotline is also available to external stakeholders. The relevant information can be found in the
+Compliance and Ethics section of our website. 147
+Combined Management Report ___ Non-Financial Statement ___ Anti-corruption and anti-bribery
+The number of suspected compliance violations reported remained stable compared with the previous year,
+while the number of confirmed compliance violations decreased. In 2022, we received 79 compliance-related
+reports via the compliance hotline and other channels that were processed as cases. 28 violations of the Code
+of Conduct or other internal and external rules were confirmed.
+Reported compliance violations
+2022 2022
+2019 2020 2021 Merck Group thereof: Merck KGaA
+Total number of reported compliance
+violations
+Number of reported compliance incidents 75 81 79 79 3
+Number of confirmed cases 30 41 42 28 0
+Confirmed cases by category
+Bribery and corruption 9 6 1 2 0
+Violation of cartel laws and fair competition
+rules 0 0 0 1 0
+Fraudulent actions against Merck 8 11 6 11 0
+Other violations of the Merck Compliance
+Principles for the relations with business
+partners 4 0 0 2 0
+Other violations of Merck values, internal
+guidelines or legal requirements 9 24 35 12 0
+Compliance audits
+Compliance is ensured by Group Compliance and Group Internal Auditing as the second and third lines of
+defense. As part of the audits, Group Internal Auditing regularly reviews functions, processes and legal entities
+worldwide. These reviews include an assessment of the effectiveness of the respective compliance guidelines,
+processes and structures in place. The units also check for violations of our Code of Conduct and our Anti-
+Corruption Standard.
+Our audit planning aims to provide comprehensive risk assurance through the best possible audit coverage of
+our processes. We take a risk-based approach to our annual audit planning process, considering factors such as
+sales, employee headcount, systematic stakeholder feedback and the Corruption Perceptions Index (CPI)
+published by the non-governmental organization Transparency International. If an internal audit gives rise to
+recommendations, Group Internal Auditing performs a systematic follow-up and monitors the implementation of
+the recommended corrective actions. In 2022, Group Internal Auditing conducted 79 internal audits involving
+bribery and corruption-related risks, including 52 operational and 24 IT audits and 3 special audits which may,
+for example, be initiated as part of incident-specific internal investigations.
+Interactions with health systems
+We support health systems by providing information to our healthcare stakeholders, such as professional
+medical associations, patient advocacy groups, university clinics and other institutions that provide healthcare.
+We follow clearly defined internal approval requirements and procedures for each type of interaction, in line
+with applicable laws and codes. In countries with statutory or industry obligations on the disclosure of transfers
+of value to healthcare stakeholders, we aim to comply with these obligations.
+Direct-to-consumer advertising only in certain countries
+Direct-to-consumer (DTC) advertising for prescription medicines is permitted in some countries, such as the
+United States. In line with applicable local laws, we use DTC advertising in these countries to help increase
+people’s awareness of certain diseases and the available therapies. 148
+Combined Management Report ___ Non-Financial Statement ___ Anti-corruption and anti-bribery
+Roles and responsibilities
+For all interactions with healthcare stakeholders, we have established internal policies and review processes and
+tools, such as record-keeping systems, to ensure adherence to statutory requirements and transparency
+obligations.
+Our Global Regulatory Affairs unit has established a dedicated standard and corresponding process document
+on the review and approval of our promotional materials for our Healthcare business sector. At the operational
+level, the relevant business and all employees involved in our sales and marketing activities must adhere to our
+internal policies, standards and procedures.
+To ensure that all promotional materials meet our standards as well as local regulations end-to-end, we apply a
+harmonized Group-wide review and approval system.
+Our commitment: Group-wide guidelines and industry standards
+In addition to applicable laws and our own internal standards, we comply with the codes of conduct of various
+international and local industry organizations, such as the Code of Practice published by the International
+Federation of Pharmaceutical Manufacturers & Associations (IFPMA) and the Code of Practice of the European
+Federation of Pharmaceutical Industries and Associations (EFPIA) or the regulations of the U.S. Pharmaceutical
+Research and Manufacturers of America (PhRMA).
+Moreover, we apply various specific internal rules and regulations:
+• Pharma Code for Conducting Pharmaceutical Business and Pharmaceutical Operations (Pharma Code)
+• Healthcare Ethical Guiding Principles
+• Standard on Medical Activities
+• Policy on Interactions with Patients, Patient Opinion Leaders, and Patient Organizations
+• Guideline Good Practice and Process Guidance: Engagement with Patients, Patient Opinion Leaders, and
+Patient Organizations.
+Transparent reporting
+We publish the financial and non-financial contributions we make to healthcare stakeholders in the healthcare
+industry, such as healthcare professionals and healthcare organizations, as appropriate and in accordance with
+local laws and codes. The published information includes the names of individual recipients, their addresses, the
+purpose, and the contributed amount or value as required by the applicable laws and codes. In addition, before
+publishing, we secure all necessary informed consent forms, as required by the applicable data privacy
+regulations.
+Regular employee training
+We are continuing our Code of Conduct training curriculum on managing dilemmas in sector-specific situations.
+Employees who are responsible for the promotion of our pharmaceutical products receive regular training on
+current guidelines. Depending on their roles and responsibilities, new employees, participate in onboarding
+training dealing with the review and approval of promotional materials. Based on their roles and responsibilities
+and to remain up-to-date, employees participate in mandatory e-learning courses and classroom training on our
+policies and guidelines, as well as important changes to the reporting requirements for transfers of value. 149
+Combined Management Report ___ Non-Financial Statement ___ Other topics
+Other topics
+Sustainable innovation and technology
+The sustainable innovation that we envision or drive forward must align with and support the three goals of our
+sustainability strategy. We define sustainable innovation as new or improved products, services, technologies,
+or processes that generate economic benefits and have positive environmental and social impacts. Therefore,
+we develop long-term solutions for our innovation and research activities that consider the entire value chain
+and evaluate each product’s impact over its lifecycle.
+Today, our products already have a positive impact on human progress and global health, namely our
+medicines and our biological and chemical innovations that utilize the latest technologies. We want to
+continuously improve the way we measure our progress by adapting and integrating sustainability criteria into
+our product development processes across the business sectors.
+In 2022, we continued our partnership with the well-established patent information platform LexisNexis®
+PatentSight®. In this context, we created a framework to evaluate the sustainability impact of our intellectual
+property. For 2022, we evaluated the baseline for the first time and identified that 27% of our patent families
+published that year have a positive sustainability impact based on LexisNexis® PatentSight®.
+Roles and responsibilities
+The organizational set-up of our R&D activities reflects the overall structure of our company. All three of our
+business sectors operate independent R&D units that pursue their own innovation strategies. Group Corporate
+Sustainability supports our business sectors and Group functions to advance and integrate sustainability within
+the R&D and innovation processes in line with our shared goals. We developed a methodology for creating a
+Group-wide overview of the potential contribution of our R&D portfolio towards sustainable solutions that went
+live in December 2022.
+Our Group Science & Technology Office leads the implementation of our combined strategy for innovation, data
+and digital, enabling innovation across our business sectors while harnessing the power of advanced data and
+digital capacities. It aims to identify and integrate transformative, strategically relevant technology trends into
+our business sectors while maintaining a Group-wide view of our tech roadmap and innovation portfolio.
+Fostering data and digital capacities is key to accelerating sustainable innovation and enabling rapid action and
+personalized offerings. Innovation projects are incubated either through our corporate innovation teams or in
+the business sectors.
+Our venture capital fund, M Ventures, prioritizes sustainable innovations through equity investments. The
+fund’s mandate is to invest in innovative technologies and products that have the potential to significantly
+impact our core business areas. In addition, the fund focuses on investments in two areas of high strategic
+relevance to our company: digital technology and sustainability.
+M Ventures’ sustainability investment strategy follows two fundamental approaches. First, it invests in
+sustainable solutions relevant to our three business sectors, such as novel solutions for reducing emissions and
+waste, green life science technologies and green electronics technologies. These solutions may be more energy-
+or resource-efficient or may create products designed for circularity or with a lower carbon footprint. The
+second approach involves making investments that leverage our core competencies to drive sustainability in
+other markets. These may include start-ups addressing sustainable foods, bio-manufacturing, or carbon capture
+and utilization. 150
+Combined Management Report ___ Non-Financial Statement ___ Other topics
+Our commitment: Aiming for circularity
+Within our R&D processes, we are committed to continuously improving and integrating sustainability and
+circular economy criteria to assess the sustainability performance of our products and portfolio. For example,
+our Life Science business sector developed Design for Sustainability (DfS) and the DOZN™ tool to create more
+sustainable products for our customers. In 2022, we tailored and rolled out the DfS concept to our two other
+business sectors and integrated an overarching company dashboard. In 2023, we aim to generate an
+understanding of our R&D portfolio and use the insights to steer future R&D activities. Therefore, we have
+developed an indicator to track our progress. In addition, we have dedicated corporate resources for our
+circular economy strategy and we are driving several circular economy pilots and initiatives throughout the
+organization.
+Reporting in accordance with the EU Taxonomy Regulation
+Fundamentals
+The EU taxonomy for sustainable activities (hereinafter “EU Taxonomy”) is a classification system that
+translates the climate and environmental objectives of the European Union (EU) into criteria for sustainable
+economic activities. For this purpose, the EU Taxonomy defines various key performance indicators and
+qualitative information that Merck must disclose. The disclosure obligation under Article 8 of Regulation (EU)
+2020/852 of the European Parliament and of the European Council dated June 18, 2020 on establishing a
+framework to facilitate sustainable investment and amending Regulation (EU) 2019/2088 (hereinafter “EU
+Taxonomy Regulation”) and the Delegated Acts adopted in this regard is being carried out in multiple phases:
+• For the 2021 reporting period, key performance indicators were stated only for so-called taxonomy-eligible
+economic activities and were limited to those that make a substantial contribution to climate change
+mitigation or climate change adaptation as defined by the EU Taxonomy Regulation. An economic activity
+qualifies as taxonomy-eligible if it is within the scope of the EU Taxonomy.
+• For the 2022 reporting period, apart from the degree of taxonomy-eligible economic activities making a
+substantial contribution to climate change mitigation or climate change adaptation within the meaning of the
+EU Taxonomy Regulation, it is also necessary to report the taxonomy-aligned share of the identified
+economic activities. According to the EU Taxonomy, an economic activity qualifies as taxonomy-aligned if it
+is taxonomy-eligible and makes a substantial contribution to one or more of the environmental objectives
+without doing significant harm to the other objectives or failing to fulfill minimum social standards.
+• As of the 2023 reporting period, four further environmental objectives of the EU are likely to be included in
+the disclosure obligation: 1) sustainable use and protection of water and marine resources, 2) transition to a
+circular economy, 3) pollution prevention and control, and 4) protection and restoration of biodiversity and
+ecosystems.
+Approach
+To ensure the legally compliant fulfillment of its disclosure obligations, in 2020 Merck established an
+interdisciplinary project team that is continuously analyzing the existence of taxonomy-eligible and taxonomy-
+aligned activities in close coordination with the representatives of the business sectors and various Group
+functions.
+The identification of the taxonomy-eligible economic activities for the environmental objectives “climate change
+mitigation” and “climate change adaptation” proceeded in line with a top-down approach using structured
+inquiries submitted to the relevant specialist departments. The results of this analysis were confirmed by
+supplementary big data-supported analyses as part of a bottom-up approach. Among other things, information
+was used that can also be found in connection with the requirements of the REACH regulation as well as in the
+context of customs declarations. 151
+Combined Management Report ___ Non-Financial Statement ___ Other topics
+The three key performance indicators (KPIs), namely net sales, capital expenditure and operating expenditure,
+were mainly derived from existing financial reporting systems; for capital expenditure inquiries were made to
+the Investment Controlling unit in some instances.
+Methodology for determining the taxonomy KPIs requiring publication
+The EU Taxonomy Regulation and the corresponding Delegated Acts contain wording and requirements which,
+even taking into account the supplementary publications of the EU Commission and the “EU Platform on
+Sustainable Finance”, are subject to interpretation and for which clarifications have not yet been published in
+every case. The most significant interpretive issues arising in this context are presented below.
+Taxonomy-eligible economic activities of Merck
+To check the taxonomy eligibility of an economic activity, Merck applies an end-product oriented approach for
+manufacturing-related activities. This means that the end product must result from one of the economic
+activities specified in the Delegated Act in order to qualify as being taxonomy-eligible. In the case of organic
+basic chemicals, the corresponding economic activities only qualify as taxonomy-eligible in the interpretation of
+Merck if the manufacturing activities of the named chemical products involve a significant transformation
+process. In our interpretation, products that are merely passed on for sale, repackaged or mixed do not qualify
+as taxonomy-eligible within the meaning of the EU Taxonomy Regulation.
+In the course of implementing the EU Taxonomy requirements, the business model of Merck underwent a
+comprehensive analysis. The core business activities of Merck are not mentioned in the economic activities set
+forth by the Delegated Act. Consequently, taxonomy-eligible activities were only identified to a very small
+extent in conjunction with the production of energy-efficient building equipment in the Electronics business
+sector. By contrast, neither the manufacture nor the distribution of pharmaceutical products or the distribution
+of specialty chemicals, which form the core of the business activities of the Life Science and Electronics
+business sectors, qualify as application areas of the EU Taxonomy Regulation for the first two environmental
+objectives. Furthermore, ancillary activities that are operationally necessary for our core business also do not
+qualify as independent taxonomy-eligible economic activities. This applies, for example, to the acquisition or
+construction of production buildings, the transport of our products to our customers as well as to research and
+development activities that cannot be allocated to a taxonomy-eligible economic activity for the first two
+environmental objectives “climate change mitigation” and “climate change adaptation”.
+With respect to capital expenditure, the EU Taxonomy Regulation differentiates between three categories of
+capital expenditure:
+• Capital expenditure that relates to assets or processes associated with taxonomy-aligned economic activities
+(Category A),
+• Capital expenditure that is part of a plan to expand taxonomy-aligned economic activities or to transform
+taxonomy-eligible economic activities into taxonomy-aligned economic activities (Category B), and
+• Capital expenditure related to the acquisition of products from taxonomy-eligible economic activities and
+individual measures that carry out the target activities in a low-carbon manner or reduce greenhouse gas
+emissions (Category C).
+Because Merck only engages in taxonomy-eligible economic activities in the area of manufacturing energy-
+efficient building equipment to a very small extent owing to its business model, it has no significant capital
+expenditure in category A. Furthermore, Merck has no capital expenditure in category B since it does not
+prepare any capital spending plans to transform the taxonomy-eligible economic activities for the first two
+environmental objectives “climate change mitigation” and “climate change adaptation” into taxonomy-aligned
+economic activities. This is attributable to the fact that there are hardly any taxonomy-eligible activities due to
+the business model of the Group. 152
+Combined Management Report ___ Non-Financial Statement ___ Other topics
+Consequently, Merck only has capital expenditure for the first two environmental objectives resulting from the
+acquisition of products classified as taxonomy-eligible economic activities or are attributable to qualifying
+individual measures (Category C). In order to be taxonomy-eligible, this capital expenditure must correspond to
+one of the economic activities named in the Delegated Acts and be implemented and operational within 18
+months. At Merck, such capital expenditure exists especially in connection with
+• transport by motorbikes, passenger cars and light commercial vehicles (activity 6.5)
+• construction and real estate (activities 7.2 to 7.7).
+In order to exclude double counting, capital spending on products from taxonomy-aligned economic activities
+and individual measures that have already been checked under category A are only included under category A.
+Against this background, capital expenditure for production buildings, for example, is only subject to a
+taxonomy-eligibility check under category A, while capital expenditure for administrative buildings is included
+under category C.
+Taxonomy alignment of the economic activities of Merck
+In order to check the taxonomy alignment of the taxonomy-eligible economic activities, the relevant regulations
+for the technical screening criteria under which certain economic activities qualify as contributing substantially
+to the environmental objective as well as for determining whether the activity causes no significant harm to any
+of the other environmental objectives were systematically analyzed. The basis for this was the Delegated Acts
+on the EU Taxonomy, which were used for the identification of taxonomy-eligible economic activities. In these,
+corresponding requirements are defined for the respective economic activities, which must be fulfilled for a
+classification as taxonomy-aligned. For this purpose, interviews were conducted with business and project
+managers and physical climate risk analyses were carried out at the sites. Furthermore, operating permits,
+product data sheets, environmental product declarations, energy performance certificates and internal training
+documents were inspected, among other things.
+Minimum safeguards
+The minimum protection frameworks include the OECD Guidelines for Multinational Enterprises, the United
+Nations Guiding Principles on Business and Human Rights, the fundamental conventions of the International
+Labour Organization, and the International Bill of Human Rights. The requirements profile of the frameworks
+was systematized and compared with internal documents. This included an analysis of the Code of Conduct,
+work instructions, guidelines and training documents. Compliance with the due diligence process required by
+the framework in the area of human rights is ensured with respect to the individual business activities. Risk
+analyses are carried out with regard to the minimum protection requirements and appropriate measures are
+derived from these.
+Taxonomy KPIs
+Net sales
+The KPI net sales represents the ratio of net sales from taxonomy-eligible or taxonomy-aligned economic
+activities in a fiscal year to the total net sales of the same fiscal year. The definition of relevant net sales for the
+purposes of the EU Taxonomy Regulation corresponds to the definition of net sales in the consolidated financial
+statements (see Note (9) “Net sales" in the Notes to the Consolidated Financial Statements).
+Capital expenditure
+The share of capital expenditure on assets or processes associated with economic activities classified as
+taxonomy-eligible or taxonomy-aligned is determined as follows: Share of total capital expenditure that is
+taxonomy-eligible or taxonomy-aligned divided by total capital expenditure according to the EU Taxonomy
+Regulation. At Merck and within the meaning of the EU Taxonomy Regulation, capital expenditure in the 153
+Combined Management Report ___ Non-Financial Statement ___ Other topics
+reporting period comprises additions to property, plant and equipment (IAS 16), rights of use from leases
+(IFRS 16), and intangible assets (IAS 38) with the exception of goodwill. Apart from the additions, advance
+payments for the named assets are also included. The denominator also includes additions to property, plant
+and equipment and intangible assets resulting from business combinations. The additions can be seen in the
+changes in property, plant and equipment and intangible assets disclosed in the consolidated financial
+statements (see Note (20) “Property, Plant and Equipment” and Note (19) “Other Intangible Assets” in the
+Notes to the Consolidated Financial Statements)
+Operating expenditure
+The share of operating expenditure for assets or processes associated with economic activities classified as
+taxonomy-eligible or taxonomy-aligned is determined as follows: Share of total operating expenditure that is
+taxonomy-eligible or taxonomy-aligned divided by total operating expenditure according to the EU Taxonomy
+Regulation. Operating expenditure relevant within the scope of reporting under the EU Taxonomy Regulation
+includes direct, non-capitalized research and development costs, low-value leases, building renovations,
+maintenance and repair, and all other direct internal and external expenses related to the day-to-day
+maintenance of property, plant and equipment that are necessary to ensure the continuous and effective
+functioning of these assets.
+Fossil gas-related activities
+Merck operates a gas turbine and a co-generation unit to generate electricity and heat from fossil gaseous
+fuels. The unit serves to generate our own power and heat. The activities in the area of electricity generation
+from fossil gaseous fuels as well as the operation of co-generation units with fossil gaseous fuels are not
+significant at Merck. Additional activities in the field of nuclear energy and fossil gas are not performed. 196
+Combined Management Report ___ Capital Structure and Corporate Bodies of Merck KGaA
+Capital Structure and Corporate
+Bodies of Merck KGaA
+Further information can be found under “Merck KGaA” in the “Statement on Corporate Governance”. 197
+Corporate Governance ___ Statement on Corporate Governance
+Statement on Corporate
+Governance
+The Statement on Corporate Governance contains the Declaration of Conformity, relevant
+information on practices within the company, and a description of the procedures of the corporate
+bodies, as well as targets for the percentage of positions held by women and the diversity policy.
+Joint report of the Executive Board and the Supervisory Board including
+Declaration of Conformity
+The German Corporate Governance Code is geared toward the conditions found in a German stock corporation
+(“Aktiengesellschaft” or “AG”) and does not take into consideration the special characteristics of a corporation
+with general partners (“Kommanditgesellschaft auf Aktien” or “KGaA”) such as Merck KGaA. Given the
+structural differences between an AG and a KGaA, several recommendations of the German Corporate
+Governance Code are to be applied to a KGaA only in a modified form. Major differences between the two legal
+forms exist in terms of liability and management. In the case of an AG, only the AG is liable as a legal entity,
+whereas the general partners of a KGaA also have unlimited personal liability for the company’s obligations
+(section 278 (1) AktG). At Merck KGaA, this pertains to both E. Merck KG – which is excluded from
+management and representation pursuant to article 8 (5) of the Articles of Association – as well as to the
+managing general partners who collectively make up the Executive Board of Merck KGaA. The members of the
+Executive Board of Merck KGaA are therefore subject to unlimited personal liability. Unlike an AG, their
+executive authority is not conferred by the Supervisory Board, but rather by their status as general partners.
+Consequently, in addition to other responsibilities typical of the supervisory board of an AG (see description of
+the procedures of the Supervisory Board), the supervisory board of a KGaA does not have the authority to
+appoint the management board, draw up management board contracts, or specify the compensation of the
+management board. This legal form also involves special features with regard to the Annual General Meeting.
+For example, in a KGaA, many of the resolutions made require the consent of the general partners (section 285
+(2) AktG), including in particular the adoption of the Annual Financial Statements (section 286 (1) AktG).
+Merck KGaA applies the German Corporate Governance Code analogously where these regulations are
+compatible with the legal form of a KGaA. In order to enable shareholders to compare the situation at other
+companies more easily, we base corporate governance on the conduct recommendations made by the
+Government Commission of the German Corporate Governance Code to a broad extent and refrain from
+adopting our own, equally permissible, code. All recommendations of the German Corporate Governance Code
+in the version dated December 16, 2019, the intent and meaning of which are applied, have been complied with
+since the last Declaration of Conformity in February 2022. We will continue to comply with the
+recommendations of the Code in the version dated April 28, 2022 in the future.
+For a clearer understanding, the following gives a general explanation of the application of German company
+law at Merck KGaA with additional references to the Annual General Meeting and shareholder rights.
+Merck KGaA
+The general partner E. Merck KG holds around 70% of the total capital of Merck KGaA (equity interest); the
+shareholders hold the remainder, which is divided into shares (share capital). E. Merck KG is excluded from the
+management of business activities. The general partners with no equity interest (Executive Board) manage the
+business activities. Nevertheless, due to its substantial capital investment and unlimited personal liability,
+E. Merck KG has a strong interest in ensuring that the businesses of Merck KGaA operate efficiently in
+compliance with procedures. Merck KGaA’s participation in the profit/loss of E. Merck KG in accordance with
+articles 26 et seq. of the Articles of Association further harmonizes the interests of the shareholders and of 198
+Corporate Governance ___ Statement on Corporate Governance
+E. Merck KG. E. Merck KG appoints and dismisses the Executive Board. In addition, E. Merck KG has created
+bodies – complementing the expertise and activities of the Supervisory Board – to monitor and advise the
+Executive Board. This applies primarily to the Board of Partners of E. Merck KG.
+Based on the provisions of the German Stock Corporation Act, the Articles of Association of Merck KGaA, and
+the rules of procedure of the various committees, Merck KGaA has adopted a set of rules for the Executive
+Board and its supervision that meet the requirements of the German Corporate Governance Code. The
+investors, who bear the entrepreneurial risk, are protected as provided for by the German Corporate
+Governance Code. We take suggestions from the capital market on corporate governance seriously and hold
+discussions with investors and shareholder representatives.
+The General Meeting of Merck KGaA
+The 27th Annual General Meeting of Merck KGaA was held in Darmstadt, Germany, on April 22, 2022. In
+response to the Covid-19 pandemic, in 2022 the Executive Board again decided, with the approval of the
+Supervisory Board, to hold the 2022 Annual General Meeting in virtual form, i.e., without the shareholders and
+their proxies attending in person. In doing so, it exercised the option that the legislation again provided in 2022
+in the form of the act on mitigating the consequences of the Covid-19 pandemic in civil, insolvency, and
+criminal procedure law (Gesetz zur Abmilderung der Folgen der Covid-19-Pandemie im Zivil-, Insolvenz- und
+Strafverfahrensrecht). Shareholders and shareholder representatives participated in the Annual General
+Meeting virtually. The meeting was broadcast audiovisually on the Internet in full. At 70.34%, the proportion of
+share capital represented at the meeting (including postal votes) was slightly higher than in the previous year.
+In 2021, the proportion of share capital represented was 70.10%. The Annual General Meeting service provider
+does not forward voting instructions to Merck in advance of the Annual General Meeting but keeps them in the
+system until the count takes place.
+In particular, the Annual General Meeting passes resolutions concerning the approval of the Annual Financial
+Statements, the appropriation of net retained profit, the approval of the actions of the Executive Board
+members and the Supervisory Board members, the election of the auditor, amendments to the Articles of
+Association, the compensation system for the Executive Board, and the control and profit and loss transfer
+agreements of Merck KGaA. The shareholders of Merck KGaA exercised their rights at the virtual Annual
+General Meeting using the Internet-based Annual General Meeting system and via a prior question and answer
+process. Above and beyond the statutory requirements, this year shareholders were also given the opportunity
+to submit statements on the agenda to the company prior to the Annual General Meeting. These statements
+were published ahead of the Annual General Meeting and were available for shareholders to view until the end
+of the Annual General Meeting. They were able to exercise their voting rights personally, through an authorized
+representative, or through a proxy appointed by the company. The proxies were in attendance throughout the
+duration of the Annual General Meeting. All the documents and information concerning upcoming General
+Meetings (including a summary explanation of shareholder rights) are also posted on our website. The
+introductory speech by the Chair of the Executive Board was published in advance on the Internet on April
+11, 2022, in order to make it available to interested shareholders and members of the public and thus satisfy
+the high transparency requirements of the Merck Group. 199
+Corporate Governance ___ Statement on Corporate Governance
+Declaration of Conformity
+In accordance with section 161 AktG, applying the provisions of the German Corporate Governance Code
+correspondingly, the Executive Board and the Supervisory Board issued the following Declaration of Conformity
+with the recommendations of the Government Commission of the German Corporate Governance Code:
+“Declaration of the Executive Board and the Supervisory Board of Merck KGaA on the recommendations of the
+Government Commission of the German Corporate Governance Code pursuant to section 161 of the German
+Stock Corporation Act (AktG). Since the last Declaration of Conformity in February 2022, we have complied
+with all recommendations of the Government Commission of the German Corporate Governance Code in the
+version dated December 16, 2019 as published in the official section of the German Federal Gazette.
+With regard to future compliance with the current recommendations of the Government Commission of the
+German Corporate Governance Code, the Executive Board and the Supervisory Board declare the following: The
+company will comply with the recommendations of the Code in the version dated April 28, 2022.”
+
+It is Merck KGaA’s objective to provide the latest information to all shareholders, media, financial analysts, and
+interested members of the public, while creating the greatest possible transparency. For this reason, Merck
+uses a wide range of communication platforms to engage in a timely dialog with all interested parties about the
+company’s situation and business changes. Merck’s principles include providing factually correct,
+comprehensive, and fair information.
+Information subject to disclosure requirements, as well as information that is not, can be accessed worldwide
+on the Merck KGaA website (www.merckgroup.com), which is the company’s most important publication
+platform. In addition to a comprehensive financial calendar, quarterly statements and/or quarterly and half-
+year financial reports covering at least the past five years are available there in German and English. In line
+with the legal requirements, ad hoc announcements are also published on the website. These contain
+information on circumstances and facts that could impact the Merck share price.
+Regular press conferences, investor meetings on the occasion of investor conferences, and roadshows offer
+another platform for dialog. The company presentations prepared for this purpose are also available on the
+Merck KGaA website. In addition, the Investor Relations team is available to private and institutional investors
+who wish to receive further information. To ensure the greatest possible transparency, all documents
+concerning the General Meeting are available on the company website. Additionally, at least some parts of the
+General Meeting are generally webcast live on the Internet. The Annual General Meeting on April 22, 2022, was
+again held virtually and hence was webcast live on the Internet in full.
+Dealing with insider information
+Dealing properly with insider information is very important to us. Our Insider Committee examines the
+existence of insider information, ensures compliance with legal obligations, and prepares any necessary
+measures. The members of the Insider Committee are appointed by the Executive Board; at least two members
+work in Group Legal & Compliance. The Insider Committee meets at regular intervals or when circumstances
+require. The Chief Financial Officer is vested with the authority to make the final decision on handling potential
+insider information.
+In order to ensure a high level of protection for insider information, the Executive Board issued internal insider
+guidelines applicable throughout the Merck Group worldwide. The guidelines inform employees about their
+responsibilities under insider trading laws and give clear instructions for compliant behavior. In addition, they
+describe the function of the Insider Committee in detail. Moreover, our Code of Conduct, which is binding for all
+employees, also contains an explicit, detailed reference to the ban on using insider information. Within the
+scope of obligatory training courses on the Code of Conduct as well as specific training courses on insider law,
+all employees are instructed on the key stipulations of insider trading.
+Accounting and audits of financial statements
+Merck KGaA prepares its consolidated financial statements and Combined Management Report in accordance
+with the International Financial Reporting Standards (IFRS) effective at the end of the reporting period and
+adopted by the European Union and the additional provisions of section 315e of the German Commercial Code
+(HGB). The Consolidated Financial Statements and the Combined Management Report are prepared by the
+Executive Board and examined by an auditor, taking into account the German generally accepted standards for
+the audit of financial statements promulgated by the Institute of Public Auditors in Germany (Institut der
+Wirtschaftsprüfer, IDW).
+The Supervisory Board commissioned KPMG AG Wirtschaftsprüfungsgesellschaft, Berlin, to audit the
+Consolidated Financial Statements and the Combined Management Report for 2022. KPMG AG 201
+Corporate Governance ___ Statement on Corporate Governance
+Wirtschaftsprüfungsgesellschaft, Berlin, is obliged to inform the Supervisory Board without delay of any grounds
+for disqualification or bias occurring during the audit if these cannot be immediately rectified. Additionally, the
+auditor shall immediately report to the Supervisory Board any findings and issues that emerge during the audit
+that have a direct bearing upon the tasks of the Supervisory Board. The auditor shall inform the Supervisory
+Board or note in the audit report any circumstances determined during the audit that would render inaccurate
+the Declaration of Conformity made by the Executive Board and the Supervisory Board. It has also been agreed
+with the auditor that in order to assess whether the Executive Board has fulfilled its obligations in accordance
+with section 91 (2) of the German Stock Corporation Act (AktG), the audit will also cover the company’s early
+warning risk identification system. Moreover, the auditor is required to examine and evaluate the accounting-
+relevant internal control system insofar as this is necessary and appropriate for assessing the accuracy of
+financial reporting.
+Since 1995, KPMG AG Wirtschaftsprüfungsgesellschaft, Berlin, has been the auditing firm responsible for the
+statutory audit of the Annual Financial Statements and Consolidated Financial Statements of Merck KGaA. The
+auditor responsible for auditing the Consolidated Financial Statements changes regularly. Dirk Janz is currently
+leading the audit engagement. Mr. Janz has been the auditor in charge of the engagement since fiscal 2020.
+KPMG AG Wirtschaftsprüfungsgesellschaft, Berlin, has assured the company that it is independent of the group
+entities in accordance with the requirements of European law and German commercial and professional law,
+and that it has fulfilled its other German professional responsibilities in accordance with these requirements.
+The Supervisory Board has found no grounds to doubt the independence of KPMG AG Wirtschaftsprüfungs-
+gesellschaft, Berlin. Neither party identified any conflicts of interest. The Audit Committee reviews the quality of
+the audit, including the performance of the auditor in charge of the engagement, annually on the basis of
+objective indicators.
+Due to the requirement to change auditors at regular intervals, Merck KGaA must appoint a new auditor
+(different than the current one) no later than for fiscal 2024. In fiscal 2019, the Supervisory Board of
+Merck KGaA therefore decided to prepare a public request for tender for the audit of the Annual Financial
+Statements and Consolidated Financial Statements of Merck KGaA, and to voluntarily change auditors for the
+fiscal 2023 audit, earlier than required. The public request for tender was published in the German Federal
+Gazette in February 2020. Based on this request for tender, the Supervisory Board of Merck KGaA resolved at
+its meeting on July 30, 2021, to propose to the Annual General Meeting that Deloitte GmbH
+Wirtschaftsprüfungsgesellschaft, Munich, be elected as the auditor of the Annual Financial Statements and
+Consolidated Financial Statements of Merck KGaA for fiscal 2023. The Annual General Meeting followed this
+proposal on April 22, 2022 and elected Deloitte GmbH Wirtschaftsprüfungsgesellschaft, Munich, as the auditor
+of the Annual Financial Statements and Consolidated Financial Statements of Merck KGaA for fiscal 2023.
+Further reports
+The combined management report of Merck KGaA and the Merck Group includes the compensation report and a
+combined non-financial declaration. The latter incorporates the non-financial declaration of the Merck Group in
+accordance with section 315b HGB and the non-financial declaration of Merck KGaA in accordance with 289b
+HGB and section 315b (1) HGB in conjunction with section 298 (2) HGB. It is included as a separate chapter of
+the management report. An overview of the information contained in the combined non-financial declaration
+can be found at “Topics for the non-financial statement”. In addition, Merck publishes a sustainability report
+that meets the requirements of the Global Reporting Initiative (GRI) standards and contains reports in
+accordance with the standards published by the Sustainability Accounting Standards Board (SASB) and the Task
+Force on Climate-related Financial Disclosures (TCFD). This will be available from April 13, 2023, as an online
+version on the company’s website at https://www.merckgroup.com/en/sustainability-report/2022. The
+report on equality and equal pay pursuant to sections 21, 22 of the German Act on the Promotion of Pay
+Transparency between Women and Men is attached to the combined management report and published in the
+companies register. It is available at https://www.merckgroup.com/en/investors/corporate-
+governance/reports.html. 202
+Corporate Governance ___ Statement on Corporate Governance
+Values and compliance
+First and foremost, responsible entrepreneurship means acting in accordance with the law – also known as
+compliance. All our activities are required to adhere to the applicable laws, regulations, and international ethical
+standards around the world. Compliance violations would result not only in possible legal action but also could
+seriously compromise our reputation as an employer and business partner.
+Our Group Compliance function is responsible for the core topics: Merck’s Code of Conduct, anti-corruption and
+anti-bribery (including healthcare compliance, third-party due diligence, transparency reporting), anti-money
+laundering, antitrust and conflict of interest. Group-wide and local policies, procedures, and processes are in
+place for these important compliance topics in order to ensure that our business activities are consistent with
+the relevant laws, regulations, and international ethical standards.
+Our compliance management system encompasses eight core elements and ongoing consultation with the
+business fields that make up our compliance portfolio:
+Elements of our compliance program
+Living our values together is the underlying principle of our compliance management system. The Compliance
+department adopts a specific brief in this respect.
+A global framework for ethical and legally compliant business processes serves to minimize risk. We achieve
+this by identifying specific compliance risks and requirements. Suitable policies and effective controls are
+implemented in order to reduce risk. Our goals also focus on our employees: It is up to us. This serves to
+strengthen employees’ sense of responsibility and accountability. We achieve this by informing employees
+about the applicable compliance rules and ethical standards and by giving them the responsibility for complying
+with these requirements. As compliance is the second line of defense against risks, it is important that we
+consistently safeguard what really matters. This is why we regularly monitor key indicators that allow us to
+assess risks and the effectiveness of controls. Compliance not only contributes to company growth but also
+creates targeted value added by allowing us to advise the business sectors and help them to navigate the
+respective compliance requirements. Our advice takes into account and adapts to changing business
+requirements. 203
+Corporate Governance ___ Statement on Corporate Governance
+Based on a corporate culture that places the fundamental company values – courage, achievement,
+responsibility, respect, integrity, and transparency – at the center of our entrepreneurial actions, our Code of
+Conduct (http://www.merckgroup.com/company/responsibility/en/regulations-and-guidelines/code-of-
+conduct.pdf) helps us implement these when dealing with one another daily.
+With its Code of Conduct, Merck has established a set of rules intended to help our employees to act
+responsibly and to make the right decisions in their daily work. The Code of Conduct applies to all Merck
+employees in all countries and at all levels of our organization.
+It explains the company principles for dealings with business associates, shareholders, colleagues, and
+employees, and within the scope of our responsibility for society. Therefore, it supports all employees in acting
+ethically – not only in their dealings with one another but also outside the company. Accordingly, the Code of
+Conduct is also the main set of rules for our Compliance Program. Merck has aligned the content of its Code of
+Conduct with the Merck values and integrated important topics such as data privacy, healthcare compliance,
+and bioethics. To Merck, compliance means observing legal and internal regulations and the basic ethical
+principles anchored in the company’s values. With the Code of Conduct and the various unit-specific ethical
+compliance rules, the values are integrated into daily work and business practice. We also expect our business
+associates (e.g. customers, suppliers, distributors etc.) worldwide to accept these principles or to have their
+own comparable principles. While supplier management ensures compliant behavior of suppliers, global
+business partner risk management encompasses the relations with sales-related business associates such as
+distributors and wholesalers.
+The Compliance department monitors observance of the Code of Conduct with support from corresponding
+monitoring and training programs throughout the company. Suitable controls and tailored training programs
+across the company ensure monitoring of the Code of Conduct. All employees are called upon to report
+potential compliance violations to their supervisor, Legal, HR, or other relevant departments or via the
+Compliance hotline. In cooperation with Group Internal Auditing, the Compliance Office regularly reviews the
+implementation of Group-wide compliance measures at the subsidiaries. The audits regularly focus on the local
+compliance structure, the compliance measures taken, and the existence of corresponding compliance
+guidelines and processes.
+The Group Compliance Officer is responsible for the establishment, maintenance, and further development of
+our global Compliance Management System. Among other things, the Group Compliance Officer and its team,
+consisting of a global Compliance Center of Expertise and Compliance Officers, take appropriate measures to
+help lower the risk of serious compliance violations and implement the compliance program across Merck
+globally. Our Compliance Center of Expertise is a central body responsible for designing and structuring our
+compliance program in all business areas and Group functions.
+Our Group Compliance Officer reports on the status of our compliance activities, potential risks and serious
+compliance violations to the Executive Board and Audit Committee twice a year at a minimum. As part of our
+regular reporting processes, we compile a comprehensive compliance and data privacy report annually for the
+Executive Board. This includes the status of our compliance program, continuous improvement initiatives and
+key figures on compliance and data privacy cases. Additionally, we prepare a mid-year update to highlight
+ongoing developments and the status of relevant projects and initiatives.
+A further focus area of the Compliance Program is ensuring legally and ethically correct dealings with medical
+stakeholders and adhering to the transparency requirements. The Compliance organization has agreed on
+extensive measures with the affected areas of the company in order to establish an internal framework of rules
+as well as the corresponding processes for approving and documenting interactions with healthcare
+professionals that ensure Merck complies with reporting obligations. We, of course, also ensure compliance with
+the respectively valid data protection regulations.
+The importance of compliance is also reflected in the subsidiaries, which ensure via country representatives that
+compliance measures are implemented in the countries. Compliance tasks in the countries and on a regional
+basis are largely performed by full-time compliance officers. As a result, a higher level of compliance expertise 204
+Corporate Governance ___ Statement on Corporate Governance
+is based locally, and the growing number of tasks in all business sectors are taken into account. The compliance
+officers in the countries and regions report to the dedicated compliance officers for the respective business
+sectors (Life Science, Healthcare, and Electronics). A separate responsibility was also created for Group
+functions. Regular regional and global compliance meetings are held to promote the exchange of information
+within the Compliance organization. This is supplemented by a global concept for local compliance forums and
+global compliance committees, at which relevant compliance-related topics are discussed with senior
+management. These constitute an important element of risk assessment and quality assurance.
+Newcomer trainings are run for newly appointed compliance officers. These seminars serve to build up
+compliance expertise and strengthen cooperation within the Compliance organization. This Group-wide network
+is used to steer the global Compliance Program. The Compliance organization is also involved in the relevant
+due diligence processes for the incorporation of new business units as well as possible divestments and
+acquisitions, and the subsequent integration of companies. Within the scope of the global compliance program,
+a high degree of importance is given to regular compliance trainings of the Merck Compliance Training Plan,
+which are conducted as web-based training courses and classroom sessions. The various training topics
+addressed, particularly on the Code of Conduct, anti-corruption and bribery, conflicts of interest, anti-money
+laundering, antitrust and competition law, and healthcare compliance, serve to sensitize employees and
+management on the consequences of compliance violations. Since Merck set up a central Compliance hotline,
+our employees and individuals outside of our company have been able to report compliance violations by
+telephone or via a web-based application in their respective language. The Compliance hotline is available 24
+hours a day, free of charge. Case numbers enable anonymous, two-way communication. The reports received
+are individually reviewed. If a compliance violation exists, corresponding corrective measures are taken based
+on concrete action plans. If necessary, disciplinary measures are taken which can range from a simple verbal
+warning up to the dismissal of the employee who violated a compliance rule. Merck has set up a Compliance
+Case Committee to guide these processes. The Compliance Case Committee consists of senior members from
+various Group governance functions; they are involved in reviewing compliance violations and introducing
+countermeasures. The joint work in the Compliance Case Committee enables processes between the various
+Group functions to be optimally coordinated and designed efficiently.
+Data Privacy
+Group Data Privacy at Merck is integrated into the Group’s Compliance organization. As required by law, this
+department operates independently and without being required to follow instructions. The department regularly
+prepares Data Privacy updates and produces a comprehensive Data Privacy report at regular intervals as part of
+our broader compliance reporting efforts. The Group Data Privacy Officer has a team currently comprising
+around 20 employees who work around the world as local Data Privacy Officers. Other individuals around the
+world also perform as local Data Privacy Officers alongside their primary activity for Merck. A Center of
+Expertise also provides support in the form of structures and tools. 205
+Corporate Governance ___ Statement on Corporate Governance
+Our Data Privacy Management System encompasses various elements of our portfolio alongside the pillars of
+people and communication. The portfolio is composed as follows:
+Elements of our Data Privacy program
+The Data Privacy organization has put specific guidelines in place in order to ensure that Data Privacy processes
+comply with the relevant regulations. The ”Group Data Privacy Policy” defines the standards according to which
+data is processed, stored, used, and transmitted at Merck. This enables us to provide a high level of privacy
+when it comes to processing the data of our employees, contract partners, customers, suppliers, patients,
+healthcare practitioners, and participants in clinical trials. The statutory documentation requirements are
+realized in a central IT tool that also serves as the basis for key Data Privacy processes: documenting
+processing activities, defining the Local Data Privacy Officers, documenting video recordings and surveillance,
+and processing potential data privacy violations. Our understanding of Data Privacy throughout the Group is
+based on European legislation in particular, including the data privacy principles of the EU’s General Data
+Protection Regulation (EU GDPR), which has been in force since May 2018. However, we also comply with and
+implement local data privacy regulations.
+Risk and opportunity management
+Systematic and responsible risk and opportunities management is a key aspect of corporate governance for
+Merck. Merck’s company-wide risk management, compliance and control system is based on the “three-lines of
+defense” model, which describes the interlinked risk structures and responsibilities at various levels.
+At the first level (1st line), activities (including the management of financial and non-financial risks) and the use
+of resources are managed in line with external and internal regulations. Risks are to be prevented/recorded and
+reduced where they could arise, i.e. at operational level. Risk owners, i.e. the heads of the business fields, the
+managing directors of the Merck subsidiaries and the heads of the Group Functions, establish processes in
+accordance with the requirements of the second level (2nd line) to ensure that risk mitigation measures can be
+identified, assessed, monitored and developed. Through the heads of the business fields and Group Functions,
+planned, actual and expected results in connection with the organization’s goals and risks are regularly
+discussed with the Executive Board.
+The second level (2nd Line) sets the framework for the design of the internal control system, the risk
+management system and the compliance management system by defining appropriate minimum requirements
+for governance, systems and processes to be applied in the 1st line. The specific structure of this governance is
+risk-based and at the discretion of the Executive Board. The Executive Board and the Audit Committee of the 206
+Corporate Governance ___ Statement on Corporate Governance
+Supervisory Board receive regular reports on risk management, the financial internal control system and
+compliance. For further information on governance and the processes in place for risk management, compliance
+management and the financial internal control system, please see the “Risk and Opportunity Report” and the
+section “Values and compliance” in the Statement on Corporate Governance.
+At the third level (3rd line), the Internal Auditing Group function monitors the accuracy, security,
+appropriateness and effectiveness of existing governance and processes, internal controls and risk management
+using independent audits. These are covered by the risk-based annual audit plan or, in individual cases, ad-hoc
+audits during the year. It helps the Executive Board perform its monitoring function and reports directly and
+independently to the Executive Board. The independence of Internal Auditing ensures that both the planning
+and execution of its work are not subject to obstacles or bias, as well as guaranteeing unrestricted access to
+the persons, resources and information required. The head of Internal Auditing reports activities and results to
+the Executive Board at least once a quarter or, where required, on an ad hoc basis, and also reports to the
+Audit Committee twice a year. Internal Auditing itself undergoes an external quality audit every five years. A
+quality audit was conducted in fiscal 2022.
+The “three-lines-of-defense” model is supplemented in terms of accounting by the activities of the external
+auditor. With the “three-lines-of-defense” model described, the Executive Board has implemented a governance
+framework for Merck that aims to ensure appropriate, effective internal control and risk management. The
+measures put in place in this context are also designed to ensure that internal control, compliance and risk
+management are effective and appropriate and are discussed, for example, in the Risk and Opportunity Report
+in the combined management report. Independent monitoring and audits are also carried out as part of
+implementing the “three-lines-of-defense” model and the statutory framework, in particular through the audits
+by Internal Auditing described and other external audits. In particular, the pace at which requirements for non-
+financial reporting and non-financial risks change makes it necessary to regularly review and, where necessary,
+adjust the monitoring systems for this area.
+Relevant Group functions and representatives from the business fields reported on the control systems in place
+to the Executive Board in 2022. In this context, areas where potential for improvement and optimization had
+been identified and relevant ongoing projects were also presented to the Executive Board. Finally, the individual
+functions and business fields issued an assessment to the Executive Board of the appropriateness and
+effectiveness of the control system, where applicable taking account of recommended improvement
+opportunities. Based on this, the review of the non-financial internal control system and reporting by Internal
+Auditing, as of December 31, 2022 the Executive Board was not aware of any indications with regard to
+material issues that the system is not appropriate or effective. Given the multi-layered process landscape and
+the high speed of change regarding the catalog of requirements for non-financial information, the maturity of
+the non-financial internal control system does not yet match that of the (Group) accounting-related internal
+control system. Based on regular reviews of the financial internal control system, compliance and risk
+management and reporting by Internal Auditing, as of December 31, 2022 the Executive Board was not aware
+of any indications with regard to material issues that this system is not appropriate or effective.
+
+
+The image provides an overview of the capital structure and corporate governance bodies of Merck KGaA. It visually outlines the relationships between different governance entities within the company and their connection to the overall capital structure. Here’s a detailed description:
+
+### Title
+- **Capital Structure and Corporate Bodies of Merck KGaA**: Indicates that the information pertains to the financial and organizational structure of Merck KGaA.
+
+### Capital Information
+- **Total Capital of Merck KGaA**: Listed as €565,211,241.95, representing the total capitalization of the company.
+
+### Corporate Bodies and Structure
+- **Executive Board of Merck KGaA**:
+  - Described as general partners with no equity interest, suggesting that these members have a management role without owning shares in the company.
+- **Board of Partners of E. Merck KG**:
+  - This entity holds an equity interest in the company, with a specific mention of €397,196,314.35, indicating a significant financial stake.
+- **General Partner E. Merck KG**:
+  - It is noted that this general partner holds an equity interest, reinforcing its influential role in corporate decisions.
+
+### Governance and Oversight
+- **Supervisory Board**:
+  - Positioned to indicate its role in overseeing both the Executive Board and the interaction between the shareholders and the Board of Partners.
+- **Annual General Meeting (AGM)**:
+  - The AGM is a key component where shareholders participate, and it’s linked directly to the shareholders' capital investment in the company.
+- **Shareholders Hold Share Capital**:
+  - Listed as €168,014,927.60, showing the portion of the capital held directly by shareholders.
+
+### Monitoring
+- The diagram includes a label "Monitoring" with arrows pointing from the Supervisory Board to both the Executive Board and the Board of Partners, illustrating the supervisory role played by the Supervisory Board in monitoring these bodies.
+
+### Additional Information
+- A note mentions that further information can be found under "Merck KGaA" in the "Statement on Corporate Governance", suggesting additional details are available in a formal governance document.
+
+Overall, the diagram effectively summarizes the corporate governance and capital structure of Merck KGaA, highlighting the roles, responsibilities, and financial stakes of various bodies within the organization. This structure ensures proper oversight, management, and shareholder involvement in the company’s governance.
+The image illustrates a detailed structure of a compliance management system, organized in a circular infographic with eight interconnected segments, each representing a core component of the system. This model highlights how each aspect contributes to a holistic compliance strategy, emphasizing the program's comprehensive nature and its integral role within the organization. Here's a breakdown of each component as shown in the infographic:
+
+### Central Diagram
+- The central wheel is divided into eight numbered segments, each depicting a different element of the compliance program:
+  1. **Risk Assessment**: Identifies internal and external critical risks in regular business operations.
+  2. **Policies & Procedures**: Establishes global policies and procedures to mitigate identified risks.
+  3. **Compliance Committee / Forum**: Serves as a platform for compliance-related discussion and decision-making, including relevant key functions.
+  4. **Training & Awareness**: Focuses on training and additional measures to educate and keep awareness high.
+  5. **Business Counseling**: Described as a core activity, it provides daily cross- and sector-specific advice.
+  6. **Monitoring & Reporting**: Involves tracking compliance-related data and performing both internal and external reporting.
+  7. **Case Management**: Ensures timely responses to reports of misconduct and the implementation of corrective actions.
+  8. **Programs & Tools**: Details comprehensive compliance programs and supporting tools that contribute to internal controls and overall governance.
+
+### Additional Elements
+- **Continuous Improvement**: This is noted at the top of the diagram, stressing that all compliance program elements are based on and contribute to continuous improvement.
+- **Living our values together is the underlying principle of our compliance management system**: This statement underscores that the compliance department adopts a specific brief to embody and promote corporate values through the compliance management system.
+
+### Overall Design
+- The diagram uses a color gradient of teal and pink shades to differentiate between the various segments, making it visually appealing and easy to differentiate between the components.
+- The layout suggests a systematic and dynamic approach to compliance management, with all components being interconnected, signifying the interdependence and importance of each aspect in maintaining robust compliance standards.
+
+This infographic is likely used internally for training or orientation purposes to help employees understand their roles within the compliance framework and how various components of the system work together to maintain corporate integrity and legal compliance.

@@ -1,0 +1,611 @@
+
+Compliance violations can cause many different types of damage and can have serious consequences such as the
+discontinuation of business relationships, exclusion from contract awards, negative assessments on capital
+markets, the imposition of fines, the absorption of profits, claims for damages, and civil or criminal proceedings.
+92 RHEINMETALL ANNUAL REPORT 2022 Letter to shareholders Combined management report Consolidated financial statement Further information
+Risks and opportunities
+Significant corporate risks
+Furthermore, compliance violations that have a high public profile always pose the risk of significant and lasting
+damage to the company’s reputation. Customers, shareholders, employees, non-governmental organizations,
+rating agencies and also the general public could lose trust in our company. In itself, the examination and
+clarification of alleged cases can result in considerable internal and external costs.
+Compliance risks can occur in every area of the company. The compliance organization therefore aims to ensure
+proper and compliant modes of conduct and behavior on the part of a company and its employees and to make
+sure that potential or actual infringements of external or internal regulations are responded to appropriately.
+Group-wide structures, stringent regulations and standardized processes are put in place as far as possible to
+prevent any liability risks, risks of a penalty or a fine and reputation risks, in addition to other financial
+disadvantages, loss or damage that the company may incur as a result of misconduct or violations of the law.
+The regular execution of a Group-wide compliance risk assessment (top-down and bottom-up) and additional
+regular and case-by-case risk analyses help to identify systemic and company-specific compliance risks. Measures
+to introduce or improve international or local structures, guidelines, processes, IT systems and training content
+are derived from the results.
+However, despite extensive and multi-level inspection and control mechanisms, the possibility of risks arising
+from unlawful activities of individual parties cannot be ruled out. Alleged cases are investigated actively. In
+investigative proceedings we cooperate with the relevant authorities. Proven misconduct results in consequences
+for those involved and – if necessary – to adjustments in the organization. However, the financial impact of
+compliance cases on the Group’s results is very difficult to estimate. Depending on the case and the
+circumstances, a considerable range is to be assumed.
+The introduction in 2018 of the EU General Data Protection Regulation (GDPR) required EU-based companies also
+to meet a whole range of obligations concerning data protection. Violations of the GDPR are subject to significant
+sanctions, including the imposition of fines totaling up to 4% of the Group’s total global sales. To counter these
+risks, we established a Group-wide data security management system (DSMS) to ensure a data protection level
+that is structured, secure and, as far as possible, standardized. It defines a range of functions and responsibilities
+and undergoes continuous improvement as part of a “plan–do–check–act” cycle. The effectiveness of the DSMS
+is monitored on an ongoing basis. Where legally prescribed, data protection officers are appointed in Rheinmetall.
+Our employees receive regular instruction and training in matters relating to data protection. The content of data
+protection training is adapted for individual departments in line with the specific requirements in their respective
+spheres of work. For new employees, this training is an important part of the induction process.
+Public perception
+In a time in which markets are interconnected and the flow of information is becoming increasingly globalized,
+communication is becoming ever more important to the company’s success. Shareholders, customers, lenders,
+employees, the media and the public at large are informed regularly, transparently and quickly about our social
+and financial status, our key processes and changes as well as the latest news and developments.
+In the course of a highly dynamic sustainability debate, the communicative presentation of a medium- and long-
+term corporate strategy based on responsible action is crucial for the perception and acceptance of the company
+by a broad public. Protecting and building a positive reputation as a central task of communications is considered
+essential in order to continue to be recognized and commissioned as a supplier and equipment provider to the
+public sector and to be able to survive on the money, credit and capital markets. In particular, the impact of our
+communications and other image-building measures on the general (media) public determines how we are
+perceived by politicians, administrators, and business and financial players.
+Environmental, social, governance
+Sustainability risks differ in part from traditional risk assessments in terms of the timescale considered, the
+assessment of their impact, but also in perspective. For this reason, the process for sustainability risk reporting
+builds on the existing risk management modules, but goes beyond them in parts. This avoids both duplication of
+work and double entries while also ensuring comprehensive analysis.
+RHEINMETALL ANNUAL REPORT 2022 93 Letter to shareholders Combined management report Consolidated financial statement Further information
+Risks and opportunities
+Significant corporate risks
+If we do not comply with the increasing regulatory requirements and fail to meet the expectations and
+requirements of governments, customers, investors, lenders and other financial institutions in the areas of
+environmental and social responsibility and governance (ESG) to the required extent or level of detail, this can
+have a negative impact on the Rheinmetall Group’s business and earnings. Customers could potentially refuse to
+award contracts to us, private and institutional investors might refuse to include us in their portfolio, and financial
+institutes might refuse to issue loans at all or only at an increased cost. We counter these risks through
+comprehensive and transparent CSR/ESG reporting based on globally recognized standards such as the Global
+Reporting Initiative and – where possible – through continuous improvement of our customer and CSR/ESG ratings
+from internationally renowned agencies and institutions (e.g. MSCI, ISS ESG, Sustainalytics, VigeoEiris,
+Arabesque, Gaia and CDP).
+Furthermore, the passing of legislation or regulations for the finance sector could cause institutional investors to
+restructure their portfolios and reduce or terminate their exposures in companies that operate in industries
+classed as critical. Possible sector exclusions (e.g. for the weapons and defence industry) could also limit our
+options to raise capital. Changes to the qualification criteria for being accepted to or remaining on stock indices
+could also harbor risks for our company.
+
+We have consistently demonstrated our responsibility toward our employees and products and toward the
+environment and society for over 130 years. Founded in 1889, our technology company - rooted regionally and
+globally positioned - with its companies is integrated into the general political, regulatory, economic, ecological
+and social conditions of various countries and geographical regions. We are committed to fair competition and to
+lawful business conduct that not only shows integrity but is also social and ethical. Sustainable management has
+always been an integral component of our business and production processes and helps to secure the long-term
+future of our company. In addition to continuity, economic growth and compliance with the fundamental principles
+of good corporate governance, the careful use of natural resources is part of our self-image – to the benefit of our
+shareholders, our employees, for our locations and for the society in which we have a fixed place as corporate
+citizen.
+Globally, European and German understanding on key areas, topics and aspects in the Environment, Social and
+Governance (ESG) categories may not be equally assessed, weighted and prioritized. Even so, over the past few
+years – at the United Nation’s behest and in line with the objectives of the European Union – many countries,
+including Germany, have expanded their requirements for companies to take responsibility for upholding
+recognized human rights, labor, social, environmental and anti-corruption standards, both within and outside the
+bounds of the company. This relates to the impact of business activities on sustainable development in the world
+encompassing the entire value-added chain. But customers, shareholders, investors, non-governmental
+organizations and – not least – the company’s own employees are also interested in getting a full picture of the
+company, its global business activities and their impact on people, the climate, and the environment. Inquiries
+from all sections of society are thereby increasing, as are expectations for transparency, scope, level of detail,
+informative value and comparability of company data on the very complex issue of sustainability.
+Business model
+Our world is changing rapidly in every respect – technologically, economically, politically and culturally. We lead
+lives that are more global, more connected, more digital than ever before and are constantly faced with new
+challenges that have to be overcome.
+As a supplier to the automobile industry, the civilian area makes a contribution that people the world over reach
+their destinations in a more environmentally friendly manner. In addition to the ongoing development of products
+for conventional drives, Rheinmetall is focusing on the development of systems for vehicles powered by hybrids,
+batteries, and fuel cells. We shape the mobility of the future with solutions for reduced emissions and electric
+drive systems. Outside the traditional automotive sector, we are continuing to pursue our diversification strategy
+in the industrial sector.
+Hydrogen is considered a key element in the transition to a climate-neutral energy supply of the future. We are
+addressing mobile and stationary hydrogen technology applications. The spectrum extends from power
+generation derived from renewable energies across hydrogen production to its storage and distribution right up to
+its use.
+We are a reliable partner for German and international armed and security forces. With its product and capability
+spectrum, Rheinmetall is a leading European systems supplier offering innovative, state-of-the-art and threat-
+appropriate security technology for military and civilian applications alike. We protect those who protect us all –
+against current and future threats.
+The Rheinmetall Group’s business model is described in detail under the Basic information on the Rheinmetall
+Group” section.
+112 RHEINMETALL ANNUAL REPORT 2022 Letter to shareholders Combined management report Consolidated financial statement Further information
+Non-financial statement
+Governance
+Governance
+This non-financial statement of the Group, which includes all continuing and discontinued business activities,
+was prepared in line with the requirements of Sections 315b, 315c in conjunction with Sections 289c to 289e HGB.
+Pursuant to section 315b(1) sentence 3 HGB, reference is made to the non-financial disclosures included in another
+part of the Group management report for more detailed information on individual aspects. We use the standards
+of the Global Reporting Initiative (GRI) as a reporting basis when preparing the non-financial statement. In this way
+we want to ensure transparency and comparability. The fiscal year is the reporting period for the non-financial
+statement of the Group, and there is an annual reporting cycle.
+Sustainability organization
+At Rheinmetall the responsibility for sustainability lies with the Executive Board as a whole. The central area
+Corporate Social Responsibility reports directly to the Chief Executive Officer (CEO). In consultation with the
+responsible central department managed by the Head of Corporate Social Responsibility, the Executive Board sets
+the strategic framework for sustainability activities. In cooperation with the divisional and local sustainability
+officers and the Executive Board, the Corporate Social Responsibility department bundles and coordinates the
+respective ESG requirements. From this, it develops the sustainability strategy aligned to the Group strategy and
+derives the resulting fields of action, measures, targets and indicators.
+In addition to the members of the Executive Board, the Corporate Sustainability Board established in October 2021
+includes the divisional heads, the Head of Corporate Social Responsibility, the heads of Controlling, Compliance,
+Strategy, Purchasing, Human Resources, Corporate Communications, the Head of Investor Relations and the two
+Chief Technology Officers. The Corporate Sustainability Board deals with current regulatory developments and
+trends in the ESG area, as well as with the challenges they pose for Rheinmetall. The members of the board help
+to ensure that the interests of our stakeholders are given special consideration. At the annual meeting in
+December 2022, the heads of the five divisions, among others, presented the progress made in the area of ESG
+during the year and provided an outlook on the measures planned for 2023.
+Sustainability also includes a material strategic component. As an interdisciplinary and cross-division topic, ESG
+is a fixed element of the activity of the Supervisory Board. For example, the members of the Supervisory Board
+deal with current ESG developments, with their importance for the corporation and its stakeholders and the
+resulting future challenges and opportunities. The Audit Committee handles not only risk management, but also
+the scope and depth of current and future regulatory requirements for sustainability reporting and their
+implementation, as well as the processes and internal controls implemented in collecting the data required for
+reporting. The Strategy and ESG Committee deals with the strategic further development of sustainability and its
+enshrinement in the overall strategy of the company. It obtains information on the associated ESG fields of action,
+measures and initiatives, as well as on the progress made, and monitors the inclusion of sustainability aspects in
+the business model. The Supervisory Board’s Personnel Committee deals with the implementation of ESG
+objectives in internal performance indicators and their consideration in remuneration systems. As part of the
+Executive Board’s remuneration, it defines the ESG criteria, their target values and target achievement ranges on
+an annual basis and assesses the respective degree of achievement of the non-financial targets.
+Sustainability management
+Continuous improvement and ongoing further development aligned to the changing requirements of our time are
+the basis for sustainability activities at Rheinmetall. Since the Corporate Social Responsibility department was
+established in 2011, we have been working on an ongoing basis in improving the cooperation with the experts in
+the divisions, business units and national companies.
+Various principles and international guidelines form the basis for our sustainability management:
+(cid:131)(cid:3) Corporate philosophy with vision and mission based on the values of respect, trust and openness;
+(cid:131)(cid:3) Code of Conduct for all employees with binding regulations which include topics such as human rights,
+anti-corruption, compliance, adherence to competition and anti-trust legislation;
+RHEINMETALL ANNUAL REPORT 2022 113 Letter to shareholders Combined management report Consolidated financial statement Further information
+Non-financial statement
+Governance
+
+For senior and middle management, the achievement of ESG targets will be taken into account at 20% in the short
+term and long term incentive from fiscal 2023.
+Reporting
+In the context of its reporting on non-financial and sustainability-related performance, Rheinmetall aligns itself to
+the international standard of the Global Reporting Initiative (GRI).
+Since October 2011, we have been reporting on our sustainability activities on our website under the heading
+“Responsibility.”
+Since fiscal 2017, we have been submitting a non-financial statement every year.
+In addition to the legal requirements, we publish the ESG Factbook reporting annually. On more than 100 pages,
+we provide information in the Performance, People, Planet and Governance categories on topics defined as
+material and present our economic, social and ecological performance over a period of three years. In addition,
+the Factbook includes the GRI Content Index. An additional index refers to the covered reporting requirements of
+the Sustainability Accounting Standards Board (SASB) in the sectors relevant to our business model.
+After signing the UN Global Compact in fiscal 2021 as a visible expression of our commitment to sustainability, we
+published the annual Communication on Progress (CoP) on the new UNGC platform via the Early Adopter Program
+in August 2022. With this report we show transparently what progress the company has made in the area of
+corporate responsibility over a year.
+We are continuously developing our indicator system in accordance with internationally recognized standards and
+on the basis of internal and external requirements so that, in addition to internal management, our external
+reporting can be aligned even more specifically to the demands of groups such as investors and to make our
+sustainability performance – as well as the challenges and opportunities of long-term company development –
+more transparent.
+Materiality analysis
+In view of the emerging new strong trends in the area of sustainability and the soon-to-be-introduced extensions
+and new requirements in sustainability reporting, we again carried out a materiality analysis in the past fiscal year,
+involving both internal and external stakeholders. The list of potentially relevant sustainability aspects has been
+reviewed for up-to-dateness and adjusted accordingly. For this purpose, the results of secondary analyses have
+been taken into account, including the evaluation of regulatory requirements and projects, ESG ratings,
+benchmarks of our peer group and media reporting. The result of the materiality analysis reflects the economic,
+environmental and social sustainability issues that are significant for our company. The focus of our reporting is
+on the topics classified as very material and material. For some other aspects, our voluntary reporting in this non-
+114 RHEINMETALL ANNUAL REPORT 2022 Letter to shareholders Combined management report Consolidated financial statement Further information
+Non-financial statement
+Employees
+Further training for employees – Further training, assuming responsibility and promotion opportunities have a
+high degree of relevance for the commitment and satisfaction of our employees. To ensure the continued growth
+and future viability of the Rheinmetall Group, in consideration of additional demographic factors and the shortage
+of specialist staff that is expected in many places, the development of employees, talented management trainees
+and experienced specialist and managerial staff in line with current and future requirements constitutes a key
+factor for the company’s success. Thus strategic personnel planning is aligned to securing and continuously
+raising the high skill levels to ensure that the Group companies can achieve their business goals.
+Annual appraisal interviews between management and employees are deployed to talk about performance,
+targets and individual development options. A range of training opportunities are in place to support Rheinmetall
+employees with planning their own development, achieving individual learning objectives and expanding their
+skills to meet the requirements of their current positions or to obtain new positions. Personnel development and
+training activities are offered on the basis of regular needs assessments. Various sources are used for needs
+assessment. These include not only the results of the potential assessment and personnel development
+appraisals, which are conducted in accordance with the collective agreement on training, but also Group-wide
+successor planning, the target-setting process and capacity and investment planning. Further training objectives
+are also derived from strategic objectives, such as the increased internationalization of the Group and the
+transformation of the previous automotive supply business.
+Established development programs for managerial and junior staff – Top performers and employees with
+potential are identified as part of systematic assessments and their skills are selectively developed. This is based
+on the Rheinmetall “Management by Objectives” program, which incorporates the relevant leadership and
+management skills in five key areas. The performance and development potential of managers and prospective
+management candidates is identified, assessed and evaluated at regular intervals as part of a consistent,
+multistage selection and assessment process. This personal stocktaking enables an open discussion on strengths
+and weaknesses and structured feedback on individual development and promotion opportunities.
+Individually determined personnel development plans help to improve the candidates’ business, technical,
+methodical and social skills. Furthermore, prospective managers can take part in management potential analyses
+and/or individual assessments, which analyze their abilities and skills profiles in more depth.
+The Rheinmetall Academy successively prepares these employees at various stages in their careers for assuming
+leadership or specialist roles. The modular course programs and content are systematically designed around the
+topics of strategy, management, leadership, methodical competence, project management and
+internationalization. The Executive Development Program and Manager’s Leadership Program focus on “Leading
+my business” and help experienced managers to perform their organizational and managerial duties successfully.
+In particular, they help managers to build on their knowledge of corporate controlling, employee leadership and
+change management. Junior staff are prepared to take on their first managerial challenges in the Young Manager
+Program. The content of the Project Manager’s Program is tailored to the tasks and activities performed by
+employees of the Rheinmetall Group. These supplement the technical and methodical project management skills
+acquired in certification courses with training on “How to manage project teams.”
+In the year under review, 2,438 employees (1,883 men, 555 women) attended 199 (previous year: 221) one-day or
+multi-day events at the Rheinmetall Academy, compared with 2,732 (2,061 men, 671 women) in the previous year.
+59% of participants come from the Vehicle Systems, Weapon and Ammunition and Electronic Solutions divisions,
+27% from companies of the Sensors and Actuators and Materials and Trade divisions. The share of female
+participants was around 23%. Around two-thirds of participants completed an online training session, while
+around one-third attended a classroom seminar.
+Modern remuneration systems
+Appropriate, fair and standard market pay systems are a key aspect in recruiting and retaining dedicated staff at
+the company. Rheinmetall offers attractive contractual terms. In addition to the category of work, these are based
+on the content of the role and the amount of responsibility and are linked to market rates. In addition to fixed
+remuneration components in line with market requirements, performance-related bonuses and variable salary
+components are also paid.
+RHEINMETALL ANNUAL REPORT 2022 123 Letter to shareholders Combined management report Consolidated financial statement Further information
+Non-financial statement
+Employees
+The “Management by Objectives” concept is linked to variable salary components for managers and employees
+not covered by collective wage agreements. An individual variable portion of income is paid in accordance with
+the achievement of individually agreed targets and depending on the company’s performance. Depending on the
+extent to which targets are achieved, this amounts to between 0% and 200% of variable target income. The fact
+that these income components are based on targets provides incentives for employees to act independently and
+to take on challenges. Division heads, managers and executives receive a long-term incentive (LTI) in addition to
+this short-term component. This is geared towards long-term corporate success and for 2022 includes payment of
+40% of the long-term incentive amount in Rheinmetall shares, which are subject to a four-year lock-up period. The
+number of shares granted is based on a reference share price, which corresponds to the average price on the last
+five trading days in February of the subsequent fiscal year. A total of 60% of the long-term incentive amount is
+paid in cash and is also used for the immediate payment of tax on Rheinmetall shares. To bring the interests and
+targets of management and stakeholders into alignment, non-financial targets have been taken into account in
+Executive Board remuneration since 2020. For senior and middle management, the achievement of ESG targets
+will be taken into account at 20% in the short term and long term incentive from fiscal 2023.
+The company’s success benefits employees, including staff covered by collective wage agreements in Germany,
+in two ways: First, employees receive an annual share of profits subject to the annual performance of the
+Rheinmetall Group; second, the increase in the value of the company achieved is paid out in a success-oriented
+component in the company pension, thus leading to improved support in old age.
+Employee subscription to Rheinmetall shares
+In the year under review, Rheinmetall AG again launched a share-based employee participation program in 29
+German (previous year: 27) and eight Group companies in Austria and Switzerland, which provides for an
+individual monthly savings plan in a basic or extended version. The 30% employer allowance, which amounted to
+€3 million as in the previous year, enables employees to acquire shares at attractive conditions subject to a two-
+year holding period and participate as part-owners in the business success of their company.
+Employee share programme
+2022 2021
+Shares acquired 66,905 105,118
+Participating companies 37 27
+Eligible employees 14,646 12,551
+Participating employees 3,968 3,321
+Participation rate 27 26
+Diversity
+In times of accelerating change in technology, business and society, ensuring equal opportunities and promoting
+diversity is an important task for HR at Rheinmetall. For us diversity is a key value, and in times of transformation
+a major factor for innovation and steady growth. We value all people regardless of gender, age, sexual identity,
+educational background, state of health, ethical or social background, skin color, religion, culture, ideology or
+other personal characteristics. For us it is important to create a secure and integrative working environment, one
+marked by respect, in which each person is equal, treated fairly and can maximize his or her potential.
+The corporate philosophy, the Code of Conduct, the principles of social responsibility and the Diversity Policy
+establish the framework for promoting diversity and equal opportunity as well as acting against discrimination. By
+signing the Diversity Charter, we are underlining this stance and making it clear to the public as well.
+To mark International Diversity Day at the end of May 2022, teams at national and international locations were
+invited to take part in a Group-wide photo competition to show how diversity is put into practice in their day-to-
+day work. The accompanying online program also offered training units on unconscious bias and enabled an
+interactive exchange with the Head of HR. In year under review, preparations were also made to expand the range
+of advice and support services offered by the established ViVa Family and Care Service at the German locations to
+include the Diversity Advice module from January 2023.
+124 RHEINMETALL ANNUAL REPORT 2022 Letter to shareholders Combined management report Consolidated financial statement Further information
+Non-financial statement
+Procurement and the supply chain
+
+We also wish to anchor our values and principles in our supply chains and therefore expect our business partners
+to share our principles regarding responsible and fair conduct to employees, customers, suppliers and the public
+and demonstrate this responsibility accordingly. We expect our suppliers to take into account the principles laid
+down in our Supplier Code of Conduct – which is available in several languages and is valid worldwide – in their
+own corporate policies and to view them as an advantageous basis for further business relationships.
+In the year under review, the Supplier Code of Conduct as a binding component of contracts with suppliers was
+completely revised in consultation with various departments, and the content was adapted to meet the
+requirements of the German Supply Chain Due Diligence Act. Based on the new set of rules, Rheinmetall can now
+act more proactively in partnership with its supplier partners to improve sustainability and compliance aspects in
+the procurement process and to achieve corporate development goals at the economic, social, ecological and
+regulatory levels.
+Supply chains in the automotive industry
+The automotive industry consists of a complex network of globally active players. A distinction is made between
+original equipment manufacturers (OEMs), first-tier suppliers and second- and third-tier suppliers. Manufacturers
+and suppliers are closely linked in working together to develop and produce vehicles. Automotive manufacturers
+have been working for some time on anchoring economic, ecological and social objectives vertically, i.e. across
+all stages of the value-added chain. These include respect of international ESG standards, reduction of carbon
+footprint in production, a higher proportion of recyclable material, responsible use of substances and materials,
+and future CO -neutral products.
+
+
+Compliance
+at regular intervals, so that the OEMs can analyze and assess the services and progress in terms of ESG criteria
+and determine the degree to which their requirements have been met. OEMs also carry out in-depth on-site checks
+as part of their supply chain relationship management and audit suppliers’ manufacturing facilities based on
+sustainability criteria from the areas of environment, social responsibility and integrity. This includes the review
+of documents, talks with employees and a site visit.
+Supply chains in the security and defence industry
+Supply chains in the defence industry are characterized by very complex structures, easily comprising up to eight
+stages for the needs of, for example, Rheinmetall Waffe Munition and Rheinmetall Landsysteme. The high
+proportion of specific materials and processes combined with a broad product range leads, as is generally the
+case in this industry, to a high proportion of single sourcing, also because only a few companies throughout the
+world completely manufacture or command the very specific products and processes. In the defence technology
+industry, switching to new suppliers is very costly, both from a financial and time-related perspective. The
+qualification of products carried out by military authorities is linked not only to the performance of the product
+itself but also to the manufacturing process, manufacturing location and suppliers. A change of suppliers therefore
+automatically results in costs for requalification. The procurement business in the area of ballistic protection has
+the characteristics of a project, i.e. it is characterized by intermittent production by our suppliers. This requires a
+high number of quality assurance measures. Furthermore, specific legislation, such as the War Weapons Control
+Act, the Foreign Trade and Payments Act, the International Traffic in Arms Regulations (ITAR), to cite just a few,
+must be taken into consideration for procurement in the divisions operating in the security technology sector.
+Risks
+Information on reducing or avoiding procurement risks can be found in the “Risks and opportunities” section.
+Compliance
+Management approach
+The reputation of Rheinmetall, the success of the business and the trust of customers, investors, employees and
+the general public depend not only on the quality of our products and services, but also to a large degree on good
+corporate governance and, in particular, on effective compliance processes. In line with our values and our Code
+of Conduct, we are committed to conduct characterized by responsibility, integrity, respect and fairness. We are
+an honest, loyal and reliable partner for all our stakeholders.
+Our binding compliance policy serves to safeguard our business success on a lasting basis. The members of the
+Executive Board and managers, executives and employees naturally have an obligation to comply at all times in
+their working environment with all the applicable country-specific laws, external and internal regulations and other
+provisions, to conduct themselves correctly in business dealings, to preserve the company’s tangible and
+intangible assets and to avoid anything that may result in operational or financial disadvantages or damage to the
+image of individual companies or the Rheinmetall Group. We do not tolerate any damage to our company’s
+standing and to the reputation of our employees or agents as a result of unlawful and/or unethical behavior or
+corrupt business practices.
+International business activities
+In the day-to-day business of an international company, the different national political and legal systems as well
+as values, customs and societal norms of different cultural groups have to be taken into account. In addition to
+the applicable legislation of the countries of exportation, European Union regulations as well as anti-corruption
+laws such as the US Foreign Corrupt Practices Act, the UK Bribery Act and the French Sapin II Anti-Corruption Act
+must be observed. The requirements that Rheinmetall Group companies have to fulfill are therefore many and
+varied. With deliveries made to many countries around the globe in 2022, management and employees now more
+than ever need guidance when it comes to national and international business and in relations with business
+partners, office holders, authorities and other state bodies in order to avoid potential errors and any resulting
+reputational, business or liability risks.
+Compliance organization
+RHEINMETALL ANNUAL REPORT 2022 131 Letter to shareholders Combined management report Consolidated financial statement Further information
+Non-financial statement
+Compliance
+Illegal conduct can cause many different types of damage and can have serious consequences, such as the
+discontinuation of business relationships, exclusion from orders, negative assessments on capital markets,
+imposition of fines, absorption of profits, claims for damages as well as civil or criminal proceedings. There is also
+the risk of significant and lasting damage to the Group’s reputation and thus a detrimental effect on its market
+position. Compliance at Rheinmetall is therefore taken very seriously and has for a long time been an integral part
+of the corporate culture.
+To provide its employees with guidance and allow them to conduct business with confidence, Rheinmetall took a
+holistic approach and set up a compliance organization very early on providing standardized general conditions
+and clear guidelines for legal and rule-compliant, ethically correct and fair conduct in day-to-day business.
+The Chief Compliance Officer, who reports directly to the Chairman of the Executive Board, is responsible for
+Corporate Compliance and Group Data Protection at holding company level. Corporate Compliance is divided into
+Compliance Program with the functions Prevention, Regulation and Business Partners, and Compliance
+Operations with the functions Investigation and Programs & Acquisitions. As an independent organizational unit,
+Data Protection is divided into two functional areas. The focus in the Data Protection organization is on consulting,
+process design, project management and case handling in all data privacy matters. The internal Rheinmetall Group
+Data Protection Officer is responsible for monitoring compliance with statutory data protection requirements
+throughout the Group. In this function, there is a reporting line to the Executive Board and Supervisory Board.
+The Chief Compliance Officer is also responsible for the organization compliance field, comprising the five
+divisional compliance teams, the Regional Compliance Officers abroad and the central holding support, as part of
+the strongly normative management. The function of Corporate Compliance Officer for Central Europe was also
+newly established in Corporate Compliance to support the increasingly important locations and major projects in
+Eastern Europe (with a focus on Hungary).
+The Chief Compliance Officer reports to the Executive Board and the Supervisory Board’s Audit Committee on a
+regular basis, by attending meetings, on the status and effectiveness of the compliance management system and
+on the latest developments. In serious cases, the committees are informed immediately. In addition, the heads of
+the divisions are also kept apprised monthly by Corporate Compliance or the Division Compliance Officer of current
+developments, new rules, planned training measures or possible compliance infringements as well as the status
+of possible investigations.
+Compliance management system
+Compliance is taken into account as an aspect of risk in decision-making processes, not only when it comes to
+considerations regarding the strategic and operational alignment of the Rheinmetall Group, but also in day-to-day
+business. The central compliance management system, with its integrated and dynamic focus on constantly
+updated key risk aspects, such as corruption, data protection violations or attempted fraud, is firmly anchored in
+the Group-wide management and control structures and includes all instruments, processes and extensive
+measures intended to ensure that procedures in the companies of the Rheinmetall Group comply with the
+applicable country-specific legislation, general legal conditions, regulatory provisions and the company’s own
+regulations. It also creates an organizational structure that allows the applicable standards to be publicized across
+the divisions and their implementation status to be tracked. If binding legal regulations in individual countries
+deviate from the rules set out in the compliance management system, the stricter regulation shall apply where
+permissible. In the case of changes to the content, the Chief Compliance Officer’s approval is also required.
+The compliance management system is updated at regular intervals, not only in line with the applicable legal
+requirements but also in the light of new findings from reporting, comparisons with other compliance systems and
+the assessment of external specialists (benchmarking). It is also reviewed on an ad-hoc basis if any breach of
+compliance regulations is suspected or discovered.
+Implementation of the compliance management system is monitored by regular reports to Corporate Compliance
+and by routine and special audits conducted by internal auditing and the compliance organization.
+Compliance officers also monitor important transactions in the companies, such as mergers and acquisitions, the
+establishment of joint ventures, pre-employment checks and the integration of sales brokers or integrity and
+132 RHEINMETALL ANNUAL REPORT 2022 Letter to shareholders Combined management report Consolidated financial statement Further information
+Non-financial statement
+Compliance
+sustainability risk assessments for the supply chains, thereby supporting the respective departments in their
+work. In addition, compliance officers advise the people responsible in the operational units on how to take
+compliance into account in operational business processes.
+In the area of sales support, there is a platform containing compliance-relevant information on around 160
+countries and regions. Moreover, the tender process in the security and defence technology divisions is structured
+to the effect that in the course of the bid/no bid decision a compliance audit using defined criteria is obligatory
+for projects over a certain value threshold. Various IT tools are also used in all divisions to support compliance
+processes.
+Corporate compliance
+Compliance Program | Prevention – A compliance risk prevention guideline was implemented in 2019 with the aim
+of ensuring a standardized procedure for systematic risk prevention and creating the structural and organizational
+preconditions required for this at all levels in the company. Procedures for taking an initial inventory of compliance
+risks, deriving response measures and plan regular repeat measures are defined for different applications.
+To help continuously identify compliance risks and to develop and improve mitigation measures, the Prevention
+team was established, which focuses on structural prevention topics on an ongoing or project basis. In addition
+to the web-based training courses available in the Empower Learn HR system for the companies in Germany,
+Austria and Switzerland (D-A-CH) relating to the categories of Code of Conduct, anti-corruption, anti-trust law and
+data protection, Prevention uses the TRACE learning management system for companies outside the D-A-CH
+region, offering around 20 training modules in various languages. The roll-out of the regulatory compliance project
+launched in 2020, which is intended to expand the “ligation-proof organization,” was driven forward in the fiscal
+year. Here, around 29 function-specific regulatory areas to be observed globally (e.g. occupational safety,
+environmental protection, export, customs and logistics regulations, and anti-money-laundering standards) were
+identified centrally and compared against correlating corporate policies. Next, an IT tool is to be introduced to
+enable the employees concerned in over 30 countries – those who have increased contact with regulatory areas
+subject to liability in their everyday and project business – to deal with the complex regulations more easily and
+reliably.
+The goal of making the processes, projects and tasks enshrined in the compliance management system more
+measurable and transparent was achieved in the year under review by implementing a new reporting tool. More
+than 110 employees entrusted with a compliance function in around 130 units of the company make use of the
+many opportunities to track, assess and manage the status of a large number of compliance-relevant processes
+and projects at various organizational levels of the Rheinmetall Group. These include reporting on the status quo
+of training courses, audits, risk analyses, consulting focal points, processes, compliance levels for guideline roll-
+outs, and the recording of project statuses. The associated evaluation options will enable compliance reporting to
+the Executive Board and Supervisory Board to focus on KPIs in the future.
+In February 2022, the roll-out of the new guideline on identifying and avoiding conflicts of interest in the
+Rheinmetall Group began. This guideline introduces regulations for the recognition, documentation, escalation
+and handling of conflicts of interest on a binding basis.
+Compliance Program | Regulation – Taking account of or on the basis of external conditions such as laws,
+regulations, etc. and internal organizational requirements, the Executive Board of Rheinmetall AG issues
+regulations for the Rheinmetall Group so that all employees concerned act in line with standardized processes.
+Regulation Management, which is based in the central Corporate Compliance department, provides support with
+the preparation and management of conduct- and process-related regulations of Rheinmetall AG for the
+Rheinmetall Group. To ensure a standardized procedure, the Regulation Management Manual 2.0 has been
+available since October 2020. This manual is aimed primarily at publishers and authors as well as members of the
+Executive Board and management bodies, but also includes several interfaces at all organizational levels.
+In the Central Regulations Register on the Group’s intranet, all regulations approved by the Executive Board can
+be called up at any time. These are provided in German and English in line with the corporate languages.
+RHEINMETALL ANNUAL REPORT 2022 133 Letter to shareholders Combined management report Consolidated financial statement Further information
+Non-financial statement
+Compliance
+Compliance Program | Business Partners – As a shared service center, the central Compliance Due Diligence
+center of expertise conducts not only pre-employment checks on applicants for key positions, but also all
+compliance due diligence checks on new and existing business partners (e.g. procurement, cooperation and sales
+partners) on a Group-wide basis. The focus lies here on determining whether the commitment is legally
+permissible, whether all attributable people can be identified (“know your customer – KYC” and “know your
+supplier – KYS”) and whether conflicts of interest are excluded. The general performance and integrity of the
+business partner are also assessed. The local compliance organization will continue concentrating on assessing
+the transaction-specific compliance risk associated with the commitment of a business partner at company level.
+The center of expertise will be integrated in day-to-day operational business through various technical and
+procedural interfaces. There is already a relatively high degree of digitalization in the Compliance Due Diligence
+organization. In addition to a specific management database for selecting, managing and monitoring cooperation
+and sales partners, the whole integrity due diligence process can now be performed via a secure online platform
+as well. As part of two special projects, the data of more than 8,000 business partners was migrated to the
+electronic third-party management system. The first step involved individual risk assessments. In the second step,
+24/7 active, systematic monitoring of adverse media information and daily updated entries on sanctions lists was
+activated.
+In the past fiscal year, apart from the business partners screened by the automated procedure, around 900
+business partners and people who applied for key positions at the Rheinmetall Group were subjected to non-
+automated screening in procedures of varying complexity depending on the risk.
+The Rheinmetall Risk Indicator (RRI) developed in the previous year went live in the year under review. It is intended
+to serve as the basis for various internal risk calculations and replace the previously used TI Corruption Perception
+Index. The RRI is made up of various informative governance, compliance and ESG indices. These are included in
+the arithmetic with different weightings and thus reflect the risk priorities set by the Rheinmetall Group.
+Compliance Operations | Investigation – If employees have information on questionable activities that have been
+observed, specific breaches of regulations or business practices that may be prohibited, they can contact not only
+their line manager but also – and in full confidence – various internal offices as well as an independent, external
+ombudsman (lawyer) and so avert losses for the company.
+Incident management is also supported by the electronic whistleblower platform “Integrity Line,” which has been
+implemented throughout the Group. In addition, employees can contact the compliance organization directly if
+they suspect or know of breaches of regulations or business practices. In addition to employees, external parties
+can also contact the ombudsman by telephone or e-mail, send an e-mail to speakup@rheinmetall.com or contact
+a specialist compliance officer by telephone.
+Protection is guaranteed for all whistleblowers; who need not fear any disadvantages as a result of providing
+information. Employees involved in investigations into possible breaches of compliance will be assumed to be
+innocent until proven otherwise. Any information that is received will be systematically analyzed.
+An incident management guideline on how to deal with suspected cases and on the standardized processing of
+compliance cases aims to ensure that the handling of information is also independent, transparent and fair as
+well as being subject to high standards that are comparable across the Group. It also offers legal certainty when
+carrying out investigations, meaning that appropriate account can be taken of the interests of employees and the
+employer.
+Systematic follow-up checks are performed on the basis of this incident management guideline and appropriate
+measures are taken to properly clarify the facts that have been reported, if necessary with the involvement of
+external specialists. Confidentiality and discretion take top priority here. If necessary, we will involve the relevant
+authorities and cooperate with them to resolve the matter. Proven misconduct is sanctioned and entails
+organizational measures and, for the employees who committed the offense(s), consequences under labor law,
+civil law and criminal law. The 23 Incident Response Committees established to conduct rapid, interdisciplinary
+initial evaluations of reports help to ensure that suspected cases can be identified and clarified without delay.
+134 RHEINMETALL ANNUAL REPORT 2022 Letter to shareholders Combined management report Consolidated financial statement Further information
+Non-financial statement
+Compliance
+
+To improve the internationalization of data protection in the Group, in 2022 contacts were identified in the relevant
+Group companies around the world who will be available in the future as contact and coordination points for the
+implementation of data protection requirements. The first intensive data protection training courses have already
+been held to assist them, and these will be continued in fiscal 2023.
+Training and advice
+To make employees at all levels of the company aware of compliance risks, numerous introduction events, training
+seminars and workshops are held, some of which are tailored to specific functions such as management, buyers
+or sales staff. Legislation and important regulations are explained and further content is provided at these
+sessions. Attention is also drawn to internal compliance requirements, risks and possible sanctions and, based
+RHEINMETALL ANNUAL REPORT 2022 135 Letter to shareholders Combined management report Consolidated financial statement Further information
+Non-financial statement
+Social responsibility
+on case studies, practical advice is given on correct conduct in specific situations during everyday work. These
+classroom training sessions, which also serve as a practical forum for discussions, are accompanied by interactive
+online programs. Each year, as part of compliance awareness training, employees at sites in Germany and abroad
+not only receive training in general compliance topics but also in the prevention of corruption, conflicts of interest,
+money laundering and CEO fraud, export control and anti-trust and competition law. The compliance training
+matrix, which forms part of the procedural instructions for compliance training, provides an overview of the training
+content geared toward the different target groups and management levels. Its content is adjusted in accordance
+with the needs of the participants or supplemented with country-specific or regional peculiarities. In the past fiscal
+year, employees took part in around 6,000 classroom training sessions on various compliance topics. In addition,
+around 6,300 compliance-relevant e-learning modules were completed in the year under review.
+Our employees receive regular instruction and training in matters relating to data protection. Around 2,000 people
+took part in e-learning courses in the year under review. The content of data protection training is adapted for
+individual departments in line with the specific requirements in their spheres of work. For new employees, general
+data protection training is part of the onboarding process. A new e-learning module was also chosen in the past
+fiscal year which is available in numerous languages and will be rolled out in fiscal 2023. In addition, all levels of
+the company are provided with data protection advice on an ad hoc basis.
+Risks
+Information on reducing or avoiding compliance risks is provided in the “Risks and opportunities” section
+Social responsibility
+Management approach
+Social acceptance is an important requirement for companies’ economic success. Many Rheinmetall companies
+can look back on a long history. They have been connected with their sites for many years and are strongly rooted
+in the local community – after all, this is where their employees and business partners live. In some cases, major
+customers are based there. Rheinmetall is a living, breathing part of society and participates actively in it and not
+just in a financial sense. We get involved in the areas of education, sport and culture and also provide direct
+support for local social projects and charitable organizations. By adding value locally, we also contribute to
+regional development. Flourishing production sites do not only mean attractive, highly skilled jobs and training
+places close to home but also orders for local suppliers and service providers. In addition, a large part of the sales
+generated by the companies returns to the respective economies via the employees, public sector and the
+shareholders. Capital expenditure in future growth is financed via the funds remaining in the Rheinmetall Group.
+We also make major contributions to society as an employer and client as well as with our products and the
+transfer of knowledge.
+Corporate citizenship
+Corporate citizenship is part of corporate social responsibility and refers to citizenship in and of companies that
+pursue a medium- and long-term business strategy on the basis of responsible action and, in addition to their
+actual business operations, are also actively involved in local civil society and/or for social/charitable,
+environmental, sporting and cultural causes as “good citizens.” Social engagement is a long-standing tradition at
+Rheinmetall. It always goes beyond the plant boundaries. Since the needs and opportunities in the vicinity of the
+locations where we operate vary greatly, the decision on which local project to support is incumbent on the
+respective management teams of the companies, the division heads or the Executive Board of Rheinmetall AG.
+As an expression of our social commitment and in solidarity with the capital of North Rhine-Westphalia, we support
+a number of players in Düsseldorf sports. The cooperation between Rheinmetall and the sports city of Düsseldorf
+includes sports sponsorship of a handball league team. However, parts of the package also focus on promoting
+Olympic, youth and amateur sports as well as new trend sports.
+Given the 2021 flood disaster in the Ahr valley, we decided to support civil disaster protection. In June 2022, we
+donated two highly mobile HX 4x4 new vehicles to THW-Bundesvereinigung e.V. for use in two local associations
+in North Rhine-Westphalia and Hesse. Thanks to their high robustness, mobility and 1.5-meter fording ability,
+these two trucks are ideally suited for use in difficult terrain or flooded areas.
+136 RHEINMETALL ANNUAL REPORT 2022 Letter to shareholders Combined management report Consolidated financial statement Further information
+Non-financial statement
+Social responsibility
+Product responsibility
+Specialist working groups in the divisions deal, for example, with safety and environmental standards for
+Rheinmetall products. They are responsible for tracking new regulations and developments, defining and
+implementing the required internal processes and conducting relevant training. Products in civilian business are
+subjected to extensive testing in accordance with the regulations prescribed by automotive quality and
+development standards. The Sensors and Actuators division, for example, uses a database-supported process for
+product safety management, which maps out the entire product lifecycle. The Materials and Trade division uses
+special design and simulation tools. To prove product safety, in addition to tests carried out in testing facilities
+outside the engine, engine operation tests are also carried out with customers under various stress scenarios.
+Internal and external audits are carried out to regularly monitor compliance with the parameters of the quality
+management system and the relevant processes. For the divisions operating in the field of security technology,
+the guideline for implementing product safety sets out the basic requirements for ensuring the safety of Defence
+products in line with common standards and methods.
+In the year under review, Rheinmetall Technology Management also dealt with further developments regarding the
+digital product pass at the level of Germany (German Environment Agency: Product Information 4.0) and the
+European Union (Sustainable Product Initiative and Incubation Forum for Circular Economy in European Defence
+– IFCEED). This is particularly intended to advance the circular economy. It compiles information on a product’s
+components, materials and chemical substances, as well as its reparability, replacement parts and proper
+disposal. Environmental data are thus grouped together in a comparable format, making it easier for the players
+in the value an

@@ -1,0 +1,458 @@
+Sartorius Combined Group Management Report Description of the Key Features of the Internal Control System 88
+Description of the Key Features of the
+Internal Control System
+In relation to the Group Accounting Process (Section 289(4) and Section 315(4) of the German Commercial
+Code [HGB])
+Definitions and Elements of the Internal Control
+System at the Sartorius Group
+The internal control system (ICS) of Sartorius AG and the Sartorius Group encompasses all of the principles,
+procedures, and measures adopted to ensure the organizational implementation of management decisions.
+The main priority of the system as it relates to Sartorius AG’s and the Group’s accounting process is to verify
+that accounting is cost-efficient and formally correct and that it complies with the applicable legal provisions.
+The internal control system of Sartorius AG and of the Sartorius Group consists of a combination of process-
+integrated and non-process-integrated monitoring measures. The process-integrated safeguarding
+measures are organizational measures, on the one hand, and control measures, on the other. The Supervisory
+Board, specifically in this case the Audit Committee of Sartorius AG, and the Group Auditing Department are
+involved in the Sartorius Group’s internal control system through their non-process-integrated audit activities.
+The Audit Committee regularly reviews quarterly reports in addition to the annual financial statements of the
+parent corporation and the consolidated annual financial statements.
+Moreover, to ensure systematic, early identification of risks across the entire Group, a “monitoring system for
+early group-wide detection of risks with the potential to jeopardize the company’s continued existence” as
+defined in Section 91(2), of the German Stock Corporation Law (AktG) is in place at the Sartorius Group. The
+efficacy of the early risk detection system, which the Sartorius Group adapts promptly in response to any
+relevant changes in circumstances, is assessed by the independent auditors of Sartorius AG in accordance
+with Section 317(4), of the German Commercial Code (HGB). An integral component of this system is also
+operational risk management, which involves activities such as the transfer of risk to insurance companies
+through coverage for damage and liability risks, and the arrangement of suitable hedges to limit currency risks
+and interest rate risks.
+Organizational Measures
+Accounting processes are strictly organized according to the principle of segregation of functions and comply
+with the "four-eyes" principle – i.e., review by at least two individuals, also referred to as the dual-review or
+multiple-review principle. Duties and responsibilities are clearly assigned to different specialized departments
+and companies. The separation of administrative, executive, settlement, and approval functions reduces the
+possibility of fraud. It also continues to play a significant role in ensuring that any possible errors are discovered
+early and any potential misconduct is prevented.
+The IT applications used in the company’s accounting processes have access restrictions, which allow only
+authorized persons to have controlled access to the accounting system and data. Each access right is assigned
+specifically according to the tasks to be performed and is subject to annual review. Furthermore, the dual-
+review principle is also applied in IT process design and the assignment of access rights.
+Start Sartorius Combined Group Management Report Description of the Key Features of the Internal Control System 89
+In addition, defined written local and global operating procedures exist that are regularly updated and
+communicated throughout the Group. The scope of regulation of the Group accounting guidelines extends
+to the central definition of valuation rules and parameters, among other aspects. Additional data for the
+presentation of external information in the notes to the financial statements and in the Group management
+report is also prepared and aggregated at Group level.
+Continuous coordination of internal accounting during the year for planning and control with external
+accounting contributes significantly to the quality of Group financial reporting. Reporting itself is done
+through a standardized reporting system implemented throughout the Group. This system visualizes all
+consolidation processes. Internal controls, on the one hand, and the Group auditors of Sartorius AG, on the
+other hand, ensure that Group financial reports are accurately generated from the consolidated Group
+companies’ financial statements.
+The employees involved in the accounting process meet qualitative standards and receive regular training.
+The Group Financial Reporting Department assists the local units in resolving complex accounting issues,
+such as measuring fair value, to ensure consistent and accurate reporting in the consolidated financial
+statements. Complex evaluations, such as actuarial calculations and company valuations or purchase price
+allocations, are assigned to specialized service providers who involve the respectively qualified in-house staff.
+Control Measures
+Comprehensive control activities are performed by managers and staff to ensure effective and reliable
+accounting. As a result, this ensures compliance with legal requirements and internal guidelines as well as
+properly conducted business transactions. Examples of such control activities include the analysis of situations
+and developments with reference to specific key indicators. Moreover, every month individual reporting units
+comment on and explain special characteristics or variances using Group-wide standardized analytical tools
+as the basis. Further specific control activities performed to ensure effective and reliable Group accounting
+encompass the analysis and, where applicable, correction of the individual financial statements submitted by
+the Sartorius Group companies. A large number of automated control mechanisms already incorporated into
+the consolidated reporting system enable erroneous information to be identified and corrected at Group level.
+Impairment tests are conducted centrally for assets and/or cash-generating units considered material from
+the Group's perspective in order to ensure that consistent, standardized evaluation criteria are applied.
+The Group Auditing Department draws up a risk-based audit plan annually and reviews in spot checks whether
+basic legal requirements and internal group guidelines are complied with for the entire control and risk
+management system of the Group. This monitoring function covers, in particular, audits of the functional
+efficiency and effectiveness of defined control measures. The results of these audits are reported directly to
+the audited departments and units, making it possible to efficiently remedy any identified deficiencies and to
+further enhance the company’s internal control system (ICS). The Executive Board and the Supervisory Board
+regularly receive reports on audit activities.
+The main rules governing the organization of the internal control system are defined in a manual based on
+business processes. This manual combines all ICS-relevant requirements that Group management considers
+of material importance into one standardized document and will be supplemented by further appropriate rules
+as necessary.
+Start Sartorius Combined Group Management Report Description of the Key Features of the Internal Control System 90
+Qualifying Statements
+The internal control and risk management system enables the complete recording, processing, and evaluation
+of company-related matters on the basis of the organizational, control, and monitoring structures defined in
+the Sartorius Group, as well as their accurate presentation in Group accounting. Yet it must be considered that
+an internal control system, regardless of its design, cannot guarantee absolute certainty with regard to the
+correct and complete recording of facts in the consolidated financial statements.
+The statements made relate solely to the subsidiaries included in the consolidated financial statements of
+Sartorius AG, provided that this parent company has direct or indirect control over such subsidiaries within the
+meaning of the international accounting standards.
+Start Sartorius Combined Group Management Report Explanatory Report of the Executive Board on the Disclosures Pursuant to 91
+Sections 289a and 315a of the German Commercial Code (HGB)
+Explanatory Report of the Executive
+Board on the Disclosures Pursuant to
+Sections 289a and 315a of the German
+Commercial Code (HGB)
+Composition of the Issued
+Capital|Limitations to Voting Rights
+Sartorius AG’s capital stock totals €74,880,000. It comprises 74,880,000 no par value individual bearer
+shares, 37,440,000 of which are ordinary shares and 37,440,000 of which are non-voting preference shares.
+Each share certificate represents a calculated proportion of €1 of the issued capital.
+The rights and obligations associated with these shares are governed by the provisions of the German Stock
+Corporation Law (Aktiengesetz, abbreviated “AktG”). According to the company’s Articles of Association,
+preference shares are entitled to a dividend payment that is one euro cent higher per share than that for
+ordinary shares. However, this entitlement to receive dividends shall be at least two euro cents per preference
+share. Apart from the cases provided for in sections 140 and 141 AktG, preference shares are non-voting.
+Beyond this, preference shares grant all other rights to which every shareholder is entitled.
+The company holds 3,213,991 ordinary shares and 3,250,147 preference shares; these do not entitle the
+company to any membership rights.
+Direct or Indirect Equity Ownership
+Exceeding 10% of Voting Rights
+According to voting rights notifications, the community of heirs of Horst Sartorius holds 18,754,160 ordinary
+shares of Sartorius AG (approx. 50.1% of all ordinary shares issued and approximately 54.8% of all ordinary
+shares outstanding) and thus just over 50% of the voting rights in the company or just over 25.0% of the total
+capital stock of Sartorius AG. The members of this community of heirs currently include the following: Karin
+Sartorius-Herbst, Sartorius-Herbst Beteiligungen I GmbH, Sartorius-Herbst Beteiligungen II GmbH (both of
+the aforementioned companies are controlled by Karin Sartorius-Herbst according to the voting rights
+notification), Christine Franken and LifeScience Holding SCSp (indirectly controlled by Alexander Schemann
+via the chain of subsidiaries, starting with the ultimate controlling company, Armira Partners Verwaltungs
+GmbH, Armira Partners GmbH & Co. KG, Armira HC Holding GmbH, and LSH Management GP S.à r.l.,
+according to the voting rights notification); Karin Sartorius-Herbst has also disclosed that she directly holds a
+further 855,673 ordinary shares in the company outside the community of heirs (approximately 2.3% of all
+issued ordinary shares and approximately 2.5% of all outstanding ordinary shares). The decedent Horst
+Sartorius ordered that his will be administered by an executor. Dr. Lothar Kappich is the appointed executor of
+Horst Sartorius’ estate and exercises the specified voting rights at his own discretion as defined by
+section 34(1)(1)(6) of the German Securities Trading Act (Wertpapierhandelsgesetz, abbreviated “WpHG”).
+Start Sartorius Combined Group Management Report Explanatory Report of the Executive Board on the Disclosures Pursuant to 92
+Sections 289a and 315a of the German Commercial Code (HGB)
+According to a voting rights notification, more than 30% of the issued ordinary shares of Sartorius AG are held
+by Bio-Rad Laboratories GmbH (indirectly controlled by Alice N. Schwartz through the chain of subsidiaries,
+starting with the top controlling company, David Schwartz Non-Exempt Marital Trust, Blue Raven Partners,
+L.P., Bio-Rad Laboratories, Inc., Bio-Rad Luxembourg S.à r.l., and Bio-Rad France Holding SAS, according to
+the voting rights notification). According to the company’s own quarterly report dated October 28, 2022, the
+number of Sartorius AG shares held or ascribed to Bio-Rad Laboratories Inc. is specifically 12,987,900 ordinary
+shares (approximately 34.7% of all ordinary shares issued and approximately 37.9% of all ordinary shares
+outstanding) as well as a further 9,588,908 preference shares (approximately 25.6% of all preference shares
+issued and approximately 28.0% of all preference shares outstanding), thus approximately 30.2% of the entire
+capital stock of Sartorius AG.
+Appointment and Dismissal of Executive Board
+Members|Amendment to the Articles of Association
+Executive Board members of Sartorius AG are nominated and/or appointed as well as removed from office in
+accordance with sections 84 et seq. of the German Stock Corporation Law (AktG) and sections 31 and 33 of
+the German Codetermination Law (Mitbestimmungsgesetz, abbreviated “MitBestG”). Amendments to
+Sartorius AG’s Articles of Association are regulated by sections 133 and 179 of the German Stock Corporation
+Law (AktG).
+Powers of the Executive Board to Issue Shares
+Subject to approval by the Supervisory Board, the Executive Board is authorized to sell treasury shares held by
+the corporation, including selling them through channels other than the stock exchange or by tendering an
+offer to all shareholders in proportion to their participation in the company, provided that these shares are
+transferred to third parties as contribution in kind, particularly in the (indirect) acquisition of companies, in
+return. Under these circumstances, the preemptive rights of the shareholders are excluded.
+Material Agreements with Clauses Regulating the
+Event of a Change of Control
+The majority of the loan agreements contain customary market clauses regulating the possible event of a
+change of control and giving participating lenders the option of demanding complete repayment of the
+outstanding loan.
+These primarily consist of the outstanding note loans (“Schuldscheindarlehen”), a number of bilateral credit
+agreements, and the syndicated credit line. The repayment sum outstanding for these loan agreements stands
+at €2,393million as of December 31, 2022.
+Start Sartorius Combined Group Management Report Corporate Governance Report 93
+Corporate Governance Report
+These contents were not part of the audit of the Group management report and the non-financial Group-
+statement.
+Corporate governance aligned with the interests of stakeholders, lawful and responsible conduct, and
+constructive cooperation between the managerial bodies and within the company in a spirit of mutual trust
+constitute the essential cornerstones of Sartorius’ corporate culture.
+The Executive Board and the Supervisory Board report in the following declaration on the key aspects of
+corporate management and governance pursuant to Section 289f of the German Commercial Code (“HGB”)
+and to Article 3.10 of the German Corporate Governance Code.
+Declaration of Compliance with Corporate Governance
+Declaration of the Executive Board and of the Supervisory Board of Sartorius AG Concerning the
+Recommendations of the Government Commission on the German Corporate Governance Code Pursuant
+to Section 161 of the German Stock Corporation Law (“Aktiengesetz”):
+The Executive Board and the Supervisory Board declare that Sartorius AG complied with the
+recommendations promulgated by the Government Commission on the German Corporate Governance
+Code (GCGC) in the period since issuing last year’s Declaration of Compliance dated December 9, 2021, with
+the following exception, and will continue to comply in the future:
+In divergence from the recommendation pursuant to G.10(1) of the GCGC, the variable compensation paid to
+the members of the Executive Board – except for that of the Executive Board Chairman – consists only to a
+minor extent of share-based compensation components. The Supervisory Board is of the opinion that the
+existing structure of the variable compensation, which corresponds to the compensation system approved by
+the Annual General Meeting, also achieves an incentive structure that is geared towards the sustainable and
+long-term development of the Company.
+For the period prior to June 27, 2022, the above declaration refers to the GCGC as amended on December
+16, 2019, and for subsequent periods to the GCGC as amended on April 28, 2022, as published by the Federal
+Ministry of Justice in the official section of Germany’s Federal Gazette (“Bundesanzeiger”) on June 27, 2022.
+Göttingen, December 8, 2022
+For the Supervisory Board For the Executive Board
+Dr. Lothar Kappich Dr. Joachim Kreuzburg
+Start Sartorius Combined Group Management Report Corporate Governance Report 94
+Further Remarks Concerning Corporate Governance
+Sartorius AG is a joint stock corporation founded under German law and headquartered in Göttingen,
+Germany. With the Annual General Meeting, Supervisory Board; and Executive Board, it has three corporate
+managerial bodies whose tasks and powers are essentially derived from the German Stock Corporation Law
+(“Aktiengesetz”, abbreviated in German as “AktG”) and the company’s Articles of Association.
+As owners of the company, the shareholders exercise their rights at its Annual General Meeting, where they
+decide, in particular, on the appropriation of profits, measures concerning share capital, amendments to the
+Articles of Association, formal approval of the actions taken by the Supervisory Board and the Executive Board,
+and the appointment of statutory auditors, as well as electing shareholder representatives to the Supervisory
+Board. The Annual General Meeting meeting is held at least once a year within the first eight months of the
+respective fiscal year.
+In managing the company, the Supervisory Board and the Executive Board perform their tasks in a dual
+management system, each with separate duties and powers.
+The Supervisory Board appoints members to the Executive Board, determines their compensation and
+monitors and advises the Executive Board in its management of the company. The Supervisory Board is not
+authorized to take any operational management measures for the business. The Supervisory Board’s rules of
+procedure are published on the company’s website.
+The Executive Board is responsible for independently managing the company. In particular, it defines
+corporate strategy, coordinates and agrees on this approach with the Supervisory Board, and implements such
+corporate strategy. In line with established reporting obligations, the Executive Board regularly informs the
+Supervisory Board promptly and comprehensively, and requests the latter's approval for certain key business
+transactions.
+Composition and Operating Mode of the Supervisory
+Board and Its Committees
+The Supervisory Board has an equal number of shareholder representatives and employee representatives: six
+shareholder representatives elected by the Annual General Meeting and six employee representatives
+elected according to the German Codetermination Law (“Mitbestimmungsgesetz”). The members serve a
+regular term of office of five years. Members can be reelected. Details on the members of the Supervisory
+Board and its committees are provided on pages 240 to 243.
+The Supervisory Board Chairman coordinates the work of the Supervisory Board, convenes the meetings, and
+chairs them. Furthermore, he is the first individual for the Executive Board to contact and externally represents
+the matters of the Supervisory Board.
+The Supervisory Board holds at least two meetings every six months. This board has established four
+committees: the Executive Task Committee, the Audit Committee, the Conciliation Committee, and the
+Nomination Committee. The Executive Task Committee, Audit Committee, and Conciliation Committee each
+have four members, consisting of an equal number of shareholder representatives and employee
+representatives. The Executive Task Committee and Audit Committee hold regular meetings; the Conciliation
+Committee and the Nomination Committee meet only as necessary.
+Start Sartorius Combined Group Management Report Corporate Governance Report 102
+codes, and perform their activities in accordance with the company’s internal rules and guidelines. Targeted
+training and awareness-raising prevent any misconduct, as well as economic damage and loss of image.
+Sartorius makes every effort to ensure optimal risk management by using a combination of approaches: a
+preventive compliance approach designed to proactively stop any potential breaches before they occur and
+a repressive compliance approach intended to continuously monitor compliance with the company's rules.
+These processes are closely intermeshed, creating a standardized compliance management system that aims
+to offer the best possible protection against potential violations of rules and regulations. Sartorius has
+developed a Code of Conduct as a preventive component of its compliance management system and has
+committed to an Anti-Corruption Code. An internal system is available for reporting any suspicious
+circumstances involving potential compliance violations.
+The Executive Board is not aware of any circumstances that would speak against the suitability and
+effectiveness of the risk management system and the ICS.
+Further information can be found in the “Description of the Key Features of the Internal Control System”
+section on pages 88 et seq. and on the company’s website at www.sartorius.com.
+Transparency
+Sartorius AG places great importance on disclosing consistent and complete information promptly.
+Information about the economic position of the Group and new developments is consequently released
+regularly, without delay, as it becomes known in order to inform participants in the capital market and
+interested members of the public at large. The annual report, first-half financial report, and quarterly reports
+are published within the time frames specified for this purpose. Current developments and material events are
+publicized as press releases and, where appropriate, ad hoc announcements. This information is usually made
+available in German and English simultaneously and published via suitable media and on the internet. Capital
+market participants remain in close contact with the company’s investor relations team. Investors and analysts
+are provided information on current and future business performance in conference calls held in conjunction
+with the respective quarterly reporting. Sartorius regularly participates in roadshows and investor conferences
+and holds its own capital market events.
+The chief recurring events and publications, such as the Annual General Meeting, the annual report and the
+interim reports, are listed on a financial calendar that may be viewed at any time on the Group website.
+Share Trading Activities of Supervisory and Executive Board Members
+We have been notified of the following transactions involving Sartorius AG shares or related financial
+instruments by members of the Executive Board and Supervisory Board or other persons with management
+responsibilities, as well as by persons closely related to them: The Chairman of the Executive Board, Dr.
+Joachim Kreuzburg, sold a total of 20,000 preference shares on November 14, 2022. Reported transactions
+are published on the Sartorius AG website.
+The Chairman of the Executive Board, Dr. Joachim Kreuzburg, holds 113,785 ordinary shares and 93,785
+preference shares in the company. They were transferred to him as components of his compensation on the
+basis of corresponding agreements in his employment contracts dated December 18, 2015, and November 26,
+2020, each with a minimum holding period of four years from the beginning of the respective contract. For
+further information on this transfer, please see the Remuneration Report on pp. 137 et seq.
+Start Sartorius Combined Group Management Report Corporate Governance Report 103
+As executor of the estate of Horst Sartorius, the Supervisory Board Chairman, Dr. Lothar Kappich, holds
+around 50.1% of the ordinary shares issued by the company. Beyond this, there is no notifiable possession of
+shares or financial instruments by members of the Executive Board or Supervisory Board consisting directly or
+indirectly of more than 1% of the shares issued by the company.
+Accounting and Independent Statutory Audit
+The consolidated financial statements and the Group Management Report, as well as the consolidated interim
+financial statements and reports, are prepared in accordance with the International Financial Reporting
+Standards (IFRS) as they are to be applied within the EU, and according to the commercial law regulations to
+be applied under Section 315e, Subsection 1, of the German Commercial Code, HGB. The annual financial
+statements of Sartorius AG are prepared in accordance with German commercial law, HGB. The consolidated
+financial statements and the annual financial statements are prepared by the Executive Board, audited by the
+independent auditors elected by the Annual General Meeting, and approved by the
+Supervisory Board.
+It has been agreed with the independent auditors that they will notify the Supervisory Board directly of any
+potential disqualification or bias issues and any material findings and incidents identified during the audit. This
+also encompasses the corporate governance reporting duties pursuant to Section 161 of the German Stock
+Corporation Law (Aktiengesetz).
+The Supervisory Board|The Executive Board
+Start Sartorius Combined Group Management Report Non-financial Group Statement 120
+Corporate Governance
+Ambition
+Corporate governance aligned with the interests of stakeholders, lawful and responsible conduct, and
+constructive collaboration between the managerial bodies and within the company in a spirit of mutual trust
+constitute the essential cornerstones of Sartorius’ corporate culture.
+Concept and Due Diligence Processes
+Corporate governance is based on the requirements defined in the German Corporate Governance Code.
+The corporate governance statement and declaration of compliance can be found on page 93 et seq. of this
+annual report.
+Through its global compliance management system, Sartorius aims to ensure that the members of its
+individual boards, executives, and employees comply with all legal regulations and codes and perform their
+activities in accordance with the company’s internal guidelines. The basic principles of the compliance
+management system, which, in essence, is based on Sartorius’ global Code of Conduct, are also explained in
+the corporate governance statement on page 101 et seq.
+The issue of anti-corruption is also a central component of the compliance management system. The related
+requirements employees must comply with are laid out in a dedicated Anti-Corruption Code, and employees
+regularly receive training focused specifically on the contents of the Code.
+Results of the Concept
+In fiscal 2022, 11,883 employees (previous year: 9,143 employees) completed the Code of Conduct training
+and 12,154 employees (previous year: 9,341 employees) completed the Anti-Corruption Code training. This
+represents 75.6% and 77.4% of the total employees, respectively.
+Indicators corporate governance
+FY 2022 FY 20211
+Employees who completed training on Code of Conduct2 11.883 9,143
+Employee coverage in %2 75.6 66.8
+Employees who completed training on anti-corruption code2 12,154 9,341
+Employee coverage in %2 77.4 68.2
+1 The data for fiscal 2021 was taken from the 2021 Non-financial Statement. This does not apply to the employee coverage rate. This
+was calculated and added retroactively.
+2 Excluding the companies newly acquired in the reporting year.
+Start Sartorius Combined Group Management Report Non-financial Group Statement 121
+Sustainability in the Supply Chain
+Ambition
+With roughly 8,000 suppliers from more than 40 countries and a purchasing volume equivalent to more than
+40% of turnover, Sartorius’ supply chain plays a significant role in the company’s sustainability transformation.
+For this reason, the Group expects suppliers and their suppliers to comply with sustainability standards and to
+promote sustainability.
+Concept and Due Diligence Processes
+Our fundamental sustainability requirements were laid out in our Code of Conduct for Business Partners,
+which was updated in September 2022 with respect to some human rights issues in the context of the
+implementation of Germany’s Supply Chain Due Diligence Act (LkSG) and published in a new version.
+This Code of Conduct has been binding for new suppliers since 2019. Both new and existing suppliers are
+required to sign the updated Code of Conduct.
+In fiscal 2022, Sartorius introduced a standardized, multi-stage process to assess supplier sustainability. This is
+based on internal and external information and requires corrective measures to be taken in the event of non-
+compliance. In order to discuss the results, the Bioprocess Solutions Division has already set up a risk
+committee in the current fiscal year, and the results are reported to this committee on a regular basis.
+The new supplier evaluation process involves reviewing compliance with sustainability requirements using
+self-assessments based on standardized questionnaires via recognized sustainability platforms. For selected
+suppliers, Sartorius engages independent on-site sustainability audits by external third parties. Furthermore,
+sustainability aspects are also part of the on-site quality audits conducted by Sartorius itself.
+The sourcing departments are responsible for ensuring that suppliers are bound by the Code of Conduct and
+for verifying compliance with the requirements. The quality departments are responsible for carrying out the
+quality audits.
+In addition, Sartorius maintains a continuous dialogue with suppliers to promote their commitment to
+sustainability issues.
+Results of the Concept
+In November 2022, the Bioprocess Solutions Division held a workshop with more than 50 selected,
+international suppliers at its main site in Göttingen to discuss, among other issues, the topics of climate change
+mitigation and the implementation of Germany’s Supply Chain Due Diligence Act (LkSG) and thereby make
+further progress in these areas.
+As of December 31, 2022, 441 suppliers had signed the updated 2022 Code of Conduct for Business Partners
+(previous year: n.a.). This means that suppliers that have signed the 2022 Code of Conduct account for 12% of
+Sartorius’ total purchasing volume (previous year: n.a.). In addition, the company has received a total of 654
+valid sustainability-related supplier self-assessments (previous year: 110). This means that suppliers that have
+submitted a self-assessment account for 49% of Sartorius’ total purchasing volume (previous year: n.a.).
+Furthermore, the company carried out 125 of its own quality-related supplier audits that included sustainability
+aspects (previous year: 107). External sustainability audits have not yet been carried out at any suppliers’ sites,
+as the process was newly introduced in fiscal 2022.
+The Bioprocess Solutions Division already completed the sustainability assessment for strategic suppliers in
+fiscal 2022. The company has since analyzed the results and, on this basis, defined corrective measures that
+are currently being implemented. In addition, Sartorius has begun the assessment of its nonstrategic suppliers.
+Start Sartorius Combined Group Management Report Non-financial Group Statement 122
+Indicators Supply Chain
+FY 2022 FY 20211
+Suppliers having signed the Code of Conduct for Business Partners 2022 441 n.a.
+Coverage purchasing volume in % 12 n.a.
+Sustainability-related supplier self-assessments as of 31.12.2 654 110
+Coverage purchasing volume in %2 49 n.a.
+External sustainability-related supplier audits 0 n.a.
+Coverage purchasing volume in % 0 n.a.
+Own quality-related supplier audits, which include sustainability aspects 125 107
+1 The data for fiscal 2021 was taken from the 2021 Non-financial Statement.
+2 Includes the available sustainability-related self-assessments via recognized sustainability platforms which, according to the
+platform, are valid as of the reporting date or whose validity date is not older than two years.
+Disclosures Pursuant to the EU Taxonomy Regulation
+The EU taxonomy is a classification system for determining environmentally sustainable economic activities in
+the real economy, combined with specific disclosure requirements for companies.
+These relate to taxonomy-eligible and taxonomy-aligned turnover, capital expenditures, and operating
+expenditures with respect to the EU’s six environmental objectives: climate change mitigation, climate change
+adaptation, the sustainable use and protection of water and marine resources, the transition to a circular
+economy, pollution prevention and control, and the protection and restoration of biodiversity and ecosystems.
+In accordance with the simplified procedure granted by the EU Commission, the disclosure requirement for
+fiscal 2021 was initially limited to taxonomy-eligible turnover, capital expenditures, and operating expenditures
+for the environmental objectives of climate change mitigation and climate change adaptation. In this context,
+the economic activities described in the Delegated Acts are considered to be taxonomy-eligible, as they make
+a substantial contribution to the achievement of the EU’s environmental objectives. Companies are required
+to disclose taxonomy-aligned turnover, capital expenditures, and operating expenditures for the first time for
+fiscal year 2022. Economic activities that meet the technical screening criteria and the minimum safeguards
+criteria are considered to be taxonomy-aligned.
+The following disclosures constitute the mandatory disclosures required of the Sartorius Group in accordance
+Article 8 of the EU Taxonomy Regulation 2020/852 for fiscal 2022.
+Special Notes on Reporting
+Legal Framework
+Preparation of the required disclosures was fundamentally associated with uncertainties for Sartorius, in
+particular because a number of unanswered questions currently still exist regarding the definition of
+taxonomy-eligible economic activities, the interpretation of the technical screening criteria and the minimum
+safeguard criteria, which have not yet been conclusively answered by the EU Commission. The company has
+taken information into account that was available through January 31, 2023.
+Start Sartorius Combined Group Management Report Non-financial Group Statement 123
+Materiality approach
+Capital expenditures and operating expenditures were disclosed on the basis of materiality thresholds.
+Economic activities that accounted for less than 1% of total taxonomy-eligible capital expenditures and
+operating expenditures were qualitatively assessed in terms of their significance for Sartorius. Amounts
+classified as immaterial have been reported as not taxonomy-eligible and therefore were not subject to further
+assessment for taxonomy alignment. This applies to capital expenditures and operating expenditures related
+to activities 4.1 “Electricity generation using solar photovoltaic technology”, 7.4 “Installation, maintenance and
+repair of charging stations for electric vehicles in buildings (and parking spaces attached to buildings)”, and 8.1
+“Data processing, hosting and related activities”.
+Since Sartorius did not recognize any capital expenditures and only immaterial operating expenditures related
+to fossil gas in fiscal 2022 for the economic activities described in EU Commission Delegated Regulation
+2022/1214 and in Annex XII, the reporting pursuant to Annex XII of EU Commission Delegated Regulation
+2021/2178 does not apply.
+Procedure for Determining Taxonomy Alignment (“Compliance Assessment”)
+Sartorius used a three-step process to determine which turnover, capital expenditures, and operating
+expenditures were taxonomy-aligned:
+ Determination of Basically Taxonomy-Eligible Economic Activities: The process of
+determining the Group’s economic activities that are basically taxonomy-eligible was carried out
+separately for the breakdown of turnover as well as capital expenditures and operating
+expenditures. The results are each described in the following sections on taxonomy-aligned
+turnover, capital expenditures, and operating expenditures, respectively.
+ Assessment of Compliance with the Technical Screening Criteria: Compliance with the
+technical screening criteria, which include assessing whether the contribution to an EU
+environmental objective is substantial (“Substantial contribution” – SC) and whether the other EU
+environmental objectives are not significantly harmed (“Do no significant harm” – DNSH), was
+determined by means of a survey of the relevant Group companies. The results are described in
+each of the following sections. With respect to the EU environmental objective “adaptation to
+climate change”, the company’s economic activities were generally not found to make a
+significant contribution.
+ Assessment of Compliance with the Minimum Safeguards: Sartorius assessed and determined
+compliance with the minimum safeguards criteria based on the recommendations contained in
+the Final Report on Minimum Safeguards published by the European Platform on Sustainable
+Finance in October 2022 for the following four topics as follows:
+Taxes: In this regard, the Group particularly refers to the existing Group-wide risk management
+system, which is described in the “Risk and Opportunities” section of this Annual Report starting
+on page 70 et seq. Responsibility for tax compliance generally lies with the local management of
+the individual Group companies. These are supported by both local tax consulting firms and the
+central Group Tax Department. A system of various measures, such as monitoring local
+regulations (filing deadlines, tax rates, etc.) and tax risks, ensures that information is collected
+within the Group and reported to the Executive Board accordingly.
+Corruption and Bribery: In this regard, the Group to refers to the existing Group-wide
+compliance management system, which is described in the “Corporate Governance Report”
+section of this Annual Report starting on page 102 et seq.
+Start Sartorius Combined Group Management Report Non-financial Group Statement 124
+Fair Competition: In this regard, the Group would like to refer to the existing Group-wide
+compliance management system, which is described in the “Corporate Governance Report”
+section of this Annual Report starting on page 101 et seq.
+Human Rights: With respect to the required human rights due diligence system in accordance
+with the UN Guiding Principles on Business and Human Rights and the OECD Guidelines for
+Multinational Enterprises, the Group refers to the existing measures for its own sites and direct
+and indirect suppliers described in this Non-financial Statement, which can be found in the
+“Social Responsibility” and “Sustainability in the Supply Chain” sections, respectively. Sartorius’
+human rights due diligence system does not extend to customer relationships, as the Group has
+not identified any relevant areas of risk stemming from Sartorius’ products and services. Since
+the taxonomy-aligned capital expenditures and operating expenditures reported below for
+fiscal 2022 relate to Germany, Sartorius has assessed and determined the effectiveness of the
+system exclusively within this framework.
+Avoiding Double Counting
+Sartorius currently allocates the amounts listed below exclusively to the environmental objective of climate
+change mitigation. Furthermore, the individual economic activities reported for capital expenditures and
+operating expenditures are not interrelated. This approach eliminates double counting.
+Start

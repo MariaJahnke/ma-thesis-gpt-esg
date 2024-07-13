@@ -1,0 +1,837 @@
+report_txt_path;company;user_prompt;assistant_answer
+finetuning-input/adidas.txt;adidas;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection.Use the uploaded instructions only.
+- Start with the name of the company whose ESG report is being analysed.
+ -Prevention and Identification Measures: 
+Describe steps taken to prevent, identify, and address corruption and bribery incidents and risks. Include details on policy communication to relevant stakeholders especially to suppliers. 
+- Conclude with a statement on whether the ESG report provided meets all G1-3 regulatory requirements, highlighting any areas lacking in detail or implementation.";"Adidas' anti-corruption and anti-money laundering policies are part of the Compliance Management System (CMS) and are outlined in the code of conduct. Prevention Measures:
+Compliance Management Software (CMS):
+ - The CMS, which is founded on the OECD Principles of Corporate Governance, promotes growth while mitigating financial risks from non-compliant behavior. It extends across all corporate functions and the value chain.
+ - The system incorporates worldwide norms for employee behaviour, which are enforced by the Fair Play Code of Conduct, which is available online and updated on a regular basis. Management shares compliance-related communications on a frequent basis. The Fair Play Code of Conduct is available online and by poster in the offices.
+ - Contracts with business partners include provisions that allow for the suspension or termination of agreements. This decreases the danger of third-party misbehavior.
+Identification Measures - The central Compliance team, in collaboration with Regional and Local Compliance Managers, undertakes systematic assessments of important compliance risks every year. Compliance reviews are also undertaken on a regular basis within designated companies.
+ - Increased collaboration among the Compliance team, Internal Audit, Group Policies and Internal Controls, and Risk Management departments ensures complete monitoring and control.
+
+Adidas' strategy to preventing, detecting, and addressing corruption and bribery situations is thorough and well-structured, encompassing frequent training, clear policy communication, and detection tools. These steps result in the completion of the first phase of the G1-3 regulation."
+finetuning-input/adidas.txt;adidas;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+Focus on: 
+- Investigation Independence: 
+Assess whether the investigation committee is independent from the implicated chain of command and the procedure for reporting findings to higher authorities.
+Based on the findings, determine whether or not the regulation has been met.";"Analysis of Adidas's Compliance with the Second Part of the G1-3 Regulations
+The framework and reporting systems are intended to ensure objectivity and integrity throughout the investigation. This is due to the following reasons:
+
+ -Chief Compliance Officer (CCO): The CCO is in charge of all compliance-related investigations, with help from Regional Compliance Managers and Local Compliance Officers. This framework ensures that inquiries are carried out independently of the implicated chain of command. A compliance violation is defined in the code of conduct.
+ - Independence from Business Units: The investigative Team is independent of the business units concerned in the reported compliance concerns. Procedure for reporting findings:
+ - Regular Reporting to Higher Authorities: The CCO provides regular updates to the Executive Board on the status of the compliance program and key compliance cases. It is unclear what regular means. - Audit Committee Involvement: The CCO is also responsible for reporting to the Supervisory Board's Audit Committee. The CCO attended audit meeting meetings to talk about key compliance cases and monitor them.
+All potentials of noncompliance are monitored, and reported globally, but not all of them are categorised as key cases. The rating of the cases is done internally by the local compliance team, separate from the management chain.
+
+Adidas' compliance report fulfils the second part of the G1-3 requirements."
+finetuning-input/adidas.txt;adidas;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+- Begin with the name of the company whose ESG report is analysed. 
+Focus on: 
+- Training Programs: 
+Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency to provide a comprehensive analysis as short and precise as possible of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+Begin with the name of the company whose ESG report is analysed. Focus on:
+Training Programs: Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency for administrative, management, and supervisory bodies.
+Conclude based on all findings about compliance with the # REGULATIONS and whether the regulation is met or not in the # ESG-REPORTING.
+";"The following compliance analysis is about Adidas and the G1-3 regulations. Training Programs on Anti-Corruption which is part of the code of conduct:
+Adidas has a comprehensive training program addressing anti-corruption and the Code of Conduct, which includes:
+- Regular Training: Mandatory training for all employees during onboarding and at regular intervals. The term regular is not defined. 
+- In-Person Training: Specific training sessions for senior management and newly promoted or hired executives.
+- Ensuring all business partners and employees are aware of the guidelines  the Fair Play Code of Conduct.
+- The content  includes guidelines on ethical behaviour, laws, procedures for detecting and reporting
+It does not explicitly state the coverage rate for employee completion of the corruption or code of conduct training. 
+However, explicit details regarding the independence of the investment committee and the specific coverage rate for training completion is missing therefore not all regulations are met. In summary Adidas is making a lot of effort to align with the regulation, but to fulfill the CSRD further detailes about trainings need to be provided,"
+finetuning-input/Airbus.txt;airbus;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection.Use the uploaded instructions only.
+- Start with the name of the company whose ESG report is being analysed.
+ -Prevention and Identification Measures: 
+Describe steps taken to prevent, identify, and address corruption and bribery incidents and risks. Include details on policy communication to relevant stakeholders especially to suppliers. 
+- Conclude with a statement on whether the ESG report provided meets all G1-3 regulatory requirements, highlighting any areas lacking in detail or implementation.";"Airbus provided the ESG report that has been uploaded. Airbus has a program to prevent corruption and bribery, which includes e-learning sessions and the Speak-Up Channel (OpenLine). Employees can report unethical activity via the OpenLine channel, which is always available. The service line is a tool to prevent corruption cases. Furthermore, the code of conduct is available in the intranet for all employees.
+- Airbus communicates anti-corruption and bribery policies to stakeholders, particularly suppliers, by inserting anti-corruption clauses into standard procurement contract templates and the Airbus Supplier Code of Conduct, ensuring supply chain compliance.
+Airbus thus meets the first portion of the G1-3 standards.
+"
+finetuning-input/Airbus.txt;airbus;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+Focus on: 
+- Investigation Independence: 
+Assess whether the investigation committee is independent from the implicated chain of command and the procedure for reporting findings to higher authorities.
+Based on the findings, determine whether or not the regulation has been met.";"The following part is analysing the ESG report from Airbus.Reported corruption cases are investigated by the dedicated Ethics & Compliance team according to the ESG report. The team follows an investigation method that involves assessing collected information, preparing a report that proposes remedial actions. As there is an external investigation team in place, the independence of the investigation is given. 
+Communication to Higher Authorities:
+Relevant stakeholders, including higher authorities if applicable, are briefed regularly on the progress and outcomes of internal investigations. This includes briefings to the Company's local management teams.
+As the communication channels and the independence of the investigating team is given the G1-3 regulations are fulfilled."
+finetuning-input/Airbus.txt;airbus;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+- Begin with the name of the company whose ESG report is analysed. 
+Focus on: 
+- Training Programs: 
+Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency to provide a comprehensive analysis as short and precise as possible of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+Begin with the name of the company whose ESG report is analysed. Focus on:
+Training Programs: Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency for administrative, management, and supervisory bodies.
+Conclude based on all findings about compliance with the # REGULATIONS and whether the regulation is met or not in the # ESG-REPORTING.
+";"Airbus provides anti-bribery and corruption training to high-risk third parties, such as sales intermediates, lobbyists, and special consultants.
+- Airbus provides a thorough Ethics & Compliance training program that includes seminars on anti-bribery and corruption regulations. The program also includes high-risk third parties with 100% completion.
+- Airbus provides E-learnings and classroom trainings.
+-  High-risk parties received training that includes specific needs, but there is no specified contend mentioned. 
+- Employees conducted ethics and compliance training with a coverage rate of 96% .
+The systematic trainings approach almost fulfils the regulation only lacking some details, like the exact content of the training."
+finetuning-input/Allianz.txt;Allianz;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection.Use the uploaded instructions only.
+- Start with the name of the company whose ESG report is being analysed.
+ -Prevention and Identification Measures: 
+Describe steps taken to prevent, identify, and address corruption and bribery incidents and risks. Include details on policy communication to relevant stakeholders especially to suppliers. 
+- Conclude with a statement on whether the ESG report provided meets all G1-3 regulatory requirements, highlighting any areas lacking in detail or implementation.";"The uploaded report is from Allianz. 
+- Allianz has a zero tolerance policy for fraud and corruption it includes a an online solution with measurements how to discover breaches and how follow-up procedures are being processed.
+
+- The corporation includes measurements to evaluate the status and efficacy of its compliance programs.
+- All employees receive information about policies, including the Allianz Group Code of Conduct (CoC). During their welcoming presentation, new employees are advised of their need to adhere to the Code of Conduct.
+- Group Compliance conducts an annual awareness program to inform staff of the reporting channels for compliance issues.
+- Suppliers have to follow the ESG requirements established in the Allianz Vendor Code of Conduct. Allianz has an Integrity Committee.
+The Group Compliance, oversees all operations and matters including misconduct, rule violations, and Code of Conduct violations. This includes following up on whistleblower complaints. Whistleblowing situations can be reported anonymously using the fair play hotline. With the safeguards made, Allianz complies the G1-3 regulations."
+finetuning-input/Allianz.txt;Allianz;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+Focus on: 
+- Investigation Independence: 
+Assess whether the investigation committee is independent from the implicated chain of command and the procedure for reporting findings to higher authorities.
+Based on the findings, determine whether or not the regulation has been met.";"The uploaded report is from the Allianz Group.
+The information acquired serves as the principal foundation for reports to the Group Board and the Audit Committee of the AllianzSE Supervisory Board. An Integrity Committee, led by Group Compliance, investigates all concerns involving misbehaviour, violations of internal/external rules and regulations, and Code of Conduct infractions, including reports of steps taken to follow up on whistleblower cases.
+- Reported incidents are assessed, documented, and managed according to internal guidelines; confidentiality  and issues are reported to the Group Board and the Allianz SE Supervisory Board’s Audit Committee. The exact procedure is not stated.
+- The Code of Conduct includes the fundamental ideas and values that drive all employees' daily decisions and actions and was revised in 2020 and was approved by the Board of Management. The CoC has s been implemented with trainings, which include  respect, integrity, transparency, and accountability. The new implementation was promoted through the entire group.
+
+The report does not explicitly state whether the investment committee is independent from the management chain. Therefore, the regulation is not met."
+finetuning-input/Allianz.txt;Allianz;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+- Begin with the name of the company whose ESG report is analysed. 
+Focus on: 
+- Training Programs: 
+Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency to provide a comprehensive analysis as short and precise as possible of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+Begin with the name of the company whose ESG report is analysed. Focus on:
+Training Programs: Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency for administrative, management, and supervisory bodies.
+Conclude based on all findings about compliance with the # REGULATIONS and whether the regulation is met or not in the # ESG-REPORTING.
+";"Allianz:
+- Staff receives anti-corruption training once every three years. 
+- The completion rate for anti-corruption training in 2022 was 84% for employees and 92% for board members.
+- Mutual respect, integrity, transparency, and responsibility are among the principles emphasised in training programs.
+
+- The training programs cover anti-corruption, anti-money laundering, and compliance with economic sanctions, among other topics including definition and examples.
+- There is no explicit mention of different training for high-risk positions. The training is mandatory for all employees and board members every three years.Indicating no specific position related content.
+
+
+Based on the information provided, Allianz meets the G1-3 regulations with its policies and procedures for preventing, detecting, and addressing corruption and bribery. However, as the investigation process was not mentioned detailed enough the overall G1-3 regulation was not met."
+finetuning-input/BASF.txt;Basf;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection.Use the uploaded instructions only.
+- Start with the name of the company whose ESG report is being analysed.
+ -Prevention and Identification Measures: 
+Describe steps taken to prevent, identify, and address corruption and bribery incidents and risks. Include details on policy communication to relevant stakeholders especially to suppliers. 
+- Conclude with a statement on whether the ESG report provided meets all G1-3 regulatory requirements, highlighting any areas lacking in detail or implementation.";"BASF's Compliance Program is included in the uploaded report and checked for compliance with the CSRD regulations.
+- BASF Code of Conduct  is based on corporate values and international standards. Anti-corruption measures are incorporated.
+- The organization conducts frequent compliance audits internal and external to identify and document these risks.
+The Corporate Audit department and third-party auditors handle systematic risk assessments and compliance audits.
+- BASF shares its anti-corruption efforts internally via an online Code of Conduct. This online platform makes sure that workers all around the world may access and grasp knowledge by providing case studies, often asked questions, videos, and links to professionals. 
+BASF guaranteed first section of the G1-3 compliance using these techniques."
+finetuning-input/BASF.txt;Basf;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+Focus on: 
+- Investigation Independence: 
+Assess whether the investigation committee is independent from the implicated chain of command and the procedure for reporting findings to higher authorities.
+Based on the findings, determine whether or not the regulation has been met.";"The following part analysis the ESG report from BASF in compliance with the G1-3 regulations included in the CSRD.
+- BASF conducts investigation with its pre-defined internal processes when a case is reported. 
+-Each concern is documented in line with specific criteria, investigated according to standard internal procedures. 
+- Investigations include contacting supervisors, the Legal department, and compliance officers, therefore always three parties are included.
+- Reports can be made through an anonymous compliance hotline ( fair-play), managed externally.
+BASF's Chief Compliance Officer  manages the global compliance organisation and the Compliance Management System. 
+- The CCO reports directly to the Chairman of the Board of Executive Directors, therefore the management chain involved in the matters is not included in the investigation.
+Significant incidents regarding compliance, including corruption cases, are reported to the Supervisory Board’s Audit Committee. This committee receives regular updates on the status of the Compliance Program and major developments, ensuring that serious matters are swiftly communicated to higher authorities. As the CCO is independent and the regulations for the investigation are fixed. The G1-3 regulations are met by BASF with the above mentioned measures."
+finetuning-input/BASF.txt;Basf;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+- Begin with the name of the company whose ESG report is analysed. 
+Focus on: 
+- Training Programs: 
+Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency to provide a comprehensive analysis as short and precise as possible of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+Begin with the name of the company whose ESG report is analysed. Focus on:
+Training Programs: Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency for administrative, management, and supervisory bodies.
+Conclude based on all findings about compliance with the # REGULATIONS and whether the regulation is met or not in the # ESG-REPORTING.
+";"BASF has a comprehensive training and workshop program to educate employees at all levels about compliance and anti-corruption. 
+- These include basic training, refresher courses, and special tutorials on various regulations such as antitrust and trade control. In 2022, more than 30,000 participants received over 50,000 hours of compliance training.
+- Training content is tailored to the specific target groups and business areas, for relevance and effectiveness. The frequency of training varies from mandatory trainings, scheduled refreshers, and special courses, depending on the role and risk exposure of the employees.
+- BASF differentiates training based on the specific risks of individual target groups and business areas. Newly announced senior executives, for instance, receive specialised training. Namend leading with integrity. The exact content is not mentioned
+- In 2022, BASF reported that over 30,000 participants worldwide completed more than 50,000 hours of compliance training. This illustrates a broad coverage rate within the organisation regarding adherence to their compliance training programs.
+The measures mentioned in the BASF ESG report align partly with the G1-3 regulations however the scope and the coverage rate are not specified."
+finetuning-input/Bayer.txt;Bayer;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection.Use the uploaded instructions only.
+- Start with the name of the company whose ESG report is being analysed.
+ -Prevention and Identification Measures: 
+Describe steps taken to prevent, identify, and address corruption and bribery incidents and risks. Include details on policy communication to relevant stakeholders especially to suppliers. 
+- Conclude with a statement on whether the ESG report provided meets all G1-3 regulatory requirements, highlighting any areas lacking in detail or implementation.";"The following analysis is about the ESG report from Bayer.
+ Bayer has implemented several measures to prevent corruption and bribery:
+- Anti-corruption is part of the compliance framework. These include different kind of directives and procedures.
+- Bayer provides anti-corruption training worldwide, including specialised training for employees with customer contact and business responsibilities.
+- Potential compliance risks (such as corruption) are identified in collaboration with operational units to ensure risk detection and assessment is systematic and preventive. Potential hazards are then added into a worldwide database, where Bayer can design appropriate measures for certain processes, company activities, or countries, for example. In addition, business partners are assessed using risk factors. 
+-  The Corporate Compliance Policy forms the basis of the
+compliance communication. 
+Due to the measures taken Bayer fulfils the G1-3 requirements in the parts of identification and prevention."
+finetuning-input/Bayer.txt;Bayer;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+Focus on: 
+- Investigation Independence: 
+Assess whether the investigation committee is independent from the implicated chain of command and the procedure for reporting findings to higher authorities.
+Based on the findings, determine whether or not the regulation has been met.";"In the following part the report from Bayer is analysed. Starting with the Independence of the investigation committee:
+- Suspected compliance infractions can be reported anonymously, if permitted by national legislation, to a global compliance hotline run by an independent service provider. Anyone can report suspected infractions online or via phone in their preferred language, which will be answered by impartial specialists. 
+
+- The hotline is  open to the general public. In addition, an internal inbox, the Speak-Up Inbox, was established in 2020 to receive reports of potential compliance infractions. 
+
+- Suspected infractions may also be reported to the appropriate local Compliance services, Internal Audit, or Human Resources, or immediately to a supervisor. Since 2021, it has also been able to report suspected compliance problems by submitting an incident request through a newly created platform.
+
+- Moreover, alleged compliance infractions are documented and processed as part of the Compliance function's monitoring efforts. The Bayer Group's primary compliance organisation oversees its global compliance management system. The Group Compliance Officer reports directly to the Chief Financial Officer (CFO) and the Audit Committee of the Supervisory Board. 
+
+-The CFO leads the compliance organisation, while the Audit Committee of the Supervisory Board monitors and improves compliance throughout the Group. Compliance managers develop standards based on business, industry, and country. 
+
+The external reporting through the hotline is external, whereas the investigation is internal but separated from the investigated department and therefore fulfills the requirement."
+finetuning-input/Bayer.txt;Bayer;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+- Begin with the name of the company whose ESG report is analysed. 
+Focus on: 
+- Training Programs: 
+Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency to provide a comprehensive analysis as short and precise as possible of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+Begin with the name of the company whose ESG report is analysed. Focus on:
+Training Programs: Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency for administrative, management, and supervisory bodies.
+Conclude based on all findings about compliance with the # REGULATIONS and whether the regulation is met or not in the # ESG-REPORTING.
+";"Bayer's ESG report mentions the following arguments regarding essential training: 
+- Each year, the company develops a new mandatory training program for all Bayer employees. In 2022, about 96.5 percent (41,633) of Bayer's global management people had completed at least one compliance training program. The training scope is not mentioned. Overall, around 85.1\% of employees took part in the global web- based training program on conflicts of interest. 
+- Employees with specific risks, such as those with customer contact, receive more intensive training. 
+In summary, almost all of the elements required to comply with the G1-3 standard have been addressed, with the exception of a specific mention of the topic during the yearly compliance training."
+finetuning-input/Beiersdorf.txt;Beiersdorf;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection.Use the uploaded instructions only.
+- Start with the name of the company whose ESG report is being analysed.
+ -Prevention and Identification Measures: 
+Describe steps taken to prevent, identify, and address corruption and bribery incidents and risks. Include details on policy communication to relevant stakeholders especially to suppliers. 
+- Conclude with a statement on whether the ESG report provided meets all G1-3 regulatory requirements, highlighting any areas lacking in detail or implementation.";"The report from Beiersdorf was analysed for compliance with G1-3 regulation. 
+- Baiersdorf implements a variety of preventive measures, including antitrust and anti-corruption principles. - They have a code of conduct that establishes clear guidelines for behaviour and relationships with competitors and customers. 
+-Beiersdorf, uses systematic risk analysis to assess and identify compliance risk. 
+- Any breaches discovered are analyzed for specific threats, and countermeasures are developed.
+- The organisation uses external cooperation tools such as Sedex, EcoVadis, and AIM-PROGRESS to audit and improve supply chain transparency and to identify risks.
+   - Anti-corruption policies and procedures for suppliers and other stakeholders are distributed via newsletters, websites, social media, and in-person contacts. 
+- Suppliers must sign the Code of Conduct for Suppliers (CoCS).
+According to the procedures done, G1-3 regulations are met for this section."
+finetuning-input/Beiersdorf.txt;Beiersdorf;"Provide a short,precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+Focus on: 
+- Investigation Independence: 
+Assess whether the investigation committee is independent from the implicated chain of command and the procedure for reporting findings to higher authorities.
+Based on the findings, determine whether or not the regulation has been met.";"The following compliance analysis is about the report from Baiersdorf.
+- Reports of corruption are investigated using the ""Speak up. We care."" whistleblower website, which guarantees anonymity and confidentiality. 
+- Independent certified auditors conduct investigations utilizing defined standards, including the SMETA 4-pillar audit protocol.
+   - There is no precise information about the investment committee's independence from the management chain. However, compliance initiatives are overseen by separate compliance teams in the Consumer and tesa Business Segments.
+   - The results of compliance investigations are periodically submitted to the Executive Board and Supervisory Board, ensuring that all compliance-related issues are investigated.
+This section of the report lacks certain specifics about how the investigation is processed. The result is that the Beiersdorf report is non-compliant with this part of the G1-3 regulation."
+finetuning-input/Beiersdorf.txt;Beiersdorf;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+- Begin with the name of the company whose ESG report is analysed. 
+Focus on: 
+- Training Programs: 
+Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency to provide a comprehensive analysis as short and precise as possible of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+Begin with the name of the company whose ESG report is analysed. Focus on:
+Training Programs: Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency for administrative, management, and supervisory bodies.
+Conclude based on all findings about compliance with the # REGULATIONS and whether the regulation is met or not in the # ESG-REPORTING.
+";"The following section discusses the Beiersdorf ESG report's compliance with the CSRD rule.
+- Beiersdorf offers thorough, group-specific trainings in corruption prevention, antitrust, and data protection. 
+-Training is provided both in person and via e-learning platforms. The company obtained 97% coverage in the Consumer Business Segment and 99% in the Tesa Segment.
+   - The training covers subjects such as antitrust compliance, dealing with gifts, product samples, representative invites, and conflict of interest management. Training is required for all relevant staff, and the organization strives for ongoing improvement.
+    - Training frequency varies according to predefined target and risk categories, which include employees and supervisors who may encounter unique compliance difficulties. This ensures  higher-risk positions get more intensive training.
+    - Overall training participation rates for relevant targeted and risk-defined groups are 97% for the Consumer Business Segment and 99% for Tesa.
+This part meets the CSRD regulation, however some details were missing in the independent investigation process, therefore the overall regulation is not met."
+finetuning-input/BMW.txt;BMW;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection.Use the uploaded instructions only.
+- Start with the name of the company whose ESG report is being analysed.
+ -Prevention and Identification Measures: 
+Describe steps taken to prevent, identify, and address corruption and bribery incidents and risks. Include details on policy communication to relevant stakeholders especially to suppliers. 
+- Conclude with a statement on whether the ESG report provided meets all G1-3 regulatory requirements, highlighting any areas lacking in detail or implementation.";"In the following text the BMW report is being analysed for compliance with CSRD regulations.
+- Before engaging into ties with partners or suppliers, BMW conducts extensive due diligence to verify compliance with anti-corruption regulations.
+- This includes investigating the integrity and background of possible business partners.
+- Regular risk assessments are carried out to identify specific points of vulnerability in the company's operations. These assessments aid to personalizing prevention strategies especially for high-risk locations. Regularity is not clearly defined.
+- Employees and stakeholders can report suspected cases of corruption or bribery a whistleblower system that is anonymous and protection from retaliation. All reports are monitored. 
+- Anti-corruption and bribery policies are presented to all workers through internal training sessions, intranet resources, and regular contact from leadership. This guarantees awareness. 
+- BMW's anti-corruption policies and practices are also communicated to external stakeholders, such as suppliers and business partners, via contracts, the supplier code of conduct, and direct interaction. 
+Due to the arguments described above, the first portion of the G1-3 rules has been met."
+finetuning-input/BMW.txt;BMW;"Provide a short,precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+Focus on: 
+- Investigation Independence: 
+Assess whether the investigation committee is independent from the implicated chain of command and the procedure for reporting findings to higher authorities.
+Based on the findings, determine whether or not the regulation has been met.";"The BMW Group report is being analysed for compliance.
+According to BMW Group Report 2022, the corporation has established the following system for an independent investigation: 
+ - The BMW Group ensures that the individuals or committees responsible for investigating corruption and bribery are separate from the chain of management. 
+- Investigation findings are systematically reported to higher levels of authority within the organization. However, no mention is made of how to assure the investigation's independence.The BMW Group has established mechanisms to ensure that the results of investigations are efficiently conveyed to administrative, managerial, and supervisory authorities. This involves consistent reporting and, when necessary, quick escalation of serious concerns to ensure transparency and accountability.
+   - BMW also emphasises adherence to external rules such as the OECD rules for Multinational Enterprises and the United Nations Guiding Principles on Business and Human Rights, which include measures to assure inquiry independence and integrity.
+As a result, the BMW Group does not completely meet the G1-3 standards' demand for an independent inquiry mechanism."
+finetuning-input/BMW.txt;BMW;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+- Begin with the name of the company whose ESG report is analysed. 
+Focus on: 
+- Training Programs: 
+Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency to provide a comprehensive analysis as short and precise as possible of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+Begin with the name of the company whose ESG report is analysed. Focus on:
+Training Programs: Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency for administrative, management, and supervisory bodies.
+Conclude based on all findings about compliance with the # REGULATIONS and whether the regulation is met or not in the # ESG-REPORTING.
+";"The BMW Group's approach to anti-corruption and bribery training programs is a crucial component of its compliance strategy and is being analysed in the following text. 
+   - The training provides clear definitions of corruption and bribery, as well as specifics on the company's rules, methods for reporting suspicions, and the penalties of engaging in such actions.
+   - BMW identifies high-risk functions inside the organization and tailors training programs to handle the  risks associated with these roles. Employees in these high-risk jobs must undergo training to ensure that they are well-equipped to identify and deal with possible corruption and bribery issues.
+   - Although the exact percentage of at-risk tasks covered by the training sessions is not expressly indicated in the accessible extracts, BMW's compliance policies indicate a purposeful commitment to covering all important sectors vulnerable to corruption risks. The training programs are expected to cover a wide range of functions, especially those designated as high-risk.
+   - The administrative, management, and supervisory bodies receive training on an annual basis.
+
+   BMW uses classroom sessions and computer-based training modules.
+
+Given this planned and detailed approach, BMW appears to be in compliance with the G1-3 standards' training however the coverage rate is not mentioned. Resulting in being not compliant with the overall G1-3 regulation."
+finetuning-input/continental.txt;continental;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection.Use the uploaded instructions only.
+- Start with the name of the company whose ESG report is being analysed.
+ -Prevention and Identification Measures: 
+Describe steps taken to prevent, identify, and address corruption and bribery incidents and risks. Include details on policy communication to relevant stakeholders especially to suppliers. 
+- Conclude with a statement on whether the ESG report provided meets all G1-3 regulatory requirements, highlighting any areas lacking in detail or implementation.";"The following analysis is about Continental: 
+ -Continental included in the report a comprehensive compliance management system based on the identification of potential compliance risks and the implementation of controls and additional preventive measures that are not clearly specified.
+ - The Integrity Hotline can be used to identify misconduct. The hotline is always available. A risk analysis for identifying non compliance in the company are in particular, employee training, compliance advice, and the internal dissemination of guidelines. Continental implemented the Business Partner Code of Conduct to prevent vendors from violating compliance standards.
+- Group Internal Audit serves an independent  auditing and advisory function, assessing and improving the adequacy and effectiveness of the organisation’s governance systems. Continental AG has implemented a comprehensive compliance management system with regular risk assessments and monitoring.
+- Regular audits and compliance checks also help identify cases of corruption.
+Continental AG communicates its anti-corruption policies and expectations to stakeholders, including suppliers, through its Business Partner Code of Conduct and other compliance documents.
+ The G1-3 are fully met due to the measures taken to be compliant with the G1-3 regulations."
+finetuning-input/continental.txt;continental;"Provide a short,precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+Focus on: 
+- Investigation Independence: 
+Assess whether the investigation committee is independent from the implicated chain of command and the procedure for reporting findings to higher authorities.
+Based on the findings, determine whether or not the regulation has been met.";"The following analysis is about Continental: 
+ -The Groups Compliance, which is divided into a central team and regional functions, is responsible for preventing violations in the areas of corruption, antitrust law, money laundering, and data protection. This structure is supported by compliance coordinators in the various nations and regions. 
+ - In the context of detection, Continental has established an Integrity Hotline, which allows workers and other parties outside the Continental Group to report misconduct of legal requirements, core principles, and ethical standards. This hotline allows individuals to report information anonymously. The hotline is offered worldwide in a variety of languages. 
+- The company's investigative departments vigorously explore any and all credible leads.The Group Internal Audit function serves as the third line of defence in the internal control system.
+Group Internal Audit provides independent and objective auditing. Continental’s Executive Board authorises Group Internal Audit to undertake audits in all regions, companies, and functions of Continental AG and its fully consolidated subsidiaries around the world. Therefore, an independent examination is conceivable due to the external audit of internal processes the Second part of the G1-3 regulations are met."
+finetuning-input/continental.txt;continental;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+- Begin with the name of the company whose ESG report is analysed. 
+Focus on: 
+- Training Programs: 
+Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency to provide a comprehensive analysis as short and precise as possible of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+Begin with the name of the company whose ESG report is analysed. Focus on:
+Training Programs: Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency for administrative, management, and supervisory bodies.
+Conclude based on all findings about compliance with the # REGULATIONS and whether the regulation is met or not in the # ESG-REPORTING.
+";"Continental AG is being analysed in the following part. 
+- Continental provides compliance training to employees, including anti-corruption training, which is part of mandatory annual training for employees.
+- The training covers anti-corruption policies, the legal implications of corruption and steps to prevent it.
+ - Training is mandatory for all employees. Additional training for roles exposed to higher risks is also provided.The exact extended scope is not mentioned.
+- The report explains that training is adjusted to different levels.
+- In 2022, in total 11,716 employees completed e-learning training on the Code of Conduct, indicating a comprehensive reach of the training program.E-learning courses on anti-corruption and antitrust law (PY: 117,000 participants, including Vitesco Technologies), and 5,069 participants and 5,069 participants attended in-person anti-corruption training courses. The Group Compliance group function is in charge of the compliance management system. Participants in e-learning sessions on anti-corruption, antitrust, and Vitesco spin-off (23780).
+
+Continental’s approach to preventing and managing corruption and bribery aligns fully with the G1-3 regulations."
+finetuning-input/Covestro.txt;Covestro;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection.Use the uploaded instructions only.
+- Start with the name of the company whose ESG report is being analysed.
+ -Prevention and Identification Measures: 
+Describe steps taken to prevent, identify, and address corruption and bribery incidents and risks. Include details on policy communication to relevant stakeholders especially to suppliers. 
+- Conclude with a statement on whether the ESG report provided meets all G1-3 regulatory requirements, highlighting any areas lacking in detail or implementation.";"The following part is about Covestros compliance with the G1-3 regulation:
+ -Covestro expressly encourages its workers to publicly address any concerns about legitimate business conduct and seek guidance. 
+- Covestro inform all employees about who they can contact if they have any concerns or issues. 
+-Covestro has also established a whistleblower tool. 
+-Employees and third parties can report suspected compliance issues via a hotline available internationally or an online application that also allows for anonymous submissions. 
+-Employees can also report any compliance issues to their managers or the Compliance organisation. 
+-Covestro uses a risk matrix to identify focal points for compliance requirements. During the fiscal year under review, a corruption risk assessment was conducted for all firms in which Covestro has a majority stake. If the risk profile changes, new controls are introduced as necessary. Due to the established communication system covestro fulfils the requirements."
+finetuning-input/Covestro.txt;Covestro;"Provide a short,precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+Focus on: 
+- Investigation Independence: 
+Assess whether the investigation committee is independent from the implicated chain of command and the procedure for reporting findings to higher authorities.
+Based on the findings, determine whether or not the regulation has been met.";"The following part is about a compliance analysis with the G1-3. This part is focusing on the third part of the G1-3 regulations.
+ -The Chief Compliance Officer oversees all compliance efforts of Covestro and reports directly to the Board of Management. 
+-The corporate Law, Intellectual Property, and Compliance function is the single point of contact for Group-wide compliance initiatives.
+- The Compliance Committee, chaired by Covestro's Chief Financial Officer (CFO), is the group's highest-level decision-making body on these concerns. The Committee's responsibilities include carrying out a Group-wide compliance governance role, originating and approving compliance-related rules, and approving annual training plans. Compliance incidents are regularly reported to the Supervisory Board, the Board of Management, and the business entity's management teams. The report focuses on the communication of incidents of misconduct but not on how these cases are being investigated. 
+Therefore the G1-3 regulations are not fulfilled."
+finetuning-input/Covestro.txt;Covestro;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+- Begin with the name of the company whose ESG report is analysed. 
+Focus on: 
+- Training Programs: 
+Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency to provide a comprehensive analysis as short and precise as possible of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+Begin with the name of the company whose ESG report is analysed. Focus on:
+Training Programs: Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency for administrative, management, and supervisory bodies.
+Conclude based on all findings about compliance with the # REGULATIONS and whether the regulation is met or not in the # ESG-REPORTING.
+";"The following part analysis the Covestro ESG report for compliance with the G1-3 regulation.
+-Covestro provides anti-corruption and anti-bribery training about gifts, invites, and interactions with government officials and partners.
+- Training are regulary and are part of a yearly plan approved by the Compliance Committee. The regularity is not defined.
+- Coverage includes all majority-owned enterprises, with local compliance officers appointed. No exact coverage rate is mentioned
+- The internal Audit conducts regular compliance audits, with specific checks in larger organizations and integrated evaluations in smaller ones.
+In summary the regulation is almost met, with missing information about the training coverage rate."
+finetuning-input/DaimlerTruck.txt;Daimler truck;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection.Use the uploaded instructions only.
+- Start with the name of the company whose ESG report is being analysed.
+ -Prevention and Identification Measures: 
+Describe steps taken to prevent, identify, and address corruption and bribery incidents and risks. Include details on policy communication to relevant stakeholders especially to suppliers. 
+- Conclude with a statement on whether the ESG report provided meets all G1-3 regulatory requirements, highlighting any areas lacking in detail or implementation.";"A comprehensive analysis is done with the Daimler Truck report and the CSRD regulation.
+-  Daimler Truck established a compliance framework after the  spin-off from Daimler AG.
+ - The Compliance management system, includes seven elements: Compliance Values, Compliance Targets, Compliance Organisation, Compliance Risk, Compliance Program, Communication and Training, and Monitoring and Improvement. 
+- The CMS is based on national and international standards and is applied globally.
+- The compliance system includes regulations on corruption prevention, human rights, data handling, product safety, and compliance with technical regulations. 
+- This code is accessible to all employees and is available in multiple languages.
+- Daimler Truck has compliance requirements for its business partners, the standards are included in the Business Partner Standards document and in compliance awareness modules.
+-Daimler Truck conducts risk assessments,  including the  evaluation of internal information, business models, and external indices like the Corruption Perception Index. 
+- The company performs due diligence on its sales partners and suppliers.
+- The BPO whistleblower system, developed under Daimler AG to report misconduct confidentially.  
+- The compliance measures are regularly audited internally and externally.
+In summary, the report meets the first part of the G1-3 regulation."
+finetuning-input/DaimlerTruck.txt;Daimler truck;"Provide a short,precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+Focus on: 
+- Investigation Independence: 
+Assess whether the investigation committee is independent from the implicated chain of command and the procedure for reporting findings to higher authorities.
+Based on the findings, determine whether or not the regulation has been met.";"Daimler Trucks annual report is being analysed for compliance in the following text.
+   - The CLCO oversees all compliance investigations. The CLCO acts independently of business units, guaranteeing no conflicts of interest. This officer reports directly to the Supervisory Board's Board of Management and Audit Committee, while keeping operational activities separate. 
+-Local and Regional Compliance Managers solve compliance matters on a local level, independent of the involved local management.
+- The CLCO provides frequent updates to the Board of Management and the Audit Committee on the status and results of compliance investigations. 
+ - The Audit Committee, which meets on a regular basis, receives thorough reports from the CLCO on key compliance matters as well as the company's overall compliance status. 
+- All potential non-compliance situations are documented, monitored, and reported internationally. Detailed documentation of investigations and their findings is kept, providing transparency and accountability throughout the process. 
+- The Compliance team works closely with the Internal Audit, Group Policies and Internal Controls, and Risk Management departments to guarantee complete monitoring and control of compliance-related operations. This collaborative approach strengthens investigations and improves risk identification and mitigation. Compliance measures and investigation processes are frequently reviewed and audited, both internally and by independent third parties.
+Daimler Truck fulfils the G1-3 standards in this parts due to the used measurements."
+finetuning-input/DaimlerTruck.txt;Daimler truck;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+- Begin with the name of the company whose ESG report is analysed. 
+Focus on: 
+- Training Programs: 
+Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency to provide a comprehensive analysis as short and precise as possible of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+Begin with the name of the company whose ESG report is analysed. Focus on:
+Training Programs: Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency for administrative, management, and supervisory bodies.
+Conclude based on all findings about compliance with the # REGULATIONS and whether the regulation is met or not in the # ESG-REPORTING.
+";"Analysis of Daimler Truck’s Compliance with G1-3 Regulations:
+
+- Daimler Truck’s training programs cover a wide range of topics, including the company’s Integrity Code, specific guidelines on anti-corruption and anti-bribery practices, and managing interactions with government officials and third parties. The training also includes procedures for identifying and reporting potential corruption and bribery incidents.
+- Special focus is placed on training employees in high-risk functions such as sales, procurement, finance, and legal departments. These employees receive targeted training to address the specific risks associated with their roles, ensuring they are equipped to handle potential ethical dilemmas and compliance issues.
+Administrative staff members undergo mandatory compliance training upon joining the company and periodically.  \n - Senior management and supervisory board members receive more intensive and frequent training. This includes annual sessions that delve into strategic and operational compliance issues, reinforcing the importance of ethical leadership and providing them with the tools to manage compliance challenges effectively.
+The company implements continuous training programs, ensuring that employees regularly receive updates and refreshers. The company conducts regular risk assessments to identify employees most vulnerable to corruption and bribery risks, ensuring these individuals receive the necessary training.
+- While specific percentages of coverage are not detailed, the focus on comprehensive and targeted training suggests a thorough approach to ensuring all at-risk employees are adequately trained.
+Daimler Truck employs web-based training modules to ensure broad accessibility and consistent delivery of content across all locations. These modules are mandatory for all relevant employees and include interactive elements to enhance engagement and retention.
+- For higher-level employees and those in critical functions, Daimler Truck conducts in-person training sessions. These sessions allow for in-depth discussions, real-life scenario analysis, and direct interaction with compliance officers.
+- The effectiveness of the training programs is regularly evaluated through feedback mechanisms, compliance audits, and monitoring of compliance-related incidents. Insights gained from these assessments are used to continuously improve the training content and delivery methods.- Daimler Truck places a strong emphasis on continuous communication about compliance issues. Regular updates, newsletters, and intranet posts keep employees informed about the latest developments and reinforce the importance of compliance.
+Daimler Truck is G1-3 regulations"
+finetuning-input/Deutsche Bank.txt;deutsche bank;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection.Use the uploaded instructions only.
+- Start with the name of the company whose ESG report is being analysed.
+ -Prevention and Identification Measures: 
+Describe steps taken to prevent, identify, and address corruption and bribery incidents and risks. Include details on policy communication to relevant stakeholders especially to suppliers. 
+- Conclude with a statement on whether the ESG report provided meets all G1-3 regulatory requirements, highlighting any areas lacking in detail or implementation.";"Analysis of Deutsche Bank's compliance with G1-3 Regulations:
+
+
+Deutsche Bank has devised a comprehensive plan to ensure compliance with G1-3 legislation governing corruption and bribery prevention and detection. The measures cover policy creation, personnel training, stakeholder outreach, and continual monitoring.
+- Deutsche Bank has developed a thorough Anti-Bribery and Corruption Policy. This policy establishes standards and processes for preventing, detecting, and responding to bribery and corruption situations. It applies to all workers, agents, and business partners globally.
+- The policy is presented through a variety of media, including the company's internal intranet, training sessions, and onboarding programs for new workers. It is also accessible through the bank's external website, ensuring transparency and accessibility for all stakeholders.
+- The Supplier Code of Conduct has particular anti-corruption clauses. Suppliers must acknowledge and comply with these requirements as part of their relationship with Deutsche Bank.
+- Prospective suppliers are thoroughly screened, including a review of their compliance with anti-corruption and human rights norms. Contracts with vendors contain stipulations requiring compliance with Deutsche Bank's anti-corruption policy.
+- The bank uses modern tools to monitor transactions in order to recognise suspicious activities that could indicate corruption or bribery. Suspicious activities are analysed by compliance experts.
+- The Bank conducts regular internal audits to assess the effectiveness of its anti-corruption procedures. 
+-These audits cover compliance with guidelines, the appropriateness of controls and the effectiveness of training programmes.
+Deutsche Bank requires its employees to conduct comprehensive due diligence on its clients and business partners. This includes a thorough analysis of the client's history, the nature of its business and compliance with anti-corruption regulations.
+
+Deutsche Bank fulfils the G1-3 requirements based on the procedures above.
+
+"
+finetuning-input/Deutsche Bank.txt;deutsche bank;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+Focus on: 
+- Investigation Independence: 
+Assess whether the investigation committee is independent from the implicated chain of command and the procedure for reporting findings to higher authorities.
+Based on the findings, determine whether or not the regulation has been met.";"The following analysis is about Deutsche Bank as well and checks for compliance with G1-3 regulations:
+
+-The Anti-Financial Crime function operates independently from the business divisions. It is led by the Group Anti-Money Laundering Officer, who reports directly to the Chief Administration Officer. This structural separation ensures that the AFC function can conduct investigations without undue influence from implicated parties.
+The Group Anti-Money Laundering Officer is a voted authority from the Management Board, authorised to establish a financial crime risk management framework and take necessary measures to manage financial crime risks independently. 
+-The Supervisory Board, through its Audit Committee, receives regular updates on financial crime risk management, including corruption and bribery cases. The Management Board and the Group Anti-Money Laundering Officer provide these updates quarterly, ensuring high-level oversight and independence in the reporting process.
+-Introduced by the Supervisory Board, this working group conducts additional monitoring and provides holistic advice to the Management Board. This group's creation underscores the bank's commitment to maintaining an independent and thorough oversight mechanism.
+Findings from investigations are reported directly to the Management Board and, subsequently, to the Supervisory Board’s Audit Committee. This direct line of reporting ensures that findings are communicated without being filtered through potentially implicated management levels.
+Established in 2022, this committee provides central oversight across regulatory engagement and remediation efforts. It ensures that significant findings from investigations are not only reported internally but are also communicated effectively to external regulatory bodies as required.
+- Deutsche Bank operates an integrity hotline and an online reporting tool that allow employees and third parties to report suspected corruption and bribery incidents anonymously. Reports received through the hotline and online tool are logged in a central database. The AFC function investigates these reports independently, ensuring that implicated parties do not influence the investigation. Confirmed violations are then reported to the appropriate internal and external authorities.
+The Corporate Audit function regularly reviews the effectiveness of the compliance activities, including those related to corruption and bribery. These audits are independent.
+The non-financial statement, which includes information on corruption and bribery prevention measures, is audited by external auditors. The bank follows to the requirements of the German Supply Chain Due Diligence Ac.
+
+Due to the the measures mentioned above the G1-3 regulations are fulfilled."
+finetuning-input/Deutsche Bank.txt;deutsche bank;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+- Begin with the name of the company whose ESG report is analysed. 
+Focus on: 
+- Training Programs: 
+Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency to provide a comprehensive analysis as short and precise as possible of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+Begin with the name of the company whose ESG report is analysed. Focus on:
+Training Programs: Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency for administrative, management, and supervisory bodies.
+Conclude based on all findings about compliance with the # REGULATIONS and whether the regulation is met or not in the # ESG-REPORTING.
+";"The following part is doing a compliance analysis of Deutsche Bank with G1-3 regulations focusing on the fulfilment of the Training. 
+- On an annual basis the Bank undertakes an assessment of inherent bribery and corruption risks and corresponding controls across all of its businesses. 
+- All Bank employees, including board members, are required to complete mandatory online anti-bribery and corruption training. Employees who do not complete their training are subject to potential disciplinary action. Deutsche Bank tracks the combined number and percentage of in scope employees trained on anti-fraud, bribery and corruption instead of anti-corruption specific figures. To renew employees knowledge potential  violations the bank does a periodic training. One specific example is a 45-minute mandatory online course on anti-money laundering (AML) and the prevention of terrorist and proliferation financing. Every Deutsche Bank employee worldwide must complete the module once every year. Around 99% of staff (including in-scope contingent workers) did so in 2022.  The requirements are fulfilled based on the information examined in the report of Deutsche Bank."
+finetuning-input/DeutscheBörse.txt;deutsche börse;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection.Use the uploaded instructions only.
+- Start with the name of the company whose ESG report is being analysed.
+ -Prevention and Identification Measures: 
+Describe steps taken to prevent, identify, and address corruption and bribery incidents and risks. Include details on policy communication to relevant stakeholders especially to suppliers. 
+- Conclude with a statement on whether the ESG report provided meets all G1-3 regulatory requirements, highlighting any areas lacking in detail or implementation.";"The following analysis is about Deutsche Börse and if the company follows the G1-3 regulations. 
+- Employees are forced to discuss any issues immediately with the line manager, HR, or Group Compliance. The Deutsche Börse Group's whistleblower system (BKMS) provides an extra, anonymous channel for reporting possible or verified breaches of prudential or regulatory requirements and ethical standards.
+- The Compliance management system (CMS) is assessed at least annually, with reports presented to the Audit Committee of the Supervisory Board. The code of Business Conduct is communicated to all employees and is available on the internet and intranet. There is a supplier Code of Conduct in place. Employees, service providers, and third parties can submit reports by phone or email. Whistleblowers' anonymity is ensured at all times. 
+- The code of conduct is disseminated to all Group workers and made available on the internet and intranet sites.
+The report of Deutsche Börse fulfils the requirements."
+finetuning-input/DeutscheBörse.txt;deutsche börse;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+Focus on: 
+- Investigation Independence: 
+Assess whether the investigation committee is independent from the implicated chain of command and the procedure for reporting findings to higher authorities.
+Based on the findings, determine whether or not the regulation has been met.";"The following analysis examines Deutsche Börse's G1-3 compliance. 
+- Deutsche Börse AG's Executive Board oversees compliance. Group Compliance manages the CMS as a second line of defense and assures compliance with laws, regulations, and internal policies. Group Compliance monitors, validates, and executes compliance procedures to reduce negative risks. 
+- Deutsche Börse AG's Supervisory Board Audit Committee receives a report on the CMS's annual assessment to verify its suitability and efficacy. Deutsche Börse AG's Group Chief Compliance Officer (CCO) reports directly to the Executive Board, guaranteeing unambiguous and independent authority. 
+- Senior managers from business units and control functions including compliance, legal, and audit make up the investigative committees for impartiality and independence.
+Banking-regulated group firms' Chief Compliance Officers report to the Group CCO, ensuring uniform and impartial control.
+- CMS validation involves risk-based internal and external audits. Deutsche Börse informs all stakeholders through frequent interaction. The definition of regular is unclear. However, the investigated unit may be part of the inquiry committee, therefore the standards are partially satisfied because independence is unclear. Due to the mentioned points the report fulfils the requirements."
+finetuning-input/DeutscheBörse.txt;deutsche börse;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+- Begin with the name of the company whose ESG report is analysed. 
+Focus on: 
+- Training Programs: 
+Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency to provide a comprehensive analysis as short and precise as possible of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+Begin with the name of the company whose ESG report is analysed. Focus on:
+Training Programs: Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency for administrative, management, and supervisory bodies.
+Conclude based on all findings about compliance with the # REGULATIONS and whether the regulation is met or not in the # ESG-REPORTING.
+";"The third part is a compliance analysis of Deutsche Börse and G1-3 regulations. 
+ -Frequent compliance trainings are an essential tool for raising awareness of compliance issues and the compliance culture within the Group. Globally, the staff members receive frequent training on pertinent compliance subjects. 
+ -Money-laundering/terrorism financing, criminal offences, ethics, data protection, corruption, market manipulation, conflicts of interest, insider trading, financial sanctions, and embargoes are among the subjects that are specifically covered in our compliance trainings. The management receives additional training as needed because their job exposes them to a larger risk of compliance. Deutsche Börse's employees are required to attend the aforementioned trainings. The precise duration of regular training is not specified, therefore more details are needed to fulfil the G1-3 regulation."
+finetuning-input/DHL.txt;DHL;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection.Use the uploaded instructions only.
+- Start with the name of the company whose ESG report is being analysed.
+ -Prevention and Identification Measures: 
+Describe steps taken to prevent, identify, and address corruption and bribery incidents and risks. Include details on policy communication to relevant stakeholders especially to suppliers. 
+- Conclude with a statement on whether the ESG report provided meets all G1-3 regulatory requirements, highlighting any areas lacking in detail or implementation.";"The following analysis is part of the compliance of DHL with the G1-3 regulations.
+ - The Chief Compliance Officer is in charge of creating the system of compliance. Possible infractions can be anonymously reported around-the-clock, anonymously if allowed by law, through our professional compliance incident reporting system (whistle-blower hotline), which is also accessible to other parties. Furthermore, possible infractions can be reported via phone or the company website. 
+
+- To provide all employees with information about genuine compliance measures, a Compliance Awareness Week was held. Corporate Internal Audit examined the processes of the compliance management system and the execution of the agreed-upon follow-up measures within the framework of its 208 audits. Additionally, DHL provides a Supplier Code of Conduct;. The G1-3 regulations are met due to a wide range of measures again corruption and bribery."
+finetuning-input/DHL.txt;DHL;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+Focus on: 
+- Investigation Independence: 
+Assess whether the investigation committee is independent from the implicated chain of command and the procedure for reporting findings to higher authorities.
+Based on the findings, determine whether or not the regulation has been met.";The following part is a compliance analysis of DHL.The Board of Management is the primary decision-maker, while the divisions are in charge of carrying out the initiatives. The Board of Management routinely discusses the advancements made. The Strategy and Sustainability Committee and the Supervisory Board both routinely discuss ESG issues, and reports are examined and looked into internally. pertinent infractions in the routine compliance reports sent to the Supervisory Board's Finance and Audit Committee and the Board of Management. If the incidents are investigated independently is not made clear.  \n - The CMS ensures compliance with all international anti-corruption standards and statutes, such as the Partnering Against Corruption Initiative of the World Economic Forum. The Group Chief Compliance Officer (CCO) reports directly to the CFO, ensuring independence from operational management. However it is not clearly stated, that the investigation is always independent. Concluding in a partly fulfilled G1-3 regulation.
+finetuning-input/DHL.txt;DHL;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+- Begin with the name of the company whose ESG report is analysed. 
+Focus on: 
+- Training Programs: 
+Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency to provide a comprehensive analysis as short and precise as possible of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+Begin with the name of the company whose ESG report is analysed. Focus on:
+Training Programs: Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency for administrative, management, and supervisory bodies.
+Conclude based on all findings about compliance with the # REGULATIONS and whether the regulation is met or not in the # ESG-REPORTING.
+";The following part examines the last part of the G1-3 regulations if DHL is compliant with them . 98% of middle and top management personnel have legitimate training certifications. Every two years, all personnel who have already finished their training are required to update their certification. The scope is not stated, but an internal control to verify the training certificates is required because of the expression valid. Therefore, the G1-3 regulations are mostly met.
+finetuning-input/Siemens Healthineers.txt;Healthiness;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection.Use the uploaded instructions only.
+- Start with the name of the company whose ESG report is being analysed.
+ -Prevention and Identification Measures: 
+Describe steps taken to prevent, identify, and address corruption and bribery incidents and risks. Include details on policy communication to relevant stakeholders especially to suppliers. 
+- Conclude with a statement on whether the ESG report provided meets all G1-3 regulatory requirements, highlighting any areas lacking in detail or implementation.";"The Siemens Healthineers ESG report and G1-3 requirements were analyzed for compliance. 
+- Compliance risk assessments are undertaken every three years across all Business Areas and Regions to identify and avoid compliance concerns. To mitigate compliance concerns, guidelines are created.
+- Modern due diligence compliance methods examine and manage business partner relationships. Siemens Group Suppliers and Third-Party Intermediaries Code of Conduct applies to business partners and suppliers.
+
+The “Let Us Know” mechanism lets workers and other parties anonymously report breaches. Compliance monitors reports.
+ - Additionally, employees can report wrongdoing to compliance officials, HR, or management.
+- The internal Audit Organisation audits compliance regularly.
+ The Compliance Risk Assessment (CRA) tool and automated conflict-of-interest filing systems improve compliance risk detection and monitoring.
+   - The Healthineers Forum improves compliance management with employee feedback.
+- Reports of misbehavior prompt extensive investigations. About 115 compliance matters were examined in FY 2022.
+   - Investigation results determine discipline. Compliance violations were severe in FY 2022, with 53 disciplinary proceedings.
+- Compliance Review Board (CRB) routinely evaluates CMS effectiveness. Quarterly corporate and zone meetings are held.
+Compliance and ethics training is routine for employees.
+Scope, frequency, and coverage rate are not specified. Thus, this G1-3 requirement is violated."
+finetuning-input/Siemens Healthineers.txt;Healtineers;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+Focus on: 
+- Investigation Independence: 
+Assess whether the investigation committee is independent from the implicated chain of command and the procedure for reporting findings to higher authorities.
+Based on the findings, determine whether or not the regulation has been met.";"Siemens Healthineers' G1-3 Corruption and Bribery Prevention and Detection Compliance
+
+Assessing the Independence of the Investigation Committee:
+
+Siemens Healthineers has a complete CMS to assure independence in corruption and bribery investigations. The CMS emphasizes prevention, detection, and reaction. Internal standards require Siemens Healthineers workers to follow compliance processes and tools for numerous risk areas, including anti-corruption measures
+
+- The AFC, an autonomous business function, sets and implements financial crime risk management policies and standards. The Group Anti-Money Laundering Officer, reporting to the Chief Administration Officer, has final say on financial crime concerns, establishing a clear separation from normal company operations 
+   
+ - Siemens Healthineers' ICS and ERM frameworks are based on worldwide standards like COSO. Internal audit functions combine and audit these systems to verify their efficacy. The organized system ensures inquiry independence, with internal audit functions reporting directly to top management and the audit committee
+ - The audit committee is crucial to accounting procedures, ICS, ERM, and internal audit system effectiveness. The committee swiftly and accurately reports results from investigations, including compliance violations, to higher authorities within the organization 
+ - Siemens Healthineers evaluates its ICS and ERM systems regularly and annually. The management board reviews and approves the ""In Control"" statement, which details these evaluations. Comprehensive reporting to the supervisory board audit committee ensures timely escalation of serious findings and compliance concerns 
+ - Identify and evaluate compliance issues early, incorporating them into corporate operations. Reporting risk assessment results to top management and incorporating them into the company-wide ERM keeps higher authorities aware about potential risks and mitigation strategies
+
+In conclusion, Siemens Healthineers fulfils the G1-3 regulations."
+finetuning-input/Siemens Healthineers.txt;Healthiness;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+- Begin with the name of the company whose ESG report is analysed. 
+Focus on: 
+- Training Programs: 
+Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency to provide a comprehensive analysis as short and precise as possible of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+Begin with the name of the company whose ESG report is analysed. Focus on:
+Training Programs: Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency for administrative, management, and supervisory bodies.
+Conclude based on all findings about compliance with the # REGULATIONS and whether the regulation is met or not in the # ESG-REPORTING.
+";"Siemens Healthineers ESG report is analysed in the following part. 
+
+- The training targets managers, employees, and high-risk functions like sales, marketing, procurement, and foreign operations.
+- Practical examples and case studies help staff implement anti-corruption principles in real life.
+- Compliance training is required annually for all staff.  New hires receive extensive anti-corruption and anti-bribery training during onboarding.
+- Regular refresher courses are offered but not defined. 
+Nearly all high-risk personnel undergo focused anti-corruption and anti-bribery training.
+- Siemens Healthineers tracks training completion and participation with a worldwide LMS. This method assures all employees, especially high-risk ones, undergo mandated training.
+   Siemens Healthineers meets this G1-3 requirement."
+finetuning-input/Siemens Energy.txt;Energy;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection.Use the uploaded instructions only.
+- Start with the name of the company whose ESG report is being analysed.
+ -Prevention and Identification Measures: 
+Describe steps taken to prevent, identify, and address corruption and bribery incidents and risks. Include details on policy communication to relevant stakeholders especially to suppliers. 
+- Conclude with a statement on whether the ESG report provided meets all G1-3 regulatory requirements, highlighting any areas lacking in detail or implementation.";"The following analysis concerns Siemens Energy and G1-3 rules. Siemens Energy operates ethically and legally on BCGs. All staff and executives must follow these anti-corruption, anti-bribery, data privacy, and human rights norms.
+- BCGs are communicated through required online training.  
+- Siemens Energy does annual CRAs to identify and assess anti-corruption, anti-money laundering, anti-trust, data privacy, and export control compliance concerns.
+Siemens Energy thoroughly vets and monitors business partners to ensure anti-corruption and anti-bribery compliance.
+- Siemens Energy's CoC requires suppliers and third-party intermediaries to follow strict anti-corruption and anti-bribery rules. 
+- Sustainability and yearly reports provide extensive disclosures to stakeholders, maintaining transparency.
+Compliance study shows G1-3 compliance.
+"
+finetuning-input/Siemens Energy.txt;Energy;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection.Use the uploaded instructions only.
+- Start with the name of the company whose ESG report is being analysed.
+ -Prevention and Identification Measures: 
+Describe steps taken to prevent, identify, and address corruption and bribery incidents and risks. Include details on policy communication to relevant stakeholders especially to suppliers. - Investigation Independence: 
+Assess whether the investigation committee is independent from the implicated chain of command and the procedure for reporting findings to higher authorities. 
+- Training Programs: 
+Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency for administrative, management, and supervisory bodies. 
+- Conclude with a statement on whether the ESG report provided meets all G1-3 regulatory requirements, highlighting any areas lacking in detail or implementation.";"The following analysis concerns Siemens Energy and G1-3 rules. Siemens Energy operates ethically and legally on BCGs. All staff and executives must follow these anti-corruption, anti-bribery, data privacy, and human rights norms.
+- BCGs are communicated through required online training.  
+- Siemens Energy does annual CRAs to identify and assess anti-corruption, anti-money laundering, anti-trust, data privacy, and export control compliance concerns.
+Siemens Energy thoroughly vets and monitors business partners to ensure anti-corruption and anti-bribery compliance.
+- Siemens Energy's CoC requires suppliers and third-party intermediaries to follow strict anti-corruption and anti-bribery rules. 
+- Sustainability and yearly reports provide extensive disclosures to stakeholders, maintaining transparency.
+Compliance study shows G1-3 compliance.
+The Siemens Energy ESG report is checked for G1-3 compliance. Siemens Energy's Chief Compliance Officer reports to the CEO and updates the Executive and Supervisory Boards.
+Siemens Energy keeps operational management and investigation separate for independence. Compliance handles investigations. Siemens Energy occasionally uses independent auditors for evaluations and investigations. The Board of Management and Supervisory Board Finance and Audit Committee receive compliance investigation findings regularly. In board meetings, serious investigations are reported.
+- Siemens Energy's “Speak Up” and “Integrity Hotlines” allow workers and other parties to anonymously report any infractions. Reports are handled impartially by channels independent of the involved chain of command.
+Siemens Energy has robust whistleblower protections. Siemens Energy audits compliance risks regularly and ad hoc. Internal audit teams and external partners conduct these audits to ensure a complete and impartial compliance review.
+The reporting structure, where the CCO reports directly to the CEO and to the Board, keeps compliance independent from operational management and protects investigations.
+External auditors improve the independence and credibility of investigations, assuring objective, bias-free findings.
+- Regular reporting to the Board of Management and Supervisory Board ensures that compliance investigations and their conclusions are reviewed by the company's top governance bodies.
+Siemens Energy follows G1-3 regulations.
+"
+finetuning-input/Siemens Energy.txt;Energy;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+- Begin with the name of the company whose ESG report is analysed. 
+Focus on: 
+- Training Programs: 
+Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency to provide a comprehensive analysis as short and precise as possible of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection. Use the uploaded instructions only.
+Begin with the name of the company whose ESG report is analysed. Focus on:
+Training Programs: Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency for administrative, management, and supervisory bodies.
+Conclude based on all findings about compliance with the # REGULATIONS and whether the regulation is met or not in the # ESG-REPORTING.";"G1-3 regulation and Siemens Energy's ESG report follow. 
+To combat corruption and bribery, Siemens Energy has a thorough core compliance curriculum. This program requires Code of Conduct, anti-corruption, and competition compliance training.
+- Employees learn ethics, law, and corruption and bribery consequences.
+- Siemens Energy offers high-risk training beyond the basics. These classes include anti-bribery, gift and hospitality, and suspicious activity reporting.
+- Specific training covers the FCPA and UK Bribery Act.
+Every two years, Siemens Energy requires compliance training for target workers, especially high-risk ones. This updates personnel on regulations and best practices.
+- Emerging risks or big regulations require ad hoc training.
+High-risk The Siemens Energy functions are determined by comprehensive risk evaluation. Procurement, sales, finance, and government/third-party relations are typical.
+- The identification approach assesses company operations, corruption risk, and compliance incident data.
+- Employees receive examples and practical advice on high-risk function risks in the training sessions. How is uncertain. 
+Administration staff must attend mandatory compliance training on anti-corruption and anti-bribery principles, reporting infractions, and the company's Code of Conduct, however the agenda is not specified.
+Managers and supervisory board members receive more ethical and team compliance training.
+Siemens Energy reported 94% Business Conduct Guidelines and 95% antitrust compliance in the last reporting period.
+Conclusion: Missing details prevent Siemens Energy from following G1-3.
+"
+finetuning-input/Brenntag.txt;Brenntag ;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection.Use the uploaded instructions only.
+- Start with the name of the company whose ESG report is being analysed.
+ -Prevention and Identification Measures: 
+Describe steps taken to prevent, identify, and address corruption and bribery incidents and risks. Include details on policy communication to relevant stakeholders especially to suppliers. - Investigation Independence: 
+Assess whether the investigation committee is independent from the implicated chain of command and the procedure for reporting findings to higher authorities. 
+- Training Programs: 
+Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency for administrative, management, and supervisory bodies. 
+- Conclude with a statement on whether the ESG report provided meets all G1-3 regulatory requirements, highlighting any areas lacking in detail or implementation.";"Brenntag uploaded its ESG report. Brenntag emphasizes anti-corruption and bribery regulations. A Code of Business Conduct and Ethics, Anti-corruption Guideline, and compliance audits comprise the company's compliance programme.
+- Brenntag has internal audits and a misconduct reporting mechanism for workers and other parties. The company's compliance approach includes anonymous reporting.Suppliers are informed of anti-corruption laws by the company's Supplier Code of Conduct and compliance training. Supplier contracts have these terms.
+- Compliance and maybe external auditors investigate corruption cases. Thorough investigations resolve all reports, including corrective actions.
+- Investment committee independence is not stated in the report.
+- The compliance framework mandates reporting compliance issues to the Board of Management and Supervisory Board but does not specify the reporting. 
+- Anti-corruption training at Brenntag includes mandatory online Code of Business Conduct and Ethics programs. Compliance training is conducted annually.
+- The company's anti-corruption and employee conduct policies are provided online and printed. S. The report includes role-specific training, including anti-corruption training. Antitrust, anti-corruption, and Code of Business Conduct and Ethics training are completed by 94% of workforce.
+Brenntag's ESG report responses includes a  risk management strategy, however the report is lacking in communication to higher authorities and investment committee independence."
+finetuning-input/Commerzbank.txt;Commerzbank;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection.Use the uploaded instructions only.
+- Start with the name of the company whose ESG report is being analysed.
+ -Prevention and Identification Measures: 
+Describe steps taken to prevent, identify, and address corruption and bribery incidents and risks. Include details on policy communication to relevant stakeholders especially to suppliers. - Investigation Independence: 
+Assess whether the investigation committee is independent from the implicated chain of command and the procedure for reporting findings to higher authorities. 
+- Training Programs: 
+Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency for administrative, management, and supervisory bodies. 
+- Conclude with a statement on whether the ESG report provided meets all G1-3 regulatory requirements, highlighting any areas lacking in detail or implementation.";"Commerzbank AG follows UN Global Compact and OECD Guidelines for Multinational Enterprises. A Global Anti-Bribery and Corruption Policy exists.
+- Training, policy enforcement, and a compliance structure help Commerzbank detect and prevent wrongdoing. This involves regular audits and system monitoring for potential concerns.
+- All stakeholders, including suppliers, are informed of corruption and bribery legislation through mandated compliance training, policy manuals, and the bank's internal communications.
+ - Internal corruption investigations involve the compliance team and external audits if necessary. Every investigation is discreet and comprehensive at the bank.
+ - Rather than addressing investment committee independence from management, the report focuses on compliance and governance systems.The study describes bank communication and its methods for reporting and managing difficulties, but it does not specify standards for transmitting corruption incidents to regulatory or government entities.
+- All Commerzbank personnel must undergo annual anti-corruption training. This training helps staff understand and apply the bank's anti-corruption measures.
+- The anti-corruption training covers bank policies, corruption laws, and prevention methods. All staff must undergo annual training, with high-risk areas receiving additional instruction.
+- The bank provides specialized training for business units and workers at higher risk of corruption based on their responsibilities or functions.
+- It is unclear how many staff completed corruption or Code of Conduct training in the study.
+
+Commerzbank's ESG report shows G1-3 compliance."
+finetuning-input/E.ON.txt;Eon;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection.Use the uploaded instructions only.
+- Start with the name of the company whose ESG report is being analysed.
+ -Prevention and Identification Measures: 
+Describe steps taken to prevent, identify, and address corruption and bribery incidents and risks. Include details on policy communication to relevant stakeholders especially to suppliers. - Investigation Independence: 
+Assess whether the investigation committee is independent from the implicated chain of command and the procedure for reporting findings to higher authorities. 
+- Training Programs: 
+Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency for administrative, management, and supervisory bodies. 
+- Conclude with a statement on whether the ESG report provided meets all G1-3 regulatory requirements, highlighting any areas lacking in detail or implementation.";"This report examines E.ON's G1-3 compliance. 
+- A ""CMS"" has been implemented at E.ON to reduce compliance infractions.
+- E.ON extends its anti-corruption and compliance policy to all business units, corporate departments, and suppliers. Our Supplier Code of Conduct and Business Unit Code of Conduct are available in every country we conduct business.
+- An IT-based whistleblower hotline or internal reporting channel can be used to report an occurrence.
+- The Group-wide system can be accessed by phone or the E.ON homepage. E.ON employees, business partners, their employees, and others can utilize the hotline confidentially. 
+- Group Compliance sends information to the right department.The integrity exam in the E.ON Code of Conduct helps employees assess their morality. 
+- A major People Guideline supports the Code of Conduct and addresses anti-corruption. Its decision-making system uses green, amber, and red traffic light colors to indicate if receiving or giving gifts is OK, problematic, or prohibited. E.ON optimizes their CMS constantly. For this reason, they have a group-wide organizational structure that follows the Compliance Function Policy. 
+- The Chief Compliance Officer (""CCO""), Global Head of Compliance & Data Protection, Group Compliance team, and business unit compliance officers comprise this group. 
+- The CCO briefs the Supervisory Board's Audit and Risk Committee and E.ON Management Board weekly on CMS performance and recent developments.
+- The Management Board and Audit and Risk Committee are alerted immediately of major incidents. Company fraud is investigated by Group Audit, the internal audit section. The core Group Compliance branch handles Company fraud. An independent investigation can be done with internal audit aid. In 2022, we offered managers and personnel across the organization online learning classes. Human rights, cybersecurity, data protection, compliance, and anti-corruption are taught. 
+- Since 2010, all employees must regularly complete a Code of Conduct eLearning lesson. No definition of regular exists. In departments without internet access, workers receive this training in person and in print. Since 2021, new hires must complete the E.ON Code of Conduct training and a new joiner eLearning module. In summary the company meets the G1-3 regulation fully."
+finetuning-input/Fresenius.txt;Fresenius;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection.Use the uploaded instructions only.
+- Start with the name of the company whose ESG report is being analysed.
+ -Prevention and Identification Measures: 
+Describe steps taken to prevent, identify, and address corruption and bribery incidents and risks. Include details on policy communication to relevant stakeholders especially to suppliers. - Investigation Independence: 
+Assess whether the investigation committee is independent from the implicated chain of command and the procedure for reporting findings to higher authorities. 
+- Training Programs: 
+Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency for administrative, management, and supervisory bodies. 
+- Conclude with a statement on whether the ESG report provided meets all G1-3 regulatory requirements, highlighting any areas lacking in detail or implementation.";"The following analysis is about Fresenius and the G1-3 regulations: 
+- Comprehensive risk identification and assessment, appropriate and thorough policies and procedures, frequent training, and continuous consultation are important preventive strategies. In order to prevent compliance issues and make sure they follow the rules, they also implement internal controls. Fresenius has well-established internal controls in the compliance management procedures in this regard as well. The Fresenius Group's management board, which is headed by the labour relations director, risk management, and legal departments of Fresenius Management SE (FMSE), has been tasked with overseeing compliance. 
+- The Member of the Management Board in charge of Human Resources (Labour Relations Director), Risk Management, and Legal is directly subordinate to the Fresenius Group's Group Chief Compliance Officer. 
+- The business segments have set up separate channels of communication with their respective managers. When allowed by law, they can also report possible compliance incidents anonymously, for example, over the phone or online using whistleblower services and email accounts created especially for this purpose. The Compliance Officers of each business sector provide frequent compliance reports to the management teams. The investment committee is therefore not independent.  
+- Cases of compliance are assessed in accordance with the group-wide policies. When a compliance situation of high severity arises, the Group Chief Compliance Officer of Fresenius SE & Co. KGaA promptly notifies the board member in charge of Human Resources (Labour Relations Director), Risk Management, and Legal of FMSE. Both determine whether the relevant case needs to be brought before the FMSE Management Board. The Group Chief Compliance Officer of Fresenius SE & Co. KGaA also provides an annual summary of reported incidents by category and business segment to the Management Board of FMSE. 
+- The public can access the code of conduct. 
+- For Fresenius, compliance training is very important. Basic subjects like our code of conduct and business policies are covered in the compliance problems training that is provided to our staff. All employees of the designated target group will receive required e-learnings.
+Managers, human resources, and compliance departments, for example, automatically register or manually register employees to participate in required training courses. There is no indication of how frequently the trainings occur. Concluding the G1-3 are partly fulfilled,"
+finetuning-input/Hannover Rück.txt;Hannover Rück;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection.Use the uploaded instructions only.
+- Start with the name of the company whose ESG report is being analysed.
+ -Prevention and Identification Measures: 
+Describe steps taken to prevent, identify, and address corruption and bribery incidents and risks. Include details on policy communication to relevant stakeholders especially to suppliers. - Investigation Independence: 
+Assess whether the investigation committee is independent from the implicated chain of command and the procedure for reporting findings to higher authorities. 
+- Training Programs: 
+Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency for administrative, management, and supervisory bodies. 
+- Conclude with a statement on whether the ESG report provided meets all G1-3 regulatory requirements, highlighting any areas lacking in detail or implementation.";"The following compliance analysis is about Hannover Rock and the G1-3 regulations.
+- The Executive Board is responsible for and tasked with ensuring adequate and effective compliance structures. The exact steps taken are not mentioned. 
+- Traditional communication channels including the intranet portal and online newsletters are also used to bring compliance-related issues to the attention of the workforce can be reported to the CCO or the Compliance department (in person, by phone, by e-mail or using chat functionality) or, if so desired, anonymously through an online speak-up system. 
+- A central phone number and e-mail address have also been put in place for this purpose. \n- Any tips received as well as the measures taken in response are included in the annual compliance report. How reported cases are analysed is not mentioned.  
+- The Code also requires the suppliers to set up a management system that ensures compliance with the listed points. 
+- Execution falls to the Chief Compliance Officer (CCO), who reports in a direct line to the Executive Board on material compliance issues and developments. The annual compliance report is also submitted to the Supervisory Board and its Finance and Audit Committee. When joining the Group, all new members of staff take compliance training. It is envisaged that all employees will undergo compliance training in the Code of Conduct in a rotating cycle of three years. In addition, focused training activities are held on various compliance topics throughout the year for specific target groups. The requirements are partly met as the scope is not mentioned."
+finetuning-input/henkel.txt;henkel;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection.Use the uploaded instructions only.
+- Start with the name of the company whose ESG report is being analysed.
+ -Prevention and Identification Measures: 
+Describe steps taken to prevent, identify, and address corruption and bribery incidents and risks. Include details on policy communication to relevant stakeholders especially to suppliers. - Investigation Independence: 
+Assess whether the investigation committee is independent from the implicated chain of command and the procedure for reporting findings to higher authorities. 
+- Training Programs: 
+Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency for administrative, management, and supervisory bodies. 
+- Conclude with a statement on whether the ESG report provided meets all G1-3 regulatory requirements, highlighting any areas lacking in detail or implementation.";"The Henkel report is checked for G1-3 compliance. 
+External auditors verified the global anti-corruption and competition law compliance management system. Management systems ensure these criteria are met at all sites and the global production network. 
+
+- Henkel do ""regular audits to verify compliance with codes and standards at the subcontractor and logistics centres, as well as at the production and administration sites."" The Internal Audit department reports all audit findings, including Social Standards and SHE monitoring, to the Henkel Management Board annually. 
+- Henkel's site-level management systems are externally accredited as needed, and its market partners agree. The General Counsel and Chief Compliance Officer report directly to the Management Board Chair. He is supported by the transdisciplinary Compliance & Risk Committee, Corporate Compliance Office, and fifty local compliance officers worldwide. A compliance hotline lets employees anonymously report code of conduct, internal standards, and legislation infractions. It facilitates internal reporting and grievances. It allows anonymous and open reporting worldwide and is administered by a third party. \Employees and others can use the hotline and other reporting methods. Henkel emphasizes continuous training and communication to offer employees clear behavior norms and eliminate conflicts of interest in routine work situations. 
+- All managers must complete Compliance eLearning and any other training. Compliance topics include anti-corruption, competition law, and data protection. Over 68,000 training sessions were registered worldwide in 2022. 
+-The Corporate Audit department reports all audit findings to the Supervisory Board Audit Committee and Henkel Management Board annually. Corporate Audit performed two internal control framework evaluations in addition to standard audits. In 2022, Corporate Audit trained over 3,400 individuals worldwide on compliance, risk management, and internal controls during audits and seminars. 
+Coverage rate is not specified. The investigative team and department under investigation may be independent entities with a recorded case. Not meeting G1-3 norms.
+"
+finetuning-input/Infineon.txt;Infineon;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection.Use the uploaded instructions only.
+- Start with the name of the company whose ESG report is being analysed.
+ -Prevention and Identification Measures: 
+Describe steps taken to prevent, identify, and address corruption and bribery incidents and risks. Include details on policy communication to relevant stakeholders especially to suppliers. - Investigation Independence: 
+Assess whether the investigation committee is independent from the implicated chain of command and the procedure for reporting findings to higher authorities. 
+- Training Programs: 
+Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency for administrative, management, and supervisory bodies. 
+- Conclude with a statement on whether the ESG report provided meets all G1-3 regulatory requirements, highlighting any areas lacking in detail or implementation.";"A formal risk assessment is conducted annually as part of the compliance management system, with a special emphasis on corruption and antitrust law. The compliance programme contains a summary of the actions that must be completed, which are then carried out throughout the fiscal year. In order to assess risk, formal interviews are conducted at the site and central function levels in addition to group-level analysis. 
+- The compliance management system is coordinated by the Corporate Compliance Officer, who leads a global team. She answers directly to the Chief Financial Officer, the Management Board, and the Investment, Finance, and Audit Committee of the Supervisory Board on a quarterly basis.
+- The officer not only develops our compliance programme but also assists in creating guidelines, counsels staff, takes complaints and pertinent information, and oversees the investigation of compliance matters. Workers and business partners can report potential violations to our Infineon Integrity Line, which also accepts anonymous reports, or to the standard internal bodies (Management, HR, and Compliance). 
+-Every three years, all of these training sessions are repeated. Contractually, business partners are required to abide with the law. When they sign the contract, suppliers agree to abide by our supplier code of conduct. In order to make sure that we collaborate with honest, law-abiding business partners, we also perform business partner checks.
+-Training on compliance is also conducted at the board and management levels. For Infineon, segmenting training attendance based on certain staff categories or geographies is not a global control parameter.
+-Every employee is enrolled automatically in continuous training on the Business Conduct Guidelines. This also holds true for training on antitrust law and corruption prevention for certain target groups. Employees of the company and members of corporate bodies receive frequent in-person or web-based training on the subject matter.
+In summary the company does not meet the G1-3 regulations due to missing details about the coverage rate for instance."
+finetuning-input/MercedesBenz.txt;Mercedes Benz;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection.Use the uploaded instructions only.
+- Start with the name of the company whose ESG report is being analysed.
+ -Prevention and Identification Measures: 
+Describe steps taken to prevent, identify, and address corruption and bribery incidents and risks. Include details on policy communication to relevant stakeholders especially to suppliers. - Investigation Independence: 
+Assess whether the investigation committee is independent from the implicated chain of command and the procedure for reporting findings to higher authorities. 
+- Training Programs: 
+Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency for administrative, management, and supervisory bodies. 
+- Conclude with a statement on whether the ESG report provided meets all G1-3 regulatory requirements, highlighting any areas lacking in detail or implementation.";"The following analysis is about Mercedes Benz and the G1-3 regulations. 
+- The Group-wide Content Management System (CMS) serves as the foundation for the Mercedes-Benz Group's Corruption Prevention Compliance Programme.  In the field of sales activities in high-risk nations, the Group observes heightened corruption concerns. The measures must be implemented and overseen by the management of each Group entity. The management team works closely with the Integrity and Legal Affairs division's specialised sections on this assignment. The management teams at each of the Group entities are under observation by Mercedes-Benz Group AG. 
+- An impartial Local Compliance Officer supports businesses that are more likely to experience corruption, helping the corresponding management carry out the Corruption Prevention Compliance Programme.Mercedes-Benz Group AG hired KPMG AG to audit its Compliance Management System for corruption prevention in order to guarantee an impartial, external evaluation of the Corruption Prevention Compliance Programme. The Business Practices Office (BPO) whistleblower mechanism allows business partners, third parties, and all workers globally to report rule infractions. 
+- Information can be given to the BPO via regular mail, email, or by completing a specific web form. The BPO is open for business around-the-clock. There are other external toll-free hotlines in the US, Brazil, Japan, and South Africa. If local regulations allow it, reports can also be submitted anonymously. In addition to the BPO, whistleblower complaints in Germany may also be sent to an outside, impartial middleman.  Within 24 hours of receiving a new report, the BPO typically notifies the whistleblower that it has been received. Following a preliminary risk assessment grounded in the four eyes principle, the BPO refers the case to the relevant department or an appropriate investigative unit.
+- The Mercedes-Benz Group uses a range of communication strategies to make the BPO whistleblower system even more widely known to employees and to continuously build employee trust in it. In this case, the organisation additionally considers the insights gleaned from the most current employee survey.
+- The Group offers educational resources like information cards tailored to each countries, pocket manuals, and a ten-language training DVD. The Mercedes-Benz Group provides each of its suppliers and sales partners with access to a Compliance Awareness Module, which is based on these principles and the Integrity Code. 
+- To successfully complete each module, one must correctly answer test and control questions in the web-based training courses as a review of the knowledge you have received. 
+- Administrative staff members have access to a web-based training programme designed for particular target audiences. This programme comprises not only a basic module that is required, but also manager-specific modules and expert modules covering a range of compliance problems. Mercedes-Benz Group AG automatically designates the appropriate modules to staff members upon hiring, promotion, or transitioning to a role with a higher level of risk. Every three years, employees are required to finish the training programme. It is not stated exactly what the scope and coverage rate of the training programme are.It seems that Mercedes Benz almost fulfillers the G1-3 regulations except the secure independence investigation committee."
+finetuning-input/Merck.txt;Merck;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection.Use the uploaded instructions only.
+- Start with the name of the company whose ESG report is being analysed.
+ -Prevention and Identification Measures: 
+Describe steps taken to prevent, identify, and address corruption and bribery incidents and risks. Include details on policy communication to relevant stakeholders especially to suppliers. - Investigation Independence: 
+Assess whether the investigation committee is independent from the implicated chain of command and the procedure for reporting findings to higher authorities. 
+- Training Programs: 
+Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency for administrative, management, and supervisory bodies. 
+- Conclude with a statement on whether the ESG report provided meets all G1-3 regulatory requirements, highlighting any areas lacking in detail or implementation.";"The following part is about Mercks compliance analysis with G1-3 regulations. \n- Merck anticipates that the suppliers would make sure their subcontractors follow the same Code of Conduct for Suppliers guidelines. 
+- During the reporting year, Merck created a Supplier Code of Conduct that outlines expectations for business partners and suppliers in terms of environmental protection, business integrity, human rights, health and safety, and continuous improvement as well as more thorough supplier management. 
+- A global anti-money laundering (AML) programme has been put in place by Merck. Merck maintains defined roles and duties, makes sure the right resources and skills are available, and sets goals that are in line with employee input. At least twice a year, the Executive Board and Supervisory Board receive reports from the Chief Compliance Officer regarding the state of compliance efforts, possible threats, and significant infractions of the law. Merck initiated this programme to enhance objectivity and provide a more data-driven risk strategy by introducing a worldwide compliance risk framework for all business sectors. 
+- Furthermore, they developed a thorough risk matrix with an emphasis on bribery and corruption threats, which is demonstrated by elaborate risk classification and risk scenarios. \n- Merck often offers online training programmes and compliance classrooms covering topics such as healthcare compliance requirements, data protection, anti-money laundering, anti-corruption, antitrust, and the Code of Conduct. 
+- Depending on their level of risk exposure, Merck needs its workers to complete these courses. Certain courses are also applicable to workers who are under supervision, like temporary employees, and independent contractors.
+- Two anti-corruption and anti-money laundering standards were distributed to senior management through internal communication channels in 2022 as part of our focused awareness programmes.  Additionally, they update and modify training curriculum frequently to reflect new information. 
+- All workers at Merck are forced to report any possible infractions of compliance to their managers, legal counsel, human resources, or other pertinent departments. Globally, they can also report infractions in their local language via phone or through an online application by using our central whistleblowing compliance hotline, which is anonymous and free of charge. The Compliance Investigations and Case Management team reviews reports of possible compliance violations that they receive through the compliance hotline. Employees who have violated compliance policies may face appropriate disciplinary action based on the findings of the inquiry and recommendations made by the Compliance Case Committee or the Compliance inquiry Team. Merck takes preventive and corrective action if a root cause that may increase the likelihood of future compliance violations is found during the inquiry. This arrangement secures an independent examination.
+External stakeholders can also reach the compliance hotline. The Compliance and Ethics section of our website contains the pertinent information. 
+-Employees take required online courses and in-person training on our policies and procedures, as well as significant modifications to the reporting requirements for transfers of value, in order to stay informed about their duties and responsibilities and to stay up to date. Both frequency and coverage rate are left out. 
+Therefore all requirements are met to fulfil the G1-3 regulations."
+finetuning-input/MTU.txt;MTU areo engines;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection.Use the uploaded instructions only.
+- Start with the name of the company whose ESG report is being analysed.
+ -Prevention and Identification Measures: 
+Describe steps taken to prevent, identify, and address corruption and bribery incidents and risks. Include details on policy communication to relevant stakeholders especially to suppliers. - Investigation Independence: 
+Assess whether the investigation committee is independent from the implicated chain of command and the procedure for reporting findings to higher authorities. 
+- Training Programs: 
+Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency for administrative, management, and supervisory bodies. 
+- Conclude with a statement on whether the ESG report provided meets all G1-3 regulatory requirements, highlighting any areas lacking in detail or implementation.";"The following part is about MTU ant the G1-3 regulations:
+ - Employees and outside stakeholders can report suspected cases of illegal activity to the Compliance Officer using our global whistleblower system. Additionally, anonymous tips can be filed through the multilingual, web-based iTrust reporting system. 
+- The compliance officer plans the appropriate investigative processes and evaluates all reports that are provided. The official in charge of compliance is independent. 
+ - Employees are informed of the procedures for reporting non-compliance through internal media channels, and external stakeholders are provided with written explanations or online access.Whistleblowers receive private treatment. An outside source of due diligence services is also evaluating prospective sales consultants. - The sales consultants must state in the contracts that the ASD anti-corruption rules are legally binding. Regular audits are carried out by the corporate audit department, which verifies that internal policies and legal requirements are being followed by business processes and procedures.In 2022 alone, 3,131 workers received training on the Code of Conduct. Additionally, supervisors and staff members with specialised roles—like salespeople—are required to regularly attend anti-corruption training. 
+- During the reporting year, all personnel impacted by export control requirements were required to complete mandatory training using a new concept that was introduced in 2020. This idea, known as the Internal Compliance Programme, was modified to comply with the regulatory requirements that were in effect throughout the reporting year. There is no mention of the frequency, scape, or coverage rate.
+ - Concluding, that the G1-3 regulations are partly fulfilled."
+finetuning-input/MünchenerRück.txt;münchener rück;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection.Use the uploaded instructions only.
+- Start with the name of the company whose ESG report is being analysed.
+ -Prevention and Identification Measures: 
+Describe steps taken to prevent, identify, and address corruption and bribery incidents and risks. Include details on policy communication to relevant stakeholders especially to suppliers. - Investigation Independence: 
+Assess whether the investigation committee is independent from the implicated chain of command and the procedure for reporting findings to higher authorities. 
+- Training Programs: 
+Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency for administrative, management, and supervisory bodies. 
+- Conclude with a statement on whether the ESG report provided meets all G1-3 regulatory requirements, highlighting any areas lacking in detail or implementation.";"The analysis is about Münchner Rück: To secure the prevention, the company uses dual control principle.
+- Munich Re views these values as the cornerstone of its business, and the Code of Conduct establishes a shared understanding of these principles throughout the Group. As a result, the document is accessible in English, German, French, and Spanish, Munich Re's primary working languages. 
+- This procedure is predicated on a coordinated methodology for risk identification, assessment, and documentation used across the Group. At least once a year, the Group's material compliance risks and the associated risk-reduction strategies are examined and reported to the Board of Management. Internal and external whistleblowers can use the internet portal through the intranet (available exclusively to internal whistleblowers) and the Munich Re website. With an alias or username and password of their own choosing, individuals can set up a secure mailbox via the web portal. The whistleblower can communicate with Group Compliance and Legal or the relevant local compliance bodies in this way, exchanging files and messages in a secure and private manner. 
+ - Therefore,  a separate investigation from the management chain is secured. 
+- The data and mailbox are only kept on the whistleblower system, and individual encryption keeps them safe from access by outside parties.  This means that the CMS is evaluated on a regular basis and modified as needed depending on the outcomes of risk assessments, monitoring, and other pertinent data from the different departments. All new hires receive immediate notification of the Code of Conduct and must complete mandatory online training or pass an exam to prove they understand it. Workers often rectify their understanding of the Code of Conduct every two to three years. Integrating compliance into our business processes is a unique responsibility of the Board of Management and senior executives.  - Compliance reports are sent to the Supervisory Board's Audit Committee and the Board of Management regularly (semi-annually, annually, or as needed). 
+ - Every infraction we are aware of is carefully looked into and punished within the bounds of the law. Both are done with a focus on the target group and customised to meet the needs of the various local and international Group businesses and their unique business strategies. Regular attendance at training sessions covering the Code of Conduct or specific compliance subjects is mandated for both employees and management. Compulsory assessments, especially those conducted online, contribute to the long-term retention of the material. The coverage rate, as well as the scope and frequency of the training, are not mentioned. In conclusion, Münchner Rück partly complies with G1-3 regulations."
+finetuning-input/Porsche.txt;Porsche;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection.Use the uploaded instructions only.
+- Start with the name of the company whose ESG report is being analysed.
+ -Prevention and Identification Measures: 
+Describe steps taken to prevent, identify, and address corruption and bribery incidents and risks. Include details on policy communication to relevant stakeholders especially to suppliers. - Investigation Independence: 
+Assess whether the investigation committee is independent from the implicated chain of command and the procedure for reporting findings to higher authorities. 
+- Training Programs: 
+Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency for administrative, management, and supervisory bodies. 
+- Conclude with a statement on whether the ESG report provided meets all G1-3 regulatory requirements, highlighting any areas lacking in detail or implementation.";"The following analysis is about Porsche: 
+ - The Code of Conduct of Porsche AG lays forth the most important guidelines and standards for adherence in three areas: the workplace, as a business partner, and as a member of society. Porsche AG wants its business partners to follow guideline of Conduct for Business Partners. 
+ - These guidelines specifically draws attention to Porsche AG's whistleblower programme. Moreover, Porsche AG has committed to ensure compliance with laws and norms by adopting the Compliance Management guidelines, which the Executive Board approved. It includes risk-oriented activities including arbitrary inspections of transactions that are significant in terms of compliance, in addition to management interviews. 
+- During the reporting year, the  communication was concentrated on intranet posts covering International Anti-Corruption Day and the updated Code of Conduct pamphlet. Additionally, the compliance officers used a variety of internal communications to managers, departmental groups, and info sessions.Workers have established and disseminated an internal whistleblower process through which they can report possible violations of the rules. 
+- Employees and outside parties can report violations to two people who are obligated by German law to maintain professional secrecy. One can get in touch with these free, anonymous, internal and external whistleblower system points of contact in a number always. When acting on incoming reports, Porsche AG considers labour legislation, co-determination regulations, and data protection. Porsche AG puts whistleblowers to any disciplinary actions or other consequences. 
+- Porsche AG responds to infractions that are found in accordance with co-determination, labour legislation, and data protection requirements. Whatever the investigation's conclusion, appropriate countermeasures are implemented case-by-case, and individual wrongdoing is dealt with according to the investigation's findings. The fact that each case is being looked into separately is not stated. The compliance officers at Porsche AG and a few chosen subsidiaries conduct compliance training in collaboration with the HR division. The foundation is a subject-specific plan that determines the important content areas and pertinent target audiences through risk analyses. 
+- New hires, managers, and junior managers must complete required training programmes. Additionally, the compliance officers arrange for organised training for particular departments and target audiences on subjects that are required by law, current events, or upon request.
+ - 7,337 participants received compliance training through digital training modules, while 5,817 workers of Porsche AG and its pertinent German subsidiaries received compliance training through in-person and virtual events throughout the reporting year. 7,458 employees of Porsche AG's relevant German companies and 17,296 employees of Porsche AG completed the digital Code of Conduct training module. 
+- In addition to covering the directive of the same name, this training module offers specifics on the whistleblower system and the compliance assistance desk's contact information. The topics of the ""Human rights"" and ""Avoidance of conflicts of interest and corruption"" rules are also covered in the course. By the end of the reporting year, Porsche AG and its relevant German subsidiaries had an average of 93% of the target group's training in face-to-face and virtual events for the defined areas of compliance. 
+The only thing not stated is how frequently the trainings occur. The frequency and scope of trainings are not mentioned as well as the independent investigation process. Therefore, the G1-3 regulations are partly met."
+finetuning-input/Qiagen.txt;Qiagen;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection.Use the uploaded instructions only.
+- Start with the name of the company whose ESG report is being analysed.
+ -Prevention and Identification Measures: 
+Describe steps taken to prevent, identify, and address corruption and bribery incidents and risks. Include details on policy communication to relevant stakeholders especially to suppliers. - Investigation Independence: 
+Assess whether the investigation committee is independent from the implicated chain of command and the procedure for reporting findings to higher authorities. 
+- Training Programs: 
+Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency for administrative, management, and supervisory bodies. 
+- Conclude with a statement on whether the ESG report provided meets all G1-3 regulatory requirements, highlighting any areas lacking in detail or implementation.";"To evaluate Qiagen's compliance with G1-3 regulations the following steps were taken: 
+- Qiagen's approach to preventing, identifying, and addressing corruption and bribery is detailed in their Corporate Code of Conduct and Ethics, which is accessible to all employees via the intranet. \n - The company also employs a Global Compliance Manager who oversees a third-party due diligence program focusing on local distributors and agents. This program includes pre-screening and anti-corruption questionnaires, annual risk assessments, and mandatory compliance certifications. T 
+ - these measures are designed to ensure that all partners align with Qiagen's anti-corruption policies.
+
+- The Qiagen report does not provide specific details on the independence of the investigating committee from the management chain involved in any incidents. This lack of detail suggests a potential area where Qiagen might not fully meet the G1-3 regulatory requirements regarding the independence of the investigation.
+- Qiagen has implemented comprehensive training programs covering topics such as antitrust, bribery, corruption, and general ethical behaviour. 
+- Training is mandatory for new hires and staff in sensitive positions, like sales, marketing, and upper management. Qiagen also conducts regular refresher courses. However, the report does not specify the exact coverage rate of functions-at-risk, which is required under G1-3 regulations. This omission indicates a gap in fully disclosing the extent and impact of their training programs.
+- While Qiagen demonstrates a structured approach to corruption and bribery prevention, including training and third-party oversight, there are gaps in the transparency regarding the independence of investigations and the specific coverage of at-risk functions."
+finetuning-input/Rheinmetall.txt;Rheinmetall;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection.Use the uploaded instructions only.
+- Start with the name of the company whose ESG report is being analysed.
+ -Prevention and Identification Measures: 
+Describe steps taken to prevent, identify, and address corruption and bribery incidents and risks. Include details on policy communication to relevant stakeholders especially to suppliers. - Investigation Independence: 
+Assess whether the investigation committee is independent from the implicated chain of command and the procedure for reporting findings to higher authorities. 
+- Training Programs: 
+Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency for administrative, management, and supervisory bodies. 
+- Conclude with a statement on whether the ESG report provided meets all G1-3 regulatory requirements, highlighting any areas lacking in detail or implementation.";"Analysis of Rheinmetall: 
+Rheinmetall has taken steps to prevent, identify, and resolve corruption and bribery, including communicating its anti-corruption policy to stakeholders, including suppliers. A detailed Supplier Code of Conduct ensures responsible and fair conduct. We expect suppliers to follow these guidelines.
+- The Global Compliance Manager oversees local distributor and agent due diligence, especially in corrupt regions.
+- All compliance policies are available to employees via the intranet for transparency and ease. These policies offer feedback and inquiry addresses to boost engagement and compliance.
+- The investigating committee's independence from management is not specified. Thus, the committee's independence from those it investigates is uncertain.
+Rheinmetall reports findings to higher authorities, but the letter provides few specifics.
+- Insider trading, bribery, corruption, and the Code of Conduct are required training for new personnel. The course determines refresher training frequency, from quarterly to three years. The training targets upper management and sales and marketing professionals due to their higher risks. The exact % coverage of these functions is not given.Specific training programs target managers and supervisors.
+Missing training program coverage details.
+Thus, G1-3 rules are not met in all areas."
+finetuning-input/RWE.txt;RWE;"Provide a short, precise and structured comprehensive analysis of the # ESG-REPORTING and check for compliance with # REGULATIONS regarding corruption and bribery prevention and detection.Use the uploaded instructions only.
+- Start with the name of the company whose ESG report is being analysed.
+ -Prevention and Identification Measures: 
+Describe steps taken to prevent, identify, and address corruption and bribery incidents and risks. Include details on policy communication to relevant stakeholders especially to suppliers. - Investigation Independence: 
+Assess whether the investigation committee is independent from the implicated chain of command and the procedure for reporting findings to higher authorities. 
+- Training Programs: 
+Evaluate the anti-corruption and anti-bribery training programs regarding their scope, frequency, and coverage of high-risk functions. Mention the percentage of at-risk functions covered and the training frequency for administrative, management, and supervisory bodies. 
+- Conclude with a statement on whether the ESG report provided meets all G1-3 regulatory requirements, highlighting any areas lacking in detail or implementation.";"We're reviewing RWE. This report examines RWE's prevention, detection, and resolution of corruption and bribery, its investigation procedures' impartiality, and its training programs' efficacy.
+RWE has a robust Compliance Management System (CMS) to ensure legal and internal compliance. The CMS is constantly assessed and contains several essential measures: Regular compliance risk evaluations by RWE identify and assess significant compliance risk fields.
+- The compliance management system institutionalizes compliance and prevents wrongdoing, including corruption and bribery.
+- RWE analyzes its Internal Control System (ICS) annually to ensure risk presentation and controls. Regular tests assess these controls' efficacy.
+
+- All supplier contracts must include the company's Code of Conduct, which prohibits corruption and bribery. This ensures sellers follow ethics.
+- RWE's web-based whistleblower system lets employees and others report problems anonymously. This technology detects and reports compliance violations early.
+RWE's compliance infraction investigations are independent of the implicated chain of command:
+- All compliance officers report to the Chief Compliance Officer, who informs the Executive Board and Supervisory Board Audit Committee of compliance issues and probable violations.
+
+Reporting infractions is confidential and protected under the whistleblower system. This preserves investigation independence.
+- The Internal Audit & Security Department reports ICS evaluations to RWE AG's Executive Board.
+- The Supervisory Board Audit Committee analyzes ICS effectiveness and receives annual Executive Board reports.
+
+-An annual web-based compliance training is required, with additional in-person training based on employees' responsibilities' risks.
+-The training curriculum comprises the Executive Board and covers compliance management system components and anti-corruption behaviours.
+
+-The complete training program emphasizes high-risk functions. The company prioritizes training for all employees, particularly those at higher risk of corruption. Annual feedback from executives on compliance training has been collected, with a 100% response rate in 2022, indicating widespread engagement.
+
+RWE AG's ESG report shows a strong framework for avoiding, recognizing, and combating corruption and bribery. The company's compliance management system, independent investigations, and thorough training meet G1-3 regulations. The report emphasises RWE's ethical and compliant operations. While the present measures are strong, transparency and regular updates on their efficacy are essential for regulatory compliance and stakeholder trust. 
+
+The ESG report meets G1-3 regulatory criteria with detailed policy implementation and aggressive anti-corruption and anti-bribery actions. Based on the facts, there are no major gaps in detail or implementation.
+"

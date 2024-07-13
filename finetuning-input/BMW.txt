@@ -1,0 +1,898 @@
+Within the framework of the implementation of the European
+Green Deal and the Action Plan “Financing Sustainable Growth”,
+the EU Taxonomy is a cornerstone of the EU’s aspiration to be!
+come climate!neutral by 2050. Its key objectives are to increase
+transparency and provide an objective benchmark for capital
+market participants in order to channel capital flows towards
+environmentally sustainable economic activities.
+The EU Taxonomy is a classification system that defines eco!
+nomic activities as environmentally sustainable based on fulfil!
+ment of predetermined technical screening criteria.
+Essentially, an economic activity can only be classified as sustain!
+able if it substantially contributes to one of the following six en!
+vironmental objectives:
+I. Climate change mitigation
+II. Climate change adaptation
+III. Sustainable use and protection of water and marine
+resources
+IV. Transition to a circular economy
+V. Pollution prevention and control
+VI. Protection and restoration of biodiversity and
+ecosystems
+BMW Group Report 2022 To Our Stakeholders Combined Management Report Group Financial Statements Responsibility Statement and Auditor’s Report
+Remuneration Report Other Information
+This contribution is based on fulfilment of specific predetermined
+requirements. Moreover, no other environmental objective may
+be significantly harmed as a result of performing the activity and
+the Company involved must observe minimum safeguards,
+among them compliance with human rights.
+On the basis of the phased introduction of the EU Taxonomy in
+the Delegated Acts, companies such as the BMW Group were
+required to report the Taxonomy!eligible proportion of their rev!
+enues, capital expenditures and operating expenditures for
+Environmental Objectives I and II for the first time in the previous
+year. Since reporting year 2022, the reporting requirements have
+been expanded to include Taxonomy!aligned proportions for
+both these environmental objectives. The reporting scope is
+expected to be expanded to the environmental objectives III to
+VI starting with the reporting year 2024.
+Our holistic understanding of sustainability
+The BMW Group supports the overarching goal of the EU Taxon!
+omy to promote the private financing of environmentally sustain!
+able economic activities in order to make Europe the world’s first
+climate!neutral continent by 2050. As a company aspiring to
+achieve net zero across its entire value chain by no later than
+2050, we welcome all initiatives that serve this objective. As part
+of this commitment, the BMW Group had already set ambitious,
+science!based targets for all three scopes in 2020, which it aims
+to achieve by 2030 (base year 2019). These goals were validated
+by the Science Based Targets initiative (SBTi). Each year, the
+BMW Group Report informs about the level of progress. ! Strategy
+In the coming years, the significant growth in electromobility will
+imply that the majority of carbon emissions will be generated
+within the upstream value chain, rather than primarily in the use
+phase. Without the anticipated set of measures to reduce carbon
+emissions generated within the BMW Group supply chain, these
+emissions would already exceed actual carbon emissions in
+the use phase prior to 2030. ! Strategy, ! Production and Supplier
+Network, ! Carbon emissions Accordingly, the BMW Group is taking
+a holistic approach to achieving its sustainability!related targets
+and is committed to considering carbon emissions over the
+entire life cycle of the vehicles produced. ! Carbon emissions How!
+ever, for the economic activities that are relevant to the
+BMW Group, the EU Taxonomy focuses exclusively on reducing
+carbon emissions during the use phase that are attributable to
+low!emissions (until 2025) and emissions!free drive systems.
+Indirect carbon emissions, for instance those produced when
+generating charging current or during the energy!intensive pro!
+duction of high!voltage batteries, are not taken into account in
+the context of these economic activities. Moreover, the EU Tax!
+onomy only reflects the impact of decarbonisation measures in
+in!house production to the extent that they serve to manufacture
+Taxonomy!aligned products or to the extent that they are explic!
+itly included in the description of an activity. The deficit of this
+approach is shown by the example that increasing the energy
+efficiency of paint shop processes also reduces carbon emissions
+in in!house production when a conventionally powered vehicle
+is painted. In light of the BMW Group’s selected economic activ!
+ities, its sustainability efforts in this regard are not, or are only
+partially, taken into account in the EU taxonomy
+Explanatory comments on reporting procedures
+Explanatory comments on reporting procedures for the reporting
+year 2022, we are reporting on Taxonomy alignment for the first
+time in relation to Environmental Objective I “Climate change
+mitigation” and Environmental Objective II “Climate change
+adaptation”, in addition to reporting on Taxonomy eligibility.
+Taxonomy eligibility is an initial indicator of the maximum envi!
+ronmental sustainability potential of economic activities as
+defined by the EU Taxonomy. Taxonomy alignment, on the other
+hand, serves as an indicator of an organisation’s transformation
+towards environmentally sustainable economic activities.
+An economic activity is to be seen as Taxonomy!eligible if it is
+described in the Delegated Acts relating to one of the six envi!
+ronmental objectives, regardless of whether that economic
+activity meets the technical screening criteria stipulated in those
+Delegated Acts. Following an analysis, the BMW Group’s business
+activities can best be summarised under the following economic
+activities1:
+— Economic activity 3.3 “Manufacture of low carbon technolo!
+gies for transport” including the production of passenger cars
+and motorcycles.
+— Economic activity 6.5 “Transport by motorbikes, passenger
+cars and light commercial vehicles” including the acquisition,
+financing, lease and operation of automobiles and motor!
+cycles.
+Based on the descriptions of the two economic activities listed
+for Environmental Objective I “Climate change mitigation” and
+in consideration of the additional clarification by the EU Com!
+mission regarding the Taxonomy eligibility of vehicles with
+combustion engines under economic activity 3.3, a large part of
+the BMW Group’s business model falls within the scope of the
+EU Taxonomy Annex . 2
+Only the sale of parts and components, such as after!sales busi!
+ness excluding the provision of repair services, the supply of
+components for production to BMW Brilliance up to and including
+n order to identify the specific carbon emissions of PHEV that
+are not determined in line with Regulation (EU) 2019/631 (USA,
+China, etc.), assumptions were made based on the worst!case
+value for that vehicle model, even though these emissions may
+have been lower in reality.
+Avoidance of significant harm
+Compliance with the DNSH criteria was reviewed in the reporting
+year for the five additional environmental objectives, based in
+each case on the specific requirements for economic activity 3.3
+“Manufacture of low carbon technologies for transport” and eco!
+nomic activity 6.5 “Transport by motorbikes, passenger cars and
+light commercial vehicles”.
+The vehicle portfolio for economic activity 6.5 includes
+BMW Group vehicles and vehicles from other manufacturers. As
+no data are available regarding the relevant attributes of these
+third!party products, it is not currently possible to make a com!
+prehensive assessment in relation to the DNSH criteria. For this
+reason, these vehicles are not currently reported as Taxonomy!
+aligned.
+Climate change adaptation
+A robust climate risk and vulnerability assessment is required for
+both economic activity 3.3 and economic activity 6.5 to determine
+that they do not cause significant harm to Environmental Objec!
+tive II. It considers the physical climate risks at all key BMW Group
+production sites as well as any potential damage that may occur
+as a result of climate change based on long!term climate projec!
+tion scenarios*up to 2034 and 2050. Moreover, we consider po!
+tential natural hazards at all of our direct supplier locations in
+order to adequately take supply risks into account when se!
+lecting and evaluating suppliers. Adaptive solutions to mitigate
+risks are drawn up and implemented as appropriate based on   EU Taxonomy
+79
+EU TAXONOMY
+Within the framework of the implementation of the European
+Green Deal and the Action Plan “Financing Sustainable Growth”,
+the EU Taxonomy is a cornerstone of the EU’s aspiration to be!
+come climate!neutral by 2050. Its key objectives are to increase
+transparency and provide an objective benchmark for capital
+market participants in order to channel capital flows towards
+environmentally sustainable economic activities.
+The EU Taxonomy is a classification system that defines eco!
+nomic activities as environmentally sustainable based on fulfil!
+ment of predetermined technical screening criteria.
+Essentially, an economic activity can only be classified as sustain!
+able if it substantially contributes to one of the following six en!
+vironmental objectives:
+I. Climate change mitigation
+II. Climate change adaptation
+III. Sustainable use and protection of water and marine
+resources
+IV. Transition to a circular economy
+V. Pollution prevention and control
+VI. Protection and restoration of biodiversity and
+ecosystems
+BMW Group Report 2022 To Our Stakeholders Combined Management Report Group Financial Statements Responsibility Statement and Auditor’s Report
+Remuneration Report Other Information
+This contribution is based on fulfilment of specific predetermined
+requirements. Moreover, no other environmental objective may
+be significantly harmed as a result of performing the activity and
+the Company involved must observe minimum safeguards,
+among them compliance with human rights.
+On the basis of the phased introduction of the EU Taxonomy in
+the Delegated Acts, companies such as the BMW Group were
+required to report the Taxonomy!eligible proportion of their rev!
+enues, capital expenditures and operating expenditures for
+Environmental Objectives I and II for the first time in the previous
+year. Since reporting year 2022, the reporting requirements have
+been expanded to include Taxonomy!aligned proportions for
+both these environmental objectives. The reporting scope is
+expected to be expanded to the environmental objectives III to
+VI starting with the reporting year 2024.
+Our holistic understanding of sustainability
+The BMW Group supports the overarching goal of the EU Taxon!
+omy to promote the private financing of environmentally sustain!
+able economic activities in order to make Europe the world’s first
+climate!neutral continent by 2050. As a company aspiring to
+achieve net zero across its entire value chain by no later than
+2050, we welcome all initiatives that serve this objective. As part
+of this commitment, the BMW Group had already set ambitious,
+science!based targets for all three scopes in 2020, which it aims
+to achieve by 2030 (base year 2019). These goals were validated
+by the Science Based Targets initiative (SBTi). Each year, the
+BMW Group Report informs about the level of progress. ! Strategy
+In the coming years, the significant growth in electromobility will
+imply that the majority of carbon emissions will be generated
+within the upstream value chain, rather than primarily in the use
+phase. Without the anticipated set of measures to reduce carbon
+emissions generated within the BMW Group supply chain, these
+emissions would already exceed actual carbon emissions in
+the use phase prior to 2030. ! Strategy, ! Production and Supplier
+Network, ! Carbon emissions Accordingly, the BMW Group is taking
+a holistic approach to achieving its sustainability!related targets
+and is committed to considering carbon emissions over the
+entire life cycle of the vehicles produced. ! Carbon emissions How!
+ever, for the economic activities that are relevant to the
+BMW Group, the EU Taxonomy focuses exclusively on reducing
+carbon emissions during the use phase that are attributable to
+low!emissions (until 2025) and emissions!free drive systems.
+Indirect carbon emissions, for instance those produced when
+generating charging current or during the energy!intensive pro!
+duction of high!voltage batteries, are not taken into account in
+the context of these economic activities. Moreover, the EU Tax!
+onomy only reflects the impact of decarbonisation measures in
+in!house production to the extent that they serve to manufacture
+Taxonomy!aligned products or to the extent that they are explic!
+itly included in the description of an activity. The deficit of this
+approach is shown by the example that increasing the energy
+efficiency of paint shop processes also reduces carbon emissions
+in in!house production when a conventionally powered vehicle
+is painted. In light of the BMW Group’s selected economic activ!
+ities, its sustainability efforts in this regard are not, or are only
+partially, taken into account in the EU Taxonomy.
+      
+ EU Taxonomy
+80
+BMW Group Report 2022 To Our Stakeholders Combined Management Report Group Financial Statements Responsibility Statement and Auditor’s Report
+Remuneration Report
+Other Information
+   Explanatory comments on reporting procedures
+Explanatory comments on reporting procedures for the reporting
+year 2022, we are reporting on Taxonomy alignment for the first
+time in relation to Environmental Objective I “Climate change
+mitigation” and Environmental Objective II “Climate change
+adaptation”, in addition to reporting on Taxonomy eligibility.
+Taxonomy eligibility is an initial indicator of the maximum envi!
+ronmental sustainability potential of economic activities as
+defined by the EU Taxonomy. Taxonomy alignment, on the other
+hand, serves as an indicator of an organisation’s transformation
+towards environmentally sustainable economic activities.
+An economic activity is to be seen as Taxonomy!eligible if it is
+described in the Delegated Acts relating to one of the six envi!
+ronmental objectives, regardless of whether that economic
+activity meets the technical screening criteria stipulated in those
+Delegated Acts. Following an analysis, the BMW Group’s business
+activities can best be summarised under the following economic
+activities1:
+— Economic activity 3.3 “Manufacture of low carbon technolo!
+gies for transport” including the production of passenger cars
+and motorcycles.
+— Economic activity 6.5 “Transport by motorbikes, passenger
+cars and light commercial vehicles” including the acquisition,
+financing, lease and operation of automobiles and motor!
+cycles.
+Based on the descriptions of the two economic activities listed
+for Environmental Objective I “Climate change mitigation” and
+in consideration of the additional clarification by the EU Com!
+mission regarding the Taxonomy eligibility of vehicles with
+combustion engines under economic activity 3.3, a large part of
+the BMW Group’s business model falls within the scope of the
+EU Taxonomy Annex . 2
+Only the sale of parts and components, such as after!sales busi!
+ness excluding the provision of repair services, the supply of
+components for production to BMW Brilliance up to and including
+Explanatory comments on reporting procedures
+BMW Group Report 2022 To Our Stakeholders Combined Management Report Group Financial Statements Responsibility Statement and Auditor’s Report
+Remuneration Report Other Information
+              Additions to intangible assets and property, plant and equip!
+ment of the BMW Group were more than 19 % Taxonomy!
+aligned. This proportion more than doubles to 43 % in relation
+to additions recorded by the Automotive and Motorcycle seg!
+ments. The latter highlights the high proportion of Taxonomy!
+aligned capital expenditure of the Automotive segment.
+The growing share of zero!emissions vehicles, the development
+and production methods used, and – where applicable – contri!
+butions made to other environmental objectives as yet to be
+defined are expected to lead to an increase in Taxonomy!aligned
+revenues, capital expenditure and operating expenditure. Due to
+the high level of investment in the transformation of our business
+activities, for example in the electrification of our vehicles and
+research into alternative drivetrains, these economic activities
+have the potential to become Taxonomy!aligned over time. Over!
+all, we anticipate that the proportion of Taxonomy!aligned eco!
+nomic activities will steadily rise as a result of the increasing
+electrification of our product portfolio. ! Strategy
+The contribution of the two economic activities considered for
+Environmental Objective II is subsumed in the contribution re!
+ported for Environmental Objective I. Regardless of the taxonomy
+criteria, the BMW Group regularly and comprehensively addresses
+risks arising from climate change and their potential impact on its
+locations and supply chains.
+! DNSH adaptation to climate change, ! TCFD climate risks
+As the overview tables from Delegated Regulation (EU) 2021/2178
+do not provide a detailed picture of the BMW Group’s business
+model per economic activity, the following table provides detailed
+information about the three performance indicators for both eco!
+— Economic activity 6.5, “Transport by motorbikes, passenger
+cars and light commercial vehicles”
+The Taxonomy!aligned shares for the three performance
+indicators were at a low single!digit level for the Financial
+Services segment. This was due to the fact that – compared
+to the Automotive segment – there is a time lag before the
+effects of the vehicle fleet electrification ramp!up are felt in
+the financing and leasing lines of business. A further reason
+is the stricter DNSH requirements for economic activity 6.5,
+in particular those relating to environmental objective V
+“Pollution prevention and control”, which lead to the exclu!
+sion of all PHEV and a significant restriction in the recognition
+of BEV in the scope of EU Taxonomy reporting (for details see
+Section “Avoidance of significant harm”). In addition, with
+economic activity 6.5, third!party brands can only be included
+in the vehicle portfolio under restrictive conditions, such as
+for the purpose of assigning tyre categories or WLTP
+emissions values as part of the process of testing compliance
+with the DNSH criteria. As a result, no specific deductions
+can be allocated, with the consequence that the models con!
+cerned must be excluded from the scope of reporting on Tax!
+onomy alignment.
+nomic activities.
+
+
+Supply chains and supplier network
+The year 2022 was dominated by fragile supply chains and rising
+prices for many materials. The cost drivers for the BMW Group’s
+Purchasing team were primarily the price hikes seen for raw ma!
+terials, semiconductors, energy and transportation coupled with
+a challenging supply situation. The combined impact of supply
+bottlenecks for semiconductor components, the temporarily
+restricted availability of wire harnesses owing to the war in
+Ukraine, and pandemic!related lockdowns in China led to pro!
+duction interruptions worldwide, particularly in the first half of the
+year. Although the situation eased slightly during the second six!
+month period, global supply chains remained in a fragile state.
+! Outlook, ! Risks and opportunities
+BMW Group Report 2022 To Our Stakeholders Combined Management Report Group Financial Statements Responsibility Statement and Auditor’s Report
+Remuneration Report Other Information
+The BMW Group follows the principle of procuring vehicle com!
+ponents close to its production sites to the extent possible and
+is therefore represented by local teams in all its key purchasing
+markets, in order to identify risks promptly and respond flexibly
+to the respective market circumstances. In the face of geostra!
+tegic aspects, a resilient strategy for the Group’s supply chains
+is also becoming increasingly important and the BMW Group
+takes this fact into account when selecting its partners.
+In!house production: a competitive advantage
+The BMW Group regularly examines its range of products in
+terms of their profitability and strategic importance. A special
+focus is currently on e!mobility. In this central area of transfor!
+mation, the BMW Group is building up its own skill sets in stra!
+tegically important components, particularly in areas where tech!
+nology is not competitively available on the market. The in!house
+production of certain key components also helps us to improve
+the level of supply security and thus gain a competitive advan!
+tage. At the same time, we are looking to strengthen our pro!
+cess!related expertise in technologies relevant for quality man!
+agement within the supplier network.
+Quality assurance
+Quality is a vital competitive factor and of key importance for
+ensuring customer satisfaction. Our quality experts monitor the
+entire product development process, including the phases of in!
+dustrialisation and series production. Regular visits to suppliers
+and a preventive, systematic review of all processes are aimed
+at ensuring the agreed quality.
+
+  The volatile situation on energy and raw materials markets had
+a major impact on purchasing over the course of 2022. There are
+signs of increasing competition for the raw materials required to
+drive forward electric mobility. With the help of measures such
+as the direct purchase of lithium and cobalt, the BMW Group is
+making itself technologically and regionally less dependent on
+individual deposits and suppliers. Direct purchasing in Australia,
+Argentina and Morocco underpin our dual intention of securing
+raw material supplies, whilst also maintaining our high sustain!
+ability standards, particularly in supply chains involving critical
+raw materials. At the same time, the BMW Group analyses the
+development of raw materials prices and hedges against price
+fluctuations – provided the capital market offers the opportunity
+to do so. ! Raw materials price risks and opportunities
+* Direct and indirect purchasing;
+this includes the entire year 2022 for BMW Brilliance Automotive Ltd.
+   
+   Production and Supplier Network
+ 111
+BMW Group Report 2022 To Our Stakeholders Combined Management Report Group Financial Statements Responsibility Statement and Auditor’s Report
+Remuneration Report Other Information
+Our commitment to upholding environmental and social
+standards as well as human rights in our raw materials supply
+chains is enshrined in the ! BMW Group Supplier Code of Conduct and
+the ! High#level commitment to sustainable natural rubber among
+others. The BMW Group Supplier Code of Conduct also requires
+Tier!1 suppliers to demand minimum standards within their
+sub!supplier chains.
+Annual risk analyses regarding the BMW Group’s sustainability
+standards are the starting point for raw materials!related hedg!
+ing activities that are designed to reduce environmental and
+human rights risks. Key levers in this respect are to forgo, sub!
+stitute or reduce the use of primary risk raw materials. We also
+focus in particular on cooperating closely with our partners in the
+supplier network as well as in multi!stakeholder initiatives and
+projects. We use scientific findings to gain an even better under!
+standing of the raw material extraction process and to take it into
+account accordingly when analysing the level of risk in order to
+further reduce any negative impacts.
+The BMW Group places a particular focus on so!called “conflict
+minerals” and uses standardised Responsible Minerals Initiative
+(RMI) tools to ensure that the raw materials deployed can be
+traced back to the smelter. It uses existing certifications to ensure
+the origin of other raw materials. The BMW Group is also involved
+in developing certified standards for critical stages of the value
+chain, for example as part of the Initiative for Responsible Mining
+Assurance (IRMA), and subsequently applies them. Further de!
+tails and raw materials profiles are available ! online. ! SASB Index
+Moreover, the BMW Group has set itself the goal of generating a
+positive impact for selected raw materials through our involve!
+ment in local development projects. During the year under report,
+for example, we initiated a project with a locally based NGO to
+improve living conditions associated with the mining of the raw
+material mica in India.
+Purchasing battery cells
+As of 2025, the BMW Group plans to deploy a new generation of
+battery cells. We have therefore concluded agreements with our
+partners that guarantee annual production capacities of 40 GWh
+in Europe, 40 GWh in China and 30 GWh in the USA. Via this
+strategy, the Company is reinforcing its “local for local” approach
+by sourcing battery cells regionally where our production facilities
+are located. The BMW Group will also use secondary raw mate!
+rials to replace the primary raw materials cobalt, lithium and
+nickel in the new generation of battery cells and purchase green
+electricity in order to further reduce the size of our carbon foot!
+print in the supply chain. ! Carbon emissions in the supply chain
+Supply security
+To cushion the impact of the ongoing war in Ukraine on our
+European plants, the BMW Group has introduced a comprehen!
+sive raft of measures with its partners and therefore continues
+to source components from western Ukraine. At the same time,
+our partners have established additional production sites outside
+Ukraine and the supply of wiring harnesses to our plants has
+returned to normal as a result.
+Lockdowns in China designed to contain the coronavirus pan!
+demic kept supply chains on tenterhooks, not to mention the
+challenging supply situation for semiconductors. In an effort to
+mitigate the worldwide shortage of semiconductors, among other
+measures the BMW Group has entered into supply agreements
+involving increased levels of buffer stock when placing orders, as
+well as the direct purchase of strategically important semicon!
+ductors.
+
+Cooperation in the supplier network based on trust and the de!
+velopment of new partnerships is essential for us when it comes
+to swiftly deploying innovations in the products on offer. In this
+context, we work closely with the ! BMW Startup Garage and ! BMW
+i Ventures. At Newcomer Day 2022, selected start!ups presented
+a broad range of future technologies – including our new partner
+for innovative natural fibre composite solutions.
+The highly innovative achievements of start!ups are also reflected
+in the ! BMW Supplier Innovation Award. During the year under report,
+various companies won awards in the categories of e!mobility,
+sustainability, digitalisation, customer experience, exceptional
+team performance and Newcomer of the Year, which are essen!
+tial for driving forward transformation.
+    
+    Production and Supplier Network
+112
+BMW Group Report 2022 To Our Stakeholders Combined Management Report Group Financial Statements Responsibility Statement and Auditor’s Report
+Remuneration Report Other Information
+  Digitalisation in the supply chain
+A digital flow of information throughout the supply chain is a
+prerequisite for more resilient and flexible supply chain manage!
+ment.
+! Catena#X is one of the largest ongoing projects in the automotive
+industry. It is open to all BMW Group partners and designed to
+enable data exchange across the various levels of the value chain
+between automotive manufacturers and their suppliers. With the
+platform due to be launched in 2023, Catena!X is expected to
+offer an end!to!end solution that will lead to closer and even
+more coordinated cooperation between partners. One of our aims
+is to improve transparency and response speed by regularly com!
+paring the demand and capacity situation in order to adjust the
+supply of parts at short notice. Further improvements are expect!
+ed for the network partners, whether raw materials suppliers,
+n!Tier suppliers or automotive manufacturers, for example in
+terms of delivery reliability and customer satisfaction. At the
+same time, costs can be effectively cut by improving capacity
+utilisation and avoiding special procurement processes. Record!
+ing carbon emissions data in supply chains enables measures
+to reduce greenhouse gas emissions to be agreed upon and their
+effectiveness verified going forward. The BMW Group has already
+begun preparations for the pilot tests of the initial applications.
+Social and environmental responsibility
+The BMW Group considers responsible supply chain manage!
+ment as an integral part of good corporate governance. Against
+the backdrop of the Supply Chain Due Diligence Act (Lieferket!
+tensorgfaltspflichtengesetz), the BMW Group continued to de!
+velop its well!established processes during the year under report.
+The BMW Group’s requirements and the expectations it places
+on its suppliers are set out in the ! BMW Group Supplier Code of Con#
+duct. ! GRI Index: 2#23, 3#3, 407#1, 408#1
+Due diligence in the supplier network
+A multi!stage due diligence process has been established across
+all relevant areas of the organisation to delineate our responsi!
+bility for the supplier network. A comprehensive description of
+the due diligence process can be found ! online.
+The BMW Group is committed to the application of standardised
+procedures and a cooperative approach with a view to imple!
+menting the due diligence obligations that are integrated in its
+business processes and avoiding redundant activities. For this
+reason, we engage in the Sector Dialogue Automotive Industry
+initiative, for example to develop guidelines for action and create
+an industry!wide grievance mechanism.
+— Risk analysis
+The BMW Group monitors and assesses sustainability and
+human rights risks in its supplier network, including its busi!
+ness relationships with both potential and active supplier
+locations. Among other strategies, we use risk filters and
+media analyses to identify abstract environmental and hu!
+man rights risks, as well as standardised sustainability ques!
+tionnaires and audits to conduct specific risk analysis at our
+Tier!1 suppliers. Supply chain mapping forms the basis for
+analysing risks at n!Tier suppliers.
+! GRI Index: 2#24, 308#1, 414#1
+— Prevention and remediation
+Prior to signing a contract with the BMW Group, suppliers are
+required to implement any necessary preventive or remedial
+measures to minimise potential risks or eliminate any deficits
+that may have been identified – including those in the areas
+of corporate governance, human rights and working condi!
+tions, health and safety, and environmental protection – by
+an agreed target date, no later than the start of production,
+and to demand that these measures are also complied with
+by subcontractors. ! Further GRI Information, ! Sustainability
+assessment of relevant supplier sites The extent of the preventive
+measures is partially based on the potential risks, the nature
+and scope of the business activity and the size of the suppli!
+er. Alongside its preventive measures, the BMW Group offers
+a training programme on sustainability in the supply chain
+aimed at internal buyers and process partners as well as
+suppliers. ! GRI Index: 2#24, 308#2, 414#2
+— Effectiveness and grievance mechanisms
+For suppliers operating in high!risk regions or high!risk prod!
+uct groups, the BMW Group has implemented additional
+control mechanisms, such as audits of environmental and
+social standards at supplier locations using its own auditors
+or external auditors. The Group reviewed a total of 49 poten!
+tial and active supplier locations via this method during the
+year under report (2021: 38)1, 2. We have set ourselves the
+target of ensuring that all Tier!1 supplier sites that have been
+audited meet the locally applicable legal requirements for
+sustainability as well as international human rights standards
+(BMW Group minimum requirements). In 2022, the final au!
+dits confirmed that all cases of non!compliance with mini!
+mum requirements (non!conformities) that were identified in
+initial audits had been redressed.
+The internal Human Rights Contact Supply Chain unit deals
+with any indications of possible violations of the sustainability
+requirements stipulated by the BMW Group for the supplier
+network. We also use the standardised RBA Voices grievance
+mechanism as a complementary measure. In addition,
+! whistle#blower systems to detect possible legal violations are in
+place and compliance checks performed. Our aim is to ensure
+that any substantiated reports of environmental or human
+rights violations are redressed by agreeing on corrective
+measures.
+
+ Our employees continue to play a key role in ensuring that diver!
+sity, equal opportunity and inclusion are actively practised. Many
+employees are involved in internal networks that have been set
+up, including a number of women’s networks at various locations
+and the BMW Group PRIDE group, which campaigns across bor!
+ders for the interests of the LGBTIQ+2 community. The dialogue
+generated by these internal networks creates further momentum
+for the BMW Group’s commitment to this area.
+Concepts to promote diversity, equal opportunity and inclusion
+have also been developed in relation to the composition of the
+Board of Management and Supervisory Board. Information on
+the stipulated diversity criteria and their implementation is pro!
+vided in the ! Corporate Governance Statement.
+! GRI Index: 3#3, 405#1
+Increasing the share of women
+The BMW Group is working continuously to increase the share
+of women in the workforce as a whole and in management func!
+tions in particular. This remains a challenging task in that it is still
+the case that more men go through the process of vocational
+training, particularly in technical fields, and are therefore in the
+majority on the market.
+The BMW Group has set targets for the percentage share of
+women at all levels of the Company. By 2025, we aim to increase
+the share of women in the BMW Group workforce as a whole to
+between 20 and 22 % and to between 17 to 19 % for BMW AG.
+We aim to boost the share of women holding management
+positions in the BMW Group to 22 % by 2025, and to 20 % for
+BMW AG.
+The share of women in management functions 3 within the
+BMW Group has been rising steadily for many years. Globally,
+the share of female managers in the BMW Group stood at 20.2 %
+at the end of the year under report (2021: 18.8 %). During the
+period from 2011 to 2022, the number of women in management
+positions in BMW AG has more than doubled.
+Expressed as a percentage, the share of female managers at
+BMW AG was 18.2 % at the end of 2022 (2021: 17.5 %).
+The share of women in the BMW Group workforce as a whole
+reached 18.6 % (2021: 19.7 %). For BMW AG, the share was
+16.5 % (2021: 16.0 %). ! Further GRI Information
+The BMW Group is also aware of the need to achieve a high per!
+centage of women in our future talents programmes. By doing
+so, we aim to ensure that the share of women in the total
+workforce and in management functions continues to rise in the
+future. The proportion remained high in the trainee programme
+(Global Leader Development Programme 5) in 2022 at 45 %
+(2021: 47 %). The same applied to the student support pro!
+grammes (Fastlane, SpeedUp), with a proportion of around 31 %
+(2021: 32 %). For our vocational training in STEM subjects (sci!
+ence, technology, engineering and mathematics), the share of
+women at BMW AG in 2022 was 16.1 % (2021: 15.6 %), and 16.4 %
+(2021: 16.1 %) in the BMW Group 6.
+1 The share of employees with severe disabilities is based on the statutory requirements in accordance
+with the German Social Code (SGB IX).
+2 Abbreviation for all sexual orientations and forms of identity.
+3 For a definition of the term management functions, please refer to the ! Glossary.
+4 For a definition of the term employee, please refer to the ! Glossary.
+5 Trainee programme renamed to AcceleratiON for new trainees from 4/2023.
+6 Including BMW Brilliance Automotive Ltd., China, and BMW Group plant Mexico;
+excluding sales companies.
+
+  Risks and Opportunities
+129
+BMW Group Report 2022 To Our Stakeholders Combined Management Report
+Group Financial Statements Responsibility Statement and Auditor’s Report Remuneration Report
+Other Information
+According to our Group!wide guidelines, every employee and
+manager has a duty to report risks via the relevant reporting
+channels. The key elements of the risk management processes
+and an appropriate risk culture are embedded in the BMW Group’s
+RISK MANAGEMENT IN THE BMW GROUP
+  Internal revision and external audit
+    core values, the Group’s extensive rules and regulations on risk
+management and in its overall risk strategy. Furthermore, the Internal
+Control
+BMW Group’s risk management strategy is continually developed System
+to reflect new findings and requirements. Training programmes
+and informational events are regularly conducted throughout the
+BMW Group, particularly within the risk management network.
+The risk management process is applicable across the entire
+Group and comprises the early identification, analysis and meas! Risk
+urement of risks, the use of appropriate risk management tools Management
+System
+and the monitoring and assessment of the measures taken. If no
+specific reference is made, risks and opportunities relate to the
+Automotive segment.
+Risk measurement
+The BMW Group uses standardised, suitable methods for meas!
+uring all short!term risks, reputational risks and medium to long! Compliance
+Management
+term climate!related risks. System
+Short!term risks
+Risks relating to the current and subsequent financial year are
+shown in the section ! Material short#term risks and opportunities.
+These risks are measured using value!at!risk models and as!
+sessed on the basis of uniform loss distribution metrics, thereby
+enabling better comparability of risks for both internal and exter!
+nal reporting purposes. Risks are measured net of any risk mit!
+igation measures that are already taking effect (net basis).
+Appropriateness
+
+      
+imate!related risks is measured for
+two reporting periods (medium!term until 2034 and long!term
+until 2050) and for three global warming scenarios.
+Non!financial risks as reported in the non!financial
+statement (NFS)
+Alongside the maintenance of a comprehensive system of risk
+management, conducting business in a sustainable manner
+constitutes a core strategic principle of the BMW Group. Risks
+resulting from sustainability issues are generally identified via
+the Group!wide risk management network.
+In accordance with § 289c of the German Commercial Code
+(HGB), risks that could have an impact on the non!financial as!
+pects referred to in the relevant legislation are reviewed as part
+of the reporting process. Material risks in this context are defined
+as those stemming from business activities, business relation!
+ships and products and services provided by the BMW Group that
+are highly likely to have a seriously adverse impact. No material
+non!financial risks were identified during the year under report.
+Opportunity management
+Identifying opportunities is an integral part of the BMW Group’s
+strategic planning processes. The Group’s range of products and
+services is continually reviewed on the basis of these analyses.
+The continuous monitoring of key business processes and strict
+cost controls are also essential factors for ensuring high levels
+of profitability and return on capital employed.
+The importance of short!term opportunities for the BMW Group
+is classified on a qualitative basis in the categories “material”
+and “immaterial”. Probable measures aimed at increasing prof!
+itability are already incorporated in the outlook.
+Climate!related opportunities are identified progressively as part
+of the ongoing strategy development process and described in
+the section ! Climate#related risks and opportunities.
+ 
+ Risks and Opportunities
+131
+MATERIAL SHORT,TERM
+RISKS AND OPPORTUNITIES
+The overall risk situation for the BMW Group deteriorated signif!
+icantly as compared with the previous year.
+Consistently high inflation with lower real incomes and a corre!
+sponding widespread drop in demand may have a negative im!
+pact on sales volumes and result in unfavourable price and prod!
+uct mix effects. Considerable uncertainties remain in the form of
+potential supply bottlenecks along the entire supply chain. Higher
+prices for energy, raw materials and transport may have a neg!
+ative impact. The ongoing war between Russia and Ukraine, as
+well as the progression of the coronavirus pandemic may also
+significantly affect the global economy. However, if the effect of
+these issues were to prove less severe in 2023 than currently
+expected, opportunities could arise that could benefit both rev!
+enues and earnings.
+Overall, no risks capable of threatening the continued existence
+of the BMW Group were identified either at the balance sheet
+date or at the date on which the Group Financial Statements were
+drawn up. The Management and the Supervisory Board do not
+see any threat to the BMW Group’s status as a going concern.
+As in the previous year, the current set of risks to the BMW Group
+are considered to be manageable. All risks and opportunities that
+are expected to materialise have already been addressed in the
+Outlook Report. Liquidity requirements are currently covered by
+existing liquidity as well as the various financing instruments
+available.
+BMW Group Report 2022 To Our Stakeholders Combined Management Report Group Financial Statements Responsibility Statement and Auditor’s Report
+Remuneration Report
+Other Information
+                 The following sections illustrate potential future developments
+or events that could result in a negative (risk) or a positive (op!
+portunity) deviation from the outlook for 2023 and 2024 and
+indicate their significance to the BMW Group.
+In addition, unforeseen events could affect business operations
+and hence the BMW Group’s results of operations, financial
+position and net assets as well as its reputation.
+The following overview provides a summary of the material short!
+term risks and opportunities:
+Macroeconomic risks and opportunities
+Strategic and sector!specific risks and opportunities
+
+COMPLIANCE AND HUMAN RIGHTS
+BMW Group Report 2022 To Our Stakeholders Combined Management Report Group Financial Statements Responsibility Statement and Auditor’s Report Remuneration Report Other Information
+ Compliance lays the foundation for the long!term success of the
+BMW Group, builds trust in our products and brands, and shapes
+our public image. Compliance is not just a matter of adhering to
+applicable laws and Company rules around the world. It forms
+part of our identity, our understanding of leadership and our living
+culture of integrity. Compliance creates a binding framework for
+all our business activities.
+Compliance as a corporate function
+Compliance is the managerial responsibility of the Board of Man!
+agement of BMW AG, executed by creating an appropriate reg!
+ulatory and supervisory framework, as well as through regular
+and ad hoc reporting, accompanied by clear communications.
+This approach is based on the core belief that compliance with
+applicable laws and related internal regulations is the responsi!
+bility of all employees. As role models, managers are tasked with
+anchoring compliance culture in their area of responsibility and
+ensuring compliance requirements and processes are imple!
+mented accordingly. ! GRI Index: 2#23
+In addition to being responsible for the Company!wide Compli!
+ance Management System, the Chief Compliance Officer also
+manages the Group Compliance division and briefs the Board of
+Management and Supervisory Board of BMW AG at regular in!
+tervals.
+Compliance Management System (CMS)
+The BMW Group’s Company!wide Compliance Management
+System (CMS) reinforces the culture of compliance and integrity
+and helps reduce sanction and liability risks, as well as risks aris!
+ing from other (non!)financial disadvantages, such as reputa!
+tional risks. The CMS focuses on adequacy and effectiveness and
+is based on the Prevent, Detect, Respond model, which defines
+specific preventive, monitoring, control and response measures.
+Clear assignment of roles and responsibilities is also essential.
+The CMS is tailored to the Company’s risk situation and address!
+es all relevant compliance topics. Company!wide, these include
+corruption and fraud prevention, anti!money!laundering, antitrust
+and human rights compliance, export control, data privacy and
+product compliance. Responsibility for data privacy and product
+compliance lies with separate specialist departments outside
+Group Compliance. ! GRI Index: 2#27, 205#1, 205#3, 206#1
+Further development of CMS
+The CMS is reviewed on a regular basis and refined as needed.
+The main drivers are strategic focus topics, legal and regulatory
+requirements and trends, best practices and industry standards,
+all of which are taken into account from a risk perspective. The
+objective is to consistently improve the CMS. The BMW Group is
+an active member of various associations and interest groups,
+including the German Institute for Compliance (DICO) at Board
+level and through its leadership of the working group on human
+rights.
+
+144
+BMW Group Report 2022 To Our Stakeholders Combined Management Report Group Financial Statements Responsibility Statement and Auditor’s Report
+Remuneration Report Other Information
+One focus of work in the field of compliance during the reporting
+period was on amending the human rights compliance pro!
+gramme in response to the Supply Chain Due Diligence Act,
+which took effect on 1 January 2023. Since January 2022, the
+head of Group Compliance has also served as Human Rights
+Officer of BMW AG. Further priority areas emerged in the context
+of export control, due to the war in Ukraine, and in anti!money!
+laundering efforts, due to the increase in legislative initiatives.
+One component of the CMS is the Data Privacy Management
+System (DMS), which is the responsibility of Group Data Privacy
+Protection, and also based on the Prevent, Detect, Respond mod!
+el. The data protection directive (Privacy Corporate Rules) and
+Binding Corporate Rules, which contractually protect the transfer
+of employee data within the BMW Group, form the basis of the
+DMS. Implementation of the DMS is validated through regular
+reporting by affiliated companies and independent audits carried
+out by Group Data Privacy Protection.
+As part of the CMS, responsibility for product compliance, with a
+focus on compliance with technical requirements for BMW Group
+products, lies with the Quality Management division. The pro!
+gramme was further developed during the reporting year as
+part of a broad!based project, with a primary focus on integrating
+the governance function more closely into operating processes
+and expanding training and communications activities. Prod!
+uct!specific risk assessments ensure holistic risk monitoring.
+   Compliance and Human Rights
+145
+BMW Group Report 2022 To Our Stakeholders Combined Management Report Group Financial Statements Responsibility Statement and Auditor’s Report
+Remuneration Report Other Information
+ Company!wide compliance network
+Relevant compliance risks are identified in the business depart!
+ments on the basis of internal guidelines; an initial assessment
+is then made and measures taken to mitigate them. More than
+250 managers group!wide perform these tasks for their area of
+responsibility as operational Compliance Responsibles.
+Specialist departments worldwide are supported in their work
+by the central Group Compliance function, as well as the network
+of business unit and division Compliance Officers (heads of rel!
+evant compliance functions), supplemented by around 80 local
+Compliance Officers (heads of local compliance functions) at
+BMW AG’s international subsidiaries. Every Compliance Officer
+is tasked with implementing the CMS and compliance pro!
+grammes for defined topics in their area of activity, as well as
+identifying and realising division!specific compliance measures.
+Expanded training activities
+Training opportunities are continuously refined for specific target
+groups. For example, during the year under review, we expanded
+our mandatory Company!wide Compliance Essentials online
+training to six languages.
+Online and classroom training with case studies and test ques!
+tions, repeated every two years, strengthens the compliance
+culture and reinforces compliant behaviour. More than 81,000
+staff and managers worldwide have so far completed the Com!
+pliance Essentials training and 38,000 have received antitrust
+compliance training.* This offering is supplemented by manda!
+tory data privacy training, which is available in 13 languages
+worldwide, and training courses on ! human rights.
+! GRI Index: 205#2
+Digitalisation supports compliance
+IT!based compliance systems have been used for transparent
+and efficient documentation, assessment and approval of com!
+pliance!relevant matters Company!wide for years. This includes
+topics such as money laundering and sanctions lists, exchange
+activities with competitors, business partner due diligence
+and verifying the legal admissibility of benefits in kind. The data
+collected in this way forms the basis for the compliance risk
+assessment.
+Compliance and notification systems
+Employees with questions or concerns relating to compliance
+can discuss these matters with their managers or relevant
+departments and, specifically, with the compliance functions.
+Reports may also be submitted anonymously and confidentially
+in several languages via the BMW Group SpeakUP Line notifica!
+tion system or via the ombudsperson. ! Checking effectiveness. The
+Compliance Contact serves as a further point of contact for both
+employees and external parties.
+
+1. **Central Wheel**:
+   - The main part of the diagram is a circular wheel divided into several sections representing different stages of the risk management process:
+     - **Identification**: Recognizing potential risks.
+     - **Analysis and Measurement**: Assessing and quantifying risks.
+     - **Performance Management**: Monitoring and managing the effectiveness of risk management strategies.
+     - **Measures**: Implementing strategies to mitigate identified risks.
+     - **Effectiveness**: Evaluating the effectiveness of the risk measures.
+     - **Reporting/Monitoring**: Continuous reporting and monitoring of risk status.
+     - **Appropriateness**: Ensuring that risk strategies are appropriate for the identified risks.
+
+2. **Surrounding Nodes**:
+   - **Risk Management System**: Highlighted as a link between the internal control system and the compliance management system, indicating that risk management is central and interacts with other systems to ensure overall governance.
+   - **Internal Control System**: Suggests that the control mechanisms are designed to manage and mitigate risks effectively.
+   - **Compliance Management System**: Shows the compliance aspect of risk management, ensuring that all operations align with legal and regulatory standards.
+
+3. **Steering Committee Risk Management**:
+   - This entity appears to be a pivotal part of the framework, directing the risk management activities and possibly overseeing the implementation of the risk management policies and procedures.
+
+4. **Board of Management and Supervisory Board**:
+   - These are shown as interconnected yet distinct entities, where the Board of Management is responsible for day-to-day management and the Supervisory Board has an oversight role. There’s a dotted line suggesting indirect communication or reporting from the Board of Management to the Supervisory Board.
+
+Overall, the diagram effectively showcases how a structured risk management process is implemented in a corporate setting, emphasizing continuous monitoring and adaptation of strategies to manage and mitigate risks effectively. It also highlights the governance structure ensuring oversight and direction at various levels of the organization.
